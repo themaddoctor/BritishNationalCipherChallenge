@@ -1,0 +1,21 @@
+Dear Prof. Babbage
+
+I write as a matter of some urgency to convey the most awful news. It appears
+that the documents you entrusted to Prof. Wheatstone have been taken. He
+believes the incident may be connected with the strange French interloper you
+discovered recently by your house. Prof. Wheatstone was accosted by a band of
+ruffians in Hanover Square while on his way to meet his brother William at
+their Conduit Street shop. The rogues handled him most roughly and wrested
+from him his case containing plans for the turning machine and his latest
+designs for a concertina, though fortunately he was not injured. He noticed
+that their leader had a French accent and pursued the miscreants vigorously,
+calling for assistance. His efforts were in vain, and not one of Peel's men
+came to his aid as he followed the vagabonds. He believes that the French
+ringleader has fled to Southampton and has himself taken lodgings there by the
+west quay in order to make further investigations. I shall make enquiries with
+my friends in the foreign office. In the meantime, it occurs to me that we
+should encrypt our messages more strongly. My own work on the theory of
+numbers suggests that a more mathematical rule for encryption would be a fine
+and effective replacement for the keyword cipher used in this message.
+
+Yours, L
