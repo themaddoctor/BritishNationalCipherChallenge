@@ -1,0 +1,40 @@
+Dear friends,
+
+It is with some shame that I now realise how foolish I have been. The
+significance of the strange laboratory at Todgers should have been
+obvious. Our presumption that the recovery of our plans terminated that
+most unpleasant incident will, I fear, haunt us in the days and weeks
+ahead. But allow me to explain: At a recent meeting of the Royal Society
+a colleague returning from France outlined to me the work of M. Daguerre
+on the fixing of images upon glass plates. His process, similar in spirit
+to that employed by our own Mr. Talbot, is with, imminent support from
+his own government, close to commercial success. The description of the
+process, in as much as it is known outside a close circle, involves the
+very compounds discovered in the boarding house. Given the French interest
+in our designs and their expertise in the photographic arts, it would be
+too much to assume this a coincidence I fear that already the copied
+designs are in foreign hands.
+
+On a more optimistic note, I have made a most remarkable mathematical
+discovery. It will allow us to develop a new cipher which does not require
+the secret distribution of encryption keys. Rather the converse: one may
+publish the encryption key freely, keeping secret only the key to
+deciphering. I call this new method 'the remarkably secure artifice cipher."
+Messages are first encoded as numbers using some agreed mechanism. These
+encoded messages are then enciphered by exponentiating them to the seventh
+power modulo the product of two prime numbers. Using the remarkable results
+of Fermat, one may decipher the messages by another exponentiation. However,
+without knowledge of the two primes, the exponent is extremely difficult
+to determine. Given the difficulty of factorising the large integer, one
+may publish the product, secure in the knowledge that the primes themselves
+are concealed, though it must be said that given the resources, the problem
+of factorisation itself may yield to the powers of the analytic engine, were
+it ever to be built. By way of illustration of the security of this method,
+you may wish to see if you can find the two prime factors of 31669241693611.
+
+We have now used this Playfair cipher twice, and I was minded to suggest
+that we should perhaps change to another method, but all this reflection
+on numerical factors brings to mind a further natural variation of our
+current cipher. Perhaps you might respond using it?
+
+Yours as ever, B
