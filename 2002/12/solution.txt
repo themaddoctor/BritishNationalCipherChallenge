@@ -1,0 +1,13 @@
+The first text is not encrypted.
+
+For the second text:
+    Playfair cipher
+    key = SHERLOCKMNPQTUVWXABIDFGJY
+    keyword = SHERLOCK HOLMES
+    Polybius square:
+        S H E R L
+        O C K M N
+        P Q T U V
+        W X A B I
+        D F G J Y
+    Z is the letter that is absorbed into Y
