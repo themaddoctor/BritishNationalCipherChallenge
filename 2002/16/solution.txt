@@ -1,0 +1,18 @@
+For the first text (wiring diagram):
+    take the 7th root of each number
+
+For the second text:
+    mechanical stream cipher
+    The missing wires are:
+        Rotor 2
+        q ------> X33,31,25,1,17,8,11,34,6,30]
+        r ------> V
+    		s ------> P
+      	t ------> 1
+      	u ------> H
+      	v ------> 8
+     		w ------> B
+      	x ------> Y
+        y ------> 6
+      	z ------> U
+    Rotor positions start at 0,0.
