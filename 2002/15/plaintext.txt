@@ -1,0 +1,46 @@
+my dear friends
+
+great news: my friend close to the french embassy has just told me
+that they have taken delivery of their new enciphering machine
+through the good offices of one of the servants induced by a
+modest emolument he was able to gain access to the device and to
+study its construction the design of the machine follows our own
+plans most faithfully the two rotors and the reflector board are
+both present my friend's description of the machine follows:
+
+on pressing a key on the keyboard current flowed through wiring
+in the first rotor embedded in some form of glass insulation
+passing as input to the second rotor again it appeared to flow
+through wiring in the second rotor wherupon it passed through a
+maze of wiring the purpose of which was unclear to me since it
+connected back to the second rotor current then flowed back through
+the rotors in reverse order wherupon it activated a small indicator
+arrow which pointed to one of the thirty-six possible alphanumeric
+outputs upon releasing the key the first rotor moved on one position
+and the machine then rested i repeatedly pressed on the keys and
+noticed that the first rotor turns at every character input whilst
+the second turned every thirty-six the machine has one additional
+key marked fine and upon pressing it the rotors moved back to their
+starting position with the character a uppermost upon both i spent
+some time trying to fathom the internal wiring of the rotors i will
+pass this together with the wiring in the maze to you in a separate
+document enciphered with your ingenious really secure artifice
+using the professor's public key
+
+of course what our friend describes as a maze is in fact the wiring
+of the reflector owing to the fact that glass was used as the
+insulating layer in the rotors much of the wiring is now known to
+us though it appears that ten of the pairings in the second rotor
+were undetermined i understand that a sudden noise led to the rather
+precipitous departure of our own precious spy
+
+i have left the best news until last our agent spied in the fire
+grate what he believes to be a burnt fragment of the plaintext
+corresponding to a ciphertext he found lying by the machine this
+discovery provides us with a wonderful opportunity to exploit the
+machine's weakness as outlined in w's last message i will send the
+plaintext fragment and the enciphered text together with the known
+wirings in my next message
+
+yours truly
+l
