@@ -1,0 +1,11 @@
+variation on the ADFGVX cipher: block transposition is used instead of columnar transposition
+permutation = (0,1,2,5,3,4)
+the square (since there are no digits in the plaintext, their placement is irrelevant):
+      A D F G V X
+    A     i p w a
+    D     j q x b
+    F s e   r y c
+    G t f k   z d
+    V o g l u
+    X n h m v
+keyword = STONE
