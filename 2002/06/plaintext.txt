@@ -1,0 +1,16 @@
+Cela fait un moment déjà que nous surveillons les progrès du Professeur
+Babbage sur ses moteurs à difference et analyse. Récemment notre agent
+local a intercepté la correspondance codée entre Babbage et ses deux
+complices, le Professeur Wheatstone et la Comtesse Lovelace. Ensemble ces
+ont trois des esprits les plus originaux de leur génération. Il semble qu'ils
+seraient impliqués dans le développement d'une machine pour la codification
+automatique des messages, ce qui serait une menace terrible pour les intérêts
+de la belle France. Nous étudions la possibilité de faire des copies secrètes
+de ces plans en utilisant le système ingénieux de M. Daguerre. Veuillez
+reprendre contact, s'il vous plaît, avec le voleur qui est soupçonné
+se trouver à Southampton. Il ne fait aucun doute que ce traître de scélérat
+va cherchera imposer son prix. Ceci relève de la plus haute importance
+nationale, faisant l'objet de la sanction de Louis Philippe lui-même et
+pourrait menacer l'alliance quadruple si ce la tombait entre de mauvaises
+mains. Toute correspondance future concernant ce propos devra avoir un code
+Vigenère, puis qui l'est impossible à décoder.
