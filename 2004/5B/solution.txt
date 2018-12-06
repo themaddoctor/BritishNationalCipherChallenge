@@ -1,0 +1,10 @@
+Playfair cipher
+(The first letter of each sentence of the plaintext in 5A spells PLAYFAIR.)
+key = HIGFELDKMNOPQRSTUVWXYZABC
+Polybius square:
+    H I G F E
+    L D K M N
+    O P Q R S
+    T U V W X
+    Y Z A B C
+keyword = HIGHFIELD
