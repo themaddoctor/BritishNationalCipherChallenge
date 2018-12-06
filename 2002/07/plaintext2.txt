@@ -1,0 +1,10 @@
+I am pleased to say that the Vigenère cipher is not as secure as our French
+friends seem to believe. I have spent some time studying the method and I am
+sure that I have devised a way to prise open this French enigma. The key, if
+you will excuse the intolerable pun, lies in identifying the period of
+repetition of the cipher, which one can deduce by analysis of repetition
+patterns in the enciphered text. The length of the keyword may be revealed as
+a common factor of the periods of such repetitions. Of course, all my research
+will avail us nothing without more information, so I must beg your assistance
+again, my dear countess, in obtaining more intelligence from your extensive
+circle of contacts.
