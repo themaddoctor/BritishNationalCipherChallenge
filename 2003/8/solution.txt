@@ -1,0 +1,10 @@
+variation on the ADFGVX cipher: block transposition instead of columnar
+permutation = (4,3,6,1,0,7,2,5)
+the square:
+    a p r i l 1
+    2 t h s o u
+    m n q v w x
+    y z 3 4 5 6
+    7 8 9 0 b c
+    d e f g j k
+keyword = APRIL 12TH SOUTHAMPTON
