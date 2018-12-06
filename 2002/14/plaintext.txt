@@ -1,0 +1,46 @@
+TOP SECRET
+
+Dear L and B,
+
+This new RSA cipher is most ingenious. To understand the security of the
+RSA, I have spent many hours labouring at the factorisation of the number
+which B challenged us to factor. It is a devil of a job, and I have failed
+miserably, which augers well for the security of RSA. Deciphering a message
+without the prime factorisation of the public key will be a herculean task.
+
+Of more immediate import, I believe I have found at last a method by which
+the strength of the turning machine may be turned upon our enemies. While
+the machine is capable of great secrecy in communications, its reliable
+operation is dependant upon certain elementary precautions, which were not
+documented in the designs, and these may well have escaped the attention of
+its copiers. From L's very latest intelligence, it seems that the French
+machine incorporates both the wheels and the reflector from our design.
+While this provides the advantage that the turning machine can both encrypt
+and decrypt a message from the same settings, I now realise that it also
+incorporates a small weakness in the resulting cipher. By virtue of its
+design, the reflector ensures that no letter is ever encrypted as itself.
+As we recently noted, the ability to match a known fragment of plaintext
+to the correct position in its ciphertext gives us much information about
+the cipher used. Whilst the turning machine is far more sophisticated than
+the Playfair cipher, if we could find a fragment of plaintext corresponding
+to a given ciphertext, we might use this weakness to identify exactly which
+part of the enciphered message matches the fragment. In this happy situation
+it may be possible, using the ideas of the countess, to write instructions
+for the analytic engine to emulate the turning machine, asking it to
+encipher the fragement in all the possible ways, and matching these with
+the known encryption. We may be able to identify which of the many possible
+wirings for the rotors and reflectors the french have used. With this
+knowledge, it should be possible to decrypt the rest of the ciphertext.
+I now believe that finding an effective decipherment process is where we
+should devote our efforts. It would provide a major benefit to Her Majesty's
+government if the French were to rely on the security of a broken cipher for
+their deepest secrets.
+
+Yours, etc., W
+
+P.S. I have enjoyed studying the fascinating case of Mr. Beale's lost
+treasure. Mr. Beale's ingenious use of the Declaration of Independence
+demonstrates that a simple idea for a cipher can render a very strong
+encryption. I have my own idea for a variation on this method which would
+pose a monumental task for those inclined to decipher it. Of course, it
+would be a monumental disaster should the key be too easily discovered.
