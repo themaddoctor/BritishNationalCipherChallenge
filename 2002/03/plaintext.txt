@@ -1,0 +1,27 @@
+Addressee's eyes only.
+
+My Dear W,
+
+Thank you for your kind, though somewhat ill-advised note. Unfortunately, I
+must remind you to take more care with encryption. Realistically, we must be
+much more careful. Never reveal the word structure in an enciphered text, as
+it weakens the security. It may otherwise afford--indeed I was denied any--
+modicum of pleasure in deciphering your entirely transparent cipher.
+
+Now I must inform you that I may have encountered your mysterious
+interlocuter: a street musician by the name of M. Edouard Spion. Generosity
+forbids me to presume he means any harm, but his habit of playing a
+new-fangled German accordion by the window of my study fills me with alarm,
+not to mention the assault on my sensibilities, and I fear it is possible that
+he is working for the French government. To ensure that he is unable to
+intercept our communications, I suggest that the next one should be encrypted
+using a keyword substitution cipher. The keyword is characterised by my initial
+remarks herein.
+
+Yours as ever, Chas
+
+P.S. My petitions to the government for further advances to finish the
+difference engine and develop my analytical engine remain ignored. The death
+of the king last year and the accession of our new Queen Victoria and her
+coronation this June have proved a distraction. Perhaps the turning machine
+will excite more interest from Lord Melbourne and his cabinet.
