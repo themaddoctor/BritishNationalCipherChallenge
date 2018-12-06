@@ -1,0 +1,2 @@
+Beale cipher / book cipher
+The key is the article in message 11. The numbers correspond to the first letter of the numbered word.
