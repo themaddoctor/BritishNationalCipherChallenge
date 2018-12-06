@@ -1,0 +1,8 @@
+1:
+    keyed substitution cipher
+    key = CHARLESDIKNTUVWXYZBFGJMQPO
+    keyword = CHARLES DICKENS
+
+2:
+    Vigenere cipher
+    key = IBM
