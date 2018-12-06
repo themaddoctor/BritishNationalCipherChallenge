@@ -1,6 +1,6 @@
-The first text is not encrypted.
+The first and second texts are not encrypted.
 
-For the second text:
+For the third text:
     Playfair cipher with 6x6 grid
     key = ABCDEFGHIJKLM5678901234NOPQRSTUVWXYZ
     Polybius square:
