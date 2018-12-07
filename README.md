@@ -1,9 +1,9 @@
-# BritishNationalCipherChallenge
+# British National Cipher Challenge
 
 This is an unofficial archive of the British National Cipher Challenge
 (https://www.cipherchallenge.org/). The purpose is to collect all parts
 of the challenges in one place and to preserve them before they are lost
-to bitrot and serverrot. The official site only goes back two years, and
+to bit rot and server decay. The official site only goes back two years, and
 archive.org and other sites are also incomplete.
 
 Stuff in this archive is copyright University of Southampton. If they ask
