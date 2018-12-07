@@ -1,0 +1,4 @@
+There are two alphabets for substitution, alternating between sentences.
+key1 = GHIKLMNOPQRSTUWXYZABCDEF
+key2 = RSTUWXYZABCDEFGHIKLMNOPQ
+Note that he only uses 24 letters, and that each substitution is a Caesar shift.
