@@ -1,0 +1,12 @@
+affine substitution cipher
+multiplier = 25
+offset = 15
+
+-or-
+
+shifted atbash cipher
+
+-or-
+
+substitution cipher
+key = PONMLKJIHGFEDCBAZYXWVUTSRQ
