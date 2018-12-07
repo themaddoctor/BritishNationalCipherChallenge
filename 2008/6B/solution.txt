@@ -1,0 +1,6 @@
+substitution cipher with homophones and padding
+The % symbol is padding (null).
+! = R, $ = E, & = T
+The other letters are enciphered via a keyed substitution cipher.
+    key = PADINGHJKLMOQRSTUVWXYZBCEF
+    keyword = PADDING
