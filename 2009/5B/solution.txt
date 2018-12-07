@@ -1,1 +1,2 @@
 bi-literarie cipher
+Note that the é's are missing from "protégé" in the ciphertext.
