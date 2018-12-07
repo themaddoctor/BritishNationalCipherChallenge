@@ -1,2 +1,2 @@
-Bacon cipher
+bi-literarie cipher
 then, substitution with key ABCDEFGHIYJKLMNOZQRSTXUVWP
