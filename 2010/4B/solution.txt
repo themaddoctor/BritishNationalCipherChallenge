@@ -1,0 +1,4 @@
+keyed substitution cipher with nulls
+key = TASCHENLMZBDFGIJKOPQRUVWXY
+keyword = TASHENLAMPE
+Need to remove all X's, except in the word "sixty".
