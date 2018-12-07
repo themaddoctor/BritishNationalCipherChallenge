@@ -1,0 +1,34 @@
+June 6th 1833
+
+My dear Professor Babbage,
+
+it was delightful to meet you at Miss Somerville's soirée last night, and your thoughts on the power of
+computation to reduce the element of risk in gambling have set my mind racing. The devices you described, your
+Difference Engine and its younger sibling the Analytic Engine are most remarkable, and I am amazed at the
+scope of your ambition.
+
+Your comments on my mathematical skills are too kind, but I am certainly unable to resist your proposal that we
+might work together on these projects.
+
+I must however confess an ulterior motive. You will be aware, possibly more aware than I, of the legacy of my
+father, Lord Byron. It appears his writings are known to many, if not all, in Society, though my Mother took much
+care to conceal them from me.
+
+You can imagine my delight upon the discovery of a cypher apparently composed by my father when close to his
+death, which has come to me by way of his publisher Mr. Moore, who felt unable to include it in the volumes of
+my father's complete works (to be shortly published) without a note of the cypher’s contents. Being a novice in
+this field of endeavour, he asked if I might feel able to embark on its decipherment. Having read of your interest
+in this discipline I must confess that I rather encouraged Miss Somerville to affect our introduction, and I most
+ardently hope that you will agree to assist me in the decipherment of the Byron Enigma, as I have come to know
+it.
+
+I look forward most earnestly to your reply, in the hope that it will be favourable, and I remain your devoted
+servant,
+
+Ada Lovelace
+
+PS. Perhaps it is indiscreet of me to mention it, but the interest shown in your devices by the cabinet minister
+Lord Pennylaine seemed to be not entirely disinterested. He certainly showed a very great interest in the
+possibility of using the devices in games of chance, and in that he shares my own curiosity, however I know that
+he is not entirely welcome in the smarter gaming rooms (rather too many hold a promise of payment from him)
+and there was something rather too eager in his manner last night.
