@@ -1,0 +1,15 @@
+To decrypt, first decrypt as a simple columnar transposition cipher with key 46.
+Then, take every 23rd row, rolling around to the start if you go off the end.
+
+In Python:
+
+c = open('ciphertext.txt','r').read().replace('\n','').replace(' ','')
+t = ''
+for i in range(len(c)/46):
+    for j in range(46):
+        t += c[i+j*n]
+p = ''
+for i in range(23):
+    p += t[i*2*23:(i*2+1)*23] + t[(i*2+46)*23:(i*2+46+1)*23]
+for i in range(23):
+    p += t[(i*2+1)*23:(i*2+2)*23] + t[((i*2+1)+46)*23:((i*2+1)+46+1)*23]
