@@ -1,0 +1,5 @@
+keyed substitution cipher
+key = BERLINSTUVWXYZACDFGHJKMOPQ
+keyword = BERLIN
+
+Note that the year does not appear in the ciphertext.
