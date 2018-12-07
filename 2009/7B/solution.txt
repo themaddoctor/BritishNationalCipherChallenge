@@ -1,0 +1,5 @@
+Vigenere cipher
+    key = BABBAGE
+block transposition cipher
+    permutation = (6,5,4,3,2,1,0)
+To decrypt, decrypt the transposition cipher first, then the Vigenere.
