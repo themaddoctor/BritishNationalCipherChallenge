@@ -1,0 +1,3 @@
+symbolic substitution cipher
+You can work out which symbol represents which letter.
+Note that there are symbols for comma and for period and for apostrophe.
