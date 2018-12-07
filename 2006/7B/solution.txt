@@ -1,0 +1,4 @@
+INCOMPLETE
+
+running-key cipher
+key = Hamlet's soliloquy
