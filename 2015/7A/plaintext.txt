@@ -1,0 +1,9 @@
+Charlie, I think I know what is going on, but I need to check a few things before I report. We may have an opportunity here. I checked the cipher clerk's background and it turns out she is White Russian. Her family left Moscow in 1917, but she has relatives in the Gulag at Perm. She clearly has no love for the Soviet government so I am still not sure who she was working for, but I think this is key intelligence.
+
+In the meantime I have been watching the Brits. They seem to have been in contact with our friends in the Reichsdoktor and they in turn have been watching the French. It seems like we are all working against one another, which I really didn't expect, and given what we read in the French document last week I don’t think that is a coincidence.
+
+My own guess is that the Russians know what is going on, and that our best hope of uncovering it is to break into their HQ and try to find something there. Unfortunately, according to my source Yuri they have taken to using a new cipher, Solitaire, for archive storage of top-secret files, so even if we manage to steal the relevant file it will take a lot of computing to break the cipher. I attach a brief message from Yuri, encrypted using an amsco cipher (keyword length is six) in which he describes the cipher. It is very clever. Simple to implement but a devil to crack, and my one hope is that we can also find the cipher key while in the HQ, or at least part of it.
+
+I plan to enter in two weeks, on December sixteenth. The Russians are hosting a large propaganda event as part of the Internationale Bauausstellung, with leading politburo members in attendance. Most of the security team will be occupied with that and HQ security will be relatively light. With luck I will get in and out with the files we need that night, and then we can get to the bottom of the whole Reichsdoktor stratagem.
+
+All the best, Harry
