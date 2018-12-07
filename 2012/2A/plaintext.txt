@@ -1,0 +1,35 @@
+my dear nicholas
+
+i know how shocking these revelations must have been for you, and
+given your past experiences no one could blame you for the decision
+you have made to turn your back on your uncle's strange request.
+nonetheless, while we are still unsure of the purpose of the
+document i think it would be a mistake to relinquish the task
+he has set you.
+
+i must admit that i find it almost impossible to reconcile your
+current view of tiberius with the man we both knew, and so i have
+taken the liberty of deciphering the next chapter of his will myself,
+in the hope of revealing more information that might help us to
+understand him better. i know that its contents will not entirely
+reassure you, but i think you owe it to yourself, if not to tiberius,
+to read on.
+
+in the meantime allow me to share some remarks concerning the will.
+throughout my professional life, i have had the misfortune to read a
+number of final letters written by men driven to self destruction and
+i must tell you that this has an entirely different feel to it. there
+is a frankness which suggests that tiberius is more concerned for the
+truth to be known than he is to protect his reputation. i have a feeling
+that tiberius understood that this would be hard for you, but whether
+you like it or not i am certain that you will learn the truth if you
+complete the challenge he has left you.
+
+you said that we should maintain the greatest discretion, but i am
+sure tiberius would remind you that a caesar shift cypher could not
+possibly provide you with the degree of security you require. i suggest
+that you might follow tiberius's lead and use something more secure like
+an affine shift cypher for your reply.
+
+yours,
+charles
