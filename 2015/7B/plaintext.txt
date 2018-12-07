@@ -1,0 +1,3 @@
+Security Protocol Solitaire.
+
+Comrades, under a decree from Moscow we are confined to using a new high security stream cipher stolen from the Americans, the solitaire cipher. All files classified Top Secret and above are to be archived using this method. This new field cipher has been tested and proven to match the security of the Fialka machine without the overhead of the technology. You will need only a deck of cards to implement the cipher. The key to be used will be provided and distributed on a one-time pad and you must destroy the key as you use it. The key consists of a random shuffle of a full deck of cards, together with two distinguishable jokers. Agents should be freely able to carry this equipment without arousing suspicion.
