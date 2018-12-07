@@ -1,0 +1,2 @@
+In each pair of letters, the first is unaltered, but the second is shifted
+by the amount of the first, where A=1,...,Z=26, with wrapping around the alphabet.
