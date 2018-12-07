@@ -1,0 +1,3 @@
+keyed substitution cipher
+key = RJMITCHELABDFGKNOPQSUVWXYZ
+keyword = R J MITCHELL
