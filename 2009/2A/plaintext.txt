@@ -1,0 +1,23 @@
+my dearest mr. babbage,
+
+i was most distressed to hear of the break in at the workshop last thursday evening, but i bring most shocking
+news of the utmost importance. the sister of my maid charlotte has taken service in the household of lord
+pennylaine and brings the following revelation. the break in appears to have been engineered by lord
+pennylaine in order to demonstrate his relatively unfettered access to the machinery of the difference
+engine. your reticence in confronting him appears to be well founded - he is known to be consorting with the
+most unsavoury associates of niepce; agents of france and certain to be working to gain access to our
+devices and inventions.
+
+as for my late father's puzzle, professor somerville remarked that there might be a hint to the secrets of its
+encryption in a poem, well known to those inhabitants of the forum as byron's enigma. you may know of it and i
+certainly intend to study it as soon as i may.
+
+your thoughts on a family of more general computing engines are most intriguing, but may i take the liberty
+of suggesting that a more valuable device would be furnished by a single mechanism which might be
+configured by means of a sequence of mechanical instructions to carry out various tasks. i am brought to this
+suggestion by a study of the most ingenious mechanism of the jacquard loom, which, being a single
+mechanism can yet be instructed by means of punctured cards to weave many remarkable and quite different
+patterns. i look forward to an early opportunity to discuss these new ideas with you.
+
+faithfully yours,
+ada lovelace
