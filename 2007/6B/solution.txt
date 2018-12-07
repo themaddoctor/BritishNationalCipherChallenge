@@ -1,0 +1,1 @@
+reverse the ciphertext, then Vigenere cipher with key = PRISM
