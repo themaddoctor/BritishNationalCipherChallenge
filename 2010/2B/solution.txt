@@ -1,0 +1,4 @@
+affine substitution cipher
+    multiplier = 25
+    offset = 19
+or substitution cipher with key = TSRQPONMLKJIHGFEDCBAZYXWVU
