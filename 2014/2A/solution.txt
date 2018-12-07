@@ -1,2 +1,2 @@
 Caesar shift cipher
-key = 22
+key = 4
