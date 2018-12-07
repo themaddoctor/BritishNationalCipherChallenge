@@ -1,0 +1,2 @@
+2x2 Hill cipher
+key = ABBB
