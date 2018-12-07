@@ -1,0 +1,8 @@
+block transposition cipher
+    permutation = (4,3,2,1,0)
+
+-and-
+
+keyed substitution cipher
+    key = ENIGMABCDFHJKLOPQRSTUVWXYZ
+    keyword = ENIGMA
