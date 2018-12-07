@@ -1,0 +1,27 @@
+my dear professor babbage,
+
+charlotte's sister emily retrieved the enclosed note from the fireplace at
+lord pennylaine's london apartments last evening. i have courted her
+attention assiduously and recruited her fully to our cause. this places her in
+great danger, and i have severe doubts as to whether we should ask her to
+continue taking risks on our behalf. indeed if it were not for emily's duty to her
+king and country, and the foul threat posed by our french opponents, i am certain
+that i would not ask her to take such risks.
+
+i fear that we are all required to place the interests of others above our
+own. for my own part, the frustrating delays in tackling the decryption of my
+late father's enigma pain me deeply, but our work on the analytic engine must
+take priority, as must our efforts to thwart our opponents.
+
+i have taken some initial steps in attempting to decypher the message
+intercepted by brave charlotte, and must confess to some confusion. the
+distribution of characters within it matches that of ordinary english text
+so very closely that i am of a mind to assume that no substitutions have been
+made, and yet the text is clearly encrypted, perhaps by some ingenious
+derangement. with your own interest in anagrams i suspect that it will yield
+its secrets to you swiftly, and, if you will allow it, i will leave that task to
+you, as i turn my attention to the enigma puzzle, and continue my notes on the
+design of the analytic engine.
+
+affectionately yours,
+ada lovelace.
