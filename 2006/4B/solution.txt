@@ -1,2 +1,3 @@
 bi-literarie cipher
 then, substitution with key ABCDEFGHIYJKLMNOZQRSTXUVWP
+Note that he only uses 24 letters (j>i,v>u).
