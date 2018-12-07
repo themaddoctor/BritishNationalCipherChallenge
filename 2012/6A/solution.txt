@@ -1,0 +1,3 @@
+keyed substitution cipher
+key = LURKINGVWXYZABCDEFHJMOPQST
+keyword = LURKING
