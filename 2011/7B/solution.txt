@@ -1,0 +1,11 @@
+route transposition cipher
+
+in Python:
+
+c = open('ciphertext.txt','r').read().replace(' ','').replace('\n','')
+p = ''
+for i in range(240):
+    d = ''
+    for j in range(5):
+        d += c[i+j*240]
+    p += d[5-(i%5):] + d[:5-(i%5)]
