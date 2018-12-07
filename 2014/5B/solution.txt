@@ -1,0 +1,2 @@
+columnar transposition cipher
+permutation = (5,3,1,0,2,4)
