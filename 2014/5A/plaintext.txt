@@ -1,0 +1,26 @@
+harry
+
+i cracked that last message for myself and noticed something really
+odd the text said it was encrypted using a column transposition with
+keyword seabird but it was enciphered using a railfence cipher i can
+only assume that the text we retrieved was an archive of the original
+message reencrypted for safety whoever the flag day associates are
+they have a pretty sophisticated operation if they are filing messages
+like this more like one of the major terrorist groups than the usual
+hacker collective
+
+the tech guys took a look at the aerial from the boat and they tell me
+that it is a drag wire usually used to communicate with a submarine
+when submerged it carried an acoustic transducer array as well as a
+shortwave transmitter and listening gear
+
+one thing that puzzles me now is why we were allowed to find the ship
+floating at all surely they must have planned to sink her using the
+scuttling equipment otherwise what was it for they seem too smart to
+leave it floating for us to find any thoughts
+
+mark
+
+ps just before i sent this the cipher clerk came in with a decrypt
+of the attached columnar transposition keyword has length six think
+it answers some of our questions about the nautilus system
