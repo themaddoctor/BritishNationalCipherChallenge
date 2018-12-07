@@ -1,0 +1,28 @@
+harry, i checked out who transcribed the radio transmission like you
+asked. it was a junior cipher clerk in room 5. i would have offered
+to set up a meeting with her, but she has disappeared and hasn't been
+seen since last friday. the marines saw her leave at her usual time,
+and she was booked out for some leave on monday and tuesday so no one
+noticed she was missing until today. we sent an officer out to her
+usual haunts and i will get back to you if we find anything. what made
+you ask? did you have a reason to believe she was involved in something?
+
+i took another look at the messages. were you referring to the typos?
+the word ratlines keeps being spelt as ratilines. is that important?
+what did you mean about our source being close to home?
+
+also did some digging about the reichsdoktor. seems you were right
+and it refers to an underground nazi organisation dedicated to
+rebuilding the reich. maybe they think of it as healing? a bunch
+of rich nazi sympathisers took over the ratlines from a group of ss
+officers who set them up at the tail of the war and have been active
+in shipping scientists, engineers and soldiers to towns across south
+america. if our source has inside information then maybe we could
+intercept the lines and pick up some of the high value targets the
+french are after. what was "die alchemisten project"?
+
+the enclosed message was handed to the marines, but they didn't get
+a name. initial analysis shows it must be a vigenere cipher with period
+two so it should be reasonably straightforward to crack.
+
+all the best, charlie
