@@ -1,0 +1,2 @@
+Porta cipher
+key = INOBISPA (or any combination of IJ,MN,OP,AB,IJ,ST,OP,AB)
