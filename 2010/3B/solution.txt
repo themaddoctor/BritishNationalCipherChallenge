@@ -1,0 +1,3 @@
+keyed substitution cipher
+key = EMPRSOFBLANDIGCHJKQTUVWXYZ
+keyword = EMPRESS OF BLANDINGS
