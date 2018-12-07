@@ -1,2 +1,3 @@
-Caesar shift cipher
-key = 4
+affine substitution cipher
+multiplier = 5
+offset = 3
