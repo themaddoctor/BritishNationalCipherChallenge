@@ -1,0 +1,2 @@
+symbolic substitution cipher
+the symbols come from the cipher of Mary, Queen of Scotts, with some additions for v,w,j
