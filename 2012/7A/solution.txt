@@ -1,0 +1,2 @@
+block transposition cipher
+permutation = (2,4,0,5,3,1)
