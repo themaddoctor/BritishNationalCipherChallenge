@@ -1,0 +1,4 @@
+Morse code
+affine substitution cipher
+    multiplier = 7
+    offset = 5
