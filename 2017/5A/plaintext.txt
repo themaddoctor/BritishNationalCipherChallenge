@@ -1,0 +1,55 @@
+maryam,
+
+jodie has gone. i arrived in selcuk as planned, but she didn't make the
+rendezvous. the local station think she may have been kidnapped, but there
+has been no ransom demand, and there is nothing much to go on. her room
+had been ransacked, and she left no message, but something tells me she is
+OK and we should move on. i think she may have planned this.
+
+meanwhile, i have the document jodie wanted from london. i don't know how
+she knew, but the fifth chapter was hidden in a cavity in a stone lintel
+in some remains in the ephesus room at the british museum. it was encrypted
+using another polyalphabetic cipher invented in the nineteenth century. i
+asked the museum to test it, and the document is authentic, so i guess the
+imperial cipher school really had moved on. perhaps i shouldn't have been
+surprised after the discovery at bodrum, but it leaves me wondering what
+else they developed. one odd feature was a frieze running round three sides
+of the lintel, consisting of a single row of black and white tiles that the
+museum think were added in the roman period. they read, in sequence:
+
+    wwbbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwb
+    wwwbwwwbwwwbwwwbwwwbbwwwbwwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwb
+    wbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwwbwwwbwbbbwbbbwbb
+    bwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbb
+    bwbbbwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbw
+    wwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwwwwwwwwwwwwwwwwwwwwwww
+    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwbwwwbwww
+    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+    wwwwwwwwwwwwwwwwbwwwbwwwwbwwwbbbwwwwwbbbwwwbwwwbwwwbwwwbwwww
+    bbbwwbwwwbwbbbwwwbbbbwwbbbwwwbbbwwbbbwbwwwbwwwwbwbwwbwwbwwwb
+    wwwwwbwbwwbbwwbwwbwbwwwwbwwwbbwbbwbwwbwwbwwwwwbwwbwwwbwwwwbw
+    wwbwwwbwwbwwwbwbwwwbwbwwwwwbwwwbwbwbwbwbwwwbwwwbwwwbwbwbwbww
+    bwwbwwwwwbwwwbwwbwwwwbwwbwwwbwwwbbbbbwbbbbwwbwwwwwbbbbbwbwbw
+    bwbbbbbwwwbwwwbwwwbwbbbbwwbbbwwwbbbbwwwbwwwwbwwwbwwwbwwbwwwb
+    wbwbwwwbwwwwwbwwwbwbwbwbwbwwwbwwwbwwwbwwwbwbwwwwwbwwwwwbwbww
+    wwbwwwwbwwbwwwbwwwbwwwbwbwwbwwwbwwwwbwwwbwbwwbbwbwwwbwwwbwww
+    bwwwbwbwwwwwbwwwwwbwwbwwwbwwwwbwwwbwwwbwwbwwwbwbwwwbwwwbbbwb
+    wwwbwbwwwbwbwwwbwwbbbwwbwwwbwbwwwwwbbbbwwbwwwbwbbbwwbbbwbwww
+    bwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+    wwwwwwwwwwwwwwwwwwwwbwwwbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwbwwwbwbwwwbwwwbwww
+    bwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwww
+    bwwwbwbwwwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbw
+    bwbwbwbwbwbwbwbwbwbwbwbwbwbwbwwwbwwbbbwbbbwbbbwbbbwbbbwbbbwb
+    bbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwbbbwwbwwwbwwb
+    wwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwbwwwb
+    wwwbwwwbwwwbwwbww
+
+i have used b for the black tiles and w for the white ones. it took me a
+while to figure out that the frieze is steganography, concealing the
+keyword for the cipher in chapter five.
+
+without jodie i am not sure where to go next. there are only two
+possibilities, as far as i can see, but i have no idea where one of
+them is, and as far as i can tell, no one else knows either. so i
+guess i will head for olympia. see you there.
