@@ -1,0 +1,27 @@
+notes on dynamix, citadelle, the pds syndicate:
+
+dynamix are a small company that relies on post-graduate interns
+for most of its good ideas. the project we worked on for dynamix
+was signal recognition in a noisy environment.
+
+citadelle is a major arms manufacturer that got left behind in the
+digital age and seems to be looking to buy its way back into the
+market by taking over smaller, more nimble competitors.
+
+After we left dynamix, we were both approached by someone claiming
+to work for citadelle, saying they were impressed by the work we
+did there, and that they would be interested in developing the code
+we wrote. I told them where to go. I thought martin was going to do
+the same, but then he told me he wanted to talk with them. he said
+that our code might be of interest to powerful people, and i thought
+he was trying to get me to join him and work with them. now i think
+he was trying to warn me. after martin disappeared i was approached
+by someone claiming to work for a government agency known as the pds
+syndicate. they wouldn't tell me what they did or why they were
+interested, but they wanted to know where martin had gone.
+
+i have almost finished testing the latest version of the net. it is
+better than any of the previous versions by several orders of magnitude,
+and i haven't tuned it yet. i think it has real potential, and i think
+that dynamix, citadelle, and the pds syndicate think that, too. i am
+afraid. i think i need to hide. i don't know where to run.
