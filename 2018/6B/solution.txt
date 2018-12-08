@@ -1,0 +1,3 @@
+after adding three nulls ('X') to the end of the ciphertext,
+block transposition cipher
+    permutation = (1,0,4,3,2)
