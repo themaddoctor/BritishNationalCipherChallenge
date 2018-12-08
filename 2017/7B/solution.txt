@@ -1,0 +1,2 @@
+simple columnar transposition with 6 columns (after adding another null '_' to the end,
+followed by a Vigenere cipher with key SCYTALE
