@@ -1,0 +1,9 @@
+I call this a "periodic affine cipher". Like Vigenere, it is cut into slices, but each
+slice undergoes an affine substitution rather than a Caesar shift. All of the affine
+substitutions share the same multiplier, but they have different offsets. The offsets
+spell a key phrase.
+
+multiplier = 7
+key phrase (offsets) = AGRICOLAE MORTEM
+
+(Why is it in the accusative case?)
