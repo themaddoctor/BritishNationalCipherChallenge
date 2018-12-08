@@ -1,0 +1,1 @@
+simple columnar transposition cipher with 6 columns
