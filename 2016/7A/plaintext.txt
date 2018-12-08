@@ -1,0 +1,58 @@
+notes from interview with martin traynor
+in attendance: MI, NSA, and reps from NIS
+
+the suspect was carrying high-quality identity documents in the name
+of james martin and claimed to be a dropout from a graduate programme
+in computer science in neuchatel. his story checked out with the
+university authorities. analysis showed a high degree of correlation
+between the biometrics of the suspect and of martin traynor, but we
+did not reveal that we suspected james to be martin. he refused requests
+to provide a DNA sample for analysis, stating that DNA databases were a
+tool of oppression.
+
+a search of the suspect's belongings found no links with the UK at all,
+despite the fact that voice characteristics suggest he spent a considerable
+amount of time there as a child. the suspect stated that he had left all
+that behind and was not prepared to talk about it.
+
+taking care not to reveal what was already known about traynor's relationship
+with the swiss bank, we turned to the suspect's financial arrangements. at
+first he claimed to work entirely on a cash basis and not to have a bank
+account, but when pressed on this he could not, or would not, explain where
+he kept his cash reserve, even when we pointed out that he appeared to be too
+well off for someone living hand-to-mouth. pushing harder, we revealed that
+we had footage of him in the lobby of a bank, and he claimed that he had
+visited on behalf of the collective as part of a phishing expedition on a
+free-lance penetration test of the bank's security. when challenged about
+the legality of this, he claimed it was a white-hat exercise, and that no
+weaknesses had been found, so no further action had been taken by the
+collective. under further questioning, however, it became apparent that the
+suspect was talking about an entirely different bank from the swiss bank we
+had been monitoring. he seemed to believe that we had footage of him in an
+oslo branch. agents were sent to retrieve lobby footage of this bank, and
+further analysis showed that his visits there tallied with the activities
+he described at interview. however, we also noticed that a woman matching
+dalmar's description was often videoed at the same branch during the period
+under investigation. when asked about this, the suspect became highly
+agitated and repeatedly demanded to call his lawyer. we pointed out that it
+was unusual for a member of a hacking collective to have a lawyer on retainer,
+but the suspect refused to answer any more questions until he had been
+allowed to make the call. a call trace showed the mobile that he rang
+belonged to a law firm which works for the arms manufacturer citadelle.
+
+the suspect was released on bail pending charges of conspiracy to engage in
+unauthorised access to computer technology at the bank and is being closely
+watched. all calls to and from the law firm are being monitored, and the oslo
+bank is under twenty-four/seven surveillance.
+
+conclusions: we believe with near certainty that the suspect is martin traynor
+and that the woman in the footage is jamelia dalmar. we believe they are in
+communication with one another and are both being protected by citadelle or
+one of its subsidiaries. we believe that they are both living in or near oslo,
+and that they are both now highly likely to be aware that the net is closing
+in. we do not understand how dalmar contrived to fake her death, and we still
+do not have a clear picture of the interaction between the pds syndicate,
+dynamix, and citadelle, nor do we fully understand why they have a strong
+interest in traynor and dalmar. we believe that some or all of that
+information may be contained in the encrypted files on traynor's laptop, which
+has been passed to forensics for analysis and to secure the data.
