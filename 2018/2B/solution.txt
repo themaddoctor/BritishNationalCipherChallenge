@@ -1,0 +1,3 @@
+affine substitution cipher
+multiplier = 19
+offset = 2
