@@ -1,2 +1,2 @@
-Vigenere cipher with keyword TURKEY,
+Vigenere cipher with key TURKEY,
 then reverse the text
