@@ -1,0 +1,4 @@
+bifid cipher
+period = 4
+square = LIGOA BCDEF HKMNP QRSTU VWXYZ
+keyword = LIGO
