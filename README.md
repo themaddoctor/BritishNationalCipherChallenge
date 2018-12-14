@@ -34,6 +34,5 @@ just the plaintext.
 - 2013 part 8B: solution
 - 2014 part 8B: solution and plaintext
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
-- 2016 part 7B: solution
 - 2016 part 8B: solution
 - 2017 part 8B: solution
