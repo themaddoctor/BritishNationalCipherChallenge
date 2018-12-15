@@ -1,0 +1,3 @@
+bifid cipher
+square = THEOR YABCD FGIKL MNPQS UVWXZ
+keyword = THEORY
