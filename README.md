@@ -18,7 +18,6 @@ I mean the cipher and key needed to decrypt; this is distict from having
 just the plaintext.
 
 - 2004 part 8B: solution
-- 2005 part 7B: solution
 - 2005 part 8B: solution and plaintext
 - 2005 part 8B: wiring diagrams or photos needed to reconstruct the machine
 - 2006 part 7B: an official copy of the plaintext (soooo many spelling problems)
