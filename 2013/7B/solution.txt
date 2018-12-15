@@ -1,3 +1,4 @@
 bifid cipher
+period = 0 (entire text)
 square = THEOR YABCD FGIKL MNPQS UVWXZ
 keyword = THEORY
