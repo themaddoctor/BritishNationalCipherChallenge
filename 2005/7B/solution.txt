@@ -1,0 +1,15 @@
+3x3 Hill cipher
+
+decryption matrix:
+
+    C V R      2 21 17
+    K E J  =  10  4  9
+    R G B     17  6  1
+
+encryption matrix (inverse of the above):
+
+    M F L     12  5 11
+    N H C  =  13  7  2
+    E D K      4  3 10
+
+Note: I corrected the spelling of "out" to "our" in two places in the plaintext that is in this archive.
