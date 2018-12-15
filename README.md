@@ -28,7 +28,6 @@ just the plaintext.
 - 2010 part 8B: key and plaintext
 - 2012 part 8B: solution and plaintext
 - 2013 part 6B: solution
-- 2013 part 7B: solution
 - 2014 part 8B: solution and plaintext
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
 - 2016 part 8B: solution
