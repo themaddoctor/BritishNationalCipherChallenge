@@ -1,0 +1,5 @@
+solitaire cipher
+key (deck) = 8D, 9D, 3H, KD, AH, JC, 5H, 6H, 7H, 8H, 9H, 10H, 6C, KH, 4D, QD, 2S, 10C,
+             AD, 5S, 10S, joker A, KC, 4S, 7S, KS, QC, 9S, JH, QH, 2H, 7C, 3S, 6S, 8C, QS,
+             2D, 3D, 4H, 5D, 6D, 1S, JS, joker B, 4C, 5C, AC, 9C, 2C, 10D, JD, 8S, 7D, 3C
+(C = clubs, D = diamonds, H = hearts, S = spades, A = ace, J = jack, Q = queen, K = king)
