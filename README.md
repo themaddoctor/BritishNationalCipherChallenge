@@ -24,7 +24,7 @@ just the plaintext.
 - 2006 part 8B: solution and plaintext
 - 2007 part 8B: solution and plaintext
 - 2010 part 8B: photo of the deck of cards
-- 2010 part 8B: key and plaintext
+- 2010 part 8B: key (we have a copy of a key but haven't checked it yet)
 - 2012 part 8B: solution and plaintext
 - 2013 part 6B: solution
 - 2014 part 8B: solution and plaintext
