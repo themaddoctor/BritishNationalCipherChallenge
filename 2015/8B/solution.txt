@@ -2,3 +2,4 @@ solitaire cipher
 key (deck) = KH,9H,8S,4C,5C,3S,4D,KS,7D,KC,JokerA,3D,4H,AS,QH,8H,4S,1D,
              2S,7C,AH,5S,AC,6C,7H,2D,JokerB,10H,5D,JD,3C,9C,QS,JH,10D,7S,
              8D,10C,QC,6D,KD,10S,6S,QD,2H,2C,9D,8C,5H,9S,6H,JC,3H,JS
+(C = clubs, D = diamonds, H = hearts, S = spades, A = ace, J = jack, Q = queen, K = king)
