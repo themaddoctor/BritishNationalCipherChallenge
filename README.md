@@ -30,3 +30,8 @@ just the plaintext.
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
 - 2016 part 8B: solution
 - 2017 part 8B: solution
+
+For those who care about such things, these posters are missing:
+
+- 2002 poster
+- 2016 full-sized poster
