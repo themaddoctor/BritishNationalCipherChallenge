@@ -12,14 +12,20 @@ me to, I will have to remove them.
 The 2018 challenge is now in session. Answers to it will only be posted
 here after they have appeared on the official site.
 
-Some things are missing. We know that. Here is a list of the missing bits.
+All ciphertexts are present. All but two plaintexts are present. These are
+the two missing plaintexts:
+
+- 2007 part 8B
+- 2014 part 8B
+
+Some more things are missing. We know that. Here is a list of the missing bits.
 If you have any of them, please upload in the "issues" section. By "solution"
 I mean the cipher and key needed to decrypt; this is distinct from having
 just the plaintext.
 
 - 2004 part 8B: solution
 - 2005 part 8B: solution
-- 2005 part 8B: wiring diagrams or photos needed to reconstruct the machine
+- 2005 part 8B: the original wiring diagrams or photos needed to reconstruct the machine
                 (Fialka.gif and FialkaSettings.pdf)
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
                 (Solution7text.pdf)
