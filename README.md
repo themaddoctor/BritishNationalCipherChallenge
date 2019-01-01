@@ -29,7 +29,6 @@ just the plaintext.
                 (Fialka.gif and FialkaSettings.pdf)
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
                 (Solution7text.pdf)
-- 2006 part 8B: solution
 - 2007 part 8B: solution and plaintext
 - 2010 part 8B: photo of the "first half" of the deck of cards
 - 2012 part 8B: solution
