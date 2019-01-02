@@ -1,0 +1,3 @@
+convert from binary, 5 bits per letter, then
+cadenus transposition cipher 8 times on blocks of 175 characters
+key = FINALTY 
