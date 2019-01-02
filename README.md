@@ -12,11 +12,10 @@ me to, I will have to remove them.
 The 2018 challenge is now in session. Answers to it will only be posted
 here after they have appeared on the official site.
 
-All ciphertexts are present. All but two plaintexts are present. These are
-the two missing plaintexts:
+All ciphertexts are present. All but one plaintext are present. This is the
+missing plaintext:
 
 - 2007 part 8B
-- 2014 part 8B
 
 Some more things are missing. We know that. Here is a list of the missing bits.
 If you have any of them, please upload in the "issues" section. By "solution"
@@ -33,9 +32,7 @@ just the plaintext.
 - 2010 part 8B: photo of the "first half" of the deck of cards
 - 2012 part 8B: solution
 - 2013 part 6B: solution
-- 2014 part 8B: solution and plaintext
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
-- 2016 part 8B: solution
 - 2017 part 8B: solution
 
 For those who care about such things, these posters are missing:
