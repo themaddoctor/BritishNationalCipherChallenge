@@ -1,0 +1,6 @@
+replace 2's by new line, then
+every 5 rows read up each column consecutively, then
+convert from binary, 5 bits per letter, then
+keyed substitution cipher
+key = DYNAMIXZBCEFGHJKLOPQRSTUVW
+keyword = DYNAMIX
