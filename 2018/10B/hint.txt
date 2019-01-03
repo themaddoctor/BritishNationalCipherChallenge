@@ -1,0 +1,12 @@
+24 Dec 18 at 3:17 pm
+Harry
+
+OK, here goes:
+
+The frequencies of individual letters are too flat to be a mono-alphabetic cipher, and that also rules out a transposition cipher too.
+
+Jodie hints that it might be a Playfair cipher or some sort of Vigenere. These are two different types of cipher that both produce flattened frequencies for individual letters and the best way to see which of these is likely is to try an index of coincidence attack. That should show you that it looks a lot like a Vigenere cipher with period a multiple of 7.
+
+Unfortunately it does not appear to be a standard Vigenere, as trying the standard tabula recta and frequency analysis on every 7th letter does not crack the cipher.
+
+That is because this is a keyed Vigenere cipher! Over to you for the rest of the solution!
