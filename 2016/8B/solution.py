@@ -1,6 +1,6 @@
 alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 key      = 'DYNAMIXZBCEFGHJKLOPQRSTUVW'
-c = open('ciphertextB.txt','r').read().replace(' ','').replace('\n','')
+c = open('ciphertext.txt','r').read().replace(' ','').replace('\n','')
 things = c.split('2')[:-1]
 p = ''
 for i in range(len(things)//5):
