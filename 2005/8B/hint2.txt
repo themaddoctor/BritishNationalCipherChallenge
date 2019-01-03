@@ -1,0 +1,8 @@
+December 20, 2005
+Rotor 2 wiring
+
+Here it is:
+
+18, 23, 35, 16, 28, 3, 13, 26, 14, 22, 19, 32, 15, 0, 2, 20, 10, 4, 27, 7, 21, 24, 9, 5, 12, 29, 33, 31, 25, 1, 17, 8, 11, 34, 6, 30
+
+Same conventions as before. How many did you get right from the diagram? 
