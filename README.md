@@ -12,10 +12,8 @@ me to, I will have to remove them.
 The 2018 challenge is now in session. Answers to it will only be posted
 here after they have appeared on the official site.
 
-All ciphertexts are present. All but one plaintext are present. This is the
-missing plaintext:
-
-- 2007 part 8B
+All ciphertexts and plaintexts are present. Not all ciphers have been identified
+(see below).
 
 Some more things are missing. We know that. Here is a list of the missing bits.
 If you have any of them, please upload in the "issues" section. By "solution"
@@ -28,7 +26,6 @@ just the plaintext.
                 (Fialka.gif and FialkaSettings.pdf)
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
                 (Solution7text.pdf)
-- 2007 part 8B: solution and plaintext
 - 2010 part 8B: photo of the "first half" of the deck of cards
 - 2012 part 8B: solution
 - 2013 part 6B: solution
