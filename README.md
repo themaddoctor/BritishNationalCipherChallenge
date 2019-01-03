@@ -15,7 +15,7 @@ here after they have appeared on the official site.
 All ciphertexts and plaintexts are present. Not all ciphers have been identified
 (see below).
 
-Some more things are missing. We know that. Here is a list of the missing bits.
+Some things are missing. We know that. Here is a list of the missing bits.
 If you have any of them, please upload in the "issues" section. By "solution"
 I mean the cipher and key needed to decrypt; this is distinct from having
 just the plaintext.
