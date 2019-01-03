@@ -1,6 +1,6 @@
 This is a book cipher that spans all previous plaintexts.
 'C' is a separator between words.
 Words are denoted by the challenge number in binary, the letter A or B, and the word number.
-For example, the first is
+For example, the first word is
     10A155
     challenge 2, part A, word 155
