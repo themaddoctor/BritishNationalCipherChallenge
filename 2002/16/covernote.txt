@@ -1,0 +1,11 @@
+Dear friends, at last we have the material we need to begin an attack on the French machine. The information gleaned by our agent concerning much of the internal wiring of the machine may be found in these documents:
+Rotor1 wiring
+Rotor2 wiring
+Reflector wiring
+
+The fragment of decrypted plaintext found in the grate reads as follows:
+
+"ain. The new cipher is, beyond doubt, the most ingenious and the most secure in the world today and messages enciphered using its rotary mechanism will frustrate the efforts of the most ardent cryptanalysts for years to come. In the meantime our"
+
+It is presumably part of the plaintext giving rise to the ciphertext found in the machine nearby, as you may read below. Following the Professor's brilliant insight it may be possible to locate the portion of the ciphertext corresponding to this fragment using the fact that no letter is ever enciphered as itself, though this will prove an arduous task without a machine to accomplish it. Beyond that, the lack of knowledge of the remining wiring pairs in the second rotor leaves us a mere half million possibilities to check, but perhaps this too could be automated? Wishing you the best of luck my dears,
+Yours, The Countess.
