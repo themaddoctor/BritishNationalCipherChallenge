@@ -30,8 +30,8 @@ If you have any of them, please upload in the "issues" section.
 These ciphers and/or keys have not been completed. If you know the solutions, please make
 a comment in the "issues" section.
 
-- 2004 part 8B (at the moment, solution is only present as an Excel worksheet)
-- 2005 part 8B (solitaire cipher)
+- 2004 part 8B (solitaire cipher; the key we have does not work)
+- 2005 part 8B (at the moment, solution is only present as an Excel worksheet)
 - 2012 part 8B
 - 2013 part 6B (a transposition cipher of some sort)
 - 2017 part 8B
