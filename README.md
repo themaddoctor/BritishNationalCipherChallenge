@@ -15,22 +15,29 @@ here after they have appeared on the official site.
 All ciphertexts and plaintexts are present. Not all ciphers have been identified
 (see below).
 
-Some things are missing. We know that. Here is a list of the missing bits.
-If you have any of them, please upload in the "issues" section. By "solution"
-I mean the cipher and key needed to decrypt; this is distinct from having
-just the plaintext.
+Some data are missing that are necessary for anyone who wants to attempt the
+challenges. We know that, and we're sorry. Here is a list of the missing bits.
+If you have any of them, please upload in the "issues" section.
 
-- 2004 part 8B: solution
-- 2005 part 8B: solution
 - 2005 part 8B: the original wiring diagrams or photos needed to reconstruct the machine
-                (Fialka.gif and FialkaSettings.pdf)
+    - Fialka.gif
+    - FialkaSettings.pdf
+    - the image of the Fialka after glare is removed, so that the initial settings can be seen
+      (same as Fialka.gif ?)
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
                 (Solution7text.pdf)
-- 2010 part 8B: photo of the "first half" of the deck of cards
-- 2012 part 8B: solution
-- 2013 part 6B: solution
+- 2010 part 8B: photo of the "first half" of the deck of cards (we have the final photo
+                that reveals the solution)
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
-- 2017 part 8B: solution
+
+These ciphers and/or keys have not been completed. If you know the solutions, please make
+a comment in the "issues" section.
+
+- 2004 part 8B (pringle-can fialka machine)
+- 2005 part 8B (solitaire cipher)
+- 2012 part 8B
+- 2013 part 6B (a transposition cipher of some sort)
+- 2017 part 8B
 
 For those who care about such things, these posters are missing:
 
