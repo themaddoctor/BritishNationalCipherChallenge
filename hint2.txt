@@ -1,2 +1,0 @@
-MESSAGE 14 NEW CLUE
-If you haven't figured it out yet the key phrase for this cipher (a 9x14 Playfair cipher you will recall) can be deduced from the comment at the end of the Message 13 New Clue below, in which the Countess discusses the need for a better keyphrase.
