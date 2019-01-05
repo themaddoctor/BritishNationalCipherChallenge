@@ -1,13 +1,18 @@
-December 07, 2005
-last chance for 7B
+December 04, 2005
+Extended crib
 
-Here are the first two row fo the decryption matrix for Challenge 7B
+For those of you working on Challenge 7B here is an extended crib I have worked out
 
-2 21 17
-10 4 9
+The first eighteen characters of the cipher text are
 
-You should be able to do the rest by looking at what this gives you.
+SSODTUQOEBIEFKYJXM
 
-[By the way, if you are doing the decryption as vM, where M is the matrix and v is a row vector then these are the first two columns instead.]
+The first eighteen characters of the plaintext are
 
-Posted by Harry at 03:32 PM
+COMRADESWEAREUNDER
+
+You might even take a guess at the next six characters if you are feeling lucky, Anyway it gives you something more to check your calculations against.
+
+Good luck,
+
+Posted by Harry at 09:44 PM
