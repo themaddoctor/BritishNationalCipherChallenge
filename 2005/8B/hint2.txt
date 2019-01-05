@@ -1,4 +1,18 @@
-December 19, 2005
-Rotor 2 wirings coming tomorrow
+December 12, 2005
+CHALLENGE 8B SECOND HINT
 
-Sometime in the afternoon/evening of Tuesday 20th December I will publish the rotor 2 wirings! By the way, the Punchcard needs to be turned over and rotated so that the first two holes are in the top left corner, this then gives 0-> 0, 1->1 and so on. 
+The photo is back from the lab and they've got rid of all of the glare. The rotor is still a pretty tangled maze, but I'll get out my jeweller's loup and see if I can disentangle any of it for Thursday. Meanwhile I was reading through my notes on the machine:
+
+Rotor 2 wiring diagram
+
+1. The rotor nearest the plugboard is the fast one. It turns away from the keyboard once every key press, after the key is pressed and the lamp has lit.
+
+2. The next rotor turns once every 36 key presses (again after the lamp has lit) but the first time it turns in each message does depend on how the machine is set up. It turns towards the keyboard.
+
+3. When the key is pressed the current flows through the punchcard assembly, through the first rotor from right to left, through the second rotor from right to left, through the reflector wiring, back through the second rotor from left to right through the first rotor from left to right, back through the punchcard assembly and to the lamps.
+
+4. The punchcard is hard to read so I had a cipher clerk put a grid on it to help you. Here it is again:
+
+Punchcard
+
+Posted by Harry at December 12, 2005 02:53 PM
