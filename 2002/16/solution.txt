@@ -5,13 +5,13 @@ For the second text:
     mechanical stream cipher
     The missing wires are:
         Rotor 2
-        q ------> X33,31,25,1,17,8,11,34,6,30]
+        q ------> X
         r ------> V
-    		s ------> P
+   		s ------> P
       	t ------> 1
       	u ------> H
       	v ------> 8
-     		w ------> B
+   		w ------> B
       	x ------> Y
         y ------> 6
       	z ------> U
