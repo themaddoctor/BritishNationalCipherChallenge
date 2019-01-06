@@ -34,7 +34,6 @@ a comment in the "issues" section.
 - 2005 part 8B (at the moment, solution is only present as an Excel worksheet)
 - 2012 part 8B
 - 2013 part 6B (a transposition cipher of some sort)
-- 2017 part 8B
 
 For those who care about such things, these posters are missing:
 
