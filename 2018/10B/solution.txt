@@ -1,1 +1,18 @@
-Ha ha ha ha! Come back later.
+Periodic substitution cipher (sliced like a Vigenere cipher, where each slice is encrypted with a general substution cipher)
+    period = 7
+    keys:
+        DceOfgiAjklmnpWqrtHuvxbyzS
+        tyzuSHArDOWbcevfgiqjklxmnp
+        WfgbijkOlmnpqrctuvDxyzeSHA
+        glminpqfrtuvxyjzSHeADOkWbc
+        imnjpqrgtuvxyzkSHAfDOWlbce
+        yADzOWbxcefgijSklmvnpqHrtu
+        cijeklmbnpqrtufvxyWzSHgADO
+
+Notes:
+- Most of the letters of the keys seem to be in an order of some sort, except for S,H,A,D,O,W.
+- Not all characters appear in all slices, so these keys are not unique.
+  When a choice was possible, I chose to make all letters except S,H,A,D,O,W in as much order as possible.
+- Harry calls the cipher a "keyed Vigenere cipher".
+- I looked for a pattern in the keys, but could not find one. If you know how to unify them under one
+  overarching rule, please let me know in the "Issues" section of this project.
