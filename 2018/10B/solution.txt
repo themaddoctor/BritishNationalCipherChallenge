@@ -1,4 +1,4 @@
-Periodic substitution cipher (sliced like a Vigenere cipher, where each slice is encrypted with a general substution cipher)
+Periodic substitution cipher (sliced like a Vigenere cipher, where each slice is encrypted with a general substitution cipher)
     period = 7
     keys:
         DceOfgiAjklmnpWqrtHuvxbyzS
