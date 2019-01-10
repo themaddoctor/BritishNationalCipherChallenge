@@ -9,9 +9,6 @@ archive.org and other sites are also incomplete.
 Stuff in this archive is copyright University of Southampton. If they ask
 me to, I will have to remove them.
 
-The 2018 challenge is now in session. Answers to it will only be posted
-here after they have appeared on the official site.
-
 All ciphertexts and plaintexts are present. Not all ciphers have been identified
 (see below).
 
