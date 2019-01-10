@@ -1,1 +1,6 @@
-This one was pretty obvious.
+First, decode as 5-bit binary. (This is the same as the bi-literarie cipher whith 0 and 1 instead of A and B.)
+    00000 = A
+    00001 = B
+    etc.
+
+Then, a Vigenere cipher with key = BINARY.
