@@ -1,0 +1,3 @@
+The vowels have been replaced with digits 0...4.
+substitution cipher
+key = 0ZYX1WVT2SRQPN3MLKJH4GFDCB

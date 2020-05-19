@@ -1,0 +1,5 @@
+Caesar shift ciphers; there are two, alternating between sentences.
+They only use 24 letters (no J or V).
+
+key1 = 16
+key2 = 6

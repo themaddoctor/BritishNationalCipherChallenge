@@ -1,0 +1,94 @@
+Memo
+From: Docking-manoeuvre office
+To: AS test-flight space systems
+RE: AS docking collar tests
+
+Preliminary testing of the docking collar system has revealed a
+potentially serious flaw in the design which must be addressed
+before the system can be certified. The issue concerns the emergency
+release system.
+
+Background: The docking system performs the following functions:
+impact energy absorption, mechanical connection, spacecraft alignment,
+and retraction, spacecraft hard mechanical connection, and docking
+interface sealing, spacecraft undocking, and separation. In order to
+achieve these functions, the docking system consists of three principle
+parts: the base, a structural ring, and the latching ring. The docking
+system base is the main structural member to which the docking system
+assemblies are attached. The structural ring carries the body latches,
+which provide a hard pressure-tight connection between the two
+spacecraft. Together with the capture latches which operate during the
+docking manoeuvre, these perform the docking function. They consist of
+eight active and eight passive hooks with an electrical drive installed
+on one of the latches and closed-loop cables connecting them. Each
+active hook has a cam-operated mechanism which performs its opening
+and tightening. Corresponding hooks of the passive docking system are
+captured by active hooks. Each passive hook has a stack of preloaded
+bellville springs providing a definite force for the docking interface.
+Pre-loading the docking interface seal will provide pressure integrity
+of the docking interfaces. This consists of two concentric rubber ring
+seals on each system, and a manhole cover is used to close the transfer
+tunnel of the spacecraft. Hatch locking and unlocking is manually
+performed by the crew. It is sealed by a mechanism which has a further
+eight eccentric latches, these being connected with each other by means
+of closed-cable connection. The docking system is equipped with alarm
+and meter system which provide telemetry to the ships and to ground
+control. In standard operational mode undocking is performed by
+release of the active spacecraft capture latches and then by opening
+the structure latch hooks. If necessary, undocking can be performed
+by the passive spacecraft by releasing the body-mounted latches and
+opening the structure latch passive hooks. Spacecraft separation is
+performed by spring thrusters symmetrically located on the structural
+rings of both systems. After the latches release, the principle
+difference between the Russian and US docking system designs can be
+seen in the guide-ring system. Unlike the Russian electro-mechanical
+docking system, Apollo is equipped with an electric drive which uses
+cable connections to trigger the latches. Another essential difference
+is the Russian emergency release system (ERS), a backup provided by
+pyro bolts attached to each passive and active hook which operates
+in passive mode and provides practically instantaneous undocking in
+the event of a system malfunction or accident onboard one or both of
+the docked spacecraft. Situations in which the ERS might be initiated
+include
+
+i.   uncontrolled fire or explosion onboard one of the spacecraft
+     during docked operations
+ii.  failure of the docking control system, preventing standard
+     release operation
+iii. attitude control failure of, or unplanned firing on, one or
+     both spacecraft, imposing high stresses on the docking mechanism
+
+While the ERS provides an effective backup for emergency situations,
+simulations and tests on the Huntsville docking test bed show that
+the effectiveness of the pyrotechnic bolts is a critical issue. Too
+much explosive could cause critical damage to the pressure seals
+around the hatch, while too little can leave the spacecraft attached
+with a damaged mechanism. The ERS was designed for operation on USSR
+missions and is therefore tuned to the structural constraints on the
+Soviet platform. Since the latches are electromagnetic on that
+spacecraft, they are less prone to damage under vibrational forces.
+The motor and cable mechanism used on the Apollo platform is more
+vulnerable to shock, and under certain test conditions has been
+shown to fail, following the triggering of the ERS on the Soviet
+end of the docking mechanism. Shockwaves will not, of course,
+propagate through the vacuum of space, but the forces can be
+transmitted through the tunnel to the Apollo latches, and if the
+bolts fire asymmetrically this places a torsion loading on the
+mechanism which can unseat the drive cables. In five of the seven
+tests where this phenomenon was observed the engineers were able
+to reseat the cables by repeatedly operating the mechanism, but in
+the remaining two cases the mechanism was beyond repair without
+manual intervention. Unfortunately, in these two cases the safety
+interlock also prevented the hatch from being opened, which could
+make it difficult for the astronauts to carryout a spacewalk to
+execute the required repair. In this case, it would normally be
+possible for the astronauts to manually operate the manhole latches
+by disassembling and subsequently assembling the hatch cover. However,
+if the latching mechanisms have been sufficiently damaged by the pyro
+bolts this might prove a risky option, and it is even possible that
+the cover latches would fail to retract manually.
+
+We have asked Queen's team to take a look at this, and she assures
+me that they can sort it out. She has worked on most of the Apollo
+mission design teams, so I am pretty confident that she can make
+sure everything is OK for this one.

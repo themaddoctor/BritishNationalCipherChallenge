@@ -1,0 +1,8 @@
+06 Nov 17 at 5:55 pm
+#32044
+
+Anonymous
+
+OFFICIAL HINT: As some people are still working on part a I do not want to give too much away right now. But the following website should help you identify the type of cipher, if you have completed part a.
+https://en.wikipedia.org/wiki/Timeline_of_cryptography
+Part a tells you which century to look at, and what country. This should then give you the type of cipher.

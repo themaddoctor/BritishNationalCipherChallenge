@@ -1,0 +1,4 @@
+block transposition cipher
+permute all characters, including spaces
+permutation = (5,0,2,3,1,4,7,6)
+keyword = RAINBOWS

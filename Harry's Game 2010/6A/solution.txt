@@ -1,0 +1,9 @@
+modified Playfair cipher
+where double letters are not encrypted
+square:
+    H A R Y B
+    C D E F G
+    I K L M N
+    O P Q S T
+    U V W X Z
+keyword = HARRY

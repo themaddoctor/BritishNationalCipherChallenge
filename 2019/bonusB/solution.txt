@@ -1,0 +1,18 @@
+The first text is encrypted using binary, binary, binary, and ternary digits.
+Each group of four letters in the ciphertext is decrypted to one letter of
+the first plaintext. The least significant digit is A=0 or B=1. Next is
+D=0 or E=2. Then G=0 or H=4. Finally, J=0 or K=8 or L=16. There are 24
+possibilities, and the keyword is ALICE, and the keyed alphabet is
+
+    ALICEBDFGHKMNOPQRSTUVWXY
+
+The second cipher works by numbering the permutations of four objects:
+0 = WXYZ, 1=WXZY, ..., 24=ZYXW. The four objects in this case are the four
+digits from the first cipher. Again, each group of four letters in the
+ciphertext is decrypted to one letter of the second plaintext. For this
+part, the keyword is LOOKINGGLASS, and the keyed alphabet is
+
+    LOKINGASBCDEFHMPQRTUVWXY
+
+In three places (one in the first text, two in the second), "just" is
+rendered as "iust", since the cipher does not use the letter J.

@@ -1,0 +1,8 @@
+Viewed as a 2x2 Hill cipher, the matrix is
+
+    B B  =  1 1
+    A B     0 1
+
+Or, you could say that the second of every set of two characters
+stays the same, but the first is replaced by the sum of the two
+(modulo 26, where A=0, B=1, ...).

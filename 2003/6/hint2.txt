@@ -1,0 +1,14 @@
+November 26, 2003
+Challenge Six - second hint
+
+How are you getting on? You have the vowels from our last hint. TO get some fo the other heiroglyphs take a look at the menu bar. The heorglyphs spell out the following words:
+
+HOME JOURNAL NOTEBOOK ENTRY FORM FAME LINKS INFO
+
+so you should be able to get quite a few more letters. Note that, for example, we have used two different glyphs for N in the menu bar, but Aunt Aggie only used one of them for N in the Journal.
+
+Once you have deciphered a reasonable number of the glyphs you might want to work out which transposition cipher she used. You can at least work out how many columns you should use when writing out the text in English. A bit of experiment with the first few rows will then get you a long way.
+
+Good luck! We still don't have a hundred correct solutions this week so you can really improve your position on the leader board with a solution.
+Harry
+Posted by harry at 03:32 PM

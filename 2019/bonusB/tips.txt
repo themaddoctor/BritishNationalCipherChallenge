@@ -1,0 +1,22 @@
+From your tormentor, Madness:
+
+While I have been away, I have been thinking about the 9B cipher,
+and I realized that there is room in there for more information.
+With four digits per letter, there must be a way to cram more
+into it. So I modified it into a new cipher. The following
+ciphertext contains TWO plaintexts, each encrypted with a
+different scheme. Both use a 24-letter alphabet, like 9B.
+I hope you enjoy trying to crack them.
+
+Harry's sadism is well documented on the forum, but mine is just
+starting to show. MwahahaHAHA! Trying to decrypt both texts will
+drive you MAD. Mad! I say.
+
+I will tell you this much:
+There is no diffusion step in the cipher(s) like the period-7 diffusion of 9B.
+There are not two ciphertexts interleaved, or any such scheme;
+you need the entire ciphertext to recover each plaintext.
+The texts have nothing to do with the story of this year's challenge,
+so there are no cribs to help you.
+
+Submit your solution in the usual way, we will switch on feedback from the start.

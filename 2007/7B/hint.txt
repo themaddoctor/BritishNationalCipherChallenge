@@ -1,0 +1,5 @@
+[Harry says] It's hint time for 7B
+
+Just in case you haven't worked it out yet, Challenge 7B is a Hill cipher. It is a pretty simple one using a nice simple 2x2 matrix, so you should be able to crack it fairly easily. Have fun!
+
+By Harry at 11 Dec 2007 - 12:07am

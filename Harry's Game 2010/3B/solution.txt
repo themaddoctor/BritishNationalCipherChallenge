@@ -1,0 +1,4 @@
+Remove the nulls ('z') and
+block transposition cipher
+permutation = [0, 2, 6, 5, 3, 7, 4, 1]
+keyword = DISSOLVING

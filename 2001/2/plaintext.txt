@@ -1,0 +1,5 @@
+Cryptography involves scrambling secret messages so that they can
+only be unscrambled by the receiver, and not by anybody else who
+might intercept them. The scrambling process requires the use of
+a secret key, and traditionally unscrambling the message simply
+requires the receiver to apply the key in reverse.

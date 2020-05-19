@@ -1,0 +1,6 @@
+02 Jan 18 at 7:05 pm
+#34029
+
+Anonymous
+
+OFFICIAL CLUE: To solve 8a, first reverse the whole message. Then decode using Vigenere with keyword Nijmegen.

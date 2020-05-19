@@ -1,0 +1,10 @@
+November 20, 2003
+Challenge Six - first hint
+
+Many (not all) of the heiroglyphs can be found on the website. You might be able to work out what they stand for from that, though transliterating heiroglyphs is not an exact science and in particular vowels can be muddled. You could also try frequency analysis on the heiroglyphs to sort out which ones stand for E and T. To get you started here is a table of the vowels as they are used in the Journal:
+
+The heiroglyphic vowels as used by Aunt Aggie [Vowel-table.gif]
+
+More later,
+Harry
+Posted by harry at 08:18 PM

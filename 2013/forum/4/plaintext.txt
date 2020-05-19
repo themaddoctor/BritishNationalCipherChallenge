@@ -1,0 +1,5 @@
+this is base 36. it is basicaly like any other base, but it means i can
+include the letters a to z in the encrypted text. i can also include the
+numbers 0 to 9. if i wanted, i could mix this with another encryption.
+i could even write in numbers insted of letters, and it would still be
+different, e.g. 00 goes to a and 25 goes to z.

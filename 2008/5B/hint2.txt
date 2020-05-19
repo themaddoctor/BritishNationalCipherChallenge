@@ -1,0 +1,7 @@
+A hint for Challenge 5B
+
+Still having trouble? It might pay to take a look at where those troublesome extra characters are appearing! There is a technique called "padding" where the cryptographer includes some extra characters which don't represent any of the letters. Sometimes these are thrown in at random (that can be pretty tough to deal with) and sometimes they are added systematically (not a good move from the security point of view, but easier to automate). In this case there are some combinations which appear quite often and that might be a hint about where to find the padding.
+
+Good luck!
+
+By Harry at 3 Nov 2008 - 18:12

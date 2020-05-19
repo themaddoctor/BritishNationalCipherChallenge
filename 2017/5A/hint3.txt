@@ -1,0 +1,7 @@
+12 Nov 17 at 12:29 pm
+#32444
+
+Anonymous
+
+OFFICIAL HINT: you send in the exact decrypt for the EU part. Which should be a long series consisting of just 2 different letters. The converting to 2 colors part is to get the hidden meaning, but not what you submit.
+Part a uses a substitution cipher.

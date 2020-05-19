@@ -1,0 +1,15 @@
+14 Oct 17 at 1:21 am
+#31037
+
+Anonymous
+
+If stuck on part b:
+1. Always try to decode part a – sometimes there are hints in it.
+2. Read the 'tips' page, there are often hints there, hence the name!
+3. Look for the official help from me (or Harry or another moderator) ... anyone else posting hints will either not be very helpful, or their post will be deleted. There will never be official hints till at least the first points time slot has past.
+
+So, assuming you have done parts 1 & 2 above you will know that you are looking at a transposition cipher (if you don’t know what this is then look in the beginner’s guide on this website, or google it). You just do not know which kind of transposition cipher, but once again there is a hint in the tips section. Do your research and find out when they were developed and used. The other thing to think about is how long is the text, in this case it is 1644 characters. So you want to look at factors of this to give you an indication of what the options for the number of rows or columns.
+
+More hints will follow in time...
+
+Good luck.

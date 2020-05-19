@@ -1,0 +1,9 @@
+8th January 2020 at 7:48 pm
+#45162
+
+Harry
+Keymaster
+
+You are nearly there. This is a variant on the Trifid cipher, where instead of using 3 ternary numbers to represent one of 27 characters, we have used three binary and one ternary to represent 24 letters (leaving out the usual culprits in the text). The plain text has 4620 characters in it (without spaces and punctuation. You can work out the pattern (2,2,2,3 or 2,2,3,2 or 2,3,2,2 or 3,2,2,2) by studying the patterns of twos in the cipher text, then you need to work out the chunking. Good luck!
+
+Harry

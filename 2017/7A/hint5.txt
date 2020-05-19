@@ -1,0 +1,6 @@
+12 Dec 17 at 2:04 pm
+#33515
+
+Anonymous
+
+OFFICIAL CLUE: Most of this has been already given out in clues, but at least it is all together now. The cipher is Vigenere, the keyword (phrase) is 14 characters. Now split your text into blocks 14 characters long and use frequency analysis to figure out the shift used, and hence you will come up with the keyword. It is actually 2 words, length 7 characters each.

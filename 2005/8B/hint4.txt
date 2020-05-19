@@ -1,0 +1,4 @@
+December 19, 2005
+Rotor 2 wirings coming tomorrow
+
+Sometime in the afternoon/evening of Tuesday 20th December I will publish the rotor 2 wirings! By the way, the Punchcard needs to be turned over and rotated so that the first two holes are in the top left corner, this then gives 0-> 0, 1->1 and so on.

@@ -1,0 +1,12 @@
+December 06, 2005
+A reader writes .....
+
+"Harry, is the following matrix correct?
+
+12 5 11
+26 20 15
+4 3 10"
+
+Apart from the question of whether this is the encryption or decryption matrix I will say that the first two entries in the top row and the last one in the bottom row are correct. Hope that helps some of you.
+
+Posted by Harry at 04:53 PM

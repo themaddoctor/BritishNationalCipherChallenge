@@ -1,0 +1,22 @@
+Challenge Six Solution
+
+Much trickier this time and I have to say I'm impressed. Aunt Aggie got a taste for things Egyptian, and untangling those heiroglyphics certainly slowed me down. Of course you did have a crib, the same glyphs were used all over the site, (if not exactly in the same way!) and that should have helped with converting them to English characters. Once that was done you had the problem of another transposition cipher. This time the ciphertext had 642 characters in it, and 642=2.3.107, so the keyword length was likely to have length 6. The next step is to regroup the letters as
+
+BTINA?
+TEURTE
+?YMTAH
+UOI?ER
+.....
+
+where the question mark denotes heiroglyphs not used onthe website and for which you might not have known the meaning. A few experiments might have suggested reversing the columns to get
+
+?ANITB
+ETRUET
+HATMY?
+RE?IOU
+
+leaving you to fill in the blanks.
+
+Sounds like Aggie is off to Southampton next, and who can blame her. Fame and fortune await if she can get the slab to the collector in New York.
+Harry
+Posted by harry at 09:24 AM

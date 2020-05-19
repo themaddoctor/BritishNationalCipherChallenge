@@ -1,0 +1,17 @@
+6th May 2020 at 10:39 am
+#48106
+The-letter-wriggler
+Member
+
+TLW The 10 Digit 'Tally Number'
+=================================
+Here is something to amuse yourself with.
+This is for your own 'enjoyment' do not post answer, you can comment on it if you wish.
+
+[0 1 2 3 4 5 6 7 8 9] row 1
+[d d d d d d d d d d] row 2
+
+Replace the ten d's in row 2 to form a 10 digit decimal number such that the 1st d under the 0 in row 1 indicates the total number of zeros in the entire number, the d under 1 indicates how many 1's are in the number, and so on to the last digit whose digit indicates how many 9's are in the number. (zero is a digit, of course.) This is all in our common base 10.
+The answer is unique.
+
+Harry, as there is no cipher involved I am not giving you the answer -- have a go yourself.

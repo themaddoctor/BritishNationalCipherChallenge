@@ -1,0 +1,8 @@
+Polybius square
+
+  X L C D M
+X a b c d e
+L f g h i k
+C l m n o p
+D q r s t u
+M v w x y z

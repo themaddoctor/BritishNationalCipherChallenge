@@ -1,0 +1,34 @@
+Mark,
+
+Grandma's friend Harry dropped by for a chat about Tempest. Apparently
+the two of them worked together in the sixties on some projects and he
+has contacts in British and American Intelligence. He had heard of
+Tempest but not in this context. He pointed me to a paper on Tempest
+security protocols which you can read at
+
+    http://www.cl.cam.ac.uk/~rja14/Papers/nato-tempest.pdf
+
+Anyway, the idea seems to be to protect electronic communications from
+eavesdroppers either using software or hardware shielding. Apparently
+if you are not careful, people with the right scanners can pick up the
+keystrokes from your keyboard just by picking up on leaking electromagnetic
+waves on the power lines. The naming of the security protocol suggests
+that the military knew about Tempest a while ago and that the Tempest
+protocol was designed to keep them out of official communications. That
+might be why Tempest went looking for new opportunities and it confirms
+what we suspected about the Tempest conspiracy: insider trading is big
+business with a capital B, well two capital B's. If Tempest have been
+hacking banks and traders looking for opportunities to short the market,
+it would certainly explain the recent instabilities.
+
+Anyway, Harry seemed to think there might be something in this and said
+we might be in big trouble, capital B capital T, and we probably need to
+disappear for a while. Harry reckons that if we go quiet for a while
+Tempest might lose interest, and he said that he could call in some
+favours if we fancy a gap year. What do you think?
+
+While he was here we cracked the last page of Turing's notes where he
+summarised what he knew about Tempest encryption. It sounds pretty
+ingenious but positively archaic. Turing was obviously a bit more
+sensitive about security by that stage in his investigation, as he
+used a columnar transposition with a twist; see if you can figure it out.

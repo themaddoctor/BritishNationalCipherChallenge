@@ -1,0 +1,26 @@
+18th May 2020 at 7:13 pm
+#48358
+Puttputt86
+Participant
+
+You can do it @galaxywolf! I didn't get my challenge 6 solution in until Tuesday last week. There is still time!!
+
+If you've got the Caesar shift applied (so the frequency counter shows your interim plaintext as being in line with standard English), look for certain key words (such as the title of challenge 7B) jumbled up in the opening line! Would it help if I told you there were exactly 5,040 permutations (what does that tell you about the length of the keyword)?
+
+
+18th May 2020 at 7:22 pm
+#48359
+The-letter-wriggler
+Member
+
+@Galaxywolf and all others needing to know.
+
+You will not be able to solve the transposition unless you have the correct ciphertext.
+To get it you need the orginal ciphertext to be decrypted with the correct Caesar shift.
+How do we know which is the right shift?
+Simply test each shifted decrypt with the frequency utility.
+The right one will be the one that best fits to English (all bars are almost equal side by side)
+For the transposition, ha, you will be in seventh heaven when you solve it!
+
+I will post a slightly cryptic but direct hint.
+But when Harry will put it up I do not know.

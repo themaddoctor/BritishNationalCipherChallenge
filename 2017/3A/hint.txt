@@ -1,0 +1,6 @@
+23 Oct 17 at 3:06 pm
+#31682
+
+Anonymous
+
+Hopefully you are all doing well with the frequency analysis and the fact that the word structure is intact (so you can start to complete words to help figure out more of the cipher). For those of you who are struggling to fill in the missing letters, check out page 10 of the code breaking guide. Affine shift ciphers.

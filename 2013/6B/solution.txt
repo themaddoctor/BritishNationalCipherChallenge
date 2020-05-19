@@ -1,0 +1,3 @@
+railfence cipher
+rails = 9
+offset = 0

@@ -1,0 +1,1 @@
+Each value in the key stream is the sum of the values of all previous characters in the plaintext.

@@ -1,0 +1,24 @@
+OFFICIAL CLUE: For those of you still struggling with 5B. Here is some help - for this specific challenge, not just transposition ciphers in general
+
+Firstly, the character count is 1470. It's prime factorisation is 2x3x5x7x7. This means that possible keyword lengths (number of columns) are 2,3,5,6,7,10,14,15,....
+
+Next think of a crib (a word you expect to find in the plain text). A crib containing unusual letters is helpful. e.g. dynamix (the x being a key letter here as there are only 2 of them in the whole cipher text). Start writing out this in columns:
+
+firstly 2 columns
+
+d y
+n a
+m i
+x
+
+If the keyword was 2 letters long then you would find a string "dnmx" and another string "yai" in the text. If you do not find the strings then try the next possible length, which in this case is 3:
+
+d y n
+a m i
+x
+
+If the keyword was 3 letters long then you would find a string "dax", another one "ym" and another one "ni" in the text.
+
+You do not need to try 4 columns as this is not one of the possible keyword lengths.
+
+Continue on till you figure out the keyword length. Rewrite the text in columns, and then you just have to figure out which order the columns go in to make the right words (again you can focus just around the word dynamix, once this is in the right order, all the other words should be too.)

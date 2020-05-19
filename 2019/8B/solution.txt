@@ -1,0 +1,13 @@
+Polybius square cipher
+
+square:
+
+        A B C D E
+    
+    F   N I O B E
+    G   F G H K L
+    H   M P Q R S
+    I   T U V W X
+    K   Y Z A C D
+
+keyword = NIOBE (from Greek mythology)

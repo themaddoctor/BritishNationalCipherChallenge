@@ -1,0 +1,11 @@
+October 08, 2004
+
+Challenge 2B
+
+Why are all the words in Challenge 2B four or five letters long? They are not. It is common practice to regroup the letters in a ciphertext into groups of five to disguise the words so you can't use the shape of the words to guess them. Why not just write them out without any spaces at all? Because it is easy to make a mistake copying them down that way.
+
+The upshot is you have to try to figure out the letters by frequency analysis and guesswork. Use what you already know. See a strange word in the text? Maybe it is an abbreviation or a foreign word or name. Have you seem it before in the Challenge? Are there any unusal words you might expect to see?
+
+Keep trying.
+
+Posted by Harry at 11:10 AM

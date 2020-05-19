@@ -1,0 +1,9 @@
+December 04, 2004
+
+Hint for Challenge 7A
+
+No wonder you are finding it difficult, it has been double encrypted by that cunning Aunt Aggie. She encrypted the plain text using a polyalphabetic substitution cipher then rearranged the ciphertext letters using some rule. I guess that's what she meant about "reflecting". I guess the layout of the message wasn't incidental.
+
+Good luck,
+
+Posted by Harry at 02:49 PM

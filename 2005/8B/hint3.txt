@@ -1,0 +1,14 @@
+December 15, 2005
+Posted by Harry at 03:03 PM
+
+The Pringle Enigma plus first rotor wiring (WARNING - EDITED)
+
+No not the mystery of who ate all of Harry's Pringles (Harry did), but the mystery of how to turn a Pringles can into an Enigma machine. Well almost. You can download the (Blue Peter style) plans here.
+
+They will be more use to you once all the settings have been revealed. So far we have had four correct submissions for Challenge 8B and we are hoping to get a lot more. For now here is the wiring for Rotor
+
+21, 26, 9, 23, 28, 14, 5, 20, 13, 25, 31, 27, 33, 8, 1, 0, 18, 30, 11, 4, 6, 16, 24, 3, 7, 15, 2, 17, 10, 29, 32, 35, 19, 12, 22, 34
+
+Remember there are 36 pins on the rotor and I have numbered them 0 to 35. The first one (one) is connected to pin 21 on the other side, while the second (two) is connected to 26 and so on. The numbering is given round the edge of the wheel so it goes clockwise on one face and anticlockwise on the other (i.e., pin 1 on one side is adjacent to (but not connected to) pin 1 on the other side, and pin 2 is adjacent to pin 2 on the other side but connected to pin 26 and so on.
+
+I will publish some info about the other rotor and the punchcard later on.

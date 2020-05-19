@@ -1,0 +1,12 @@
+Clue Number 4
+
+Written by Harry
+Thursday, 20 December 2012 14:22
+
+Dear Charles,
+
+I realise I didn't complete the description of the cipher for you! After the transposition stage the resulting text is read off as triples and recoded back (using the same 3x3x3 block encoding) into characters. Maybe to throw the reader off or perhaps to give us some kind of extra crib, Tiberius reformatted the string so it fitted into the original text shapes. I suppose that does give another way to try to break in!
+
+All the best,
+
+Harry

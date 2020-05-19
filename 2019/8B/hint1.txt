@@ -1,0 +1,12 @@
+7th December 2019 at 1:17 pm
+#44719
+
+Cribbage
+Member
+
+(Harry permitting …)
+
+The length of the ciphertext is always a good place to start when analysing a new ciphertext. The length of 8A and 8B are two important factors this week, for different reasons:
+
+    - The text of 8A is very long and, apart from (presumably) for storytelling reasons, this was done to make it easier for us to crack – something about the way this has been enciphered requires a longer ciphertext to make decryption a manageable task.
+    - The text of 8B, without spaces, is 3958 characters. The only factors of 3958, apart from 1 and 3958, are 2 and 1979. It is unusual to find such a large even number with only two factors, and I am 99% certain that this is no accident and has again been done for our benefit. It's another example of just how carefully these ciphertexts are constructed.

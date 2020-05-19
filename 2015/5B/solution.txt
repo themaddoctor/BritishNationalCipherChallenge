@@ -1,0 +1,4 @@
+Vigenere cipher
+key = DE
+
+Note that the locker numbers do not appear in the ciphertext.

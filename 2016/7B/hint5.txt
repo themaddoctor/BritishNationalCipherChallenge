@@ -1,0 +1,1 @@
+OFFICIAL CLUE: On http://cmup.fc.up.pt/cmup/v2/include/filedb.php?id=120&table=publicacoes&field=file look at the end of page 2, section 2 for how to work out the period.

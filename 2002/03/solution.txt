@@ -1,0 +1,5 @@
+Caesar shift cipher
+key = 13
+
+The first letter of the first seven sentences make TURNING,
+which is the keyword for the next message.

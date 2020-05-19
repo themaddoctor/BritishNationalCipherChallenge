@@ -1,0 +1,5 @@
+Reverse the text, replace all "?" with "B", and
+monoalphabetic substitution cipher
+("?" and "B" are homophones for "e")
+key = HARYBCDEFGIJKLMNOPQSTUVWXZ
+keyword = HARRY

@@ -1,0 +1,37 @@
+First, decode as Morse code.
+
+Then, replace "0" with "." (dot), "1" with "-" (dash), and use "2"
+as a separator. Then decode as Morse code again.
+
+Finally, decrypt with the rotor machine, whose details follow.
+
+    punchcard
+
+        0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        01IPSM6GNXQRYHTW7D2ZOU58K3AB4ELVF9CJ
+
+    rotor 1 wiring
+
+        0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        YLQ9NSE5KDPVRX810IUB46GO37F2HATWZJCM
+
+    rotor 2 wiring
+
+        0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        UINZGS3DQEMJWF02KA4R7LO95CTXVP1H8BY6
+
+    reflector wiring
+
+        0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+        FYTPMGRBQVE7ZXA05NWSUO4HL386J2K9ID1C
+
+    rotor motion
+
+        rotor 1 advances by one for each character
+        when rotor 1 reaches 1, rotor 2 moves backwards by one
+
+    initial settings (the key)
+
+        rotor 1: G
+        rotor 2: Q
+

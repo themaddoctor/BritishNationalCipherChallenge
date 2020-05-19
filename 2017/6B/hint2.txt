@@ -1,0 +1,6 @@
+19 Nov 17 at 12:05 am
+#32907
+
+Anonymous
+
+OFFICIAL CLUE: The following has just come in from Maryam. I have taken the liberty to decode it for you. Good luck. “The ioc was pretty conclusive about the period of the cipher, but frequency analysis didn’t give us a Caesar shift for each column. It was Jodie who pointed out that if the Romans were using lookup tables from the Codex then they didn’t have to rely entirely on Caesar shifts in each column so we had to do the hard work of figuring out each of the substitutions used.”

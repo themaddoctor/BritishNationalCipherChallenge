@@ -1,0 +1,4 @@
+substitution cipher with homophones
+
+ciphertext characters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plaintext characters:  ins chmrwbglqvaf pusejotyd

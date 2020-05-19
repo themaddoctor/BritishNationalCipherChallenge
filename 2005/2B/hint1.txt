@@ -1,0 +1,6 @@
+October 09, 2005
+CHALLENGE 2B HINT
+
+Stuck on 2B? The first hurdle is the morse code. You can tackle this by hand or using a word processor to replace each morse sequence by the appropriate sequence of letters. This will give you a standard ciphertext. Unfortunately this one doesn't appear to be a Caesar shift (that's because it isn't one) so you need to work a bit harder to crack it. If you check the frequency with which letters appear in the ciphertext you should see that one appears most often so that probably represents e, that gives you somewhere to start. Look for a common three letter sequence - this probably represents the word "the", carrying on like this gives a way to crack open the cipher. In fact this cipher is still a fairly simple one, and we wrote about it in the Teachers' Pack which you can download from this site at this url. Take a look, it is full of useful tips. Good luck,
+
+Posted by Harry at 06:18 PM

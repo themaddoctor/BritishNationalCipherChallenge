@@ -1,0 +1,14 @@
+October 01, 2004
+
+First Hint for Challenge 1
+
+New to cipher cracking? If you don't know where to begin you could try looking at our notes on cracking subsitution ciphers which you will find in the Teachers' Pack
+Download Teachers' Pack
+
+The best way to tackle a ciphertext like those in Challenge 1 is probably to use frequency analysis. This is a fancy way of saying that you should count up the letters in the text to figure out which appear most often. Since E and S are usually the most common letters in a plain English text it is almost certain that the most common letter in the ciphertext represents E.
+
+You can also use the fact that these messages seem to have been encrypted with the word structure intact to try and identify common words like "the" and "a".
+
+Good luck,
+
+Posted by Harry at 04:50 PM

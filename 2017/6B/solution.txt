@@ -1,0 +1,27 @@
+I call this a "periodic affine cipher". Like Vigenere, it is cut into slices, but each
+slice undergoes an affine substitution rather than a Caesar shift. All of the affine
+substitutions share the same multiplier, but they have different offsets. The offsets
+spell a key phrase.
+
+multiplier = 7
+key phrase (offsets) = AGRICOLAE MORTEM
+
+(Why is it in the accusative case?)
+
+Harry says it's an affine cipher, followed by Vigenere. So decrypt in the reverse order:
+Vigenere with key AGRICOLAE MORTEM, then affine with multiplier 7 and offset 0.
+
+Because it is a monoalphabetic substitution (the affine cipher) followed by a Vigenere,
+this is a type 1 polyalphabetic substitution cipher, also called Quagmire I. But then
+the keys are AGRICOLAEMORTEM for the shifts, and NCRGVKZODSHWLAPETIXMBQFUJY for the
+alphabet. Note that the alphabet key is the substitution key for an affine cipher with
+multiplier 15 and offset 13.
+
+But wait, there's more! Possibly because of the regularity in an affine cipher's
+key alphabet, this challenge can also be solved as a type 2 (Quagmire II) cipher,
+which can be thought of as a Vigenere followed by a monoalphabetic substitution.
+In this case, the shift key is AGRICOLAEMORTEM and the alphabet key is
+AHOVCJQXELSZGNUBIPWDKRYFMT, which is the substitution key for an affine cipher
+with multiplier 7 and offset 0. Note that if you try to decrypt the affine cipher
+first, then you need to use AMVQECJAIYCVZIY as the Vigenere key; but this is
+just the decryption of AGRICOLAEMORTEM under the affine cipher.

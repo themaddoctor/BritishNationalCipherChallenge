@@ -1,0 +1,1 @@
+For those of you struggling with 4b, hope this helps. Use frequency analysis, this should tell you something about the type of cipher used (check on the beginner's guide to code breaking if you need a hint). Next, look for cribs. A really good one is a word from the story which contains the letter x as this letter doesn't occur in many other words in the English language.

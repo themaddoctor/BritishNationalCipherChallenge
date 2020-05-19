@@ -1,0 +1,10 @@
+Clue Number 1
+
+Written by Harry
+Thursday, 20 December 2012 14:18
+
+Dear Charles,
+
+if you are having difficulty cracking the last section you should probably take note of the underscore - I didn't think anything of it at first, especially given all the formatting, but it does stand out as unusual. For some reason this cipher uses 27 characters. The formatting is actually a red herring apart from that and is best removed, though it is correct in that it does encode the original word shapes, so it is worth keeping it around somewhere as a sanity check!
+
+Harry

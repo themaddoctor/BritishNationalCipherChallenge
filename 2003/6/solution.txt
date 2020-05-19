@@ -1,0 +1,30 @@
+Symbolic substitution cipher, based on hieroglyphics:
+
+        A vulture
+        B foot
+        C pool (rectangle)
+        D hand
+        E sail
+        F viper
+        G jar stand
+        H twisted wick
+        I reed
+        J [not present]
+        K basket with handle
+        L lion
+        M owl
+        N water
+        O drooping plant
+        P mat (square)
+        Q [not present]
+        R mouth
+        S door bolt
+        T bread (semicircle)
+        U rope
+        V mouth with vertical stroke
+        W chick
+        X foot in boot?
+        Y hoe (?)
+        Z [not present]
+
+Then, reverse each block of six letters.

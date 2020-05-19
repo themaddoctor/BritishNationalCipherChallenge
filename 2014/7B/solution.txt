@@ -1,0 +1,2 @@
+AMSCO cipher modified to use two characters in the first place
+permutation = (2,0,1,4,3)

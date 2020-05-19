@@ -1,0 +1,6 @@
+28 Nov 17 at 3:22 am
+#33159
+
+Anonymous
+
+OFFICIAL HINT: The key word for the vigenere is “Agricolae mortem”. Once you have decoded this, you need to decode the affine shift too.

@@ -1,0 +1,7 @@
+3x3 Hill cipher
+
+matrix:
+
+     4  21   3
+     8  10  19
+    21   9   1

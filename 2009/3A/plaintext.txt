@@ -1,0 +1,24 @@
+my dear miss lovelace,
+
+without your cheerful support i might already have abandoned our project and devoted my life entirely to the
+mathematical sciences at cambridge. the election in finsbury did provide a diversion, though my dismal
+placing as fourth of four candidates leads me to the conclusion that parliamentary life is likely to elude
+me. on a happier note my plans for a statistical society appear to be reaching fruition and i have real hope
+that such an association may well be founded this very year.
+
+your proposal that we should continue to work on the analytic engine in secret brings me great cheer. there is
+nothing like a conspiracy to give life sparkle, and i believe your suggestion has much to recommend it. it is
+increasingly apparent that lord pennylaine's actions, while they may be innocent, are greatly inhibiting
+progress on the difference engine, and i am coming to agree with you that, in all likelihood, his efforts are
+not entirely innocent. given that he may be acting against the interests of the government as well as against us, i
+am concerned for our safety. it may depend on the adoption of more sophisticated cyphers than those we have
+hitherto used. i flatter myself that i should be able to decypher any cryptic message you care to choose, and i
+have great confidence that you will be able to decypher mine without knowledge of the key. but in order to avoid
+embarrassment may i propose that our next communication should be encoded by use of that most elegant affine
+cypher to which you alluded in our conversation? the arithmetic is attractive in its simplicity, and i feel
+sure that pennylaine would be defeated by it.
+
+i would also propose that we appear publicly to despair of ever completing the difference engine, allowing all
+attention to focus upon it while we direct our real efforts to the design of the secret analytic engine.
+
+yours truly, charles babbage

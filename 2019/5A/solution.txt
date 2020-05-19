@@ -1,0 +1,3 @@
+monoalphabetic substitution cipher
+key: SOLARTUVWXYZBCDEFGHIJKMNPQ
+keyword: SOLAR

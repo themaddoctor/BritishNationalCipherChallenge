@@ -1,0 +1,27 @@
+December 16, 2004
+
+Challenge 8B
+
+If you have been reading the solutions carefully you will know that Challenge 8B is a Solitaire Cipher. To all intents and purposes this is uncrackable without the key, or at least unless you have enough of the key. We will begin by giving you part of the key here in Harry's Notebook and the aim of the Challenge is for you to write your own implementation of the Solitaire Cipher and crack the cipher using the partial information we give you.
+
+The key is the original set up of the deck of cards and we will feed it to you a few cards at a time. When you know all of the key you can run your programme to crack the cipher. even better by the time you know all but the last ten cards in the key deck there will be just 3,628,800 possible keys and you can try to "decrypt" the ciphertext with each of these keys in turn. Your programme can look for crib words, do the frequency analysis or use one of the other standard tests (like the index of coincidence) to identify which of the "decrypts" looks most like English text. You should then be able to find the correct keystream and decrypt the ciphertext. Obviously the faster your programme is the earlier you should be able to crack the cipher.
+
+The IBM Programming prize will be awarded for the quality of the programme. Originality is important so do not just copy someone else's programme if you want to compete for the IBM Prize. You can use ANY programming environment including Visual Basic, Perl, Excel and C.
+
+You can find the official description of Solitaire on Bruce Schneier's webpage at Counterpane, where you will also find links to other people's implementations of the algorithm. If you are fed up, don't want to compete for the IBM Prize and just want to solve the final Challenge for fun you can use these programmes together with the published key to crack it when there are just a few cards to go. Alternatively you can try by hand when there are one or two cards to go!
+
+The Schedule for the release of the key is as follows. The top twenty eight cards in the deck are published below. The next thirteen will be published tomorrow (Friday 17th December) at 3.30pm. We will then publish three cards a day at 4pm on 2nd, 3rd, 4th, 5th, of January. The final card is of course determined by the first 53 so at this stage you will know all there is to know!
+
+The top of the deck:
+
+46,54,48,49,8,3,25,22,19,13,14,24,26,40,15,9,50,32,33,34,35,36,37,38,39,1,42,43
+
+
+The convention we are using here is the Bridge ordering so that the Ace of Clubs is represented by 1, the 2 of Clubs by 2 and so on up to the King of Clubs which is 13. The Ace of Diamonds is 14, the Ace of Hearts is 27, the Ace of Spades is 40, the A Joker is 53 and the B Joker is 54. So the top seven cards on the key deck are:
+
+7 of Spades, B Joker, 9 Spades, 10 Spades, 8 Clubs, 3 Clubs, 12 Diamonds, ....
+
+
+This Challenge is undoubtedly hard, but with patience (ha ha) you can crack it. Good luck
+
+Posted by Harry at 09:35 AM

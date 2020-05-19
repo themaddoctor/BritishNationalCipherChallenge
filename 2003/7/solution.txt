@@ -1,0 +1,18 @@
+variation on the ADFGVX cipher: block transposition is used instead of columnar transposition
+
+permutation = (1,0,5,2,4,3)
+    keyword = BABYLON if repeated letters are deleted
+
+the square:
+
+      A D F G V X
+    A     s t o n
+    D     e f g h
+    F i j   k l m
+    G p q r   u v
+    V w x y z
+    X a b c d
+
+    since there are no digits in the plaintext, their placement is irrelevant
+
+    keyword = STONE

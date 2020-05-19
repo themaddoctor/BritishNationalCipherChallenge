@@ -1,0 +1,9 @@
+3x3 Hill cipher
+matrix:
+    0  1  0
+    1 14 22
+    0 22  1
+or
+    A B A
+    B O W
+    O W A

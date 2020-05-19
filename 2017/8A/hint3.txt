@@ -1,0 +1,6 @@
+22 Dec 17 at 4:09 pm
+#33791
+
+Anonymous
+
+OFFICIAL HINT: This is a double cipher. One cipher you have seen before lots of times. Work on that as normal. When you think (based on the ioc and frequency anaylsis) that you have decoded it, then look carefully at your solution. The second cipher should become obvious at that point.

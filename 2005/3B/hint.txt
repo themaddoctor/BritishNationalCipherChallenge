@@ -1,0 +1,10 @@
+October 18, 2005
+HINTS FOR CHALLENGES 3B and 4B
+
+Sorry we've been quiet, I've been travelling. I'd tell you where i've been, but then I'd have to kill you. Anyway, It looks to me like the cipher in message 3B might be one of those keyword ciphers, so it is monoalphabetic and just a matter of doing the frequency analysis again. Good luck with it.
+
+Have to figure the Soviets might try something sneakier some time. I have a new toy to transcribe the Soviet Morse Code as it comes in, so you might see something a little different on Thursday.
+
+All the best,
+
+Posted by Harry at 07:28 PM

@@ -1,0 +1,3 @@
+First, reverse the ciphertext, then
+Vigenere cipher
+key = ONE SMALL STEP ONE GIANT LEAP

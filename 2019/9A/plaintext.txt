@@ -1,0 +1,69 @@
+Harry,
+
+With the launch of the Apollo-Soyuz mission coming up I thought it would
+be a good idea to check in with Mike and make sure he didn't have any
+left-over surprises for us. After the tank-pressurization problem on
+Apollo XVII, I was not completely confident that he couldn't have set
+something in motion back when he was still working at NASA. He seemed
+pleased to see me--I don't think he gets many visitors--but we didn't
+have a lot to talk about, and it didn't take him long to figure out
+why I was there. He still claims he had nothing to do with what he
+called "the accidents", though he admits he sent the letter to the
+press. I pressed harder and asked him about the manifesto. It had been
+read out in court, so he knew we knew about it, but he was definitely
+trying hard to steer me off the topic, and I got the feeling he was
+hiding something.
+
+I didn't get anything more out of the interview, but I continued to
+worry about it on the way back to headquarters, so when I got there
+I dug out the manifesto and took another look. I don't know how we
+missed it, but we never carried out forensics on the document. I guess
+I was so taken up with cracking the cipher and analysing its content
+that I forgot to ask someone to check it. As soon as I realised the
+mistake I sent it over to Langley and got them to run the tests. The
+results are conclusive: The manifesto was not produced on Mike's
+typewriter. I looked through the files but couldn't find anything
+written by him on another typewriter, even at work. There he had a
+secretary to type for him, and in any case the ink and typeface on
+the manifesto don't match any of the NASA machines either. A typewriter
+is too big and bulky to hide, and we didn't give Mike time to dispose
+of one, so I don't think the manifesto was written by him.
+
+I read it again more carefully for clues. I should have noticed the
+phrase "our son" at the top. It would have reminded me that Mike was
+married. Putting that together with the keyword for the manifesto
+cipher "NIOBE", things began to get a little clearer. Homer wrote
+about Niobe in the Iliad. She was famous as the queen whose sons
+were killed by the gods in revenge for her pride. So I got in touch
+with Interpol and made enquiries about Mike's wife. Mike's wife is
+also English, and the manifesto uses the English spelling of "programme".
+Her friends say she had a breakdown after her son died, and when Mike
+moved back to the US she went to live with her in-laws. After what
+seemed like a slow recovery, she told them she was moving back to
+the States to be near her original family. That was eleven years ago,
+but her relatives stateside say they have not seen her, and no one
+knows where she went. I spoke to the security service in the UK, and
+they told me she was an engineer who was quite capable of carrying
+out the sort of sabotage we saw on the earlier Apollo flights.
+Significantly, she learned her trade working with the UK atomic-
+weapons authority AWRE, which fits perfectly with the worries in
+the manifesto. She left after her son died in Korea and started
+meeting with peace campaigners. Her security clearance was revoked,
+and soon after that she left the UK.
+
+Soon after I received the report from London I took a call from the
+Apollo-Soyuz team at NASA. Someone reminded them about the problems
+we had with the lunar flights, so they called me back into audit
+their security. I found a trail of edited service records that
+reminded me of the tampered files associated with Apollo XIII.
+The files were all scrambled using keys that came from Homer,
+Apollodorus, and other Greek classics. So far we have cracked all
+but one of them and found and fixed problems with guidance control,
+life support, and electrical power. But there is one file I can't
+crack. Without it, we don't know if there is some other critical
+system that Mike's wife may have tampered with. She failed to provoke
+America into declaring war on Russia three years ago, but the peace
+is still far from easy. If anything happens to the crew of the ASTF
+we might find ourselves on the brink of war again. With Stafford,
+Brand, and Slayton scheduled for lift-off in the next few weeks, it
+is crucial that we break this cipher.

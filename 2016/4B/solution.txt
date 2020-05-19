@@ -1,0 +1,7 @@
+block transposition cipher
+    permutation = (0,4,3,1,2)
+    keyword = DUPIN (name of a fictional detective)
+then reverse the text
+
+if you reverse the ciphertext first, then use
+the permutation (2,3,1,0,4)

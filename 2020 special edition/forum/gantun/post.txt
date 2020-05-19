@@ -1,0 +1,38 @@
+3rd April 2020 at 11:25 am
+#46598
+Madness
+Member
+
+Today's episode is brought to you by the number 7197738.
+
+This is actually an encoding rather than a cipher. It was inspired by an on-line challenge at
+https://susec.tf/tasks/gantun_229621efd1dcc01ef8851254affd1326887ec58e.txz
+
+I took their algorithm and reduced to to only use the letters A-Z. Here is the Python code that I used to encode the "ciphertext". Because indentation is important in Python, and because the forum server removes spaces from the beginning of every line, you should replace every occurrence of "[INDENT]" with 8 spaces (or a tab) in the following code before you use it.
+
+from random import randint
+alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+def encrypt(p):
+[INDENT]numbers = []
+[INDENT]for char in p.upper():
+[INDENT][INDENT]numbers.append(alphabet.index(char)+26)
+[INDENT]while len(numbers) > 1:
+[INDENT][INDENT]n = randint(0,len(numbers)-2)
+[INDENT][INDENT]x = numbers[n]
+[INDENT][INDENT]y = numbers[n+1]
+[INDENT][INDENT]if x > y:
+[INDENT][INDENT][INDENT]z = x*x + x + y
+[INDENT][INDENT]else:
+[INDENT][INDENT][INDENT]z = y*y + x
+[INDENT][INDENT]numbers = numbers[:n] + [z] + numbers[n+2:]
+[INDENT]return numbers[0]
+
+Here is the "ciphertext":
+
+106383886716898490132849808893959579644966513504668004893376273104567230060478853561821154300405528376830349480440305515628682136413218581984172008217451482183624183648735550855010971762114675826856238674946359430
+
+If you enjoy this sort of thing, I have another one ready, called the "factorization cipher". Yes, I stole it too from somewhere else.
+
+[I should note that I had to do a bit of tinkering to make the code run – mostly because some of the characters rendered on the website are not recognised by Python. Try retyping offending lines if you can't tell what the problem is! Also, nice job on [INDENT] being exactly eight characters.
+
+water_biscuit]

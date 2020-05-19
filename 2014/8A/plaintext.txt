@@ -1,0 +1,29 @@
+mark
+
+i cracked what appears to be the final document about the trojan
+deployment and i think i have an idea about how to deal with it and
+with the flag day associates the principal weakness of any system
+like the one they have installed is the need to provide large
+quantities of power the fda came up with an ingenious solution but
+it is very vulnerable special forces could take it out for us but
+that would tell the fda that we have cracked their ciphers so instead
+i suggest we let them destroy trojan for us we will need cooperation
+from the omani government an armed fighter jet and the flight control
+systems from a drone
+
+meanwhile we need to ensure two things one that we do not send critical
+information across the bab-al-mandab strait and two that we use a
+noncritical key generation protocol on that channel given the level
+of commitment the fda have shown in developing this plan i am sure
+that they will reinstate the power supply within a few months but with
+luck they will not guess that we know about it and we will put it out
+of business for long enough to come up with a plan of our own to exploit it
+
+in the meantime we now know that their highest-security communications
+are encrypted using a cadenus cipher so we can start hunting through the
+database for other intercepts we can crack this may be the breakthrough
+we have been looking for in the fight against the fda let's not screw
+it up
+
+all the best
+harry

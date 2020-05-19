@@ -1,0 +1,26 @@
+December 02, 2005
+Second hint for Challenge 7B
+
+So far (if you have been following the comments, and you should have been) you know it is a Hill cipher. In this case given by a 3 x 3 matrix. That means there are nine numbers a,b,c,d,e,f,g,h,i so that if the first three letters are represented by numbers x,y,z (taken mod 26 so that a is represented by 0, b by 1 and so on) then the first three characters of the cipher text are represented by the numbers
+
+ax+by+cz, dx+ey+fz, gx+hy+iz
+
+where the numbers are again taken mod 26, so for example if ax+by+cz=27 then we regard that as 1, representing b (1 is the remainder when you divide 27 by 26) and if ax+by+cz=59 you regard it as 7 representing h.
+
+Now looking at the ciphertext you see the first three letters are SSO, represented by the numbers 18, 18, 14, so you know that in fact
+
+ax+by+cz=18
+dx+ey+fz=18
+gx+hy+iz=14
+
+Now looking at previous challenges you can guess that the first three letters of the plain text are COM, so that gives you a guess for x,y,z and gives you
+
+2a+14b+12c=18
+2d+14e+12f=18
+2g+14h+12i=14
+
+That gets you started. Guessing the next three characters of the plaintext gives you another bit of information, and looking for other cribs (what is the most common triple of letters in english?) helps to give enough data to start cracking the cipher.
+
+Good luck!
+
+Posted by Harry at December 2, 2005 10:21 PM

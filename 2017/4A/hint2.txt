@@ -1,0 +1,16 @@
+06 Nov 17 at 4:52 pm
+#32040
+
+Anonymous
+
+If you are struggling on 4a, firstly you may notice (if you have done a frequency analysis) that it is not the same as for the English language, so it is not a transposition cipher, but is one where letters have been substituted for other letters. The frequency analysis should also still provide a few spikes, thus implying it is just a simple substitution cipher. Next you need to figure out which letter in the plain text has been mapped to which letter in the cipher text. One way to do this would be to use word & find & replace (where case matters) and use lower case letters for all the plain text. The fact that the word structure is intact, this should give you a good start.
+e.g. All previous part A challenges have been letters between two of the three people Harry, Maryam and Jodie. See if any of these fit the word structure at the start and end of part A. Then any 1 letter word is probably “a” or “i”. The most common letter is usually “e”. If you have 3 letter words with “_he” the blank is probably “t”. Once you have done this see if you can fill in any more letters through educated guesses. Also keep a track of what letters in the plain text have become what letters in the cipher text. Then you may be able to fill in some more.
+
+Note usually after the keyword has been used you the use the rest of the alphabet in order, e.g. with the keyword hello you would end up with:
+e.g.
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+H E _ O P Q _ S T U _ _ _ _ _ A _ C _ _ _ I J K _ _
+
+If you had the above, then you could start to look for letters which would fill in the gaps, because after the keyword, the rest of the alphabet is just used in order. So “q” must be “B”, as this is the only letter between A & C. Unfortunately the key word this week is actually a keyphrase, so this part will not help you. Everything else above will though.
+
+Good luck, more hints will follow if needed. Use this forum to ask questions so I know people want more hints!

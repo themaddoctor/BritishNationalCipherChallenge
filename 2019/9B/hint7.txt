@@ -1,0 +1,11 @@
+31st December 2019 at 11:53 pm
+#45097
+
+Harry
+Keymaster
+
+I like the thinking here, we have used something like that in challenges past, but this time the 2's carry more content. The cipher alphabet has 24 letters (not obvious), so you need to think how to represent 24 letters using 0,1,2. There are some more clues about this already on the site and scheduled to appear very shortly.
+
+Happy New Year,
+
+Harry

@@ -1,0 +1,3 @@
+Monoalphabetic substitution cipher
+key = THUNDERABCFGIJKLMOPQSVWXYZ
+keyword = THUNDER

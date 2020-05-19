@@ -1,0 +1,23 @@
+Can be viewed as a periodic substitution cipher (sliced like a Vigenere cipher,
+where each slice is encrypted with a general substitution cipher)
+    period = 7
+    keys:
+        DceOfgiAjklmnpWqrtHuvxbyzS
+        tyzuSHArDOWbcevfgiqjklxmnp
+        WfgbijkOlmnpqrctuvDxyzeSHA
+        glminpqfrtuvxyjzSHeADOkWbc
+        imnjpqrgtuvxyzkSHAfDOWlbce
+        yADzOWbxcefgijSklmvnpqHrtu
+        cijeklmbnpqrtufvxyWzSHgADO
+
+Harry calls the cipher a "keyed Vigenere cipher".
+This works if the Vigenere key is ARCHIVE and the alphabet is
+SHADOWBCEFGIJKLMNPQRTUVXYZ, so that the two keywords are
+SHADOW and ARCHIVE. Note that we must take A=1, B=2, ...,
+instead of what we usually do (A=0, B=1, ...).
+
+It can also be viewed as a triple cipher, a Vigenere between two monoalphabetic
+substitution ciphers. To decrypt fully, first decrypt as a substitution cipher
+with key SHADOWBCEFGIJKLMNPQRTUVXYZ (keyword = SHADOW), then decrypt as a
+Vigenere with the key BSDIJWF (= ARCHIVE + 1,1,1,1,1,1,1), then reencrypt as a
+substitution with key SHADOWBCEFGIJKLMNPQRTUVXYZ (keyword = SHADOW).

@@ -1,0 +1,11 @@
+December 12, 2004
+
+Final Hint for 7A and more on 7B
+
+To crack 7A switch the rows and columns over, so the first column read from top to bottm becomes the first row read left to right, the second column read top to bottom becomes the second row read left to right and so on. After that it is just a straightforward Vigenere cipher with a 7 letter keyword!
+
+For 7B it really is a double playfair laid out just like the one described on the Nova website. Very, very similar in fact, so you should just need to try the possible keywords.
+
+Good luck,
+
+Posted by Harry at 05:12 PM

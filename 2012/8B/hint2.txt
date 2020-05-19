@@ -1,0 +1,10 @@
+Clue Number 2
+
+Written by Harry
+Thursday, 20 December 2012 14:20
+
+Dear Charles,
+
+Still stuck? As I said before this is based on the idea of the ADFGVX cipher, but instead of starting with a 6x6 grid it starts with a 3x3x3 grid in which the 26 letters of the alphabet and the underscore, representing a space, are entered in some order. This encodes those twenty seven characters as triples AAA, AAB, AAC, ABA, ABB, ABC, ACA ACB, ... and so on.
+
+Harry

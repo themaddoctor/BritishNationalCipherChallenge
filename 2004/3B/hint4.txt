@@ -1,0 +1,13 @@
+October 20, 2004
+
+Another hint for 3B
+
+If you are having trouble shuffling columns of text around can I suggest typing the text into cells in an Excel spreadsheet nine across like this
+
+H E R E I S A T E
+S T P I E C E O F
+T E X T
+
+then rearrange the columns by cutting and pasting then copying the text into notepad. Hope this helps anyone who has nearly got it. All the best,
+
+Posted by Harry at 06:26 PM

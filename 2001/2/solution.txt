@@ -1,0 +1,3 @@
+affine cipher
+multiplier = 7
+offset = 3

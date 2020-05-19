@@ -1,0 +1,6 @@
+Caesar shift and permutation ciphers
+
+Caesar key = 10
+
+permutation = (3,0,6,4,2,1,5)
+keyword could be PATROLS

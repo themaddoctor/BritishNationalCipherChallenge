@@ -1,0 +1,6 @@
+12 Nov 17 at 1:32 am
+#32416
+
+Anonymous
+
+OFFICIAL HINT: Steganography is concealing a message somehow. Don’t do anything fancy when trying to decrypt the section of U’s and E’s. The sentence after the U and E’s tells you that yes, they are decoded to just 2 letters. Use those 2 letters and turn them into the colors they represent. Then you need to think where there may be line breaks to make an image appear. Good luck.

@@ -1,0 +1,10 @@
+26th November 2019 at 12:02 pm
+#44402
+
+Harry
+Keymaster
+
+What do you notice about the trigrams and the bigrams? You probably see that the most common bigram frequencies have been smoothed out quite a bit compared to the standard English distribution, but the most common trigram frequency graphs for the cipher text and standard English look pretty similar. That must mean that any anagramming plays more nicely with trigrams than with pairs, so probably the block length for anagramming is divisible by 3 but not by 2. Given that you don't expect the blocks to be long for this challenge (see hints passim) 3 is a good guess for the block length. Now look at the most common letters and the most common trigrams to try to work out the letters t,h,e and go from there!
+Good luck,
+
+Harry

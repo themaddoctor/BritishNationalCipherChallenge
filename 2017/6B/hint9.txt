@@ -1,0 +1,6 @@
+28 Nov 17 at 3:58 pm
+#33167
+
+Anonymous
+
+OFFICIAL CLUE: It was encoded first by an affine shift of x -> 7x. Then the result of this was encoded with a vigenere. Hope this solves the problems.

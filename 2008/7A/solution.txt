@@ -1,0 +1,4 @@
+reverse the ciphertext; then,
+keyed substitution cipher
+key = PICURNABDEFGHJKLMOQSTVWXYZ
+keyword = PICURINA

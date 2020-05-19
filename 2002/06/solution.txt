@@ -1,0 +1,21 @@
+keyed substitution cipher
+key = LOUISPHEFGJKMNQRTVWXYZABCD
+keyword = LOUIS PHILIPPE
+
+Here is my translation of the plaintext:
+
+It has been a while that we have been surveying the progress of Professor
+Babbage on his difference and analysis motors. Recently our local agent
+intercepted encoded correspondence between Babbage and his two accomplices,
+Professor Wheatstone and Countess Lovelace. Together they are three of the
+most original minds of their generation. It seems that they are involved
+in the development of a machine for the automatic encoding of messages,
+which would be a terrible threat to the interests of beautiful France.
+We are studying the possibility of making secret copies of these plans
+by utilizing the ingenious system of Mr. Daguerre. Please, please, contact
+the thief who is suspected to be in Southampton. There is no doubt that
+this traitor of a scoundrel will seek to impose his own price. This is of
+the highest national importance, being the object of sanction by Louis
+Philippe himself and could threaten the quadruple alliance if it fell into
+the wrong hands. All future correspondence concerning this subject must
+have a Vigenère code, which is the most impossible to decode.

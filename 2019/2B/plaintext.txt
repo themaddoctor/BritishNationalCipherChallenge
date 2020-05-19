@@ -1,0 +1,17 @@
+Apollo Ten
+Spacecraft Operational Trajectory
+First Revision
+This document contains updated information about the planned lunar orbital operations for the mission and has been compiled to satisfy flight crew/flight controller training and simulation requirements.
+
+The following mission phases remain UNCHANGED from the original plan:
+Launch, which ends with insertion into earth parking orbit (EPO).
+Earth orbit coast, which ends with Translunar Injection (TLI).
+Trans Lunar coast, which ends with Lunar Orbit Insertion (LOI).
+Trans Earth coast, which ends with re-entry into the mid-Pacific recovery area.
+
+The total mission duration will be approximately EIGHT days.
+
+The report includes significant changes to Lunar orbital operations, which start at LOI and end with Trans Earth lnjection. NOTE THESE IMPORTANT TRAJECTORY CHANGES
+
+The prime objective of the LOI-TEI phase will be to demonstrate all
+components of Mission G except those which directly involve Lunar Module powered descent and powered ascent.

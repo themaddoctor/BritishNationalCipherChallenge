@@ -1,0 +1,1 @@
+bi-literarie cipher using only 24 letters (no J or V)

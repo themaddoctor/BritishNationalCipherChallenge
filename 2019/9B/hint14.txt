@@ -1,0 +1,9 @@
+4th January 2020 at 9:19 pm
+#45119
+
+Berceuse
+Member
+
+So a single ternary bit (trit?) represents 3 possible options (0, 1, 2), like a binary bit represents 2 (0, 1). E.g if you wanted to represent 16 different characters with bits, you'd need 4 bits, and if you wanted to represent 27 characters with trits, you'd need 3 trits.
+The text contains only 0s, 1s and 2s, so it seems reasonable that it must be in at most ternary. You should figure out how many bits / trits you would need to represent the alphabet, you mentioned some numbers already, they might be a good place to start. Once you've got the number of bits / trits per character, see if it fits any other patterns found in the text.
+Tried to keep it vague enough that it could go through but hope that helps.

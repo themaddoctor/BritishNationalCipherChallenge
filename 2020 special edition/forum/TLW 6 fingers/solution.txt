@@ -1,0 +1,226 @@
+28th April 2020 at 3:54 pm
+#47945
+Madness
+Member
+
+@TLW
+
+Good news and bad news. The good news is that I can replicate your result for the
+six-fingered alien. I did it by looping over all of the integers from 0 to 12!-1,
+and converting each to a factoradic number (google me!), which is easily converted
+to a permutation of 0,…,11. I rejected any permutation in which x+6 came before x,
+for any x in 0,..,5, in order to eliminate duplicates. Then each permutation was
+converted to a permutation of 1,…,6 with two copies of each digit. The permutations
+were converted to integers and added to a running sum.
+
+The bad news is that it is wrong. Here’s why:
+
+How many fingers does a six-fingered alien have? You might say six: three on each
+hand (I’m assuming it has two hands). But then it would likely use a base-6 number
+system. But “6” is not a digit in base 6, any more than “ten” is a digit in base 10.
+So probably the alien has six fingers on each hand. This makes sense, because we
+say that the three-toed sloth has three toes because it has three toes on each
+foot, rather than three toes distributed over all feet. OK, so the alien probably
+uses a base-12 number system. Your calculation assumed that all the numbers were
+in base 10. If instead, we evaluate each of its 12-digit numbers as base-12 numbers,
+then the answer (in base 10) is
+
+21232801607474457000
+
+and in base 12 (new digits are “a” and “b”, but we could use dozenal notation
+instead and use “T” and “E” or similar) is
+
+96a15bbbbbbb251a60
+
+Now, here’s something interesting: The sum of the digits 1,…,6 is 21. And
+the sum of such digits in the twelve spots is
+
+2100000000000 + 210000000000 + 21000000000 + 2100000000 + 210000000 + 21000000
++ 2100000 + 210000 + 21000 + 2100 + 210 + 21 = 2333333333331.
+
+This wondrous number evenly divides the sum 21232801607474457000, and
+21232801607474457000 / 2333333333331 = 1247400
+
+This last number, 1247400, represents the many ways of assigning the remaining
+11 digits to their positions once we have fixed one. It is 11! / 2^5, since
+there are 11 things to place in 11 spots, but five pairs of identical items
+that we do not want to double-count.
+
+What if we do this again in base 12? Then the sum of the digits 1,…,6 is 19,
+and the sum of putting them in each of the twelve spots is
+
+1900000000000 + 190000000000 + 19000000000 + 1900000000 + 190000000 +
+19000000 + 1900000 + 190000 + 19000 + 1900 + 190 + 19 = 1aaaaaaaaaaa9
+
+Now 96a15bbbbbbb251a60 / 1aaaaaaaaaaa9 = 501a60, but this is again 1247400 in base 10.
+
+---------------------------------------------------------------------------
+
+29th April 2020 at 4:44 pm
+#47986
+The-letter-wriggler
+Member
+
+TLW A Six-Fingered Alien
+
+SPOILER – I HAVE FOUND THE ORIGINAL QUESTION AND THE RESPONSE TO IT!
+If you still want to work it for yourself then do not decrypt the following.
+
+Encrypted in Base64 to retain format.
+Go here: https://www.dcode.fr/base-64-encoding
+Clear then paste the cipher into the top box.
+Make sure ASCII CHARACTERS (PRINTABLE ONLY) is selected then Decode.
+
+============================================================
+SGVyZSBpcyBteSBhbnN3ZXIgd2hpY2ggSSBnYXZlIHRvIEhhcnJ5IHdpdGggbXkgcG9zdGlu
+Zy4KCkZpcnN0IGNhbGN1bHRlIHRoZSB1bmlxdWUgbnVtYmVycwogICAgIDEyISAgICAgICAg
+ICAgMTIhCi0tLS0tLS0tLS0tLSA9IC0tLS0tLS0tLS0tID0gNzQ0ODQ0MDAgdW5pcXVlIG51
+bWJlcnMgKDEyIGNvbHVtbnMgKiA3NDQ4NDQwMCByb3dzKQoyITIhMiEyITIhMiEgICAgICAg
+Ml42CgpOb3cgdGhlcmUgY2FuIG9ubHkgYmUgc2l4IGRpZmZlcmVudCBkaWdpdHMgKDEgMiAz
+IDQgNSBhbmQgNikgaW4gZWFjaCBvZiB0aGUgMTIgY29sdW1ucyB0aGF0IHJlY3VyIHNvOgoK
+NzQ0ODQ0MDAvNiA9IDEyNDc0MDAgcmVjdXJlbmNlcy4gCgpXaXRoIDErMiszKzQrNSs2ID0g
+MjEgdGhlIHVuaXRzIGNvbHVtbiB3aWxsIHRvdGFsIHRvIDEyNDcwMCoyMSA9IDI2MTk1NDAw
+CgpUaGlzIG1lYW5zIGVhY2ggb2YgdGhlIDEyIGNvbHVtbnMgd2lsbCB0b3RhbCAyNjE5NTQw
+MCoxMF5jb2x1bW5zIHBvd2VyLgoKV2UgY2FuIGRvIHRoaXMgdXNpbmcgUmVwdW5pdCgxMikg
+PSAxMTExMTExMTExMTEKCjI2MTk1NDAwKjExMTExMTExMTExMSA9IDI5MTA1OTk5OTk5OTcw
+ODk0MDAKClNvIG15IGZ1bGwgd29ya2luZ3MgYXJlOiAoKDEyIS8yXjYpLzYpKjIxKjExMTEx
+MTExMTExMSA9IDI5MTA1OTk5OTk5OTk5OTk3MDg5NDAwCgpJbiBudW1iZXIgZm9ybToKNDc5
+MDAxNjAwLzY0LzYgPSAxMjQ3NDAwLCAxMjQ3NDAwKjIxID0gMjYxOTU0MDAsIDI2MTk1NDAw
+KjExMTExMTExMTExMSA9IDI5MTA1OTk5OTk5OTcwODk0MDAKCj09PSBTT01FIEFOU1dFUlMg
+Q09QSUVEIEFORCBQQVNURUQgKHNlZSBiZWxvdyBmb3Igc291cmNlKSA9PT0KCjMuIEEgU2l4
+LUZpbmdlcmVkIEFsaWVuCkEgc2l4LWZpbmdlciBhbGllbiBjb21lcyB0byB5b3UgYW5kIGFz
+a3MsICJXaGF0IGlzIHRoZSBzdW0gb2YgYWxsIHRoZSBudW1iZXJzIHRoYXQgY2FuIGJlIGZv
+cm1lZCB3aXRoIHRoZSBkaWdpdHMgMSwgMiwgMywgNCwgNSwgYW5kIDYsIHVzaW5nIGVhY2gg
+ZGlnaXQgdHdpY2UgaW4gZXZlcnkgbnVtYmVyLiIgV2hhdCBpcyB5b3VyIGFuc3dlcj8gSG93
+IGRpZCB5b3Ugc29sdmUgdGhpcz8KVGhlcmUgYXJlIHByb2JhYmx5IG1hbnkgd2F5cyB0byBh
+dHRhY2sgdGhpcyBwcm9ibGVtLiBDYW4geW91IGNvbWUgdXAgd2l0aCBhIHNpbXBsZXIgc29s
+dXRpb24/
+IE9uZSB3YXkgdG8gYW5zd2VyIHRoaXMgcXVlc3Rpb24gaXMgdG8gc3RhcnQgYnkgYW5zd2Vy
+aW5nIHRoZSByZWxhdGVkIHF1ZXN0aW9uICJIb3cgbWFueSB0aW1lcyBkb2VzIDEgYXBwZWFy
+IGFzIHRoZSB1bml0cyBkaWdpdD8iIEJ5IHN5bW1ldHJ5IHRoaXMgd2lsbCBiZSB0aGUgc2Ft
+ZSBhcyB0aGUgbnVtYmVyIG9mIHRpbWVzIGVhY2ggb2YgMiwgMywgNCwgNSBhbmQgNiBhcHBl
+YXIgYXMgdGhlIHVuaXRzIGRpZ2l0LiBMZXQgQyhtLG4pPW0hLyhuIShtLW4pISkgYmUgdGhl
+IG0sbiB0aCBiaW5vbWlhbCBjb2VmZmljaWVudC4gVGhlIHRvdGFsIG51bWJlciBvZiBudW1i
+ZXJzIGluIHRoZSBzdW0gaXMgQygxMiwyKUMoMTAsMilDKDgsMilDKDYsMilDKDQsMilDKDIs
+MikuIChUaGlzIGZvbGxvd3MgZnJvbSBzaW1wbGUgY29tYmluYXRvcmljcy4pIExldCB0aGlz
+IG51bWJlciBiZSBYLiBUaGUgbnVtYmVyIG9mIHRpbWVzIDEgYXBwZWFycyBhcyB0aGUgdW5p
+dHMgZGlnaXRzIHdvdWxkIGJlIChYLzYpLiBUaGUgdG90YWwgc3VtIG9mIHRoZSB1bml0cyBk
+aWdpdHMgd291bGQgdGhlbiBiZSAoWC82KSgxKzIrMys0KzUrNikuIFRoZSB0b3RhbCBzdW0g
+d291bGQgdGhlbiBiZSAoWC82KSgxKzIrMys0KzUrNikoMTExMTExMTExMTExKS4gQmxhY2tz
+b24gZGlkbid0IGhhdmUgYSBjYWxjdWxhdG9yIGhhbmR5IHNvIGRpZCBub3QgY2FsY3VsYXRl
+IHRoZSBzdW0uCgpUaGUgc3VtIGlzOiAxMTExMTExMTExMTEgdGltZXMgMjYxOTU0MDAgd2hp
+Y2ggaXMgYWJvdXQgMi45MTA2RTE4LgoKQW5vdGhlciB3YXkgdG8gYXR0YWNrIHRoaXMgaXMg
+dG8gY29uc2lkZXIgdGhhdCB0aGUgc3VtIG9mIHRoZSBkaWdpdHMgaW4gZWFjaCBudW1iZXIg
+aXMgMSsxKzIrMiszKzMrNCs0KzUrNSs2KzYgPSA0Mi4gTmV4dCwgY29uc2lkZXIgaG93IG1h
+bnkgd2F5cyB0aGVyZSBhcmUgdG8gY3JlYXRlIHRoaXMgc3VtLgoKU2V0aCBCcmVpZGJhcnQ6
+IE5vYm9keSBzZWVtcyB0byBoYXZlIG5vdGljZWQgdGhhdCBhIHNpeC1maW5nZXJlZCBhbGll
+biB3b3VsZCBtb3N0IGxpa2VseSBub3QgY291bnQgaW4gYmFzZSAxMC4KCkhvdyBtYW55IG51
+bWJlcnMgdGhlcmUgYXJlIGlzIGEgc2ltcGxlIGNhbGN1bGF0aW9uLiBFYWNoIGRpZ2l0IGFw
+cGVhcnMgZXF1YWxseSBvZnRlbiBpbiBlYWNoIHBvc2l0aW9uLCBzbyB0aGUgYXZlcmFnZSBk
+aWdpdCBpcyAzLjUuIFRoZSBmaW5hbCByZXN1bHQgaXMgKDMuNSAqICNudW1iZXJzICogMTEx
+MTExMTExMTExW2FsaWVuXSksIHdoZXJlIHRoZSBzdHJpbmcgb2YgMTIgMSdzIGlzIGludGVy
+cHJldGVkIGFzIGEgbnVtYmVyIGluIHRoZSBhbGllbidzIGJhc2UuCgpUbyBpbnRlcnByZXQg
+d2hhdCBJIGp1c3Qgd3JvdGUuLi4gdGhlIG51bWJlciBvZiBzZXF1ZW5jZXMgb2YgZGlnaXRz
+IDEtNiwgZWFjaCB1c2VkIHR3aWNlIChzbyBlYWNoIHNlcXVlbmNlIGlzIG9mIGxlbmd0aCAx
+MikgaXMgMTIhIC8gKDIqKjYpLiAoUHJvb2Y6IFRoZSBudW1iZXIgb2Ygc2VxdWVuY2VzIG9m
+IGRpZ2l0cyAxLUIsIGVhY2ggdXNlZCBvbmNlLCBpcyAxMiEuIE5vdyBzdWJ0cmFjdCA2IGZy
+b20gZWFjaCBkaWdpdCA+
+NiwgYW5kIG5vdGljZSB0aGF0IGVhY2ggc2VxdWVuY2UgYXBwZWFycyAyKio2IHRpbWVzLikK
+ClNvIHRoZSByZXN1bHQgaXMKCjMuNSAqICgxMiEgLyAoMioqNikpICogMTExMTExMTExMTEx
+CgpNb3JlIGV4cGxhbmF0aW9uOiBXcml0ZSBhbGwgdGhlIG51bWJlcnMgaW4gYSBjb2x1bW4u
+IE5vdywgc3dhcHBpbmcgdHdvIGRpZ2l0cyB0aGF0IGFyZSBpbiB0aGUgc2FtZSBwb3NpdGlv
+biBpbiBkaWZmZXJlbnQgbnVtYmVycyB3b24ndCBhZmZlY3QgdGhlIHN1bSwgc28gc3dhcCB0
+aGVtIGFyb3VuZCBwdXR0aW5nIGFsbCB0aGUgMSdzIGF0IHRoZSB0b3AsIHRoZW4gdGhlIDIn
+cywgZXRjLiBZb3UgZW5kIHVwIHdpdGggKDEyISAvICgyKio2KSkgLyA2IG51bWJlcnMgdGhh
+dCBhcmUgYWxsIDEncywgYW4gZXF1YWwgbnVtYmVyIHRoYXQgYXJlIDIncywgZXRjLiBUaHVz
+LCB0aGUgc3VtIGlzICgoMTIhIC8gKDIqKjYpKSAvIDYpICogKDErMiszKzQrNSs2KSAqIDEx
+MTExMTExMTExMS4KClRoZSAoMSsyKzMrNCs1KzYpLzYgdGVybSAod2hpY2ggd2UgZ2V0IGZy
+b20gYSBsaXR0bGUgcmVhcnJhbmdpbmcpIGlzIDMuNS4KCkkgc3RpbGwgdGhpbmsgdGhpcyBw
+cm9ibGVtIGlzIG1haW5seSB3b3J0aCBjb25zaWRlcmluZyBmb3IgdGhlIHRyaWNrIHRoYXQg
+YSA2LWZpbmdlcmVkIGFsaWVuIGlzbid0IGxpa2VseSB0byB1c2UgYmFzZSAxMDsgb3RoZXJ3
+aXNlLCBpdCdzIG1vcmUgbGlrZSBhIGhvbWV3b3JrIGV4ZXJjaXNlLgoKRGFycmVsbCBQbGFu
+azogSSB0aG91Z2h0IGFib3V0IHRoZSBiYXNlIDYgYXNwZWN0LCBidXQgdGhlIGZhY3QgdGhh
+dCB0aGUgYWxpZW4gYXNrcyB5b3UgdG8gdXNlIGRpZ2l0cyAxLTYga2luZGEgbWFkZSB0aGF0
+IGEgdG91Z2ggZml0IGluIG15IG1pbmQuIEkganVzdCBmaWd1cmVkIHRoYXQgdGhlIG51bWJl
+ciBvZiB0aW1lcyBhIGRpZ2l0IGlzIGluIGEgY29sdW1uIGlzIHRoZSBtdWx0aW5vbWlhbCAx
+MSEvKDEhIDIhIDIhIDIhIDIhKS4gbXVsdGlwbHkgYnkgMjEqMTExMTExMTExMTExIHRvIGdl
+dCB0aGUgc2FtZSBhbnN3ZXIgZXZlcnlvbmUgZWxzZSBkaWQuCgpTb3VyY2U6Cmh0dHA6Ly9z
+cHJvdHQucGh5c2ljcy53aXNjLmVkdS9waWNrb3Zlci9tYXRoY29uMi5odG1s
+
+---------------------------------------------------------------------------
+
+Here is my answer which I gave to Harry with my posting.
+
+First calculte the unique numbers
+     12!           12!
+------------ = ----------- = 74484400 unique numbers (12 columns * 74484400 rows)
+2!2!2!2!2!2!       2^6
+
+Now there can only be six different digits (1 2 3 4 5 and 6) in each of the 12 columns that recur so:
+
+74484400/6 = 1247400 recurences.
+
+With 1+2+3+4+5+6 = 21 the units column will total to 124700*21 = 26195400
+
+This means each of the 12 columns will total 26195400*10^columns power.
+
+We can do this using Repunit(12) = 111111111111
+
+26195400*111111111111 = 2910599999997089400
+
+So my full workings are: ((12!/2^6)/6)*21*111111111111 = 29105999999999997089400
+
+In number form:
+479001600/64/6 = 1247400, 1247400*21 = 26195400, 26195400*111111111111 = 2910599999997089400
+
+=== SOME ANSWERS COPIED AND PASTED (see below for source) ===
+
+3. A Six-Fingered Alien
+A six-finger alien comes to you and asks, "What is the sum of all the numbers that can be formed with the digits 1, 2, 3, 4, 5, and 6, using each digit twice in every number." What is your answer? How did you solve this?
+There are probably many ways to attack this problem. Can you come up with a simpler solution? One way to answer this question is to start by answering the related question "How many times does 1 appear as the units digit?" By symmetry this will be the same as the number of times each of 2, 3, 4, 5 and 6 appear as the units digit. Let C(m,n)=m!/(n!(m-n)!) be the m,n th binomial coefficient. The total number of numbers in the sum is C(12,2)C(10,2)C(8,2)C(6,2)C(4,2)C(2,2). (This follows from simple combinatorics.) Let this number be X. The number of times 1 appears as the units digits would be (X/6). The total sum of the units digits would then be (X/6)(1+2+3+4+5+6). The total sum would then be (X/6)(1+2+3+4+5+6)(111111111111). Blackson didn't have a calculator handy so did not calculate the sum.
+
+The sum is: 111111111111 times 26195400 which is about 2.9106E18.
+
+Another way to attack this is to consider that the sum of the digits in each number is 1+1+2+2+3+3+4+4+5+5+6+6 = 42. Next, consider how many ways there are to create this sum.
+
+Seth Breidbart: Nobody seems to have noticed that a six-fingered alien would most likely not count in base 10.
+
+How many numbers there are is a simple calculation. Each digit appears equally often in each position, so the average digit is 3.5. The final result is (3.5 * #numbers * 111111111111[alien]), where the string of 12 1's is interpreted as a number in the alien's base.
+
+To interpret what I just wrote... the number of sequences of digits 1-6, each used twice (so each sequence is of length 12) is 12! / (2**6). (Proof: The number of sequences of digits 1-B, each used once, is 12!. Now subtract 6 from each digit >6, and notice that each sequence appears 2**6 times.)
+
+So the result is
+
+3.5 * (12! / (2**6)) * 111111111111
+
+More explanation: Write all the numbers in a column. Now, swapping two digits that are in the same position in different numbers won't affect the sum, so swap them around putting all the 1's at the top, then the 2's, etc. You end up with (12! / (2**6)) / 6 numbers that are all 1's, an equal number that are 2's, etc. Thus, the sum is ((12! / (2**6)) / 6) * (1+2+3+4+5+6) * 111111111111.
+
+The (1+2+3+4+5+6)/6 term (which we get from a little rearranging) is 3.5.
+
+I still think this problem is mainly worth considering for the trick that a 6-fingered alien isn't likely to use base 10; otherwise, it's more like a homework exercise.
+
+Darrell Plank: I thought about the base 6 aspect, but the fact that the alien asks you to use digits 1-6 kinda made that a tough fit in my mind. I just figured that the number of times a digit is in a column is the multinomial 11!/(1! 2! 2! 2! 2!). multiply by 21*111111111111 to get the same answer everyone else did.
+
+Source:
+http://sprott.physics.wisc.edu/pickover/mathcon2.html
+
+---------------------------------------------------------------------------
+
+29th April 2020 at 4:46 pm
+#47973
+Kford-academy
+Member
+
+TLW A Six-Fingered Alien.
+The exact value for a certain base n, where n>6, under the conditions specified in the original problem, goes like this:
+(11[base 10]! * 21[base 10] * 111111111111[base n])/32[base 10]
+
+But we can extend this formula. (WARNING: BIG FORMULAS AHEAD!)
+The original problem specified the numbers must be from 1 to 6. But what if it was from 1 to a? (Now, n>a.) The formula is now:
+(a((2a-1)!)(a+1)(n^(2a)+n^(2a-1)+n^(2a-2)+…+n^2+n+1))/(2^a) (All numbers in base 10)
+
+And here is the formula for numbers a to b (n>b):
+((2b-2a+1)!(b(b+1)-a(a-1))(n^(2b-2a+2)+n^(2b-2a+1)+n^(2b-2a)+…+n^2+n+1))/(2^(b-a+1)) (All numbers in base 10)
+
+And here is the formula where the numbers a to b are repeated c times:
+((c(b-a+1)-1)!(b(b+1)-a(a-1))(n^(c(b-a+1))+n^(c(b-a+1)-1)+n^(c(b-a+1)-2)+…+n^2+n+1))/2(c^(b-a)) (All numbers in base 10)

@@ -1,0 +1,3 @@
+keyword monoalphabetic substitution cipher
+key alphabet: LUNARSTVWXYZBCDEFGHIJKMOPQ
+keyword: LUNAR

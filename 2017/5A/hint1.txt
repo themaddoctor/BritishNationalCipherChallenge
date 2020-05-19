@@ -1,0 +1,6 @@
+11 Nov 17 at 1:40 am
+#32364
+
+Anonymous
+
+OFFICIAL HINT: I know a lot of you have done this already, but decrypt the beginning and end of the message, and ignoring the middle part to start with. The sentence below the middle part tells you more about it. Then go ahead and decrypt that. Think about steganography, and how these series of letters (and what the sentence tells you they are) could spell out a word. This will help you for part b. As for what to submit, you submit the exact decrypt of part a, not any hidden meanings.

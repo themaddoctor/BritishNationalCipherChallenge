@@ -1,0 +1,12 @@
+Type 4 periodic polyalphabetic substitution cipher, also called Quagmire 4
+
+plaintext alphabet:  natiolbcdefghjkmpqrsuvwxyz
+ciphertext alphabet: CIPHERABDFGJKLMNOQSTUVWXYZ
+shift key:           CHALLENGE
+
+So the keywords are NATIONAL CIPHER CHALLENGE
+
+The solution to the math problem is "PAGE FIFTY NINE TO PAGE NINETY TWO"
+(there are other mathematically correct answers, but note that if you
+remove an odd-numbered page, you must also remove the even-numbered page
+on the other side of it)

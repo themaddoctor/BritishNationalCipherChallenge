@@ -1,0 +1,6 @@
+13 Nov 17 at 2:03 pm
+#32493
+
+Anonymous
+
+OFFICIAL HELP: As previously posted (with a few extra details added): Steganography is concealing a message somehow. Don’t do anything fancy when trying to decrypt the section of U’s and E’s. The sentence after the U and E’s tells you that yes, they are decoded to just 2 letters. For part a, you submit exactly what you decrypt here which is just a series of 2 letters and looks like nonsense. To get the hidden meaning which will give you the key word for part b, use those 2 letters and turn them into the colors they represent (or turn one into a space & leave the other as a letter in word). You also need to choose a font which gives each letter an equal width (like Courier New). Then you need to think where there may be line breaks to make an image appear. To figure out where line breaks may be look at the factors of the length of the U & E section of text (there are not many options). Go through this forum and check for all OFFICIAL HINTS and re-read them, maybe you’ll see something in it that you missed the first time. Good luck.

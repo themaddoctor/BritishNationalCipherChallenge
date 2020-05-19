@@ -1,0 +1,31 @@
+mark,
+
+you are probably wondering why this is a handwritten letter. it's
+alright i haven't turned my back on the digital age, but you know
+you said we should keep our eyes open? i have a nasty feeling you
+might have been right. it seems like someone has been reading my
+mail. you know how we set up that web bug system to protect night
+climbing meets? well, someone in france has triggered it. i wouldn't
+have noticed because they had wiped it, but i lost a bunch of music
+when the disc died and was in the process of restoring from a hidden
+backup partition when i noticed the disc on the server was slow.
+someone was crawling through the files sending them to somewhere in
+dotfr. they were wiping their trace as they went but i caught part
+of the traffic and figured out where they had been. there was a small
+gap in the access record that told me where to look. normally i would
+put it down to a hungarian hacker, but this was too slick an
+operation and they seemed to be hunting for stuff. they only looked
+at files with words starting t. sound familiar?
+
+i am really spooked. i keep thinking i am being followed and i hear
+funny noises on my phone. i must be imagining it. how can a story
+from nineteen forty something be of any interest now?
+
+anyway i have set up some traps to watch all our communications for
+leaks. i think we had better do everything by hand from now on. no
+spreadsheets, no phones, nothing electronic. just drop letters through
+the door. real old style. i know this makes encryption hard, but i
+think it is more important than ever. we should tighten up. maybe use
+one of those old keyword ciphers next time. what do you think?
+
+charlie

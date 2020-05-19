@@ -1,0 +1,3 @@
+columnar transposition cipher
+permutation is (4,3,0,2,1,6,5)
+keyword ROCKETS

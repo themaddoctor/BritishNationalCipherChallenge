@@ -1,0 +1,8 @@
+Playfair cipher with a 4x9 grid
+key = 0THE1BAL2CIPR3DFGJ4KMNO5QSUV6WXYZ789
+keyword = THE BEALE CIPHER
+Polybius "square":
+    0 T H E 1 B A L 2
+    C I P R 3 D F G J
+    4 K M N O 5 Q S U
+    V 6 W X Y Z 7 8 9

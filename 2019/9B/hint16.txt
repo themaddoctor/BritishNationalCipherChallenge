@@ -1,0 +1,13 @@
+6th January 2020 at 12:10 pm
+#45138
+
+Harry
+Keymaster
+
+The text has been encrypted using a variation on the triffid cipher, where instead of using three ternary characters for each alphabetic letter, a combination of binary and ternary have been used. You can figure out the convention by looking at where the 2s appear, and by thinking about how to use binary and ternary to represent (most of) the alphabet.
+
+Does that help?
+
+Good luck,
+
+Harry

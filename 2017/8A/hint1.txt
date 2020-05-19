@@ -1,0 +1,6 @@
+16 Dec 17 at 12:02 pm
+#33601
+
+Anonymous
+
+OFFICIAL HINT: You do not have word structure to help you this time, so follow standard cipher procedure. Look at frequency analysis and then ioc (index of coincidence). This should give you a good start.

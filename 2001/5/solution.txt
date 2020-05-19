@@ -1,0 +1,13 @@
+Playfair cipher. The missing letter in the square is Z,
+so before decipherment, all Z's in the ciphertext must
+be replaced with Y's.
+
+The square is
+
+    G O L D E
+    N J U B I
+    A C F H K
+    M P Q R S
+    T V W X Y
+
+and the keyword is GOLDEN JUBILEE.

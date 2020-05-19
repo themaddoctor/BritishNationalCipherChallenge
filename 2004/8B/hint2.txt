@@ -1,0 +1,19 @@
+January 02, 2005
+
+The three cards for January 2nd
+
+Here are the next three cards for the starting position of the Solitaire deck:
+
+21,27,4
+
+
+So these are the 8 of Diamonds, the Ace of Hearts and the 4 of Clubs.
+
+Just to check, this makes the top of the deck read:
+
+46,54,48,49,8,3,25,22,19,13,14,24,26,40,15,9,50,32,33,34,35,36,37,38,39,1,42,43,44,45,10,20,53,28,18,41,2,6,16,17,51,21,27,4
+
+
+If you are cracking by hand make sure to read all the comments posted on the site. Lots of people have posted helpful hints that make your job easier! All the best,
+
+Posted by Harry at 03:35 PM

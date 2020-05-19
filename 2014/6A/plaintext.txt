@@ -1,0 +1,25 @@
+mark
+
+the last message told us a lot the scuttling equipment is designed to
+pump water in and out of the vessel like a submarine dive control but
+clearly they weren't planning to turn a container ship into a sub this
+ship is a large-scale version of something i have seen in the caribbean
+drug runners use a similar technique to get below radar coverage for
+in-shore runs sinking the vessel so that the deck remains just below the
+wave tops the fda pirates seem more interested in staying away from shore
+but getting close enough to track and record electronic communications
+without detection i am guessing this scuttling system is what they call
+nautilus in their log but i am still baffled by the references to seahorse
+
+the next page of the log looks harder to crack but the cipher clerk tells
+me it is a hill cipher and that they must have been in a hurry or have
+been enciphering by hand since they just used a two-by-two matrix
+
+actually we have been pretty lax with our security and i think the next
+message i send will use a vigenere cipher given that we are using secure
+cables i don't think we have too much to worry about so i will keep the
+keyword short say three characters
+
+more later
+
+harry

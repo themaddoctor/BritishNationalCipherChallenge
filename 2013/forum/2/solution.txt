@@ -1,0 +1,4 @@
+The ciphertext is a number in base 10.
+However, if we reexpress it in base 36,
+using the digits 0..9a..z, we get
+the plaintext.

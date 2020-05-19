@@ -1,0 +1,32 @@
+jamelia,
+
+what do you think about this? do you think dynamix would fund it?
+
+proposal: long-baseline signal/noise analysis in large-scale
+          heterogeneous networks
+m. traynor and j. dalmar
+abstract
+in our work on signal/noise analysis for LIGO, we have developed new
+tools for digital analysis of extremely low amplitude signals in an
+excessively noisy environment. the classical features of this analysis
+are the exploitation of very long baseline signal collection and the
+synthesis of signals from a large sensor network. to filter the noise,
+the principle novel feature is the development of a large database of
+templates of target signals that allow them to be filtered from the
+noise and interpreted in real time. we believe this approach can be
+adapted to a wide variety of signal-harvesting problems, both within and
+outside the physical sciences. as an example of a commercial application
+of the technology, we have carried out analysis of a toy model which
+suggests that this approach may be sensitive enough to track individual
+footfall across a shopping centre or airport concourse, and to carry out
+gait analysis using seismometers embedded in the building fabric. this
+would provide a new and less obtrusive alternative to the camera systems
+currently in use. it has not escaped our attention that the template-bank
+approach should scale to allow tracking of multiple targets and to search
+for patterns that may signal antisocial or potentially even terrorist
+behaviour patterns. more speculatively, the long baseline techniques
+which are key to triangulating the source of gravitational waves could
+be modified to provide a template-based network analysis tool for finding
+long-range correlations in network traffic. this analysis could signal
+activity spikes among transnational criminal or terrorist groups, triggering
+surveillance and targeting early intervention to prevent crime.

@@ -1,0 +1,7 @@
+Combination of block transposition and monoalphabetic substitution
+(it doesn't matter in which order)
+
+substitution key = TOVARISHCDEFGJKLMNPQUWXYZB
+keyword = TOVARISHCHI
+
+permutation = [2, 1, 0]

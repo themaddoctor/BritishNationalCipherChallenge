@@ -1,0 +1,17 @@
+I fear that our communication lines are being watched and have taken the extra
+precaution of writing this letter backwards, in case the enemy cryptanalysis is
+better than they let on.
+From a correspondent within the enemy’s ranks (who will remain nameless in case
+this message is intercepted) the general feel is one of victory. They appear to
+vastly underestimate our strength, which is good, they will be more relaxed,
+they will make mistakes. We need to guess where these mistakes will lie and
+exploit them. My correspondent also implies that their cryptography is
+second-rate, however we must also consider the possibility that he is a clever
+ruse to weaken our guards, to extract information. I am therefore not giving my
+correspondent more information than is necessary until he can be proved
+trustworthy.
+At your suggestion this is encrypted with a simple cipher. If there is wind of
+cryptanalysis from the enemy, a securer cipher must be used, perhaps some kind
+of matrix or multiple key cipher. Messages hidden in the keys will prevent them
+being deduced from the body of the plaintext, if anything is intercepted.
+Harry

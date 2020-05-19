@@ -1,0 +1,11 @@
+Harry, I am not sure if you were copied in to the memo about recent events but here is a summary.
+
+Two days ago, an off-duty guidance officer alerted mission control to a potential problem with the Apollo flight. The planned descent trajectory appeared to be running on a collision course with the Soviet lunar orbiter Luna-fifteen, and there was at least the potential for this to cause an abort, or, worse an accident. Borman telexed Moscow and asked for a variation of orbit and, pretty much to everyone's surprise, they agreed. As a result, the mission is proceeding as planned.
+
+No one is really sure why the Soviets agreed to help, given that aborting it would have put egg on our faces, but that question is one for the analysts at Langley. A more immediate concern for me was why the problem hadn't been spotted earlier. Frank told me that if he had known in time then we could have planned the orbit and descent to avoid the issue in the first place.
+
+Of course, mistakes do happen, but I checked with the team and one of them recalled running simulations on this last month. She said she had flagged the issue for the attention of flight control, but no-one there remembered seeing it. I asked to see the file but it looks like a bunch of garbage, which, I assume, is why no-one responded to it. The computer team don't recognise the format and they suggested that it was probably just a bug in the report writing software, but no-one recalls seeing anything like it before and it is worrying that this could have been so serious. Could you take a look at the file and let me know what you see?
+
+Meg.
+
+PS When you are planning to get back here from Huntsville?

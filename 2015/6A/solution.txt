@@ -1,0 +1,5 @@
+keyed substitution cipher
+key = RAILFENCSTUVWXYZBDGHJKMOPQ
+keyword = RAILFENCE
+
+Note that the locker numbers are not in the ciphertext.

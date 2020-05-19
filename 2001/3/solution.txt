@@ -1,0 +1,2 @@
+Vigenere cipher
+key = GOLD

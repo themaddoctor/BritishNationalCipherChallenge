@@ -1,0 +1,3 @@
+columnar transposition cipher
+permutation = (1,6,4,2,0,5,3)
+keyword = BULGARIA

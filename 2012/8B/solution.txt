@@ -1,0 +1,22 @@
+The cipher is partly a trifid cipher and partly a transposition cipher.
+The cipher acts on blocks of five characters. First, the characters of
+the block of plaintext are converted into triplets of 0,1,2 based on the
+trifid cube and strung together. Then, the string of trinary digits
+undergoes a transposition. The result is then reencoded as characters
+to form a block of the ciphertext, in the same fashion as they were
+converted from the plaintext.
+
+Note that this is different from the trifid cipher that is published on
+the internet. Those ciphers use a transposition that always takes every
+fifth trinary digit, for blocks of five characters.
+
+The cube is
+
+    C Y P    U V W    G I J
+    H E R    X Z A    K L M
+    _ S T    B D F    N O Q
+
+so that the keyword is CYPHER.
+
+The transposition is (4,3,2,1,0,9,8,7,6,5,14,13,12,11,10), which is a
+reversal of each set of five trinary digits.

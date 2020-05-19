@@ -1,0 +1,2 @@
+running-key cipher
+key = plaintext from 6B

@@ -1,0 +1,305 @@
+16th April 2020 at 8:00 pm
+#47624
+Madness
+Member
+
+Since this week is all about the monoalphabetic substitution
+cipher, here are some challenges that double-up on the fun.
+I was going to submit them as two postings, but I have to slip
+things past Harry whenever I can, so here they all are in one
+go. If you don't see the [CENSORED BY HARRY] or the [DELETED
+BY HARRY], then you know that Harry has butchered my post and
+[REMOVED BY HARRY].
+
+All of these can be solved with some computering and/or lots
+of time. I disavow all responsibility for driving anyone MAD.
+
+8<------------------------------------------------------------
+
+Today's episode is brought to you by the number 2 and the letter M.
+
+This is a series of ciphertexts that explore ways of doubling up
+on the monoalphabetic substitution cipher. I need to tell you
+from the beginning that they can all be cracked. Some of them
+may seem impossible, but trust me, they can be done.
+
+I'm sure Harry will butcher my post and steal my ideas. But,
+whatever. What-EV-uh! I stole most of them from other people anyway.
+
+For the first cipher, the letters in the odd positions are all
+encrypted with one substitution, while the letters in the even
+positions are encrypted with a different substitution. To help
+you keep track of which substitution to use, I have used upper-case
+letters for one and lower-case letters for the other. (Some of you
+will recognize this as a periodic polyalphabetic substitution
+with period two.)
+
+GiVaKiIoNoKiErMxBoKxMeUjMyPeEkKiErMxBoKxMeUjMyPaRoErVxKhEqGi
+VaKiIoUzPnYrEnAxKyLoKjGiVaKiIoPmEtInYuPsGoYxMeUjMyPoDnCyErGp
+CkPhQsGiXxMeUjMyPjPaKnLnYsGzIiGiVaKiIoKoUjEpErOaJvLoKjGiVaKi
+IoKmJxLzErInDoGiVaKiIoVxLiPkErOoKmUxJePyUhPfPkXiIxLzNoYnJoQj
+VoIaOpEiIxLzNoYnJoQjVoVoJoUsAzExLzOxJoCiMnIoUfPpVoVoJoUsAzEx
+LzOxJoCiMyPnMyPkVaXxLjInJiMyPmPkGnOeUjKnYaJsGvPiIoDkPjPpMmPk
+GnOiIaMjEqPnYxMjLnGjGoKiUgMyEkGiGoKxLjGjMoOnLxMjNoGpRkPtPxSo
+OrEkRnEhEkYnJoSxAxLiIoKgDoJsUiGfPhPzJoPnYtEqDaJxKnLnLsXiIoKo
+CkPiVnJhGjOgUsGiX
+
+Next, this cipher also employs two different substitutions, but
+the choice of which to use has been randomized. To help you keep
+track, the upper-case letters are all encrypted with one
+substitution, while the lower-case letters are encrypted with
+the other substitution. Note: this cipher (with different keys)
+has been used in the NCC before.
+
+nPmlHPMemWGdniKSHiMEmnKledWxlnekUEgwkMsFiNuMPmImSkeDjuwOrsmj
+UEvsvEtOkUEpPljerHmfHOuHVOskqEWyfssdeGLCSkUGHglvsIEtltfsijCS
+yeOUexwmLEkOjexeMNHqEOUWjeQEKVWkLHsdAbReejHuFYqssKxlOjCeReEj
+lgstDEmVUsVlxxIPjHGYHPmMusekWtDMOHNyltfkrHmYsPtsVdEwmMlkuWCx
+oewfmEWODEwxOssrWmsrROsjmsPoxeFbMECrWosijbsPTikOWjjUSMFsvEtj
+UemuEwDkOmPnyWLwStkjjuEmsHrHrOueuwxxSGRwNOkUegwMGHgKwOuEKFsK
+ejuwttlGeReEjUSLuWGdMUewOHtnejsHyiqOUeCSOjCEfsCdEGBebWtduimm
+lEDsrRjsjUefWmdeGDssKqHHmwClnElOVWMwkFPnUwMMUENsPxddsCYltfDs
+gGstHGeklDEjsxsHyOUmsPfuStOHjUELWmDetgSOustEEYEoPOjHLejOUmHP
+LUVwkvsKEUHqexEMkOUwGeQeKOUeMeNmEjgsmdlMevoSLfEG
+
+Now, let's remove the constraint that the substitutions use
+either all upper-case or all lower-case letters. In the following
+ciphertext, each plaintext letter can be represented by one of
+two ciphertext letters, chosen from the set of 52 letters A..Za..z.
+Each ciphertext character can only represent one plaintext letter,
+however. This is an example of what is called a homophonic
+substitution. The key is a 1-to-2 mapping from plaintext
+characters A..Z to ciphertext letters A..Za..z. Whenever a
+choice is made by the encryptor used for this ciphertext, it
+is done randomly. This is not a bad thing. In fact, it is a
+good thing, because the same message will be encrypted to a
+different ciphertext each time. We say that the encryption is
+probabilistic. But don't worry; the decryption is deterministic,
+which means that there is only one plaintext for a given ciphertext.
+So with the correct key, the plaintext is found correctly. (Sadly
+for you, the key this time is random as well--no keywords.)
+
+As an example of how this cipher works, suppose the plaintext
+letters are a,b,c, and the ciphertext letters are U,V,W,X,Y,Z.
+Then one possible mapping is
+
+a -> V or X
+b -> U or Z
+c -> W or Y
+
+With this key, "cab" could be encrypted as "WXU" or "YXZ" or ...
+
+Here is the ciphertext. It does not use the same key as the example.
+
+mPgPixEYvrKCjlixPizErBvfFUhgEpeOlTSNcvprDOESvCfPNBBUOvgyGCFH
+pTyglBFvrPrFOvHpLLBGvgvHCTrUFOlrZFOEgvrPHvkAEnFCzliZLExPjVCi
+DjEiFlFSpipLLprRjCLzpSEvwoCchNBTUjvCiRVpczpgEVUgEEwoCcBGCrUB
+GEgzpmFEgBOCBRBDRfiUBTvEjTBgprZEHGErivkFfpIBOEuRZTyGUyvgETon
+vgaRTRiZBOvyPgeUmBOEMCgVpcLxpSglvDHGRnzRiBOvlgBSPFBvSzlFfRDr
+UFzvEjzFSCrZvBUcECSiBGCBBGEuRZTGpfhUoZOFBOvVzEcavzpHlgvLvzzz
+EByvgvpSSprJRiJFPRrTBCccpBEcEnGPrvprDOpDFCeEiPoBzNYTASlnFlPr
+TBPQPGrhNccFlFhlBTCiDFOvfplcIjRgSUSRFfRDrUBzEEjzFgCiJEyOErrC
+uULEUrHpTTEvrTFgPLcRrJRiBOvMCSVGPNTEJCgfvrHRBOCuRnERiOlzVPoF
+GiPiPBEdviyGvrBOvnRZzBUPejgQUrvzTALUFOvzUNFPmBGvHCgfgUYvzCif
+uNFFOEjUirpuPLEUrGRVTEcmpnuvCgRrJRiphcpAqxUCBSCBACFxOESYSEvA
+OvzCiDcECFOvgLvJZliJzHGRcEOlTMCdPogRBvzUypuuvpgvfliFOvyCBvgE
+fzlLqDSvzTyORxOVSzKUrETGCDYEEioTvDFPyvpSUiToiDpITFGvTEASvFyP
+SfRzBUBpLRBCgRpilzj
+
+Well, that was fun. But this next one is hard. It is a polyphonic
+substitution. Here, each ciphertext character can represent either
+of TWO plaintext letters. In other words, the key is a 2-to-1
+mapping from plaintext letters A..Z to ciphertext letters A..M.
+In this case, encryption is deterministic, but decryption is not.
+This is a very bad thing, and modern ciphers must never do this.
+
+As an example, suppose the plaintext characters are a,b,c,d and
+the ciphertext characters are X,Y. The mapping could be
+
+a -> X
+b -> Y
+c -> Y
+d -> X
+
+With this key, "cab" is encrypted as "YXY".
+
+Here is the ciphertext. It does not use the silly key from the example.
+
+ICHMFICHMFIKKFAHIKBHLBHCJJLICHBKBBHDDHBIBFIHFJFLFGKDMKIFCKKC
+BKLIHFAAJHBHLJICKIDCLLMJFLIKKAHBFIGCKHAGBICLLHDCEKLALDKKFAHI
+IKIKHBFIGKLIBKKLHBIHBBILICHMHAIKBHLBHKIBHACKLHAGEHGHBKLKEHGE
+JMFICHMFIKKFAJFIIHLIBLCKICLLMFIKLIEJICHBFMHILEHIICHKLBMKKBLK
+GKFIEHKLIKHKBHGLCFBICHFEBHIKHLCMFIHLKFAKICLLMFIKLIKIBJFKHBHI
+IKIDFBKGHICHBKLIHFAJFLIKKAHBICFIJLJKIFIGLHILCHMKBIHIKHGHHILA
+HFIIHMCAHKIHFIKLIBFBFHAAFBICHDLFBKIFIKLIFACKHAGFIGICHGFLEHIH
+LDJILICKIDIHBBKFIEHHIGHLBILLGICHIFBICFIFKICKIFCKKCILMFIIHLHI
+HLDJBJFKHIKMHLLFIJLICHLIJJHLCKICLLMFIKLIKLHAGHMKBIFCKKCFLHAG
+EHJLBBKEAHKCBJMMHILJFIGBILHKIHLHELHFEFKICKIICHMFIKCLAGLCICHM
+HAIKBHLBHJCJBKKFAKICLLMFIKLIHMKBIBEHJLIGHBHIICLLKGLIBBKIKHFB
+ILLILMKKFALEBHLBFIKLIBBCLFICFIGHHILICHHMJFIBKLILCICHHIKBHLBH
+GKBIFIILEDHKIBKLIIKIHHILJFBBICHKLBMLALDKKFACLLKGLIFBBHHICLLM
+FJLHBHIIIKMHALKFALEBHLBHLJLKIILCBKHFICHBHKLHIFLLGKBKICLLMFIK
+LI
+
+If your mind has not been blown yet, then this one will certainly
+melt your brain. The following ciphertext is both homophonic and
+polyphonic. Each plaintext character has two possible ciphertext
+characters to which it can be encrypted. Furthermore, each
+ciphertext character can represent either of two different
+plaintext characters. The key is a mapping from A..Z to A..Z
+in which each letter on each side is connected to two letters
+from the other side. Encryption is again probabilistic, and
+decryption is not deterministic. Bad cipher. Bad!
+
+To clarify, consider an example: suppose the plaintext letters
+are a,b,c, and the ciphertext letters are U,V,W,X,Y,Z. Then one
+possible mapping is
+
+a -> X or Y
+b -> Y or Z
+c -> X or Z
+
+In this example, X can represent a or c, Y can represent a or b,
+and Z can represent b or c. So "cab" can be encrypted as "XXY"
+or "ZYY" or ...
+
+Here is the ciphertext. It does not use the trivial key from the example.
+
+KOGXXMDZDVBDJHHVGJPHVILDYYDDFVOBRLDWVNMYDVJGDGLNNBRDTTNILBPH
+DGOTTRHXLJSDPULFVJROIMDXRTRKILYILWYYCPJNJADRDJXTNJYGLOLLNMPN
+HKOGXXLDTUVBDJRRPGJVHVNMPIYNVNWNXXTLUDXMVXVURJDNLRODWYOBROHP
+AYILDBRDTEOGIIMYTUPUDKRHPNJVHXLMVIDNVLGLIILRNBYTLVILIYUUCREX
+LHYYXNFDGNGIHEYXLDUHYATVNURMZUYXYNXNJUDOGDWVYHRXGPFPXYHRJYHO
+JDIGVJWLRHWGPYPRHLGIDRYHROALXXRVRHVOAYXLYLRWNNZOIYGVJGPCRRVD
+RIRIVUOYXMDNHSHRWNVYNDUNPRWMVRXYRTLHNDGVNDUTPNNFMYJNDMLSMIZY
+RMPTGLVIYTHJMRHYXMPOLNNGLVRDCEIPCPOVYHDOSPADWPXDOHRMREGDQTDJ
+NDMPGIMYTMHDDRKXLYNRBVGLLOMLNUVHYXLYRYTPGPDNHPYYVIDHILPXZVBY
+WRJILDGYUXRHTREUWNNIFPXNOSUPUYNOXLYCHAVJGMVWHJIDOIMDCDUDFVJG
+PLGGVFYGIMYMKRHFARYUVXLRESMORODHKXLDNPNURRNVJDTLRTXMDRDAVNRO
+DTMHAPGJVMDGJRRIMDJEMYYRRJILLJANLDJHRAHXAMDOLYDJXYHYGILDGMLT
+LLGOFCRDDDPLLGTPXBLVUULNGKDAYDNVOWRNJSGPOGXMDBUHIMDNMDMVGCRO
+SLIKRRIMYXRLTLDMPGKHHICIARCHQDGVUDBPRDKOUDCTPBVDWALILMNNJPFD
+TPNOIDWBUYPRDCHJYVULYOXNNJBDMDHMNXIDGIHFDOXNHOXMYKVUXXMYWADR
+YVUUDYKIYYLLJWRJXMYYDVULILDDRNNHJMLGBUHXMYGMVRWUWFPIXYRDWCDB
+PENYMYLPWGYIYJURVXGRJTLDJLYBVMDTNXMIMHDDZVLHNRJYHRXNYEXXMYAR
+RNIRKNXTVGLDMPGTLRUUCJHRSRXXYJLLGOVFYLDAHEUGPJNTDHXHLLRHXRVO
+WDHEWBRCGEUMPNKRCFDHHKRLXXDRFWANAXHTLVICHOFPCUPDUEMRRAMPXTPN
+MLNOPFYCEIYGZDBLVDUWIMNJAEMVELSAMLDYJRHIMRGDTLRZRDJDRRYWVFRH
+YJRHBNYUDTRRGLDLPGWNKJDHYOIJVMDGJHRFILDGDLNGNJXNFVIDKRNDOWNU
+PDUDGMNMBVOGUYDOGGPJGLLGYOYMLYGIHVNIYGBLYDNDLLNJRHMLGOJSPNOU
+WMNNLOIDUDYUIGMVUDGHXMDYYUUFVJTROUGHKXYORYFPRXYEIMLNUHEHVADN
+GTDHJYBXVJWXMVXVKXDHPUDLGIMDXLNJSXMVIRJYODDWGTNIMPNOPHVLDAHO
+UWKRVDALILMCDOVNRDIORONOSIMYNHGIPHYTNXMPONMTOGYOITVARJXLDLYV
+WVOGMYRJBDAYOIVAVDXTPTNJZVTTLXLPYYPRKENIXRVDDZEZNIGNTLHLXNMD
+GVNGMYBVFYVNPCVVDRYOXRTJYGTLDJXHHUVXDPJWLXGHRIYXMYTHHRCYUDFV
+JLVUKFPGLDBHODGHJDWYVVDYHLWDBVVYJHHALLBLNFPWGXPIDJRMVXDRNPDN
+TDHYIRYDMPGIMYUVGIHKILDBRYTJDDGGYGTYBLVDHDFPRVIMHEAMLYDRHVYW
+PONJURDWNCDDWOOUYLDLVGKENIRJYLGDPCOIIMVXRJDCDNOSGOPRXXMYAHRW
+CDDUMVOYJSPADGLLFVIROUDMDUVMDPNPYOIULYHYOISRVFYDCGYUDPRYWAMY
+OXMYNLLTMVWCDDJNVLDLJSVTDDVLDBROUGRJDWVLUDYDPFDRNXMYCDUUMPJU
+HRXYGGBVHYWVJWTVNVUMRNXXHRJRLSMIDODWIHNZDVXCEXVIDYOSIMLYYBZD
+VLOYWNOVXRYFEURONXHJYILYRYAPGRJUCHJDCYVFYHHJCHVHWPOWILVIAPNV
+IPFDHJYMYLPWRKMNGHTJALHNDWYPXLAREUGCDWYYZDCWYZDHRDWILDCYVIDR
+TLHMVTZDJYGXHLYVHIMDHDMVRVZHHXYNXYGALXLIDPHGLOLXGDWYNXMVXJHI
+YIDJXMYRVZIORDRKLEOILOAILDNJPHXUHEUWPXRJDJRHIMPXWNNMPDNORTHN
+NYNINIRRJAUWVGFNGDWIMPIIMDCEXUMDHGLROUWCYURJIYCYWLOVNYZVHPID
+NMNZCOXILDCYDDFVJGDUUVRYWXLVITHODGODIYRPARDYTNXMXMDZUVOGLYMP
+WFVGDKRRIMDIRLTOVFNAVXNHOTPNVDAVCGVWNKJNBEDIPRIXMREALTLILHJD
+WHOYGMNTPOGHOYYYUDPJGLYKYPHDWLYFOGIHDPDDWWYUULODKHHLNNTVHIOO
+GDHXVXLOAPORXLYHPGAYDUILDYYVIDHNCDGIBHOHNYTVGJHWHOYXXHTHHBOH
+DVGYBHJGMPOGGPAADHZHHRJBHPINHIMDYPVYRVWFLNDWLXVJGODBXXHLJGOH
+YNXNDNKYLJGRMYRJKLUYRKJRXYXMLNXMYYVOXYHNOSSYNXYGVOGHKJYRYWJR
+RLNHYHJFRGDHVIYXDRMGHRKHHGPDYITHDQBDUUDJIZRULBLDNRJYPSPLJNIK
+NHDPJGRODPAVLONIGPFPSDKHRMMPLDCDINXNDDYFYHVJXYRXLVXNHRHRTKOU
+GVCALYJYFYHXLYCOXULYRTPGYWILYCDPFDHXDZIUHHXNJAXMDRZTHNLIDTPW
+POGVTZDPRYWOOPBUHEJXVYDWGLWXLDGDBRYXTRRGNGMOXLOW
+
+8<------------------------------------------------------------
+
+Today's episode is brought to you by the letters D and D.
+
+Earlier on, I gave you a series of ciphertexts that used various
+ways of doubling up on the monoalphabetic substitution cipher.
+Well, this one is doubly doubled. The cipher was invented in 2011
+by Viktor Veselovsky. You can read the original description in
+these two PDFs. I will be using a slightly different character
+set than the original. I assure you that these challenges are solvable.
+
+https://www.mysterytwisterc3.org/images/challenges/mtc3-veselovsky-11-mono_split-en.pdf
+https://www.mysterytwisterc3.org/images/challenges/mtc3-veselovsky-13-mono_nospaces-en.pdf
+
+Here's how the cipher works: Start with a plaintext, such as
+
+The quick brown fox jumps over the lazy dog.
+
+Split the text at a randomly chosen place near the middle:
+
+The quick brown fox jum
+ps over the lazy dog.
+
+Throw away the punctuation, convert the first part to upper-case
+letters and the second to lower-case, and replace spaces with "_"
+in the first and "/" in the second.
+
+THE_QUICK_BROWN_FOX_JUM
+ps/over/the/lazy/dog
+
+Next, interweave the two parts. This is done randomly (it's OK
+because the decryption is deterministic, i.e., with the correct
+key you can always get the correct plaintext).
+
+TpsH/E_QovUerICK/t_hBROe/lWN_aFzOyX/_JUdoMg
+
+The key is a permutation of the plaintext alphabet
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz/
+
+For example, the key could be
+
+ROUNDTABLE_knights/abCcdeFfGHIJjKlMmoPpQqrSuVvWwXxYyZz
+
+With this key, we make the substitutions: (this is best viewed
+in a monospaced font)
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz/
+ROUNDTABLE_knights/abCcdeFfGHIJjKlMmoPpQqrSuVvWwXxYyZz
+
+So the ciphertext is
+
+aSvBzDftrXbjVLU_zWfMOsgjzpcifGTZgydzfEbJrnl
+
+Here is the challenge ciphertext. It was encrypted with a
+different key than the one in the example.
+
+a_We/eFEAQFUjFa_SehpI/DFC_oEiQ_FWAuaUaeAjSzhFfOOa_jJzUJjjQaF
+EzuLpWkLurzFupezbe/FUhfOHDIhHeFvWEOAiIfubjze/AFpPehjzcfUiPaY
+JzDFKpSzfCOO_UzaFa_ueLjFBzfHPtXjESzbe/AupzueLFEjAFrzI/WOuFUl
+oHfvFC_DFEuaFEjAzqF_Wejtu/leFpEPaFzCpEYYKFzEHAaOlKUHaYjzDFuL
+vjzEAUNNWPlwejStjUz/FUHfPJvzjFnewF/jeNSYyUuLlPikevzKFpnSDzFt
+jwAITea_EjPHszfFePbJeHFTzfIzLf/OKezFonElOdUO//lpeFPUHvFzyEHj
+feStzJcNYEjjiQUnzuYLepWFa_kLuez/eFEAFhUpHoQIaW_ue/Fa_eI/jJDF
+C_zEfi_FPAaJzhUfaeAFOha_WUaFa_OfEAF_UAujFUYJ/zefUvPJzlPzuLDF
+_UNjNzjePHJezvfPFEHFaPpW_PhjJeFzuLfneuszuLEjHzHEfPtXjSHszFXf
+at_zelPzFBHKEbe/fhuzKpAeFCSUuAyFiuXp/zzeUfaePJvFztpa_zEAF_Uf
+AFTPpuUveFLjUFSzYIajFwIrjFPNzeINYegFlkbkjSe/DFzhUpoHs/QDWuFj
+SUzHvFnLeefJHzFCuEvpzegYjzgDWlF/OuesU/zupzKvevlFUAPFUFJnUvFz
+TIbeFpUWFuzX/ULifeFIrFu_zuDLNjzfe/hEHaeYuYEWfseHOzqaWjFNtUuH
+lpvPzETeXHfAEtIHzUYuLjFztnejhEHSsAFIjHuzieFnBEXYaFa_eTpAeYSJ
+zblteAFzUFSsjtuEfsWSUHafEiFPuAz
+
+That was fun, right? Now, to make it a bit harder, let's remove
+the spaces between words, and drop the "_" and "/" characters.
+Good luck!
+
+svIRmpyyPSDeiGImDtyVDtPWYKCnyPxkICnqVmIxeGGEPtUmhOuDJIqWRPhe
+CmuuOWWUEYqzqxPDyWepDWhVNCiIPqePnJWZyhWRyGfCnnDSqrxeqnmjeDJG
+hywZJIOCiuIsYSDstvDoGrpjJDWxwIjWfthPtxmyJCsWflAevYWDJRghZPxY
+imiVosvWjxyJSqSsJGfiDfytDinhpSPSsPUqxfYDroZGsQjqJyWAyGSqrjmh
+CfnIuPmiiHjBDhbySqxPGqmYfWvkIaCnSbIDflGfPsGAyaDmYFwCZOuseeCG
+YfgDNPSqQsinvyGjetSoPqRiWxjVWRmVspFxFWGfPtYZODJVDFqYGFPfJWvq
+uifGJqpCnyPCxWvsJpepWVwGWvqvysGYySmEyPtCfiDfsPelnGFgRseCnDJP
+yatDfqxtJICqwxikDsvyiGfPGqQAJIsPvhPDvWxVmiGfikIuOWlWJIPUifjR
+WxVNgmevDsviJyqxYCnyqnuuGmKxPhSsyCJACJpSSsJPtCUfJqGIxaWDZtJI
+uQxqPkGhXZstxiqYtGqzfqxJgDmufsCvnpWghCvfzJqvPstqvyGubfCJCfeD
+uhNmPxrAhCPqOZsfutQsevlreYPJyJWPphmxxiJbsymIxPGJIPhWZhPvQsvD
+yiGSqYqpfxqkDiJyaWIDxJJIQCsitYPKCnPsvyqxkDyasvqQi

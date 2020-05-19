@@ -1,0 +1,8 @@
+first, replace the numbers with letters, as A=01, B=02, ..., Z=26; then,
+periodic polyalphabetic substitution cipher
+however, it was decoded rather than encoded with these keys
+period = 3
+key alphabets:
+    QWERTYUIOPASDFGHJKLZXCVBNM (QWERTY keyboard)
+    ZYXWVUTSRQPONMLKJIHGFEDCBA (Atbash [reversed alphabet])
+    ROSEABCDFGHIJKLMNPQTUVWXYZ (keyword = ROSE)

@@ -1,0 +1,12 @@
+Clue Number 3
+
+Written by Harry
+Thursday, 20 December 2012 14:21
+
+Dear Charles
+
+As with the ADFGVX cipher, after encoding the characters as triples the string of As, Bs and Cs is broken up into short block and a column transposition applied to jumble them up.
+
+Hope this helps,
+
+Harry

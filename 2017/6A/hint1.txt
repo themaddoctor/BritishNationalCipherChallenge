@@ -1,0 +1,6 @@
+18 Nov 17 at 12:28 am
+#32837
+
+Anonymous
+
+OFFICIAL HINT: If you have solved all the other challenges up to this point, you should be able to solve 6a. There is nothing new here. Go back over the previous hints (from the other challenges, parts a and b), and work through it logically. You know some cribs, you know how to do frequency analysis, and build from there. More specific clues will be given in time.

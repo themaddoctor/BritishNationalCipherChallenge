@@ -1,0 +1,29 @@
+Harry,
+
+The divers have returned from examining the wreck of the
+rocket. There isn't much left and not a lot to tell.
+From what you told them and what they saw it looks
+like the second stage of the rocket failed to separate
+from the first so there wasn't enough lift to make orbit.
+When the fuel ran out the whole thing crashed and
+burned. I guess the beacon was thrown clear. The fact
+that the rocket was staged must mean it was intended
+for orbit so your guess that the beacon is a satellite
+seems good.
+
+While at the surface we pulled in signals from a Soviet
+weather station on the Lomonosov. Seems to be using the
+same encryption systems as the Leninsky Komsomov and
+I've told the guys in the radio room to keep tabs on
+them when they can.
+
+We also spotted a Soviet plane patrolling the ice -
+probably a tupolev ninety-five (we call them "Bears").
+Intel. say this might be the "pritok" variant, a
+prototype for locating landed space-craft but we didn't
+think that was flying ops yet.
+
+By the way, our cipher guys in the NSA tell us to expect
+the Soviets to switch to a more secure system. They picked
+up a weather broadcast using a transposition cipher and
+reckon the sub may follow suit.

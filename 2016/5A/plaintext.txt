@@ -1,0 +1,48 @@
+harry,
+
+it is hard to make sense of the latest message from martin. what is the temp
+bank? is it a network of part-time spies?
+
+jamelia implied that it was her coding skills that dynamix were interested in,
+so i began to wonder if jamelia was working on a recruitment tool using social
+media, but that sounds a bit old-school. could she and martin have been
+developing a screening algorithm for agents, trying to pick out the most
+reliable ones by data mining? how would that have fitted with her real
+expertise in signal/noise analysis? surely the data isn't that noisy.
+
+i did have some luck with background on the pds syndicate. they were initially
+set up to deal with a future in which quantum transmission makes it impossible
+to crack ciphers using digital methods. pds stands for post-digital
+surveillance, and they were an arms-length cabinet office initiative, kept
+completely separate from the other intelligence agencies. i think the plan was
+total deniability on all sides, and it was structured to prevent inter-agency
+rivalry. the syndicate had prime-ministerial sign-off, but after that there is
+no paper trail, and there has been no news of any progress. insiders think the
+syndicate was closed down in january after rumours of unauthorised
+surveillance, but given that bulk collection in the uk is authorised, it is
+hard to imagine what they were up to. i know that several of the people who
+launched pds left the civil service in february, and two now have board
+positions at citadelle. to the best of my knowledge, none of the seniors had
+direct contact with jamelia or martin, but i suppose it is possible that
+citadelle was just the vehicle for pds to keep an eye on the two of them.
+i still don't know why they were regarded as special, though maybe trinity
+has something for us.
+
+she sent the following message, hidden in an image file in instagram. a sort
+of wish-you-were-here thing, so i am guessing that she feels the need to be
+fairly discrete. she has also increased the security level of her comms, but
+unfortunately due to a mix-up with housekeeping, we weren't able to set up a
+secure channel for key exchange before trinity left to join the dynamix team.
+fortunately, she is good at improvising, and she has taken a lead from martin
+and used a column transposition cipher. that also explains the steganography.
+trinity knows that the opposition will find it reasonably straightforward to
+crack if they spot it. a word of warning: trinity's cipher is tougher to crack
+than martin's, and i had to hunt a little bit for the crib, but maybe you will
+find it more easily, knowing all this. at least she didn't resort to martin's
+reversing trick, so maybe we should consider ourselves lucky. i don't want to
+push our luck too far, and i don't want to expose trinity to more risk than
+necessary. when you reply, i suggest we follow trinity's advice and use a
+vigenere cipher. a keyword of length three should be adequate.
+
+best,
+charlie

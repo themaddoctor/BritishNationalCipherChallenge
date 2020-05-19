@@ -1,0 +1,16 @@
+03 Jan 17 at 8:58 pm #24774
+Joan Clarke
+Keymaster
+OFFICIAL CLUE: Keyword is used to shuffle the letters of the alphabet, like in a mono alphabetic keyword cipher. Then use the binary to write out each letter, but in columns. So the word  and  would be:
+A n d
+0 0 0 2
+0 1 0 2
+0 1 1 2
+0 1 0 2
+1 1 0 2
+
+Then it would be read off in rows as 00020102011201021102.
+
+But just to complicate things, the binary was written in reverse, bottom to top, and a keyword of dynamix was used to shuffle the letters.
+
+This reply was modified 18 hours, 13 minutes ago by  Joan Clarke.

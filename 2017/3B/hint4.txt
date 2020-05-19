@@ -1,0 +1,18 @@
+24 Oct 17 at 7:24 pm
+#31712
+
+Anonymous
+
+EXAMPLE: An example of the Polybius cipher is given below. In this example I am assuming there are no letter ‘z’ in the message, therefore I can just ignore this letter in the grid below:
+
+– 1 2 3 4 5
+1 a b c d e
+2 f g h i j
+3 k l m n o
+4 p q r s t
+5 u v w x y
+
+To encode the message: “hello” you would read off the row & column for each letter, so for h you would get 23. The message hello would be:
+23 15 32 32 35.
+
+Hope this helps – and no, the above is not the exact polybius square that was used to encode 3b.

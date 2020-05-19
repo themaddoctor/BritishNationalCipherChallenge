@@ -1,0 +1,3 @@
+Challenge A is now looking more like a part B challenge. Without word structure and with a tricky substitution to crack you will need to use frequency analysis as well as cribs to try to crack it. Challenge B is something a little different this week. Don't get too hung up on the way the text is formatted in blocks!
+
+Joan Clarke is publishing further hints and clues in the forum at https://www.cipherchallenge.org/forums/topic/official-clues-for-4b/

@@ -1,0 +1,3 @@
+Playfair cipher
+square = ADLER BCFGH IKMNO PQSTU VWXYZ
+keyword = ADLER

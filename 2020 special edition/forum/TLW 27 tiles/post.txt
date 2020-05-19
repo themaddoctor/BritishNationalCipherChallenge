@@ -1,0 +1,27 @@
+9th May 2020 at 4:27 pm
+#48160
+The-letter-wriggler
+Member
+
+TLW The 27 Tiles Problem
+==========================
+This Puzzle consists of 27 tiles.
+
+[ 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 8 8 8 9 9 9 ] row 1
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ] row 2
+
+Row 1 has 3 tiles of each number 1 to 9. (The 0's in row 2 are just place holders.)
+You are to arrange them into row 2 so that there are the same number of spaces
+between two tiles of the same value and the space count is the value of the tile
+
+e.g. 1*1*1 and 2**2**2
+
+where the * is a space and will be filled with one of the other numbers.
+
+There are 3 solutions (6 counting reversals).
+
+Test yourself -- find all three. Good Luck and Enjoy.
+
+Given your 3 answers in the form of a sum (answer + answer_reversed)
+
+No answers for you Harry -- do not want to spoil it for you.

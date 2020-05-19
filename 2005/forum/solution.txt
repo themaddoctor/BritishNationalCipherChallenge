@@ -1,0 +1,19 @@
+Solitaire cipher
+(see https://www.schneier.com/academic/solitaire/)
+
+key/deck:
+
+    as numbers:
+
+        36,25,30,37,39,40,17,35,10,11,52,13,44,23,42,12,15,16,
+        1,50,48,26,9,28,43,27,51,34,41,18,54,7,38,20,4,45,
+        19,22,46,47,24,5,14,29,33,53,6,2,21,49,8,31,32,3
+
+    as cards:
+
+        10H,12D,4H,11H,13H,1S,4D,9H,10C,11C,13S,13C,5S,10D,3S,12C,2D,3D,
+        1C,11S,9S,13D,9C,2H,4S,1H,12S,8H,2S,5D,JokerB,7C,12H,7D,4C,6S,
+        6D,9D,7S,8S,11D,5C,1D,3H,7H,JokerA,6C,2C,8D,10S,8C,5H,6H,3C
+
+        (C=clubs, D=diamonds, H=hearts, S=spades, J=jack, Q=queen, K=king)
+

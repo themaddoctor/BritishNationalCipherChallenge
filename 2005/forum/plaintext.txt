@@ -1,0 +1,18 @@
+Encryption is a form of cryptography, a secret writing
+which involves making information unreadable by obscuring
+it. For centuries it has been used by governments, organisations,
+or important individuals with a huge need for secrecy, but
+is now used in new widely used systems such as the internet
+and mobile networks. It works in either a code, the cumbersome
+way of replacing whole words or phrases with something else,
+or the much more useful cipher, which instead focuses on changing
+small pieces of the text such as individual letters. Old pen and
+paper ciphers include the Caesar shift which involves shifting
+letters a fixed amount round the alphabet. These ciphers
+come in two main types: substitution, changing letters for
+new letters or symbols, and transposition, mixing the letters
+up. During the twentieth century complex rotor machines like
+the Enigma were used to encrypt messages. Computers bring
+modern ways of encrypting digital messages. These new ciphers
+are either public-key, where anyone can send a message to someone,
+or private-key, in which the key must be kept secret.

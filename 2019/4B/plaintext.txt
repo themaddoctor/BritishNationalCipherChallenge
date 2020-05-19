@@ -1,0 +1,54 @@
+Apollo XI Post-Flight Analysis
+Spacecraft Reentry Trajectory Review
+
+This document contains information about the events during the reentry
+phase of Apollo XI. It has been compiled to satisfy flight-planning
+safety requirements. The review covers the following mission phase:
+trans-Earth coast, which ends with reentry into the mid-Pacific recovery
+area.
+
+The original flight plan called for separation of the CM from the SM
+twelve minutes before entry interface. Successful separation would then
+trigger a sequence of burns intended to stabilise the service module and
+to move it out of the reentry corridor to avoid debris collisions with
+the command module during the reentry phase. The reaction-control
+system burn sequence involved both the roll and the minus-X jets. The
+attitude burns were intended to set up a roll in order to stabilise
+remaining fuel and to prevent uncontrolled gyration during the boost
+that would have then taken the SM out of the reentry corridor into a
+high-altitude orbit that would decay only after the command module had
+landed, in the event the sequence of burns did not achieve the required
+trajectory shift.
+
+With reports from the astronauts on board and from a commercial airline
+pilot that the two space vehicles reentered the atmosphere together
+with the CM passing the SM during the plasma burn-phase, given the
+proximity of the vehicles during reentry, it is considered highly
+fortunate that no debris from the relatively unprotected SM struck the
+CM, and simulations show that such a strike would have been likely to
+cause catastrophic damage to the CM. Possible defects arising from a
+collision include
+
+    i.   Heat-shield damage: Even a minor crack in one of the heat-shield
+         panels would be likely to cause superheating, which could breach
+         the hull, leading to further catastrophic damage to the vehicle,
+         with probable loss of life.
+
+    ii.  Premature firing of the parachute pyrotechnics, leading to full
+         or partial loss of the descent-arrest system and loss of life.
+
+    iii. Damage to the parachute shield might have prevented the
+         pyrotechnics from releasing the parachutes, leading to a
+         catastrophic collision on landing and loss of life.
+
+    iv.  Damage to one or more of the parachutes could have led to a
+         high-velocity impact with probable resulting injuries and
+         possible loss of life.
+
+The high likelihood of catastrophic failure arising from the deviation
+from flight parameters means that further analysis of the separation-burn
+strategy is required. Pending that remediation for the Apollo XII, reentry
+trajectory is a high priority. It is suggested that surplus fuel should
+be ejected from the SM before the separation burn begins, in order to
+stabilise the attitude, and that the minus-X burns should be timed to
+coincide with the roll jets to improve stability.

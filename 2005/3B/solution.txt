@@ -1,0 +1,4 @@
+Morse code
+keyed substitution cipher
+    key = LOMNSVRIDGEABCFHJKPQTUWXYZ
+    keyword = LOMONOSOV RIDGE

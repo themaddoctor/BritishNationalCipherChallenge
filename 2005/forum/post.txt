@@ -1,0 +1,23 @@
+Posted by: Captain Cool at December 18, 2005 07:41 PM
+
+Harry, if you just want to have a forum somewhere, check out www.proboards.com. It's free and very easy to set up, for anyone. I'm not sure if YOU can use it though. Maybe you could get a good forum ready here for the next challenge. I think www.phpBB.com is definitely worth a look. It uses BBCode instead of HTML, looks good, and is Open Source!
+
+It's not possible to do this challenge without at least a bit of brute force at the lowest level, I think. I'm putting all my work into the cryptanalysis program. Then at the end you have something worth keeping. From the last challenge, I have a great Solitaire application, which was not judged last year. But then I didn't finish it properly in time anyway... Got me a solution though didn't it?
+
+I want to know who else has a good program from last time. So, I have created a test for those who think they have one. Decipher the following text:
+
+GUOSJXMW WQPYMJKE JYPOYHHT FOQXLUOK RELHGFYR PMRLYMQS JRIXMBLE ROBXBAZU LNQSNOAY BRVGSWEI XNJWLUWR VONYMDEM RBYBJSAG IHCNDKEE NOKISGEC UJNQZJFN TMHIGWUH UIUVNFDU VJQKULMD LGMSVWWS HMJAJYKX BORZQORQ VYIROTLD HTFDUZYH LHKIGZGT LNNASFHC TLFFHQOL HSSBSBHP YUJJKDBU ADQAYLKE CNKRWLEH HKQWCYPF KWYWZAPV YQVRCPLP EEFZCPPF WWQIWSXK QUVAKAFQ JRYIXUVU VIIILHVY OLGIBWPY MAZZSNCD XYLILXIP ZYAQJYUA ETGHIYXQ WZNZCKST GYTFSEUR THLFZWXC YSDLPGWP AKIOJRWX MIVYRDMJ BHJOKVGC HYUILJPK INAGSMCK TZKXLCPV SXAFEVEF SANTFICD IYNMMBHT EOWHOXTX VZLGGAPA FLVCUBZJ ROPMBKFI DGQWPLGB ETGYZEGH PHSDVCCH IYSCENXY IFTUJALG ZGLYXDLL QNAUZYQH OYGUYSTW VYVFSWYG VYWLSJQL IQDGRCQE PAUPMHHJ TPGMLLCT VITKAEBY YDUJVTOS IRFAZEIX FUSQZKOY WVUHYISH RXIUUYSB FOYNJNVR WDFYWYVD MLRDQZGT PUPALIWF BJGNUNBR EGPXRDCF TRAFVHWS LCEMNPTZ AANDEQAL OZHEIZON RBKZEBWA SDPPQCCW ZGCVQFSF ARYXPRMJ YLLVSTIQ TTXIWTHD SYQBAAOO GDMZWNNY GNUZSHLE LPEOYGLB HURRZAIL ATWIMUWA GVMDPQSK CQNUMCUV CSBIXBNV VJGTBBIB WFVLYVPX TLPTVWIJ MVOZJDFV NEGDWEAQ UOIJVZJA JBFBRCKW
+
+It is a description I wrote of ENCRYPTION, enciphered using Bruce Schneier's "Solitaire cipher" of course. Here is the key-deck in both card names and the solitaire numbering:
+
+10H, QD, 4H, JH, KH, AS, 4D, 9H, 10C, JC, KS, KC, 5S, 10D, 3S, QC, 2D, 3D, AC, JS, 9S, KD, 9C, 2H, 4S, AH, QS, 8H, 2S, 5D, JB, 7C, QH, 7D, 4C, 6S, 6D, 9D, 7S, 8S, JD, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+
+36, 25, 30, 37, 39, 40, 17, 35, 10, 11, 52, 13, 44, 23, 42, 12, 15, 16, 1, 50, 48, 26, 9, 28, 43, 27, 51, 34, 41, 18, 54, 7, 38, 20, 4, 45, 19, 22, 46, 47, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+This deck was generated with a key phrase that describes the cipher being used.
+
+With the amount of information provided, good understanding and a good program (with a good method), it would be reasonable to expect the plaintext to be found in 15 minutes. I think it can be done manually using my program within 2 minutes (I did it in one and a half in my test).
+
+If you allow yourself to be distracted, and manage to solve it, do not send the whole plaintext. To prove you have done it state the word 5 words after the word "old". If that has already been done, send the word 5 words after that and so on. Good luck! If you did not do 8B in the last challenge (or if you didn't make a program), this probably isn't even worth trying, but don't let that stop you!
+
+If no-one completes my challenge within the next few days, I can safely say that my solving method is brilliant! Are you going to try it? Now, back to my new program...

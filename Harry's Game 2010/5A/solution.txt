@@ -1,0 +1,3 @@
+affine cipher
+multiplier = 3
+shift = 2

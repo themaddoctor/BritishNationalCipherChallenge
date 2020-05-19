@@ -1,0 +1,12 @@
+November 05, 2004
+
+Hint for 5B
+
+OK, lots of pleas for help with this one, especially requests to know what sort of cipher this is. Let's just say you would expect us to play fair at this stage of the Challenge.
+
+To solve it you need to do digraph analysis, that is work out the frequency of pairs like AA, AB, DC an so on. You can try to find a frequency table that will help you, or you could make one of your own by sampling text, but there is a catch. If you look up how the cipher works you will see that before encrypting the text something strange is done to it with padding characters which can throw the analysis off.
+
+
+Good luck,
+
+Posted by Harry at 02:42 PM

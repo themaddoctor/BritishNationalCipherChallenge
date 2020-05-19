@@ -1,0 +1,4 @@
+exchange rows and columns; then,
+keyed substitution cipher
+key = LISBONPQRTUVWXYZACDEFGHJKM
+keyword = LISBON

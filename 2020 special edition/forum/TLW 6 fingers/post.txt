@@ -1,0 +1,26 @@
+27th April 2020 at 9:00 pm
+#47940
+The-letter-wriggler
+Member
+
+TLW A Six Fingered Alien.
+
+Calling all mathematicians (that's all of you right?)
+
+Can any one verify my answer?
+
+In 2001 Clifford A Pickover posted 'Grand Internet Math Challenge' where he gave 23 challenges.
+One of those was the following:
+
+#3. A Six Fingered Alien:
+A six fingered alien comes to you and asks, "What is the sum of all the numbers that can be formed with the digits 1,2,3,4,5, and 6, using each digit twice in every number."
+What is your answer? How did you solve this?
+
+So using the 12 digits 123456123456 add up all the >unique< numbers that can be formed from them.
+What is your answer and how did you work it out?
+
+I did this and my answer is 2910599999997089400 but I do not know if it is correct as I never saw any answers or workings for it. I can give my workings but I will withhold them for the obvious reason.
+
+So is 2910599999997089400 correct?
+
+[Nice challenge! Harry]

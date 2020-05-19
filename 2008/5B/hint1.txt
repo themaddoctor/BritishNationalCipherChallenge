@@ -1,0 +1,5 @@
+Probably time for a small hint
+
+Still stuck on Challenge 5? Whether you are working on part A or B frequency analysis is your best friend. You might find things don't quite work the way you expect with part B, but that is because the cunning French have found a way to obscure things a bit, nonetheless if you forget that and plough on you might get enough of an edge to start breaking the cipher and from there guesswork will get you a long way. Part A is a bit trickier than before for a slightly different reason, as several have already found.
+
+By Harry at 25 Oct 2008 - 23:33

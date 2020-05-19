@@ -1,0 +1,20 @@
+Porta cipher
+
+The key is SONATINA if we use this tableau:
+
+      |                    plaintext                        |
+  key | a b c d e f g h i j k l m n o p q r s t u v w x y z |
+  ----+-----------------------------------------------------+--
+  A,B | N O P Q R S T U V W X Y Z A B C D E F G H I J K L M |
+  C,D | Z N O P Q R S T U V W X Y B C D E F G H I J K L M A | c
+  E,F | Y Z N O P Q R S T U V W X C D E F G H I J K L M A B | i
+  G,H | X Y Z N O P Q R S T U V W D E F G H I J K L M A B C | p
+  I,J | W X Y Z N O P Q R S T U V E F G H I J K L M A B C D | h
+  K,L | V W X Y Z N O P Q R S T U F G H I J K L M A B C D E | e
+  M,N | U V W X Y Z N O P Q R S T G H I J K L M A B C D E F | r
+  O,P | T U V W X Y Z N O P Q R S H I J K L M A B C D E F G | t
+  Q,R | S T U V W X Y Z N O P Q R I J K L M A B C D E F G H | e
+  S,T | R S T U V W X Y Z N O P Q J K L M A B C D E F G H I | x
+  U,V | Q R S T U V W X Y Z N O P K L M A B C D E F G H I J | t
+  W,X | P Q R S T U V W X Y Z N O L M A B C D E F G H I J K |
+  Y,Z | O P Q R S T U V W X Y Z N M A B C D E F G H I J K L |

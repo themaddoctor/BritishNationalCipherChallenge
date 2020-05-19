@@ -1,0 +1,17 @@
+ben's idea is a good one and i think i can make it better i can use a
+draft of the book already known to hooke and claim that it contains
+the encrypted message if i tell him that the cipher is a one-time pad
+and that i found the otp still hidden on the hd of ben's laptop then
+i can give him the first few letters of the key to convince him the
+big advantage of an otp is that i can make the book decrypt as any
+message i like by cooking up the right key hooke is smart but he is
+no cryptographer and he probably won't see past the deceit have to
+hope not any way or i am dead the real question is how to neutralise
+him as a threat i spent a sleepless night wondering about it
+
+something i turned up in my research on hooke is nagging at me and i
+can't think what it is my cousin has a friend in israeli intelligence
+maybe he can help
+
+ben has really stepped up the security this time double-encrypted with
+a substitution and a transposition stage

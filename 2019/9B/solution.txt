@@ -1,0 +1,51 @@
+The alphabet is
+CHLORISTUVWXYABDEFGKMNPQ
+with the keyword CHLORIS.
+
+Chloris was a flower nymph in Greek mythology, or a daughter of Niobe.
+
+To decrypt, break the ciphertext into blocks of 28 digits, then
+into sub-blocks of 7 digits. For example, here is the first block:
+
+    1110100 1010000 1211221 0001101
+
+The first letter of the plaintext is encoded by the first digit of
+each sub-block:
+
+    1110100 1010000 1211221 0001101
+    ^       ^       ^       ^       -> 1110
+
+The second letter is encoded by the second digit of each sub-block:
+
+    1110100 1010000 1211221 0001101
+     ^       ^       ^       ^      -> 1020
+
+Likewise, 5 more letters are encoded in this block, and 7 letters
+are encoded in every 28-digit block.
+
+The number system that is being used is a combination of binary
+and ternary. The first, second, and fourth digits are in binary,
+while the third digit is ternary (base 3). To convert to decimal,
+
+    12 x first digit + 6 x second digit + 2 x third digit + fourth digit
+
+Note that there are only 24 numbers that you can make in this way,
+and that the alphabet that was used contains only 24 letters (no J, Z).
+
+Here is a table of the conversion from four-digit codes to letters:
+
+    0000 =  0  C        0110 =  8  U        1020 = 16  E
+    0001 =  1  H        0111 =  9  V        1021 = 17  F
+    0010 =  2  L        0120 = 10  W        1100 = 18  G
+    0011 =  3  O        0121 = 11  X        1101 = 19  K
+    0020 =  4  R        1000 = 12  Y        1110 = 20  M
+    0021 =  5  I        1001 = 13  A        1111 = 21  N
+    0100 =  6  S        1010 = 14  B        1120 = 22  P
+    0101 =  7  T        1011 = 15  D        1121 = 23  Q
+
+The cipher is a modification of the bifid and trifid ciphers, to use
+a four-dimensional box to hold the keyed alphabet. Because the box
+does not have the same lengths in all of the dimensions, the fractionation
+and diffusion steps can be done, but the recombination back into letters
+cannot. The period is clearly 7. The size of the box is 2x2x3x2, so
+that the coordinates are binary, binary, ternary, and binary digits.

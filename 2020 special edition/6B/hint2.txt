@@ -1,0 +1,22 @@
+11th May 2020 at 5:26 pm
+#48203
+Puttputt86
+Participant
+
+I really enjoyed this one -- a great challenge! Starting to test the limits of my approach of only using MS Excel to help me solve the challenges!
+
+The reference to Norsk Hydro in 6A didn't help me too much -- too many permutations of SK and KH to cycle through! My main breakthrough actually came when I factorised the total number of characters in the ciphertext into its prime divisors -- clearly this won't always work, but it did in this case!
+
+I know it's not needed, but is the keyword "[... Harry]" by any chance?
+
+
+11th May 2020 at 5:26 pm
+#48205
+Icybee
+Participant
+
+[A nice set of hints here from icybee. Harry]
+
+When decrypting transposition ciphers, it's a good idea to factor in the length of the message (sometimes).
+
+Also watch out for German words in inconvenient places. Maybe look for recognisable phrases lower down!

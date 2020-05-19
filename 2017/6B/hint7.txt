@@ -1,0 +1,6 @@
+26 Nov 17 at 1:43 am
+#33123
+
+Anonymous
+
+OFFICIAL HELP: The language for the key word is not going to be Italian, or English. Think about the story overall, and when this was encoded, and hence what language it could be. The 2 ciphers used are Affine shift and Vigenere. The keyword applies only to the Vigenere part of this.

@@ -1,0 +1,3 @@
+first, reverse the ciphertext
+then, decrypt as Vigenere cipher
+key: ZODIAC

@@ -1,0 +1,36 @@
+route transposition cipher
+
+reverse the ciphertext;
+add a null "_" to the end;
+take every 14th letter;
+reverse the order of the lines;
+read off the text, starting in the upper right corner (=,+,-,.):
+
+HENORTHPOLEANDEVERTOWINTERINTTHESOUTHPOLEBE_
+..............---------------+++++++++++++++
+HEWASABOUTTOEHEANTARCTICINNIATINGHISBRITISHO
+.............---------------+++++++++++++++=
+MBARKINNINETNETEENOHTHREEHERIVALROBERTFALCNT
+............---------------+++++++++++++++==
+EENOHNINEWHGUIDEDTHEFORTYSONSCOTTAMUNDSENHEF
+...........---------------+++++++++++++++===
+ENHELEARNEEVENTONSLOOPGJOBORNINBORGENEAROURT
+..........---------------+++++++++++++++====
+DTHATTHEAATHROUGHTHENORTOSLOINEIGHTEENSEENTH
+.........---------------+++++++++++++++=====
+MERICANRHWESTPASSAGEANDEVENTYTWOWASONEOFDECE
+........---------------+++++++++++++++======
+OBERTPEAROUNDTHECANADIOFTHEGREATFIGURMBERNIN
+.......---------------+++++++++++++++=======
+ARYHADANCOASTTHEFIRSTESINPOLAREXPLORETEENELE
+......---------------+++++++++++++++========
+ACHIENAVIGATORTOACCOATIONINEIGHTEENVENNORWEG
+.....---------------+++++++++++++++=========
+VEDTMPLISHTHETREACHNINETYSEVENHEWAIANROALDAM
+....---------------+++++++++++++++==========
+HEFEROUSJOURNEYAMUSFIRSTMATEONABEUNDSENBECOM
+...---------------+++++++++++++++===========
+EANDSENPLANNEDTOBLGIANEXPEDITIONESTHEFIRSTEX
+..---------------+++++++++++++++============
+TETHEFIRSTMANTOTTHATWASTHEFIRSTPLORERTOREACH
+.---------------+++++++++++++++=============

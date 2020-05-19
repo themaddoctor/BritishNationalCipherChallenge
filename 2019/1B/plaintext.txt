@@ -1,0 +1,19 @@
+Memo
+
+From: Trajectory team Apollo guidance
+To: Guidance officer
+Subject: Hazards in lunar orbit
+
+Radar tracking has shown that the Soviet lunar orbiter Luna fifteen is potentially on a collision course with the scheduled descent path for Eagle. The current risk is low to medium, but action should be taken to minimise or eliminate it.
+
+The current range of options includes:
+
+Re-calculation of alternative descent paths to the primary and secondary landing targets.
+
+Re-designation of landing sites which use descent paths which do not intersect the orbiter path.
+
+Abort mission
+
+The first and second options carry the additional risks associated with any significant late stage change to the mission plan. The third option carries the real threat that we will fail to fulfil the primary objective of a manned landing before the end of the year.
+
+One alternative to these options would be to request further information from the Soviets to clarify the mission plan for their orbiter. It is possible that they are already planning to modify its trajectory and that no further action will be needed on our part, but changes to the orbit could increase the risk and we might lose tracking reducing the likelihood that we can manage the situation.

@@ -1,0 +1,34 @@
+Solitaire cipher
+(see https://www.schneier.com/academic/solitaire/)
+
+key/deck:
+
+    as numbers:
+
+        39,35,47,4,5,42,17,52,20,13,53,16,30,40,38,34,43,14,
+        41,7,27,44,1,6,33,15,54,36,18,24,3,9,51,37,23,46,
+        21,10,12,19,26,49,45,25,28,2,22,8,31,48,32,11,29,50
+
+    as cards:
+
+        KH,9H,8S,4C,5C,3S,4D,KS,7D,KC,JokerA,3D,4H,1S,QH,8H,4S,1D,
+        2S,7C,1H,5S,1C,6C,7H,2D,JokerB,10H,5D,JD,3C,9C,QS,JH,10D,7S,
+        8D,10C,QC,6D,KD,10S,6S,QD,2H,2C,9D,8C,5H,9S,6H,JC,3H,JS
+
+        (C=clubs, D=diamonds, H=hearts, S=spades, J=jack, Q=queen, K=king)
+
+The deck is keyed with the first paragraph of the Preface to the First
+German Edition in Karl Marx's Capital: A Critical Analysis of Capitalist
+Production, Volume 1.
+
+    The work, the first volume of which I now submit to the public,
+    forms the continuation of my "Zur Kritik der Politischen Oekonomie"
+    (A Contribution to the Criticism of Political Economy) published in
+    1859. The long pause between the first part and the continuation is
+    due to an illness of many years' duration that again and again
+    interrupted my work.
+
+    THEWORKTHEFIRSTVOLUMEOFWHICHINOWSUBMITTOTHEPUBLICFORMSTHECONTINUATIONO
+    FMYZURKRITIKDERPOLITISCHENOEKONOMIEACONTRIBUTIONTOTHECRITICISMOFPOLITI
+    CALECONOMYPUBLISHEDINTHELONGPAUSEBETWEENTHEFIRSTPARTANDTHECONTINUATION
+    ISDUETOANILLNESSOFMANYYEARSDURATIONTHATAGAINANDAGAININTERRUPTEDMYWORK

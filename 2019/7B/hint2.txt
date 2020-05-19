@@ -1,0 +1,9 @@
+30th November 2019 at 9:50 pm
+#44563
+
+Harry
+Keymaster
+
+Sure. Just like 6B, 7B is encrypted twice. Once using a substitution cipher and once using a form of transposition cipher. There are TWO hints in 7A, one telling you which form of substitution cipher has been used. To find it you need to work out the keyword for the cipher used to encrypt 7A itself. The clue to the transposition part of 7B is hidden in the text of the final paragraph of the decrypt of 7A.
+
+Hope this is helpful!

@@ -1,0 +1,26 @@
+my dear miss lovelace,
+
+our meeting could not have been more timely – my recent travails had brought
+low my ambition for the power of steam-powered computation but in you i found
+the enthusiasm i once owned and it has rekindled my determination to finalise
+the design of the world's first mechanical computing engine; perhaps one
+which will assist in the task of decyphering your late father's enigma.
+
+whether i shall be allowed to construct a larger engine of this kind, and bring
+to perfection the others i described at our meeting, will in a great measure
+depend on the nature of the encouragement i may receive from the government.
+in this regard i would most humbly beseech you to maintain your great
+discretion concerning your reservations about lord pennylaine. he has most
+considerable influence on the chancellor and our future plans may depend on
+his support. he showed great interest in our ideas last evening and whatever
+his motivation, i feel certain it will be to the great benefit of our nation and
+ourselves to gain his support for this enterprise.
+
+the commission placed upon me, dare i now say, placed upon us, "to bring to
+perfection an engine for calculating mathematical tables" falls so very far
+short of our new ambition: to bring about a revolution in our means of
+computation which may be brought to bear upon problems far beyond current reach
+and imagination.
+
+your faithful servant,
+charles babbage

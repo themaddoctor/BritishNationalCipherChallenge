@@ -1,0 +1,5 @@
+Vigenere cipher with key = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+-or-
+
+Trithemius cipher with no key

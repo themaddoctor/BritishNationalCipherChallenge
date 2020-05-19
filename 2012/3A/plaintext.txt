@@ -1,0 +1,33 @@
+my dear charles,
+
+at your urging i am continuing to decypher my uncle's will. his
+statement that "the danger did not end with the war" is somewhat
+alarming. was it his intention to suggest that i am at some risk?
+could his actions during the war really be posing a danger to me
+after all this time? it is clear that we will have to complete the
+decryption if we are to understand.
+
+i did not encounter verona during the war, and have heard nothing
+about it during my exile here on malta, but i think it might be
+time to make discrete enquiries about it in london. would you oblige
+me in this?
+
+one other thing. almost certainly i am jumping at shadows, but my
+landlady remarked that over the last week or so she has noticed
+two men loitering in the neighbourhood of my apartment. i cannot
+believe that this is connected with my uncle's will, but his warning
+has alarmed me and i have engaged the assistance of a local detective
+to keep watch.
+
+i take your point about securing our communications. tiberius is
+clearly more concerned to secure these later sections of the document
+as well, and i had to work hard to break the keyword cypher he used
+here. returning to the wartime convention of five letter blocks really
+does add to the security of the text, and i had to carry out frequency
+analysis on this section of the will. i suggest that in the future we
+too use the wartime convention. i think that with this precaution the
+affine shift cypher should afford us sufficient security in our letters
+to one another.
+
+yours,
+nicholas

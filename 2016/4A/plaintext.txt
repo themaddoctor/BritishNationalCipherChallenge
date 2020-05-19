@@ -1,0 +1,43 @@
+harry and charlie,
+
+i am no closer to the pds syndicate, but i think i have begun to unravel
+why they might be interested in jamelia and martin. as she told us in the
+hidden message i sent last week, jamelia had been working on signal
+recognition at dynamix. at first i was puzzled by this, as i couldn't see
+how it related to weaponised gravity waves, but then i took a look at her
+bookshelf, and it began to make sense. it was full of books on general
+relativity, black holes, and neutron stars. jamelia was not working on
+gravity waves, but on gravitational waves. i can see how the field agents
+would have got confused. in the US they sometimes use both names for the
+same thing, but they really are different. gravity waves are a seismological
+phenomenon, as you already figured out. gravitational waves are entirely
+different. einstein predicted them a hundred years ago, and they were
+detected by the LIGO team last year. the signals are given off by things
+like binary black hole systems and are incredibly faint. they easily get
+swamped by local noise. it was an amazing feat detecting them, and jamelia
+was part of that. to add to our confusion, she was in the team responsible
+for designing the search algorithms and the noise filters used to spot the
+signal of a galactic event against the noise of seismological activity, so
+she did know something about gravity waves, too. i still don't know exactly
+how dynamix were using her expertise, or what the pds syndicate are or do.
+if you can get any intel on that, it might help guide my enquiries.
+
+the noises i am hearing suggest that pds are serious: lots of cash, lots of
+influence, so i suggest we increase the security for future messages. when
+you reply, try using a double encryption: reversing things before applying
+a keyword cipher to the message.
+
+I will be out of contact for the rest of the week. i am taking a crash
+course in neutron star dynamics in the hope that i can fit in better
+with the locals. i have a test at dynamix on thursday for an internship
+in their programming section. if i can get access to their network, then
+maybe we can start to unravel this.
+
+In the meantime, i found the attached memo slip folded up under one leg
+of jamelia's desk. at first i thought it was just a fix for a wobbly desk,
+but it turned out to be a fantastic place to hide a secret. it reminded
+me of the purloined letter, which given the keyword is probably no
+coincidence. it looks like jamelia and martin shared a love of old
+detective stories.
+
+trinity

@@ -1,0 +1,11 @@
+23rd November 2019 at 2:15 pm
+#44375
+
+Harry
+Keymaster
+
+Yes I can! The first thing you need to hope is that the block length isn't too big. A good guess is something up to 7. Beyond that is gets a bit hard to spot patterns. The word "the" is by far the most common word in English so it is the most common triple. After a substitution it will have been replaced by some other triple (say for the purposes of this tutorial xyz) that has then been jumbled by the anagramming. There will be a lot of the x and the z, since they represent (in this example) t and e, which are also the most common letters in English text. But there are usually so many copies of "the" in the text that the xyz is likely to appear in the same place in a number of blocks, so will be jumbled in the same way. So the letters x,y,z might no longer be in the same order or next to one another, but they will be in the same relationship to one another. Moreover the x ands z are likely to be very common, so look for where they appear and look for a pattern in the distances. Look at the distances between the start of the repeats and see if there are any common factors up to 7. If those gaps are all a multiple of some number then that number is a good guess for the block length.
+
+Does that help? Hope so,
+
+Harry

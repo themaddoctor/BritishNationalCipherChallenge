@@ -1,0 +1,13 @@
+It is a Bacon 5-bit cipher. The ostensible ciphertext is
+from Thomas Paine's "Crisis" (we must remove a word "by"
+in order for it to line up correctly). When a letter in
+the ciphertext matches Paine's text, write an "a". When
+it differs (it is the next letter in the alphabet), write
+a "b". Then decode using 5-bit numbers for letters:
+
+    aaaaa = A
+    aaaab = B
+    aaaba = C
+    aaabb = D
+    ...
+    bbaab = Z

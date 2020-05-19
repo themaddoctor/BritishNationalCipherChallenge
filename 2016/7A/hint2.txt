@@ -1,0 +1,1 @@
+Yes, this is a vigenere cipher, but with a twist. Calculate the ioc's for lengths of 2,3,4 etc. until it is close to that of the English language (see page 15, 27 and 28 of the beginners guide to codebreaking).

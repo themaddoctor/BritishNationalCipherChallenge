@@ -1,0 +1,4 @@
+First, do a matrix transposition by writing the ciphertext
+into a 47x47 matrix and reading it off by columns (columns
+are not rearranged). Then it is a Vigenere cipher with
+key = COLUMNS

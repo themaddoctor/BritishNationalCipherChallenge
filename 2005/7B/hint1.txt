@@ -1,0 +1,13 @@
+November 28, 2005
+CHALLENGE 7B FIRST HINT
+
+.... if this can be called a first hint given the amount of information leaking out in the comments.
+
+
+If you haven't figured this out yet, Challenge 7B is encrypted with a Hill cipher. You should have enough of a crib to almost get this without too much work, but of course we haven't made it too easy.
+
+The clue in part 7A was the reference to "steep'. Not much of a clue but it was there and professionals work with less!
+
+Knowing this you could this worse than read the comments from the over the weekend looking for info about how to tackle this cipher. There seems to be a concensus that you are better off trying to solve the simultaneous equations using the obvious crib, together with a bit of brute force and common sense. Good luck.
+
+Posted by Harry at 09:46 AM

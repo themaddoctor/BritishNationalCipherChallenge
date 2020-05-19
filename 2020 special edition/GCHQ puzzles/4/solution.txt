@@ -1,0 +1,19 @@
+(The power of the) Ellipsis
+
+The next three terms in the following sequence:
+
+3,3,10,11,11,18,10,10,17, ...
+
+are .......
+
+either 18, 18, 25, or, if you are a little more modern, then 10, 10, 17.
+
+The reason is that the numbers represent the number of letters in the powers of ten:
+
+One, Ten, One Hundred, One Thousand, Ten Thousand, One Hundred Thousand, One Million, Ten Million, One Hundred Million,
+
+followed by One Thousand Million, Ten Thousand Million, One Hundred Thousand Million
+
+OR
+
+One Billion, Ten Billion, One Hundred Billion.

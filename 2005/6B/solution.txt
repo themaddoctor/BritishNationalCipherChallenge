@@ -1,0 +1,4 @@
+convert 0 to dot, 1 to dash, and 2 to the separator,
+then decode as Morse code,
+then simple columnar transposition with key 32,
+then Vigenere cipher with key FIALKA MARK I

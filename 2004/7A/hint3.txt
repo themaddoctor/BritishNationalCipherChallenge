@@ -1,0 +1,11 @@
+December 07, 2004
+
+Another Clue for 7A
+
+Remember 7A is double encrypted: first Aunt Aggie used a special kind of substitution cipher to encrypt the plaintext, then she encrypted the result using what is known as a transposition cipher which rearranges the letters. In this case she seems to have taken the word "transposition" rather literally! It is not an accident that the ciphertext is arranged in a square.
+
+Once you have rearranged the letters in the square you still need to crack the substitution cipher, but Aunt Aggie already told you last week what sort of cipher she would use:
+
+"a somewhat unusual version of a rather more secure French cipher. You may need to reflect upon this in order to decipher MY meaning (and that of M. Allier)"
+
+Posted by Harry at 08:24 AM

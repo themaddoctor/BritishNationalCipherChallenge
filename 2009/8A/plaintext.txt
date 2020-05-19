@@ -1,0 +1,56 @@
+my dear mr babbage
+
+i was most shocked to hear of the death of our dear friend mr cocking
+and assumed immediately that all had gone awry it was with the utmost
+relief that i discovered of his ingenious ruse to escape the attention
+of the french assassins by faking his death it was a most gruesome end
+and i shudder to think of those unfortunates who witnessed it believing
+it to be true where he obtained a corpse suitable for the deception i
+do not know and do not care to ask i am even more puzzled at how the
+body may have been concealed in the basket but this is of no account
+i am truly happy to have received news that he is well and i wish him
+continued good health of course
+
+the first major challenge for the turning engine now it has been safely
+returned to us will be the decryption of the enclosed cyphertext
+discovered in the house believed to have been used by agent monhier as
+a safe refuge the broken wheels discovered in another room lead me to
+believe that this monhier's final message has been encrypted using the
+jefferson cypher alluded to in his previous letter it appears from the
+fragments that the device used twenty-six wheels each with a random
+alphabet of the standard characters but i recall that monsieur monhier
+asserted that each wheel was identical to another i have managed to
+reconstruct the first of the wheels in their entirety from the fragments
+and the letters on these discs read as follows
+
+    wheel one:      himqebnyulwtascvojprxzfgdk
+    wheel two:      blaxcvshirwpfyqodetmnjkzgu
+    wheel three:    eadzmijyksrxvqtlpuchnwgbof
+    wheel four:     lhrtsouazkxedibwyvpfngmjcq
+    wheel five:     aoebmunwjycgxqzvhlstkrdpfi
+    wheel six:      hbtwosivqrdpygnxuzlafckejm
+    wheel seven:    obqzgrlkxatpnsyewvdfijumch
+    wheel eight:    imrwvulbdkoqhaetpgzsyfcnjx
+    wheel nine:     ruhcesjaxmnzogvbqtkdwilpyf
+    wheel ten:      sazorcietfykxmdpgwqvuhlbnj
+    wheel eleven:   quaihjmceztkyfvlpbxosgrwnd
+    wheel twelve:   mucatpjzoxewifqhbsrglydknv
+    wheel thirteen: qwlckuetdivphfamzoybrsgxnj
+
+this gives me considerable hope that we might crack monsieur monhier's
+jefferson cypher with the aid of a little luck perhaps a crib and the
+power of the new computing engines available to us
+
+i must say that the life i have led since meeting you my dear prof
+babbage has been much more exciting than i could possibly have
+imagined the gaming tables seem tame by comparison our work on the
+turning engine on its successor and on the analytic engine has
+wrought a revolution in my life and i believe will do the same for
+many others
+
+when time permits i will return to the question of my father's enigma
+but the pressing needs of the nation and of mathematics call me away
+once more and i am delighted to serve them both in your company
+
+with much affection
+ada lovelace

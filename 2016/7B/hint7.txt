@@ -1,0 +1,28 @@
+Joan Clarke Keymaster
+
+More clues will be coming out this weekend. No the keyword is not just a random word, it is related to the storyline. For ideas about how to encrypt (and therefore ideas about how to decrypt) a bifid cipher check out the example on the forum https://www.cipherchallenge.org/forums/topic/bifid-cipher/. You know the period so this should help out to work out the position in the table of the letters. The table is a 5�5 grid of all the letters in the alphabet (excluding J), but with a keyword at the start, e.g. if the keyword is cipher, it would look like:
+
+  1  2  3  4  5 <- col
+1 c  i  p  h  e
+2 r  a  b  d  f
+3 g  k  l  m  n
+4 o  q  s  t  u
+5 v  w  x  y  z
+^
+|
+row
+
+If I wanted to write the message HELLO YOU with the above table and with period 4 (note challenge 7B has period 4), this is what I would do:
+
+     H E L L O Y O U
+row: 1 1 3 3 4 5 4 4
+col: 4 5 3 3 1 4 1 5
+
+First split into blocks of 4 (the period), then write out the row & column numbers of each letter in the message from the grid. The read off row and then column, block by block, giving:
+1133 4533 4544 1415, and use these as the row and column numbers for the cipher text
+
+     c l u l u t h e
+row: 1 3 4 3 4 4 1 1
+col: 1 3 5 3 5 4 4 5
+
+Hope this helps, and look out this weekend for more info on the keyword length. You could also be thinking of possible starting words for challenge 7b, and maybe even come up with part of the grid this way.

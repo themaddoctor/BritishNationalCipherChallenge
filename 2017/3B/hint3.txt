@@ -1,0 +1,6 @@
+24 Oct 17 at 1:26 am
+#31692
+
+Anonymous
+
+OFFICIAL CLUE: As you have probably found out from part a, this is a polybius cipher. This means the alphabet has been put in a 5×5 grid (2 letters combined to make 25 letters total). Then each column and row is given a heading (the 5 characters which appear in the cipher text). You read off the row and column to give you 2 characters in the cipher text for each 1 character in the plain text. Now you need to figure out the square grid, and the row/column headings. More hints will follow.

@@ -1,0 +1,17 @@
+11th December 2019 at 9:16 pm
+#44838
+
+Harry
+Keymaster
+
+The characters are laid out in a grid:
+
+ |A B C D E
+-|----------
+F|
+G|    x
+H|
+I|
+K|
+
+If x appears in the row labelled G and the column labelled C then the cipher replacement for x is GC. Once you realise this is what is happening you just have to do a frequency analysis counting how often each pair FA, FB, FC, FD, FE, GA, GB, etc appears and crack it just like you would any normal substitution cipher. Good luck!

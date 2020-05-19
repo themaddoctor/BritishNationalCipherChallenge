@@ -1,0 +1,14 @@
+block transposition cipher
+permutation = (3,4,2,1,0)
+keyword = STONE
+
+rough translation:
+
+the stone, which is made of clay and therefore fragile, must be packed in straw,
+the contents should be shipped on the suevic to southampton where our agent
+mistress kock before we meet you with the railway to london to request from
+there we the over the armel channel to be brought to france and then to berlin
+we have following de message from an english colleague of mr. kock he is holding
+her is a little disconcerting but in the face of the ensuing security issues this
+will not cause any serious problems
+we will meet each other like the meeting in berlin on april 14th succeed

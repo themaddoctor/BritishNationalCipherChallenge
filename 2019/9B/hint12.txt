@@ -1,0 +1,9 @@
+4th January 2020 at 9:18 pm
+#45122
+
+Xmask19
+Member
+
+this is probably quite a substantial hint, but it's quite close to the end, so maybe harry'll take mercy on you
+
+so split it into some number of columns, exact number you'll have to figure out yourself, then look at how many times the 0s 1s and 2s appear in each column

@@ -1,0 +1,1 @@
+Each value in the key stream is the value of the previous character in the plaintext.

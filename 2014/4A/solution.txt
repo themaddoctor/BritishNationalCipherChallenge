@@ -1,0 +1,3 @@
+keyed substitution cipher
+key = STERNUVWXYZABCDFGHIJKLMOPQ
+keyword = STERN

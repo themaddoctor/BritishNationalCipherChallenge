@@ -1,0 +1,43 @@
+20th October 2019 at 10:22 pm
+#43723
+Harry
+Keymaster
+
+It is late, we are all tired, and it is possible that what follows has mistakes, so please do let me know if the arithmetic goes wrong somewhere, but I thought you might find this useful.
+
+Some people have asked me how you would solve an affine shift cipher if your crib gives you a pair of equations like
+
+13a + b = 20 mod 26 and
+
+9a + b = 8 mod 26
+
+The problem is that when you try to solve the two equations, say by subtracting the second one from the first, you get
+
+4a = 12 mod 26.
+
+As we point out in the resources, it is tempting to “divide by 4” which would apparently give a = 3 mod 26, but it turns out that this is not quite right. Knowing the answer in advance I can tell you that there are two possibilities! Certainly a = 3 will work, but so will a = 16 since 4 x 16 = 64 = 12 +52 =12 mod 26.
+
+Where does the extra answer come from, or, rather, how could you have found it if I didn’t tell you it?
+
+First we have to divide the WHOLE equation 4a = 12 mod 26 by 2 INCLUDING THE MODULUS!
+
+This gives us a new equation
+
+2a = 6 mod 13.
+
+Now we notice that 2 is coprime to 13 so we can “divide by 2”, which in this case is the same as multiplying by 7. This is because 2 x 7 = 14 = 1 mod 13, so “dividing” 1 by 2 gives 7 mod 13.
+
+This means that
+a = 7 x 6 mod 13, i.e., a = 42 mod 13.
+
+This then reduces to a = 3 mod 13 as we remarked above. But we care about answers mod 26, not mod 13, and for each answer mod 13 there are two possibilities mod 26. This is because we wind around the mod 13 clock face twice in the time it takes us to wind once around the mod 26 clock face. The first solution mod 26 is still 3, but the second is a = 3 + 13 = 16 mod 26. This is just like the ambiguity you get telling time if you use the 12 hour clock instead of the 24 hour clock. 3 o’clock can mean 03:00 hours or 15:00 hours if you use the 24 hour clock instead of the twelve hour clock.
+
+Going back to our two equations we now have two possible solutions. a = 3 mod 26 or a = 16 mod 26.
+
+For each of the solutions we can also compute the value of b. Putting a = 3, the second equation gives 27 + b = 8 mod 26, so b = 7. If a = 16 instead then we get 144 + b = 8 mod 26 which gives b = 20.
+
+Which one is correct? You have to try both. If this comes up when cracking an affine cipher one of these choices will be correct, and you need to check both against the cipher text. In other applications of modular arithmetic you might need to live with the fact that you have two solutions, but that is familiar from ordinary arithmetic when you need to solve an equation with a square in it. You have to account for the fact that numbers can have two square roots, and this is not really different from that. In fact, from a geometric point of view it is really the same phenomenon, but to explain that you need to know about complex numbers, and that is an entirely different subject …
+
+All the best,
+
+Harry

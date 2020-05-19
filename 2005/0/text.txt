@@ -1,0 +1,24 @@
+Date:    March 24th 1959
+To:      Prof. Vandiver
+From:    Captain Omen
+Subject: Mission R7
+
+On March 18th 1959 a Soviet launch vehicle crashed soon after take off
+from the spaceport at Baikonur. US naval reconnaissance pilots observed
+an apparently spherical object crash landing in the waters of the Arctic
+around the time of the incident. We have been instructed to proceed to
+the crash site, to dive, search for and retrieve any artifacts
+surviving the impact. We believe ships of the Soviet Navy will converge
+on the area and Soviet submarines may also be operating near the site.
+We are to remain undetected. Headquarters intercepted the enclosed
+message intended for a Soviet surface ship in the region. It is not
+enciphered since it was intercepted before broadcast but our source is
+now closed down as there is concern that  cover may be blown. Future
+signals from the Soviet fleet are likely to be encrypted. As the boat's
+intelligence officer it will be your task to decipher all sigint. Future
+messages between us should also be encrypted and we will alter
+encryption schemes as necessary. In the first instance, while our
+mission is undetected, light encryption should suffice and I would
+suggest using a Caesar shift cipher for your first report to me. I note
+that you are due for your annual Morse code test so while we are waiting
+for signals for you to decipher you can practice on the Soviet message.

@@ -1,0 +1,8 @@
+OFFICIAL CLUE: Yes, the column height (and similarly the length of the keyword, which is the number of columns) is a factor of the length of the ciphertext (excluding spaces). This will give you several possibilities. You then need to think of a crib (longer, or containing unusual letters is better). If your crib is longer than the length of the keyword then it will wrap around, and some of the letters will appear in the same column, one under the other. For example - "Nationalcipher" is 14 characters long, so could have a key word of length 2, 7 or 14 (note 14 is unusual). If it was encoded with a keyword of length 7, you would write it as:
+
+n a t i o n a
+l c i p h e r
+
+Then the columns would get jumbled up (according to putting the keyword in alphabetical order). Finally you would read off the cipher text by reading down each column.
+
+You can see in the example here, that without even jumbling the columns, if the crib you were looking for was �cipher�, this would not be helpful as each letter appears in a different column. But if you were looking for the crib "national", then you would find "nl" together, giving you a keyword length of 7.

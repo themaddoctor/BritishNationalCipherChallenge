@@ -1,0 +1,9 @@
+First, reverse the text; then it is a
+monoalphabetic substitution cipher.
+
+key alphabet = VIGENRSTUWXYZABCDFHJKLMOPQ
+keyword = VIGENERE
+
+Notice that the first letter in each sentence of
+the last paragraph spells COLUMNS, which is a
+hint for part 7B.

@@ -1,0 +1,6 @@
+13th May 2020 at 11:56 am
+#48232
+Harry
+Keymaster
+
+OK, it was a bit obscure, but the word "REFLECT" was a hint that the cipher text has been written backwards after encryption! If you turn it round you should be able to use frequency analysis to break it as usual. Good luck, Harry

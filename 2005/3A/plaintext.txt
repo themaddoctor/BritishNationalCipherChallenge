@@ -1,0 +1,20 @@
+I have been puzzled by certain features of the beacon
+signal: given the unlikelihood that the beacon would, at
+these latitudes, land in sufficiently shallow water for
+recovery I am surprised that the Soviet engineers would
+supply a location device. If the beacon was destined for
+orbit the additional weight of a locator circuit would be
+difficult to justify. Assuming that the soviets do not want
+us to salvage the beacon I wonder why they would place
+a signalling device on board which would certainly betray
+its presence to enemy ships. I figure that rather than
+playing an auxilliary role, the beacon signal is a main
+function of the device. Speaking with the Officer of the
+Watch I learnt that we are passing close to the wreckage
+of the launch vehicle. I suggest we make a detour for
+inspection and analysis. One last remark. Given the
+surface scattering the signal from the device is hard to
+detect but the traces we have found show that its timing
+is extraordinarily precise and regular. I have no
+explanation for this but it is difficult to believe it is
+a case of over-engineering.

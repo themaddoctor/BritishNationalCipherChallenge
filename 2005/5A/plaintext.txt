@@ -1,0 +1,27 @@
+I have had time to think about the extraordinary
+accuracy of the timing signal from the spacecraft and
+have noticed two features which set me thinking. First
+the signal is absolute not relative, that is there is some
+kind of counter yielding a time rather than just a regular
+beat. This signal is similar to but different from the signal
+from the recently launched satellite in space but differs
+from it very slightly. In trying to account for the
+difference I realise I was using Newtonian mechanics but
+maybe we need to use relativity to explain it. The clock in
+the orbiting satellite seems to be running slowly but
+maybe that is a result of time dilation. I keep thinking
+that the timer is the key to understanding the purpose of
+these satellites.
+
+Anyway, I broke the last message and have the beginning
+of a plan: the Soviets don't seem to be tracking us too
+well under water. I propose that we surface out of sight
+of the weather ship and land our own party of marines to
+intercept the beacon we can then submerge and make out that
+we are trying to engage the Leninsky Komosomov as a diversion.
+
+Our Morse transcription machine works well but I adjusted
+it a little to cope with the full morse alphabet I seem to
+have switched one of the circuits by mistake and the zero
+now stands for the dot instead of the dash but it is pretty
+easy to work with it this way and I think I will leave it.

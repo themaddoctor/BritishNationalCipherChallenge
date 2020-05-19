@@ -1,0 +1,13 @@
+October 19, 2004
+
+Transposition ciphers
+
+OK< if you are still stuck on Challenge 3B you need to know it is a transposition cipher that has been used. Here are some notes on how this type of cipher works and how to crack them:
+
+Notes on Transposition Ciphers
+
+Good luck, you have about 33 hours before the deadline, it should be enough.
+
+(HINT: You can use Excel to rearrange columns of text)
+
+Posted by Harry at 02:58 PM

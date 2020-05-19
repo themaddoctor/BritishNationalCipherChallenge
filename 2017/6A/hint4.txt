@@ -1,0 +1,6 @@
+23 Nov 17 at 4:31 pm
+#33049
+
+Anonymous
+
+OFFICIAL HINT: This is a Vigenere cipher, with a period of 4. Hopefully this will help anytime who is still stuck. Use the initial word to figure out what each of the Caesar shifts are.

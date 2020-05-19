@@ -1,0 +1,3 @@
+Vigenere cipher with nulls
+key = QUI VENIT IN NOMINE DOMINI
+nulls: Z

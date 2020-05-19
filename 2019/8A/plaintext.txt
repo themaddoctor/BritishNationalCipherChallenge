@@ -1,0 +1,77 @@
+Harry,
+
+I put together a team of women from the computing division here
+at Kennedy, and we have spent most of the last eighteen months
+combing through mission files and computer print-outs looking for
+more clues to the source of the oxygen-tank explosion onboard
+Apollo XIII, and I think we have finally worked out what happened. The
+tank containing the source of the explosion was originally installed
+in Apollo X but removed for modification. During that process
+it got dropped, so it was held back for further tests and a replacement
+fitted for that flight. Once it had passed inspection the tank was
+returned to service and earmarked for Odyssey. Further upgrades
+were carried out to allow it to run off ground power during
+fit-out at twice the space ship voltage, and the higher power was
+used to boil off excess oxygen during ground tests. Unfortunately
+it looks like the thermostatic switches in the tank were
+overlooked during the voltage upgrade, and our best guess is
+that they fused closed during the boil-off, allowing the temperature
+to rise to over a thousand degrees. You might think the test engineers
+would have noticed that, but since the tank operating temperature
+was supposed to be somewhere well below zero, the dial only went
+as far as plus eighty, so no one would have noticed operating that far
+out of normal range.
+
+It is a miracle the tank lasted as long as it did, and that adds
+to the impression that this was a simple accident, a chain of
+events that could not have been foreseen, but the computer files
+tell a different story. We found two versions of the upgrade
+report which was written to detail the procedures for modifying
+the electrical system on the tank. The first gives a comprehensive
+list of the cabling, switch gear, and control systems that needed
+to be hardened for the ground-based voltage. It lists every
+critical component except the thermostatic valves. This document
+was filed in the service record, so we know it was the official
+record, but the chief systems engineer who signed it off says
+the signature on it is a bad copy of his own. We found identical
+copies in several mission files, both in the manufacturer's records
+and at Kennedy, where some of the tests were carried out, so it
+is clear that this was the official version used in the upgrade.
+The second version appeared to be the same document, but it included
+the thermostatic valves on the list of components to be changed,
+and the temperature gauge limits were circled several times
+with an exclamation mark next to the eighty degree ceiling.
+It looks like our saboteur deliberately arranged for the tank to
+be misconfigured in an effort to cause trouble for the mission, although
+we can't be sure they realised how dangerous this was. When we put
+it together with all the other accidents it is pretty clear this was
+another deliberate attack on the program.
+
+We found the second version of the report in a box under the
+floor boards in Mike's place. I suppose it is possible that
+Mike had stumbled across the document himself and was investigating
+it as part of his campaign to prove that the Russians were behind
+this string of problems, but at the very least he is guilty of a
+major misjudgement, and if the astronauts had died he would have
+been tried for manslaughter. As it is, together with the leak
+charges, he will be going to prison for a very long time. Of
+course, the evidence is still largely circumstantial. We can
+definitely tie him to the leak to the newspaper. Forensics matched
+the typewriter ribbon and type characteristics on his typewriter
+with the ink and impressions on the letter to the editor, but
+we still cannot show conclusively that he directed or carried
+out any of the sabotage attempts, and we have not been able to find
+anyone else who had both motive and opportunity, so he is our best
+suspect. I am not sure we can entirely relax, but with no significant
+incidents on Apollo XIV to XVI, and with Mike in custody, I feel
+slightly less worried about the remaining Apollo flight.
+
+We are still trying to crack that other enciphered document we found in
+Mike's place. It has a very strange alphabet which I think must be
+significant, but I can't quite see how to break it yet. Now that the
+NASA computing experts have more time, I am hoping that we should be
+able to decipher it, and that it will shed some more light on Mike's
+thinking. More importantly, it might tell us what else, if anything,
+he had planned.
+
+Meg

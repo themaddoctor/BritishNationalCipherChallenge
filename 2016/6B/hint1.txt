@@ -1,0 +1,1 @@
+First Clue: Use the beginners guide to codebreaking. Do a frequency analysis, this should tell you if you are looking at a mono-alphabetic, transposition or poly-alphabetic cipher. More official clues will be posted following each points deadline.

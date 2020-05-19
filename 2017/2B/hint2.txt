@@ -1,0 +1,6 @@
+16 Oct 17 at 4:44 pm
+#31190
+
+Anonymous
+
+If you are still in need of help, 2B is a Scytale cipher. The next step is to think about is how long is the text, in this case it is 1644 characters. So you want to look at factors of this to give you an indication of what the options for the number of rows or columns.

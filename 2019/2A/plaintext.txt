@@ -1,0 +1,13 @@
+Meg, I took a look at the file you sent over and it was just a rotation cipher applied to the text. At first it was hard to say if that was a bug or a feature and normally I would assume bug, but it seemed odd that it was the only file that was affected so I asked around to see if anyone had seen anything similar.
+
+It turns out that this was not the first navigation problem to hit the programme. Gene reported a major issue with the guidance programme for Snoopy on the Apollo Ten mission which could again have caused a major problem. For some reason the programme controlling the landing radar wasn't updated with the flight plan and if Gene hadn't raised that with Iverson then the boys might have had real trouble getting back. I looked through the company files and found another of our mysteriously formatted reports: the memo informing them about the change, which explains why the programme never got updated. This time the cipher was an affine shift, so slightly harder to crack, but nothing serious. Still, it is much less likely that it was a bug that time, and in any case twice is too much of a coincidence.
+
+It did start me wondering why the second cipher was easier to crack than the first, but then i realised that the affine shift was too much of a giveaway. A rotation cipher really could just be an encoding error, but the affine shift is too sophisticated for a mistake, so whoever mangled the reports must have realised they had made a bit of an error with the first one and tried to cover their steps with the second.
+
+It is hard to see this as anything other than attempted sabotage, but I am not sure what the motive could be. I doubt it is personal. The Apollo Ten and Eleven crews don't overlap, so either someone has a grudge against the whole Astronaut corps or they are trying to derail the Apollo programme.
+
+It could be the Soviets I suppose. At first, I thought that their willingness to shift the LUNA-FIFTEEN orbit showed that they weren't part of it, but someone in the State Department pointed out that they might just have had a guilty conscience, or been keen to distance themselves once the plot was discovered. I am still not sure.
+
+In the meantime, could you take a look at the computer files to see who might have had access to both memos, and who might have had the opportunity and means to doctor them?
+
+I am flying back to Langley tonight, to see if the State Department have any ideas what might be going on. Neil said he could fly me up in one of the NASA chase planes, which is something I have been keen to try. I will call you if I get anything.

@@ -1,0 +1,4 @@
+reverse the ciphertext, then
+block transposition cipher
+    permutation = (2,3,0,4,1)
+    keyword = PRISM

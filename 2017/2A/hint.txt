@@ -1,0 +1,10 @@
+14 Oct 17 at 1:10 am
+#31036
+
+Anonymous
+
+Not sure if anyone is in need of help or not, but here is some in case you need it. I can post further hints if I know there is a need.
+
+As word and sentence structure has been preserved this one is not too tricky. The hint is that it is no longer a caesar cipher, so you should look at the next option, which is other substitution ciphers. In this situation you want to look for cribs (words or phrases that you expect to appear in the text). A big hit is the first word. Then I would suggest looking at any single letter words – you should know your options for these. Then you can look at 2 & 3 letter words which you have already deciphered. And/or look at the frequency of letters, and compare to that of the English language. Words will start appearing where you can guess the remaining letters, and thus make a more complete cipher alphabet.
+
+Good luck.

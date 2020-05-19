@@ -1,0 +1,6 @@
+22 Oct 17 at 1:11 am
+#31621
+
+Anonymous
+
+So, by now hopefully you have taken the standard advise and solved part a. This will give you a big hint as to what type of cipher to do more research on. You should also have noticed that there are just 5 characters used in the cipher text. How can you encode the whole alphabet with just 5 characters? More hints to follow…

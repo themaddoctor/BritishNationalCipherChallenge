@@ -1,0 +1,10 @@
+double Playfair cipher
+keys = ANSCHLUBDEFGIKMOPQRTVWXYZ FOMKIAPYXGTQZWCHSUVBERLND
+squares:
+    A N S C H    F O M K I
+    L U B D E    A P Y X G
+    F G I K M    T Q Z W C
+    O P Q R T    H S U V B
+    V W X Y Z    E R L N D
+keywords: ANSCHLUSS, FATHERLAND
+squares are filled by rows, then spiralling CCW

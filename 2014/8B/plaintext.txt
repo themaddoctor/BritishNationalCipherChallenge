@@ -1,0 +1,30 @@
+Final Report
+
+Insertion of the hardware is complete, and our tests have concluded
+there is no sign from the signal traffic that the security services
+have any knowledge of Trojan.
+
+The on-shore solar panels are running reliably and providing more power
+than needed by the existing server, so we are exploring the possibility
+of developing a local server farm to process data as it arrives. This
+will also give us additional power if the NSA changes its encryption
+scheme. The plan to carry power and data to and from shore via the
+insulated steel jacket of the cable seems to be working better than
+expected. The error-correcting codes we are using are highly efficient,
+and the man-in-the-middle server is reliably intercepting around one in
+fifteen thousand of the American transmissions across the Bab-al-Mandab
+Strait. We have been harvesting the public keys for analysis, and while
+it is not immediately clear what information this might provide, any
+bias in their key generator is potentially exploitable. Our client in
+the Middle East seems satisfied with the intelligence it provides,
+and the additional income provided by key-harvesting is funding daily
+operations.
+
+Our initial contract to provide a man-in-the-middle attack server to
+disrupt US communications remains the highest priority, and first forays
+have allowed us to intercept communications between the Omani and US
+governments. These carry detailed and useful information about a
+forthcoming trade delegation and planned US aircraft movements in the
+region. We had not expected this level of detail at such an early stage
+and would propose downing one of the aircraft as a proof of principle
+for potential buyers of our services.

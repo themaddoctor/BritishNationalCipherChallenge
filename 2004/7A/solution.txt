@@ -1,0 +1,2 @@
+First, exchange the rows and columns (simple columnar transposition cipher with key = 40),
+then a Vigenere cipher with key = KEYWORD

@@ -1,0 +1,6 @@
+The first documented use of a substitution cipher for
+military purposes appears in Julius Caesar's Gallic Wars. Caesar
+describes how he sent a message to Cicero, who was besieged and
+on the verge of surrendering. The substitution replaced Roman
+letters with Greek letters, rendering the message unintelligible to
+the enemy.

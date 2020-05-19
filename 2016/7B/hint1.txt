@@ -1,0 +1,1 @@
+As you can tell from the frequency analysis the distribution is too flat for a mono-alphabetic cipher, but that doesn't mean it has to be a vigenere. Further clues to follow on Sunday.

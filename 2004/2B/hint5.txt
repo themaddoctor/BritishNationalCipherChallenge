@@ -1,0 +1,10 @@
+October 13, 2004
+
+Challenge 2B
+
+Still up? Still wondering what sort of cipher 2B is? As several of you have hinted it is an affine shift cipher. There are only 312 different affine ciphers so it shouldn't be too hard to crack, but if you haven't seen one before it looks a lot like a subsitution cipher where the cipher alphabet is a random rearrangement of the usual alphabet (there are a LOT more of these randomised ciphers - any guesses how many there are?). You can find a method for speeding up the cracking of an affine shift ciphers in the Teachers Pack. Otherwise you can just use frequency analysis and guesswork, though you have to watch out for odd abbreviations and so on.
+
+
+Solutions tomorrow. Get ready for Challenge 3!
+
+Posted by Harry at 09:51 PM

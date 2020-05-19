@@ -1,0 +1,4 @@
+01 Jan 17 at 10:37 pm #24644
+Joan Clarke
+Keymaster
+OFFICIAL CLUE: This has been double encoded, I will not reveal the twist just yet, by you have seen something similar before. The general idea behind it is:  Write out the binary for each letter in columns (5digits), write out a column of 5 2s at the end of each word. Read off by rows.

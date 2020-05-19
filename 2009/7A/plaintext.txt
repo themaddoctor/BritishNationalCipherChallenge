@@ -1,0 +1,31 @@
+my dear miss lovelace
+
+i have been studying your notes on your father's engima as you suggest
+it seems likely that it has been encrypted using a simple vigenere cypher
+and i hope you will not object if i suggest using my own methods to
+discover the length of the keyword by analysing the frequency of repeating
+sequences in the text i suspect that your father who was not a truly
+sophisticated user of cyphers will have restricted himself to a key of
+length two or perhaps three and this should render the exercise relatively
+simple
+
+mr cocking has organised the auction for our machine to be held at a secret
+location early next month he believes that his subterfuge remains undetected
+and is confident in the ability of our constabulary to arrest the miscreants
+however he did obtain the enclosed copy of the most recent missive from
+monhier and his cronies to their masters in france and he has asked if we
+would decypher the text for him he would like some assurance that his plan
+is likely to work before embarking on the final stage having analysed the
+text myself i am convinced that this message is itself encrypted using a
+vigenere cypher though it has been cleverly disguised as i am sure you will
+discover for yourself given what we have recently heard i am slightly puzzled
+that monhier is still using such an elementary device i had expected him to
+use the jefferson cypher mr cocking was emphatic that he saw a jefferson
+cylinder in the possession of the conspirators at their last meeting perhaps
+they reserve this for matters of top secrecy
+
+i hope that we will have the opportunity to test the turning engine on at
+least one of their jeffersonian communications before this adventure ends
+
+with much affection
+babbage

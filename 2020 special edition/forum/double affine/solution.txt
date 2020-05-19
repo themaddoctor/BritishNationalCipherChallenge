@@ -1,0 +1,2 @@
+The cipher is described in the post.
+key: multiplier = 155, shift = 73

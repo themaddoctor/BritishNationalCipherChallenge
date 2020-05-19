@@ -1,0 +1,9 @@
+Hint for Challenge 7
+
+If you have cracked Challenge 7A you will have discovered that Challenge 7B is an AMSCO cipher. This is a column transposition cipher with a twist. You can find out how it works at http://cryptogram.org/cdb/aca.info/aca.and.you/chapter_09.pdf#AMSCO
+
+The real security in the cipher lies in the fact that you dont know the length of the keyword, though cribs can help you to reconstruct that if you have some. If you really like a challenge you could try that first. Otherwise you could use the exceptionally useful advice from 7A where we tell you the length of the keyword. Once you have that it is possible to lay out the text in columns and use cribs and smarts to reassemble the plain text. Or it would be if you knew which of two possible conventions we have used. Pairs then singles or singles then pairs. But no hint about that I am afraid. You will have to try it for yourself.
+
+Good luck!
+
+Harry

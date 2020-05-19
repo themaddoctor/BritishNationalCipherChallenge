@@ -1,0 +1,8 @@
+October 11, 2005
+HINT 2 FOR CHALLENGE 2B
+
+Frequency analysis gives a good way to attack Challenge 2B but as many of you have discovered, used on its own it does leave a certain ambiguity in that some letters appear so rarely (maybe only once) that it is hard to determine what they stand for among the possible rarely used plaintext characters.
+
+The best way to disambiguate the text is to figure out what sort of cipher the Soviets are using for the message. It isn't just random. You know from your succesful efforts to crack it that it must be some kind of simple monoalphabetic substitution, but it isn't a Caesear shift, so what could it be? I won't tell you which, but it is likely to be either a keyword cipher or perhaps an affine shift as these are the two simplest examples. Look them up! Good luck,
+
+Posted by Harry at 03:07 PM

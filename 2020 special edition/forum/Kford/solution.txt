@@ -1,0 +1,121 @@
+The original ciphertext is
+211010020020222012102101010222220102202222021201210010222121102020210010012222100220222200112011001011012222022011110021010112
+
+The key is
+    000 ?    100 M    200 T
+    001 F    101 N    201 A
+    002 ?    102 O    202 U
+    010 E    110 P    210 V
+    011 I    111 ?    211 W
+    012 D    112 R    212 ?
+    020 L    120 ?    220 Y
+    021 H    121 S    221 ?
+    022 C    122 ?    222 space
+
+The plaintext is
+WELL DONE YOU HAVE SOLVED MY TRIFID CIPHER
+
+--------------------------------------------------------------------------------
+
+When hint 4 was released, the ciphertext was changed to
+211010020020222222012102101010222222220102202222222021201210010222222121102020210010012222222100220222222122112011020011122010112201020222222022011110021010112
+
+The new key is
+    000 ?    100 M    200 ?
+    001 ?    101 N    201 A
+    002 ?    102 O    202 U
+    010 E    110 P    210 V
+    011 I    111 K    211 W
+    012 D    112 R    212 ?
+    020 L    120 ?    220 Y
+    021 H    121 S    221 ?
+    022 C    122 T    222 space
+
+The new plaintext is
+WELL  DONE  YOU  HAVE  SOLVED  MY  TRILITERAL  CIPHER
+
+--------------------------------------------------------------------------------
+
+The challenge's authors claim that
+1.  The cipher and key are the same for the two versions; and
+2.  The keyword is the name of the cipher.
+
+But,
+
+1.  "T" is represented by "200" in the first version and by "122" in the second version.
+
+2.  If the keyword is TRIFID CIPHER, then the mixed alphabet is
+
+        TRIFDCPHEABGJKLMNOQSUVWXYZ_
+
+    This does not work as the key, but the inverse key almost does.
+
+        JKFEIDLHCMNOPQRGSBTAUVWXYZ_
+
+    However, "F" in the first version is misrepresented by "001" and "T" in the
+    second version by "122".
+
+--------------------------------------------------------------------------------
+
+Hint #1
+
+120102412120 40241012 141000242134? 1022 1201, 111221 13 12103110021334 141000242134 4001 1201024121 402421 0134102310321302 013221, 041140 1032 4024342121 20103121321210013212...
+SOLVED THIS CIPHER? IF SO, USE A SIMILAR CIPHER TO SOLVE THE ORIGINAL ONE, BUT IN THREE DIMENSIONS...
+
+Polybius square:
+
+      0 1 2 3 4
+    0 P O L y B
+    1 I U S A C
+    2 D E F G H
+    3 k M N q R
+    4 T V w x z
+
+keyword = POLYBIUS
+
+--------------------------------------------------------------------------------
+
+Hint #2
+
+CQTX BRV HZAIVVFVW OPK SEMXMIIR GVTYIM. IRP BXYIM PORGW GVJDOHR LZROA UR BXYIM PORGW. YMIB ZLEIV ADTR FR E KVVVYTBWZXDWT GVTYIM.
+HINT ONE DESCRIBES THE ORIGINAL CIPHER. ALL OTHER HINTS PROVIDE HINTS ON OTHER HINTS. HINT THREE WILL BE A TRANSPOSITION CIPHER.
+
+Vigenere cipher
+key = VIGENERE
+
+--------------------------------------------------------------------------------
+
+Hint #3
+
+PEKEACEBSEIEXDTNYIEPFRTTSOYPNTTSERDETLWUTHEEHUUEAETRSTEKSESMYTFTDOAISSAHOEROTROREYMIDEISRRXOATHHTRNKLHEO
+Do you spot a pattern in the keys? The key is the same as the cipher used. For numbered keys it relates to the first letter or word. XX
+
+columnar transposition cipher
+permutation = (1,5,2,7,3,4,0,6)
+keyword = COLUMNAR
+
+--------------------------------------------------------------------------------
+
+Hint #4
+
+WREIHRLIRGIHKHIIFNTRDISETOARETCFYOHCOIRPEEPD
+THE KEYWORD FOR THE ORIGINAL CIPHER IS TRIFID CIPHER
+
+columnar transposition cipher
+permutation = 6,1,7,3,10,8,0,9,2,5,4
+keyword = PERMUTATION
+
+--------------------------------------------------------------------------------
+
+Hint #5
+
+NOTZ(UTK(OY(G(LXGIZOUTGZOTM(IOVNKX-(,OZN(ZNK(UXOMOTGR(IOVNKX(HKOTM(G(ZNXKKEJOSKTYZOUTGR(.KXYOUT(UL(ZNOY)(NOTZ(Z,U(OY(SG!HK(ZNK(SUYZ(LGSU Y(VUR!GRVNGHKZOI(Y HYZOZ ZOUT(IOVNKX(GXU TJ)(NOTZY(ZNXKK(GTJ(LU X(GXK(HUZN(ZXGTYVUYOZOUT(IOVNKXY)(CGRR(ZNKYK(IOVNKXY(IGT(HK(LU TJ(GZ(FIX!VZU)OTZKXGIZO.KESGZNY)IUSF)D
+HINT ONE IS A FRACTIONATING CIPHER, WITH THE ORIGINAL CIPHER BEING A THREE-DIMENSTIONAL VERSION OF THIS. HINT TWO IS MAYBE THE MOST FAMOUS POLYALPHABETIC SUBSTITUTION CIPHER AROUND. HINTS THREE AND FOUR ARE BOTH TRANSPOSITION CIPHERS. (ALL THESE CIPHERS CAN BE FOUND AT "CRYPTO.INTERACTIVE-MATHS.COM".)
+
+Caesar shift, using the extended alphabet ABCDEFGHIJKLMNOPQRSTUVWXYZ_.,?!?()-"
+where '?' denotes unknown characters. The shift is -6.
+
+ciphertext: !,.-()ABCDEFGHIJKLMNOPQRSTUVWXYZ_
+plaintext:  ywv, .??()-_abcdefghijklmnopqrstu
+
+Note: The original cipher and the cipher of hint #1 do not actually involve fractionation.

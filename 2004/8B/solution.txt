@@ -1,0 +1,15 @@
+Solitaire cipher
+(see https://www.schneier.com/academic/solitaire/)
+
+key/deck:
+    as numbers:
+        46,54,48,49,8,3,25,22,19,13,14,24,26,40,15,9,50,32,
+        33,34,35,36,37,38,39,1,42,43,44,45,10,20,53,28,18,41,
+        2,6,16,17,51,21,27,4,52,30,31,29,23,7,5,11,12,47
+    as cards:
+        7S,JokerB,9S,10S,8C,3C,QD,9D,6D,KC,1D,JD,KD,1S,2D,9C,JS,6H,
+        7H,8H,9H,10H,JH,QH,KH,1C,3S,4S,5S,6S,10C,7D,JokerA,2H,5D,2S,
+        2C,6C,3D,4D,QS,8D,1H,4C,KS,4H,5H,3H,10D,7C,5C,JC,QC,8S
+    (J = jack, Q = queen, K = king, C = clubs, D = diamonds, H = hearts, S = spades)
+
+The deck was keyed with the phrase CHALLENGE EIGHT B PATIENCE.

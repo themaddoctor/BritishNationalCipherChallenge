@@ -1,0 +1,11 @@
+23rd November 2019 at 9:47 am
+#44373
+
+Harry
+Keymaster
+
+The guys at NSA tell me that the substitution part is a straightforward keyword cipher which they worked out using frequency analysis, but first they had to work out the anagram part. It turned out that the text was blocked and each block was reversed. The hardest part was finding a clue to the length of the blocks used for that as it didn't appear to be the blocks of length 5 used to display it, and wasn' a divisor of the length. In the end they realised what it might be by looking at the frequency of bigrams and trigrams which you can check using an online app (And we won't count that as cheating!
+
+Hope this helps,
+
+Harry

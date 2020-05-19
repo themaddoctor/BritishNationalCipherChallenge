@@ -1,0 +1,8 @@
+monoalphabetic substitution cipher
+key = AVOIDGLBERTUWXYZCFHJKMNPQS
+keyword = A VOID GILBERT ADAIR
+
+The plaintext is from A Void, translated from Georges Perec's
+La Disparition into English by Gilbert Adair. The novel does
+not contain the letter E in the original French and in the
+English translation.

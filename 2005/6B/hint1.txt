@@ -1,0 +1,6 @@
+November 14, 2005
+HINT 1 FOR CHALLENGE 6
+
+The structure of the cipher text is not at all accidental. Of course it is morse, and the transcription machine hasn't changed all that much so it should it be easy to guess how to get characters out. All the characters count. Count them. Harry.
+
+Posted by Harry at 04:38 PM

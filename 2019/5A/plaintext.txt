@@ -1,0 +1,43 @@
+Harry,
+
+Mike has turned out to be really useful. Following his report to you
+about the Apollo XI near miss he has turned up a number of other
+computer reports hinting at possible sabotage attempts on VIII through
+XII. Some of them we already knew about--the guidance problems with
+Apollo X, and the programme alarms and descent trajectory problems
+on XI--but he also showed me some files from the building and maintenance
+logs for the future Apollo fleet and pointed out some worrying lapses.
+In particular, there is a gap in the records of the Apollo XIII service
+module, so we are running a few checks before assembly to make sure
+everything is okay before launch. My first instinct was to place
+everything on hold while we tracked down the saboteur, but the whole
+building launch process is a fine-tuned machine, and I am worried that
+if we disrupt it then we might cause more problems. In particular, it
+will be easier to detect unexpected behaviour if we know exactly
+what to expect.
+
+Mike is really worried that the soviets could have infiltrated the
+program. He has never forgiven them for the death of his son who was
+shot down by a MIG over the Korean peninsula. I am hoping that his
+grief will drive him to help us get to the bottom of this mystery.
+
+For now, we have another problem: My team at Langley were tipped
+off by a journalist at the New York Post about an encrypted letter
+sent to the news desk there. It came with a cover note which said that
+the cipher key would be published in the wanted ads, but there are a
+lot of those spread over hundreds of newspapers, and the editor didn't
+want to devote hours of staff time to tracking down the advert. I
+think he assumed it was just another crackpot attention seeker, but
+just in case he asked the journalist to try breaking the cipher herself.
+She recognised it as a Vigenere cipher but it came with a little twist
+that she could not figure out, so she sent it to someone she knew in
+the CIA. Once they cracked it, they realised what it was and sent it
+on to me. The letter contains details of some of the events we have
+been investigating and blames the soviets for them. It would have
+been dynamite if it had been published, so it is just as well we were
+able to stop it at source. The journalist was persuaded to tell her
+boss that the cipher couldn't be cracked, but in exchange we owe her
+an exclusive at the end of all of this.
+
+All the best,
+Meg

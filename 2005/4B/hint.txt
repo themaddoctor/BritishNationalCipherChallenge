@@ -1,0 +1,11 @@
+HINT FOR CHALLENGE 4B
+
+By now it's no secret that Challenge 4B is in Morse. We used our new auto-transcriber to read the stream of Morse signals and encode them as 0's and 1's. Each 0 represents a dash, and each 1 represents a dot.
+
+Turns out there are a lot of unfamiliar Morse characters aside from the usual 26 letters of the alphabet. Look around online and you should find the ones you need. By the way take a look at the layout. Seems the Soviets are using a grouping in sixes. That breaks down just once, and that is no accident.
+
+By the way don't forget to look for cribs, they can make life a LOT easier.
+
+Good luck,
+
+Posted by Harry at 09:34 PM

@@ -1,0 +1,27 @@
+ok, i took a look at that notebook you sent over. i can see why it
+was so well hidden. whoever wrote it hadn't bothered encrypting it
+securely at all, so i don't think it can originally have been official
+work. on the other hand given the talk about the war, and given the
+location i have a feeling i know who amt might have been. there was
+a night climbing club at cambridge back in the 30's, so maybe that was
+how amt got the idea of hiding things up on the roof at bletchley.
+clearly he was worried about tempest and, if amt was who i think it
+was, then it will definitely be worth trying to find out more.
+
+i looked at the next bit in the book, and it is clear that he was in a
+hurry; the encryption isn't a lot harder to crack in that either. i guess,
+with security so tight back then, he wasn't worried about anyone reading
+the notebook. they would have assumed it was work related and would know
+better than to pry. on the other hand he clearly didn't want anyone
+stumbling on it by accident so he wrote this part up in an affine shift
+cipher. it would be a lot harder to crack without the word structure.
+
+anyway, it is clear that amt believed that tempest were still active in
+the forties and that they were involved in assassination attempts for a
+while before that. i am not sure how they were supposed to profit from
+that, but maybe if we read on we will find out. funny how they seem to
+have used music notation in their ciphers. i wonder how. maybe there is
+something about it later in the book. was there anything else in the packet
+you found?
+
+charlie.

@@ -1,0 +1,3 @@
+OFFICIAL CLUE: The message has been reversed, before encrypting using a column cipher (or transposition cipher) with key length 5. Also, be aware you have been told it is a note from Martin. Use the previous clues to help you as well. Good luck.
+
+4B used the keyword "dupin".

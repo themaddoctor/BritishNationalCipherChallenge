@@ -1,0 +1,7 @@
+substitution cipher with nulls
+key = VWXYZDFCHARLESBGIJKMNOPQTU
+nulls: J, X
+
+Can also be decrypted as a keyword substitution with keyword = CHARLES,
+followed by decrypting as a Caesar shift cipher with key = 19. Then
+remove the nulls (J and X).

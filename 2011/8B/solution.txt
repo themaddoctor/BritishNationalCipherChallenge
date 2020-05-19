@@ -1,0 +1,15 @@
+ADFGVX cipher, except that it uses block transposition instead of columnar transposition
+
+block transposition
+    permutation = (3,1,4,0,5,2)
+    keyword = OCTAVE
+
+square:
+      A D F G V X
+    A t e m p o a
+    D b c d f g h
+    F i j k l n q
+    G r s u v w x
+    V y z 0 1 2 3
+    X 4 5 6 7 8 9
+keyword TEMPO

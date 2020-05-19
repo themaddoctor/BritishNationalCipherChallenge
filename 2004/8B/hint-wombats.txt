@@ -1,0 +1,17 @@
+Posted by: at December 27, 2004 03:40 PM
+
+Hey Harry,
+
+Thirteen unknown cards with 13! (6.2 billion) possible combinations. That's a lot, even for a good program on a fast computer - and we Wombats only do Excel! Anyway, turns out this thing can be solved with Excel and a bit of thinking (make that guesswork?).
+
+First, build a spreadsheet to generate the first few numbers of the Solitaire Keystream from a given deck of cards. Not so easy getting Solitare to work in Excel, but Bruce Schneier's website has a few samples for testing. 20 characters seemed like a good number - but eventually needed more like 40.
+
+Then input the 41 cards you listed, plus letters "A" to "M" for the 13 unknown cards. Now you can see the results of guessing these cards in realtime. As someone else already pointed out, this immediately gives the first Keystream number as 22 and the first plaintext letter as "M". Only card "K" determines the second letter, and from the missing numbers only "11" makes the second letter "Y". Already we're down to 479 million combinations! Following all the possible lines letter-by-letter to plaintext "MY DEAR" gives eight lines with nine unknown cards each, or 2.9 million combinations.
+
+Still too many. But several lines now show the next five letters as "PA??H". In Message 7A Aga commenced with "MY DEAR P AND H", so pressing on to these first 11 plaintext characters gives four lines with seven unknown cards each, or 20160 combinations. Now a decent macro could doubtless deal with this - but we're on a roll. The next seven letters are "FOR?O?E" which looks like it should be "FOR SOME". This gets us down to eight lines with five unknown cards each, or 960 combinations. The next four letters are "?IME", and Aga uses the phrase "FOR SOME TIME" in both her previous messages (6A and 7A). The 22 character crib string of "MYDEARPANDHFORSOMETIME" can only be achieved by four lines with three unknown cards each. This leaves just 24 possible remaining combinations, which we can test by hand.
+
+Trying all 24 combinations on the first 40 characters of ciphertext leaves only two options still making sense and after 60 characters there's only one solution left!
+
+All of which goes to show that a good crib can bypass an awful lot of brute force. I guess it's lucky that the unknown cards didn't affect the first letter and that there were never more than eight lines active and wrong lines terminated pretty quickly.
+
+We haven't figured out the Keyword that stacked the deck yet though - assuming it wasn't just random.

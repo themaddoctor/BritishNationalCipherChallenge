@@ -1,0 +1,14 @@
+The eightfold way
+
+There have been lots of questions about Challenge 5B and the eightfold way so I thought we would explain it.
+
+The cipher used is just a transposition cipher (also known as an anagram cipher) so the letters of the ciphertext are just the letters of the plaintext jumbled up. To make things interesting we decided to jumble up all the characters including the punctuation and spaces which is why in some places you saw two spaces together. The keyword for the cipher was rainbows, so putting that over the first 8 characters of the text we get
+
+RAINBOWS
+TRINITY,
+
+rearranging the columns to get RAINBOWS in alpahabetic ordering we get
+
+By Harry at 19 Nov 2007 - 2:23pm | read more
+
+[This hint is incomplete because it was not saved on archive.org.]

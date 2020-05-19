@@ -1,0 +1,11 @@
+04 Jan 17 at 10:04 am #24798
+Harry
+Keymaster
+The two encryption steps are:
+
+1. Use a keyword to shuffle the alphabet (like in a keyword substitution) then write each letter as a binary number using its place in the list. Just to complicate things the binary numbers are written right to left rather than as left to right so whatever letter is first in the shuffled list gets encrypted as 10000. Use 22222 as a spacer between words.
+
+2. Now write each block of of digits vertically under its character and read off horizontally by row for each word,
+
+Foes that help?
+Harry New Year!

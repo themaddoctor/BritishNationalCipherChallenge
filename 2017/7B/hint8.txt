@@ -1,0 +1,6 @@
+12 Dec 17 at 2:06 pm
+#33516
+
+Anonymous
+
+OFFICIAL CLUE: Most of this has been already given out in clues, but at least it is all together now. The first cipher you need to decode is scytale, with rod size 6. The second is Vigenere and the keyword is 7 characters. The secret message with the I’s and B’s was “SCYTALE SECURITATEM PRAEBET AMPLIUS”. I suggest you look to translate this as it gives you one final clue.

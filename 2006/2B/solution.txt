@@ -1,0 +1,3 @@
+symbolic substitution cipher
+The symbols for capital letters are from the cipher of Mary, Queen of Scotts.
+The others you can work out for yourself.

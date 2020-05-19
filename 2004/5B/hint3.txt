@@ -1,0 +1,16 @@
+November 06, 2004
+
+Relax
+
+We have two wweeks to crack this so relax! There will be more help with how to crack the cipher, but there is no point in me telling you how to do it all at once.
+
+You know it is a Playfair cipher so read up on how they work first. Maye check out Simon Singh's "The Code Book" or look it up on the web.
+
+The cipher is set up using a keyword or key phrase and if you can guess it you are home free. If not what you need to know is that it encrypts pairs of letters not single ones. So for example the previous sentence would be split up into the pairs:
+
+th ec ip he ri se tu pu
+
+
+adn so on. Each pair is the converted to another pair by looking them up in a table and carrying out a certain operation (look it up) to give some cipher text. SO to crack it you need to know how each pair is encrypted as another pair. To do this you can work out which pairs occur most commonly in the cipher text and which occure most commonly in a plain English text. Then do a substitution to start work. If you understand how the grid works in a Playfiar you can also start to try to fill in the grid. For those of you who are really stuck we will start to give you parts of the grid later in the week. Good luck,
+
+Posted by Harry at 08:10 PM

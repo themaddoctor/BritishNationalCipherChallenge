@@ -1,0 +1,4 @@
+Reverse the ciphertext and
+monoalphabetic substitution cipher
+key = CINGRATDUSKZYXWVQPOMLJHFEB
+keyword = CINGRI AT DUSK

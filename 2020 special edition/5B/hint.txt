@@ -1,0 +1,10 @@
+1st May 2020 at 6:23 pm
+#48025
+Harry
+Keymaster
+
+Sure! The frequency analysis app on https://www.cipherchallenge.org/frequency-counter/ gives a result (for Challenge B) that looks remarkably like the usual frequency of English characters, so maybe they haven’t been substituted. As well as that, the text has some suspicious looking capital letters which normally represent the beginnings of sentences or of proper names, and that might suggest a way to reorder the letters into something more closely resembling English.
+
+Good luck!
+
+Harry

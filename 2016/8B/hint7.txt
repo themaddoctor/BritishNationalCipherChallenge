@@ -1,0 +1,4 @@
+26 Dec 16 at 8:13 pm #24457
+Joan Clarke
+Keymaster
+OFFICIAL CLUE: Binary needs just 0 and 1. Work out how many digits you need to hold the number 26 in binary. Now look back at the 2's and see if you can figure out how they are used.

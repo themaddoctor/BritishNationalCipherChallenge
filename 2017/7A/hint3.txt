@@ -1,0 +1,6 @@
+04 Dec 17 at 6:08 pm
+#33365
+
+Anonymous
+
+OFFICIAL CLUE: The keyword is different, but the cipher is the same type as last week. Calculate the ioc to see the keyword length, then do frequency analysis on each bit in turn to figure out the keyword/caesar shift.

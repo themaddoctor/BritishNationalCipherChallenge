@@ -1,0 +1,13 @@
+December 23, 2004
+
+Hint for 8B
+
+Good hint from Matthew in the comments. Take a look if you need to get started cracking by hand. Don't forget to take a break some time over the holiday, though! All the best,
+
+Posted by Harry at December 23, 2004 11:26 PM
+
+If my data is correct, there are four different key configurations that give a coherent message over the first 36 characters (which is, in fact, the correct start of the message). Given that you say 36 and not a slightly higher number, I suspect that you've got one of the wrong ones, but even the right one gets hard to read around this patch.
+
+Like the Wombats suggest, you should go through the first 60-65 characters before you utterly reject a trial, especially if you can awkwardly pronounce the plaintext stream you're generating.
+
+Posted by: Matthew at December 29, 2004 01:37 AM

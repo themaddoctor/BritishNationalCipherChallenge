@@ -1,0 +1,12 @@
+Clue Number 5
+
+Written by Harry
+Thursday, 20 December 2012 14:23
+
+Dear Charles,
+
+Just in case you didn't work it out yet this is a symmetric cipher! That means that the transposition stage is a permutation with the property that if you do it twice it is the same as not doing it at all! Devious old Tiberius has used a block length of 5 for that stage so that once it has done its work the first and second characters are entangled, the 3rd,4th,5th are entangled, the 6th 7th are entangled, the 8th, 9th, 10th are entangled and so on. I guess that means that working with blocks of fifteen makes a certain amount of sense!
+
+All the best,
+
+Harry

@@ -1,0 +1,31 @@
+8th January 2020 at 7:58 pm
+#45163
+
+Harry
+Keymaster
+
+I posted one over on the other thread, but here it is again.
+
+9B is a variant on the Trifid cipher. The plain text was written to only use 24 of the 26 letters of the alphabet. It was split into chunks and each letter in a chunk was written as 4 numbers. Three of the four numbers were binary (0 or 1) and one was ternary (0,1 or 2) giving 2x2x2x3 = 24 possibilities. Then the numbers were read off as follows:
+
+First number of the first character in the chunk
+First number of the second character in the chunk
+...
+First number of the last character in the chunk
+Second number of the first character in the chunk
+Second number of the second character in the chunk
+...
+Second number of the last character in the chunk
+...
+Fourth number of the first character in the chunk
+Fourth number of the second character in the chunk
+...
+Fourth number of the last character in the chunk
+
+Then the next chunk was processed the same and so on.
+
+You can figure out the pattern of binary and ternary numbers we used, and the chunk lengths, by studying the pattern of 2s in the cipher text. Once you have done that you can reverse the process. Of course that still leaves you to figure out how each letter was encoded but that is just a standard frequency analysis test and you can use cribs to help you crack it.
+
+Good luck in the final minutes,
+
+Harry

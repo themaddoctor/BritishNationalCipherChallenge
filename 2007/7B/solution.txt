@@ -1,0 +1,10 @@
+In each pair of letters, the first is unaltered, but the second is shifted
+by the amount of the first, where A=1,...,Z=26, with wrapping around the alphabet.
+
+Or, you can think of the cipher as a Vigenere cipher and a 2x2 Hill cipher
+(in either order, because they commute in this case). The Vigenere key is AB,
+and the Hill matrix is
+
+    B A  =  1 0
+    B B     1 1
+

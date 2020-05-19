@@ -1,0 +1,20 @@
+Clue Number 6 - last one!
+
+Written by Harry
+Thursday, 20 December 2012 14:24
+
+Dear Charles,
+
+In case you are really stuck the transposition stage just reverses the order of the block so if block 1 reads ABCCB then after the transposition it reads BCCBA. I guess once you know this then it should be possible to crack the cipher using some frequency analysis!
+
+Harry
+
+ 
+
+PS, just noticed a typo in my previous message. It should have read:
+
+the first and second characters are entangled, the second, 3rd, and fourth are entangled, the 4th,5th are entangled, the 6th 7th are entangled, the seventh 8th, 9th are entangled , the ninth and 10th are entangled and so on
+
+ 
+
+Sorry, Harry

@@ -1,0 +1,15 @@
+dear barley cabbage,
+
+i note with distress that you have switched your attentions
+from the difference engine to the cracking of the vigenere
+cipher. whilst this is indeed a noble cause, we would desire
+you to concentrate fully on the engine; otherwise you risk
+withdrawal of funding.
+
+as a side note, i would like you to use a stronger method of
+encryption for your messages. a full-on substitution does not
+pose me any problems. i am raising the stakes in this message
+with a substitution and nulls to preempt your attempt.
+
+regards,
+smaug

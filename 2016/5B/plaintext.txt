@@ -1,0 +1,29 @@
+harry and charlie,
+
+not much time and i need to spend the time i have carefully. i have access
+to the dynamix network and used it to hack into citadelle. they have a large
+database that a number of people here are working on. mostly maintenance and
+data entry, but jamelia's team seem to have been working on mining the data.
+nothing too surprising really, and at first i couldn't see what the fuss was
+about, but again i got lucky. jamelia's account on the machine they gave me
+had been wiped, but they missed a config file that showed me that she had used
+an online storage service for some of her files, and one of them was huge. the
+client software kept metadata about the file, and it looks like a clone of the
+database i have seen here, but the filesize is way off, and the storage scheme
+seems to have been formatted with pointers to hidden parts of the file that
+dwarf the database i have seen in the citadelle servers. i don't know about
+the database itself, but i also found what looks like an encrypted db scheme
+file. if you can send me jamelia's old laptop or phone, i think there is a
+chance we could recover some of the documents that she had deleted by syncing
+it to the server. if her keychain has been copied over, that might also give
+me access to the citadelle database which i have codenamed titan. i think we
+might be getting close to the truth, but i am also sure that i am not trusted
+here, and that will make it hard to get much more intelligence without raising
+alarm. others seem to have fairly free access to the building, but my pass
+only gets me to one floor and three rooms. everyone is friendly, but no one is
+talking, and i don't want to push too hard and make them more suspicious.
+
+i would suggest we switch back to substitution ciphers in the future. this is
+getting serious. maybe a vigenere or hill cipher next time.
+
+trinity

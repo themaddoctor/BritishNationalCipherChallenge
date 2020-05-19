@@ -1,0 +1,6 @@
+07 Dec 17 at 2:47 am
+#33432
+
+Anonymous
+
+OFFICIAL UPDATE: So, it has been a week now. If you have been following all the clues so far then you will know 2 things. 1 is that this is doubly enciphered, 2 is that it uses the scytale cipher. You have not as yet been told what the other cipher is, but could probably make a good guess. I suggest that your next step would be to try out various possible lengths for the scytale, and then with each one of them calculate the index of coincidence or the Babbage kasiski test to try to find length of the keyword for the other cipher. More clues will follow.

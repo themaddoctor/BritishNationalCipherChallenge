@@ -1,0 +1,76 @@
+8th May 2020 at 4:50 pm
+#48155
+The-letter-wriggler
+Member
+
+TLW The 10 Digit 'Tally Number' Continued
+============================================
+Well here is what I was going to put up but Madness has done it all for you!!
+But see further below.
+
+Uniqueness was proven in 1968 by Martin Gardner and Edward P DeLorenzo.
+I do not have possession of these.
+
+You are on your own with the following, don't ask me for answers or programs to use.
+
+Things for you to do:
+
+Solve for other bases 4, 5, 7, 8, 9 ... 36.
+
+Note: No 'tally number' exists for bases 1,2,3 and 6.
+
+There are 2 solutions for base 4 the only base to have 2
+There is 1 unique solution for all other bases greater than six.
+
+[0123] base 4
+[dddd]
+[dddd]
+
+Can you find the general formular for all bases greater than six?
+When you have done a few it may become obvious.
+
+Daniel Shoham from MIT observed (in 1995) the R2 digits must add to 10 and derived a value for the maximum possible value for each digit in Row 2. His logic was, if digit x appears under digit y there must be x appearances of y, hence x * y < 10.
+
+[0123456789] y
+[9943211111] x (maximum y's)
+
+More workings to keep you busy...
+
+Mr Pickover being the innovator of many a math problem added to this.
+=======================================================================
+All below is in base 10 workings.
+
+[0 1 2 3 4 5 6 7 8 9] row 1
+[d d d d d d d d d d] row 2
+
+Take the answer of row 2 as the start row and solve for that, that answer then becomes the start row and so on.
+Can you find a row 3 or row 4?
+If so what happens if you continue?
+
+R1 = 0123456789
+R2 =
+R3 =
+R4 =
+R5 =
+R6 =
+
+Using any of the digits 0 to 9 in any order, repeats allowed, choose any starting 10 digit number of your choice and, working like above, what is the longest path you can obtain.
+
+Note that there may be more than 1 solution at each step and that means you will have to choose the one that carries the path forward.
+
+The longest path found (in 1995 by Tomas Oliveira e Silva from Portugal) goes to R9 before looping back to R7. He started with R1 = 0000122245
+
+And his longest length -loop- found goes to R5 (and starts over from R1)
+Started with R1 = 0000111244
+
+Also his longest path not leading to a loop, but to a dead end, given here in full
+R1 = 1223334444
+R2 = 4223331111 (there are 42 other solutions to 1223334444)
+R3 = 0332220000 (there are 4 other solutions to 4223331111)
+R4 = 3550003333 (there are 2 other solutions to 0332220000)
+R5 = 0555550000 (there is 1 other solution to 3550003333, leading to a loop)
+R6 = No solution -- dead end
+
+It is currenty (in 1995) not known if there are other paths of the same length.
+
+If there are any other 'finds' or anything you else can add to this let us all know.

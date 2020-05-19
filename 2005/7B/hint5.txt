@@ -1,0 +1,13 @@
+December 07, 2005
+last chance for 7B
+
+Here are the first two row fo the decryption matrix for Challenge 7B
+
+2 21 17
+10 4 9
+
+You should be able to do the rest by looking at what this gives you.
+
+[By the way, if you are doing the decryption as vM, where M is the matrix and v is a row vector then these are the first two columns instead.]
+
+Posted by Harry at 03:32 PM

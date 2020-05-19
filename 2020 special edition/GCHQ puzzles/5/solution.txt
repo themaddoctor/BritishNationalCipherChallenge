@@ -1,0 +1,5 @@
+This week we will give the solution kindly provided by user Peter Tompkin:
+
+It is based on snooker balls -- each word is associated with a colour (Moulin ROUGE, Baton ROUGE, Bete NOIR, Gilet JAUNE) so substituting the values in gives (7+1)/2 + 1 = 5 = blue ball
+
+Hence "Cordon" should do it, as in: Cordon Bleu!

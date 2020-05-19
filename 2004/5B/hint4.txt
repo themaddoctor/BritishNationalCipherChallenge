@@ -1,0 +1,14 @@
+November 17, 2004
+
+Final clues for 5A and 5B
+
+If you haven't been paying attention part A is a keyword cipher with the key phrase the name of a famous alchemist with a forceful personality. Part B is a Playfair cipher, and here is the first row and column of the grid:
+
+
+HIGFE
+L . . . .
+O . . . .
+T . . . .
+Y . . . .
+
+Posted by Harry at 08:38 PM

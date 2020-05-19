@@ -1,0 +1,1 @@
+OFFICIAL CLUE: There is more than one option for a 25 letter cipher. What has been used here is a Bifid cipher. There is some useful information at http://cmup.fc.up.pt/cmup/v2/include/filedb.php?id=120&table=publicacoes&field=file

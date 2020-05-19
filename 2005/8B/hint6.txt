@@ -1,0 +1,6 @@
+January 02, 2006
+Rotor turning
+
+If you imagine the pins of the rotors numbered 0 to 35 with 0 standing for 0, 1 for 1 and so on, 10 for A, 11 for B and so on, then rotor 1 turns so that the numbers increase while rotor 2 turns so that the numbers decrease.
+
+Posted by Harry at January 2, 2006 08:33 PM

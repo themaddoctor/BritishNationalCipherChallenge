@@ -1,0 +1,11 @@
+11th December 2019 at 3:58 pm
+#44815
+
+Harry
+Keymaster
+
+Challenge 8B is a Polybius type cipher. If you look carefully the letters ABCDE appear in even positions and FGHIK appear in odd positions in the text, suggesting that you should think of a 5 by 5 grid. Pairs of letters FA, FB, FC etc then get treated as a single symbol which you can do frequency analysis on. Of course the alphabet usually has 26 letters, and this only gives room for 25, but maybe one of the letters is not used in the message making that OK.
+
+Hope that helps,
+
+Harry

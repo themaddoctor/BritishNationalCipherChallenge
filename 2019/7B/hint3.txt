@@ -1,0 +1,20 @@
+4th December 2019 at 6:12 pm
+#44644
+
+Harry
+Keymaster
+
+The text is laid out in a square because it is intended to be read by columns not by rows. (The first letter of each sentence in the last paragraph of 7A spells COLUMNs) After that you need to work on the substitution cipher, which is polyalphabetic. Hope that helps,
+
+Harry
+
+
+4th December 2019 at 6:10 pm
+#44643
+
+Harry
+Keymaster
+
+OK, the text in 7B is arranged in a square because it should be read in columns not rows! Once you know that then you can carry out a straightforward analysis. Frequency checks on individual characters shows the distribution is a bit flat for a monoalphabetci substitution, so it is probably poyalphabetic, and this is indeed a Vigenere cipher. You can use the Index of Coincidence to try to find the period of that Vigenere, and then crack it as usual. Does that help?
+
+Harry

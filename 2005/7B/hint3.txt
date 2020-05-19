@@ -1,0 +1,18 @@
+December 04, 2005
+Extended crib
+
+For those of you working on Challenge 7B here is an extended crib I have worked out
+
+The first eighteen characters of the cipher text are
+
+SSODTUQOEBIEFKYJXM
+
+The first eighteen characters of the plaintext are
+
+COMRADESWEAREUNDER
+
+You might even take a guess at the next six characters if you are feeling lucky, Anyway it gives you something more to check your calculations against.
+
+Good luck,
+
+Posted by Harry at 09:44 PM

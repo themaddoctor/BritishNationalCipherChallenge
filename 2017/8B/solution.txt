@@ -1,0 +1,36 @@
+The cipher is a very simple 12x12 Hill cipher, followed by the reversal of each word.
+Decryption is the reversal of each word, followed by the inverse Hill cipher.
+
+encryption matrix:
+
+    1  0  0  0  0  0  0  0  0  0  0  0
+    1  1  0  0  0  0  0  0  0  0  0  0
+    0  1  1  0  0  0  0  0  0  0  0  0
+    0  0  1  1  0  0  0  0  0  0  0  0
+    0  0  0  1  1  0  0  0  0  0  0  0
+    0  0  0  0  1  1  0  0  0  0  0  0
+    0  0  0  0  0  1  1  0  0  0  0  0
+    0  0  0  0  0  0  1  1  0  0  0  0
+    0  0  0  0  0  0  0  1  1  0  0  0
+    0  0  0  0  0  0  0  0  1  1  0  0
+    0  0  0  0  0  0  0  0  0  1  1  0
+    0  0  0  0  0  0  0  0  0  0  1  1
+
+decryption matrix:
+
+     1  0  0  0  0  0  0  0  0  0  0  0
+    -1  1  0  0  0  0  0  0  0  0  0  0
+     1 -1  1  0  0  0  0  0  0  0  0  0
+    -1  1 -1  1  0  0  0  0  0  0  0  0
+     1 -1  1 -1  1  0  0  0  0  0  0  0
+    -1  1 -1  1 -1  1  0  0  0  0  0  0
+     1 -1  1 -1  1 -1  1  0  0  0  0  0
+    -1  1 -1  1 -1  1 -1  1  0  0  0  0
+     1 -1  1 -1  1 -1  1 -1  1  0  0  0
+    -1  1 -1  1 -1  1 -1  1 -1  1  0  0
+     1 -1  1 -1  1 -1  1 -1  1 -1  1  0
+    -1  1 -1  1 -1  1 -1  1 -1  1 -1  1
+
+The first letter of each sentence gives this secret message:
+
+    YOU HAVE BEEN BETRAYED BY MIDAS. THIS IS A FORGERY.

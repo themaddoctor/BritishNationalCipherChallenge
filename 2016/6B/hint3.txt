@@ -1,0 +1,3 @@
+Third clue: Calculate the ioc's for lengths of 2,3,4 etc. until it is close to that of the English language (see page 15, 27 and 28 of the beginners guide to codebreaking).
+
+Note: if you are struggling with this cipher, don't worry it is harder than the previous ones and a big clue will be given tomorrow.
