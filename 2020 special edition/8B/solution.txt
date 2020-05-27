@@ -1,0 +1,11 @@
+affine cipher
+    multiplier = 11
+    shift = 15
+
+and
+
+permutation cipher (transposition)
+    permutation = 1,3,0,4,7,2,6,8,5
+    keyword could be CLAMPDOWN
+
+in either order (the ciphers commute)

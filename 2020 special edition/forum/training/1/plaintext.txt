@@ -1,0 +1,15 @@
+In cryptology, a code is a method used to encrypt a message that operates
+at the level of meaning; that is, words or phrases are converted into
+something else. A code might transform "change" into "CVGDK" or "cocktail
+lounge". The U.S. National Security Agency defined a code as "A substitution
+cryptosystem in which the plaintext elements are primarily words, phrases,
+or sentences, and the code equivalents (called "code groups") typically
+consist of letters or digits (or both) in otherwise meaningless combinations
+of identical length." A codebook is needed to encrypt, and decrypt the
+phrases or words. By contrast, ciphers encrypt messages at the level of
+individual letters, or small groups of letters, or even, in modern ciphers,
+individual bits. Messages can be transformed first by a code, and then by
+a cipher. Such multiple encryption, or "superencryption" aims to make
+cryptanalysis more difficult.
+
+I stole this cipher from some punk high-schoolers from Palo Alto, California.

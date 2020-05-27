@@ -1,0 +1,15 @@
+23rd May 2020 at 10:12 pm
+#48473
+Kford-academy
+Member
+
+KA-2 Hint One -- Practice!
+
+OK, I have a practice cipher so you know what should be in each message. (Note: there are three separate messages that are encrypted with the same key and the same cipher. This is important for the later ciphers.) This is a caesar shift cipher with key of 1.
+Uijt qbsbhsbqi xjmm ufmm zpv pof pvu pg tjy tufqt up hfu uif lfzt gps uif psjhjobm djqifs.
+
+Uijt qbsbhsbqi ufmmt zpv ipx up tpmwf uif ofyu djqifs. Opuf uibu jo Tufq Tjy, uif gjobm tufq, ju ufmmt zpv xibu uif psjhjobm djqifs ibt cffo fodszqufe xjui. Uif lfzt bsf xibu uif bcpwf qbsbhsbqi jt gps!
+
+Boe uijt qbsbhsbqi ufmmt zpv ipx up tpmwf uif qsfwjpvt djqifs. Opuf uibu jo Tufq Pof, uijt jt opu bqqmjdbcmf, tp ju jt njttfe pvu.
+
+(I shall release the steps two at a time, so you have time to work them out. And @Harry, I leave you to work this one out!)

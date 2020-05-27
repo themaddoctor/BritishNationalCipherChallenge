@@ -21,3 +21,5 @@ Held during the spring of 2020, during the coronavirus lockdown.
     6B Rjukan
     7A Birdwatching
     7B Gunnerside
+    8A The nitrate plant
+    8B Suspicion

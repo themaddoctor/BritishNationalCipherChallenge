@@ -1,0 +1,2 @@
+keyword for the substitution cipher: CORONA
+keyword for the permutation cipher: VIRUS

@@ -1,0 +1,11 @@
+20th May 2020 at 3:08 pm
+#48411
+Kford-academy
+Member
+
+KA-2!
+2CBTBGLMFGLTCCLABMIFLVBTKTEIDOBRDQEA2ITCW5DN2V4DCOEQHE4OXAKOBOIFPEKTFOLSKTDOKTUCLBH52NBRJMBFTO1ZDOBRES1GBELBCMW515NFA7XAKCNINE4DCFUCJM4A4DHOXAPFDBJI2BKO2VAAOAFMK7KLUOKORCD5TCW5BR
+
+If you can't solve this yet, don't panic! Hint one sends you through a multi-step process to work out the keys! (And there is more than one key!)
+
+Please submit answers in the form KA-2 WORD1 WORD2 WORD3, where WORD1, WORD2 and WORD3 are three words from the plaintext.
