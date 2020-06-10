@@ -6,6 +6,8 @@ Held during the spring of 2020, during the coronavirus lockdown.
 
 1, 2, 3 are practice challenges
 
+10 is the hidden "ELITE" challenge (look in the folder "elite")
+
     0  Introduction: Die Alchemisten
     1A Something Blue
     1B Random numbers?
@@ -25,3 +27,4 @@ Held during the spring of 2020, during the coronavirus lockdown.
     8B Suspicion
     9A Postscript
     9B Hidden Depths
+    10 The Elite Challenge
