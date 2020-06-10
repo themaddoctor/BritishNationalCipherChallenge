@@ -1,0 +1,19 @@
+9th June 2020 at 5:05 pm
+#48922
+The-letter-wriggler
+Member
+
+OK here we go again...
+
+What number replaces the ? (treat as a grid I've left out the lines)
+
+200001
+140010
+201150
+310323
+0110?0
+
+Now there can be several answers to this.
+I have three.
+Give at least 2 and explain your reasons.
+If you can come up with something original all the better.

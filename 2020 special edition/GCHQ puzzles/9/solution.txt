@@ -1,0 +1,20 @@
+The solution this week comes from the first person to crack it, Kford-Academy. Well done!
+
+Divide the following names into two groups:
+
+Ada, Diana, Egon, Flo, Ida, Kent, Nev, Wes
+
+The one that can go into both groups is Ida. Here are the groups.
+
+Group 1 (starting US states):
+Flo (Florida)
+Ida (Idaho)
+Kent (Kentucky)
+Nev (Nevada)
+Wes (West Virginia)
+
+Group 2 (ending US states):
+Ada (Nevada)
+Diana (Indiana)
+Egon (Oregon)
+Ida (Florida)

@@ -1,0 +1,25 @@
+10th June 2020 at 3:31 pm
+#48939
+Madness
+Member
+
+@TLW, I was busy with other things.
+
+If you insist, here is one that I have not done yet. It was stolen from a website for a company that makes books and typefaces and stuff. They used to post weekly logic puzzles. I did one in about half an hour. I will also try to solve this one while you all work on it.
+
+School of Government
+
+Under cover of darkness, six men are meeting in a cabin in the North Woods. Mr. Grouper, Dr. Trout, Mr. Ray, Mr. Mackerel, 'The Snapper', and Mr. Bass must decide between them who will govern their super-secret ichthyological society. They are the only members eligible for the offices of President, Vice-President, and Secretary. And this is their challenge.
+
+Grouper won't be an officer unless Snapper is President
+Trout won't serve if he outranks Ray
+Trout won't serve with Bass under any conditions
+Ray won't serve with both Snapper & Bass
+Ray won't serve if Bass is President or Trout is secretary
+Mackerel won't serve with Ray or Snapper unless he outranks him
+Snapper won't be Vice-President
+Snapper won't be secretary if Mackerel is an officer
+Snapper won't serve with Grouper unless Bass serves too
+Bass won't serve unless either he or Ray is President
+
+How can the three offices be filled?

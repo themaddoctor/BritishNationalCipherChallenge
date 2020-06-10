@@ -1,0 +1,103 @@
+8th June 2020 at 8:37 pm
+#48895
+The-letter-wriggler
+Member
+
+TLW Snake Place Puzzles
+=======================
+The following is taken from The Guardian newspaper 09/10/2017
+Alex Bellos's Monday puzzle column.
+
+In Snake Place the challenge is to draw 'snakes' on the grid.
+Each snake connects the digits in a range (shown top left above the grid),
+from 1 to the highest number, with consecutive numbers joining
+vertically or horizontally to adjacent circles*.
+(Never diagonally). Snakes cannot cross black circles*.
+
+*These are usually drawn as circles in a grid, here an X is used for black circles.
+
+======================== (#0)
+Here's a simple Snake Place, and the solution.
+Snake 1~~4
+[X][_][1][_]
+[4][_][X][_]
+[_][_][_][2]
+[X][3][_][X]
+
+[X][2][1][4] 1>LDL _______(Read as: From the 1 go Left, Down, Left.
+[4][3][X][3] _____________(no starting 1's in this row)
+[1][2][1][2] 1>RDR, 1>RUU (index the 1's from left to right in the row)
+[X][3][4][X] _____________(no starting 1's in this row)
+
+My Convention: Reference is to the starting 1's in a row, leftmost first.
+A Snakes numbers follow the U up, D down, L left, R right path.
+
+You can post answers like so:
+ANSWER #0
+ROW1 1>LDL
+ROW2 -
+ROW3 1>RDR, 1>RUU
+ROW4 -
+or as a filled in grid with the moves to the left as shown here.
+[X][2][1][4] 1>LDL
+[4][3][X][3]
+[1][2][1][2] 1>RDR, 1>RUU
+[X][3][4][X]
+
+THE 5 SNAKE PLACE PUZZLES
+======================== (#1)
+Snake 1~~4
+[_][3][X][_][_][2]
+[1][_][_][3][X][_]
+[_][_][4][_][_][_]
+[_][_][_][1][_][X]
+[3][X][_][_][_][_]
+[_][_][4][_][_][_]
+
+======================== (#2)
+Snake 1~~~5
+[_][_][1][X][1][_][_]
+[_][_][_][_][_][_][2]
+[4][X][_][5][_][_][_]
+[_][_][_][_][3][_][4]
+[_][2][_][1][_][X][_]
+[_][_][_][_][_][_][_]
+[5][_][5][X][_][_][5]
+
+======================== (#3)
+Snake 1~~~~6
+[_][_][_][4][_][3][_][_]
+[_][1][_][_][1][_][X][_]
+[3][_][X][_][_][_][_][6]
+[_][1][_][2][_][_][5][_]
+[_][_][_][_][_][_][_][_]
+[_][6][_][_][_][X][_][1]
+[_][X][_][1][_][5][_][_]
+[5][_][_][_][_][_][4][_]
+
+======================== (#4)
+Snake 1~~~~~7
+[_][_][_][2][_][_][_][_][_]
+[_][_][3][_][X][_][_][1][_]
+[5][_][_][_][_][6][_][_][2]
+[_][_][2][_][4][_][_][3][_]
+[3][_][X][_][_][_][X][_][1]
+[_][7][_][6][_][_][_][_][_]
+[_][_][_][_][2][_][_][_][_]
+[4][_][1][_][X][_][3][_][7]
+[_][_][_][7][_][5][_][_][_]
+
+======================== (#5)
+Snake 1~~4
+[_][1][_][2][_][1][_][_][_][1]
+[_][3][_][4][_][_][4][_][_][1]
+[_][_][_][_][_][_][_][_][_][_]
+[_][_][_][1][4][_][_][_][_][2]
+[2][4][_][_][_][_][4][1][_][1]
+[_][_][_][4][_][_][_][_][_][_]
+[1][_][_][2][_][2][1][_][4][4]
+[_][4][_][_][_][_][_][_][_][_]
+[_][_][_][1][_][_][3][_][1][4]
+[1][4][_][3][_][2][_][_][_][_]
+
+==============================

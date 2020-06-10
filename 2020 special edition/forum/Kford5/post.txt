@@ -1,0 +1,20 @@
+10th June 2020 at 9:54 am
+#48924
+Kford-academy
+Member
+
+KA-5
+
+Here is my next puzzle. Each letter from A to H represents a different digit from 0 to 9. Good luck!
+
+Please submit answers in the form KA-5 ABCDEFGH, where 'ABCDEFGH' is the answer, where you put the digit representing A first, then B, then C, and so on until H. (For example, if you thought A=1, B=2, C=3, and so on until H=8, you would put 'KA-5 12345678'.)
+
+Clues:
+1. E-D=A
+2. EH+E=A+D
+3. DG=H+G
+4. CG-G=G(G+H)
+5. C+G=A-C
+6. A=5+C
+7. E^2=10A+1
+8. B-A=D-C=F-E=H-G

@@ -1,0 +1,22 @@
+
+8th June 2020 at 2:55 pm
+#48880
+Reply | Report
+Kford-academy
+Member
+
+And now for something completely different...
+----
+KA-4 -- Simplification of Infinitely Long Sums.
+
+Can you simplify the following mathematical equations? Please submit answers in the form KA-4 QUESTION-NO ANSWER, where 'QUESTION-NO' is the number of the question and 'ANSWER' is the answer to that question, simplified fully. (The majority of these questions should be answered in the form 'x=(a+sqrt(b))/c'. Note that any square roots should be put as 'sqrt(a)'.)
+
+1. Can you simplify this? 1+1/(1+1/(1+1/(1+1...
+2. Slightly against the normal simplification rule... 2+1/(2+1/(2+1/(2+1...
+3. The answer to this one is a whole number. [1/(2+1/(2+1/(2+1...]^2
+4. Too easy? How about this one? 3+4/(3+4/(3+4/(3+4...
+5. Getting harder now... Muha-ha-ha! 1+2/(3+2/(1+2/(3+2...
+6. I will be impressed if you can get this! 2+3/(5+4/(2+3/(5+4...
+
+[ANSWERS PLEASE DO NOT POST THIS BIT -- FOR ONCE!]
+[What? None of it? Harry]

@@ -1,0 +1,31 @@
+29th May 2020 at 12:27 pm
+#48665
+The-letter-wriggler
+Member
+
+TLW The Czech Logical Labyrinth
+================================
+From the 1990's:
+In the city of Brno in the Czech Republic they hosted 52 competitors from 13 countries in
+the 2nd World Puzzle Championship.
+The puzzle presented here was just one of their many challenges.
+
+01 02 07 16 05 19 07 08
+10 17 23 09 21 13 06 23
+15 04 22 17 20 04 18 22
+19 17 11 24 03 17 08 19
+12 09 07 14 23 18 12 06
+06 05 23 14 10 05 02 23
+08 20 10 11 19 18 01 17
+02 24 15 22 13 04 04 25
+
+The goal is to find a path from the 01 (upper left) to the 25 (lower right)
+such that the path traversed is through exactly 25 squares.
+The moves are up, down, left and right (not diagonally) and the path must not
+contain any repeat numbers.
+The contestants had 15 minutes to solve the problem and computers were not
+allowed, of course I have no way to hold you to those rules.
+
+Can you find the path? How long did it take you?
+
+Your answer will of course be a string of 25 numbers.

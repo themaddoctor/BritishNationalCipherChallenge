@@ -1,0 +1,30 @@
+9th June 2020 at 10:48 pm
+#48923
+Madness
+Member
+
+? = 13 because the sum of each row is an (ascending) multiple of 3
+
+? = 3 or 6 because the product of each column is a divisor of 60
+
+? = 0 so that the determinant of the matrix is zero
+
+? = W because I said so
+
+Sorry this took so long, I was eating lunch and taking a shower (not at the same time).
+
+10th June 2020 at 1:46 pm
+#48927
+The-letter-wriggler
+Member
+
+Yay, all valid -- was that better for you? I know it took you 1hr 15min to post after the question went up, I was watching! Are you going to be KoC now?
+
+Here are the 3 I had...
+
+0: If the first four cells in a column sum to an even number
+the fifth cell in the column is 0, otherwise it is 1.
+13: summing the numbers horizontally gives, respectively, 3, 6, 9, and 12,
+continuing this suggests 13 (for a sum of 15).
+4: based on observation that columns sum to even numbers while the rows sum to
+multiples of 3 (and all the entries are single digits).

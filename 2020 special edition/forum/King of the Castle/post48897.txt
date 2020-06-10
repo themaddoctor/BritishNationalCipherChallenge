@@ -1,0 +1,14 @@
+8th June 2020 at 8:54 pm
+#48897
+Puttputt86
+Participant
+
+An elderly farmer, with a poor understanding of mathematics, passed away (not COVID-19 related) and left his 17 sheep to be divided between his 3 children. The farmer's lawyer read the following from the will:
+
+"To my eldest child, Ann, I leave one half of the sheep.
+To my second child, Billy, I leave one third of the sheep.
+And to my youngest child, Chris, I leave one ninth of the sheep."
+
+The children had a slightly better grasp of mathematics than their father, and each quickly realised that, on the face of it, they would be receiving a portion of their inheritance as mutton -- worth much less than a live sheep -- and began arguing amongst each other. The lawyer decided to call his friend @Harry, a mathematician (from the University of Southampton), who listened carefully to the problem and said: "I'll be there in one hour -- I know exactly what to bring, so that each child gets a whole number of sheep as their inheritance."
+
+What did @Harry bring?

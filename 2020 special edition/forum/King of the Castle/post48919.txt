@@ -1,0 +1,22 @@
+9th June 2020 at 3:59 pm
+#48919
+The-letter-wriggler
+Member
+
+OK Madness I'll go again.
+Shifty Times.
+Here are 8 cards with letters that have been shuffled 4 times in a certain sequence.
+
+[O] [N] [G] [I] [M] [U] [V] [P]
+
+What did the cards show before 4 such shuffles?
+
+How the cards were shuffled:
+The digits 1 2 3 4 5 6 7 8 would become 3 6 5 8 7 1 2 4 after one shuffle like so...
+
+1 2 3 4 5 6 7 8 becomes
+2 1 4 3 6 5 8 7 then the 1st 3 are put on the end
+3 6 5 8 7 2 1 4 and then the 3 end cards are rearranged
+3 6 5 8 7 1 2 4 this is 1 shuffle
+
+This may be tricky as you have to do it in reverse!

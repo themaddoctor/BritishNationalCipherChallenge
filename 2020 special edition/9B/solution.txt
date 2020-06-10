@@ -1,0 +1,9 @@
+Each word in the plaintext was encrypted with a Caesar shift.
+The shift for the first word is 1, for the second is 2, etc.
+Shifts after 25 are done modulo 26.
+
+The result was then encoded with Morse code.
+
+The first letter of each sentence is
+WWW DOT CIPHER CHALLENGE DOT ORG SLASH ELITE
+which is the location of the bonus challenge.
