@@ -1,0 +1,21 @@
+24th June 2020 at 10:30 am
+#49317
+The-letter-wriggler
+Member
+
+============================== ANSWER
+TLW TAKING SIDES
+================
+#1[ RED ]#2[GREEN]#3[CIRCLE]#4[SQUARE]
+
+Cards #1 and #3 are sufficient to deduce that every red card has a square on the other side.
+
+Most people include #4 in their answer.
+But consider: #2 does not matter, since the question is concerned with red cards.
+If #1 has a circle, the answer to the question is no.
+Similarly, if #3 is red the answer is no.
+If #1 is a square, #3 is green, and #4 is either red or green the answer is yes.
+Therefore the answer is #1 and #3.
+
+
+@Puttputt86 I have a frown - you took my crown - I was hardly in - and now you are KING.

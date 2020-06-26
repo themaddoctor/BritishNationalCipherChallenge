@@ -1,0 +1,22 @@
+14th June 2020 at 9:41 pm
+#49104
+The-letter-wriggler
+Member
+
+TLW A comPLEXmatrix
+===================
+What letter should be used to replace the question mark in this matrix of letters?
+No one was able to solve this without the hint.
+
+Here is the hint:
+It is best to assign numerical values to the letters to solve this.
+Now fill in with the following Row1,Column1 = 4, R1,C2 = 3, R2,C2 = 1.
+To solve the problem you must discover a common mathematical rule that applies to each row.
+
+X P L E L
+P E L E P
+P L X E X
+L L L E ?
+E E X L L
+
+Answer giving the values of P L E X and therefore the letter of ?

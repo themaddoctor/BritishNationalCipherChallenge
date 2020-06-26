@@ -6,7 +6,7 @@ Held during the spring of 2020, during the coronavirus lockdown.
 
 1, 2, 3 are practice challenges
 
-10 is the hidden "ELITE" challenge (look in the folder "elite")
+10 is the hidden "ELITE" bonus challenge
 
     0  Introduction: Die Alchemisten
     1A Something Blue

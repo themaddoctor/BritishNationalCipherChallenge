@@ -1,0 +1,18 @@
+24th June 2020 at 2:25 pm
+#49324
+Puttputt86
+Participant
+
+@TLW here is your chance to take back the crown!
+
+This is a neat logic problem - some of you may already have heard it...
+
+Three prisoners - Ann, Bob and Carol - are standing in a line; Ann is at the front, Bob is in the middle (facing Ann's back) and Carol is at the back (facing Bob's back). A guard enters the room with 5 hats; 3 black and 2 white. He shows the hats to the prisoners, then blindfolds them. He places one hat on Ann, one on Bob and one on Carol. He tells them that, after he leaves the room, they can each remove their blindfolds and have to work out what colour hat is on their head but they are not allowed to move their heads. The first one to correctly state the colour of their hat will be released from prison, and the other two prisoners (and anyone who gives an incorrect answer) will have the length of their prison sentence multiplied by 10. The guard then leaves the room.
+
+After he has left, Ann, Bob and Carol remove their blindfolds.
+
+Carol says "I don't know what colour my hat is."
+Then Bob says "I don't know what colour my hat is."
+Then Ann says "Aha! Now I know what colour my hat is!"
+
+What colour is Ann's hat, and how does she know?

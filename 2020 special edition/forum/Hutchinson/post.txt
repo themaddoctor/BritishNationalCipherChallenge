@@ -1,0 +1,26 @@
+14th June 2020 at 9:41 pm
+#49102
+The-letter-wriggler
+Member
+
+TLW THE HUTCHINSON PROBLEM
+==========================
+You are to get a counter from the top left cell to the X at the lower right by
+jumping the number of cells indicated by the cell the counter lands on.
+Moves are orthogonal -- left-right-up-down within the grid (no wrap-around).
+The first choice will be either 2R or 2D.
+
+2 3 3 2 1 4
+1 2 3 1 2 3
+3 2 1 1 3 3
+1 1 3 2 3 4
+2 2 4 3 4 2
+3 4 3 3 2 X
+
+for any postings use the notation: 1R-2U-3L-4D... the digit being the one landed on and the letter the direction from it.
+
+What is the fewest number of jumps required.
+What is the most number of jumps that can be taken (without repeating a circle).
+How many solutions can you find?
+
+(I have no specific answers to give, your feedback will be welcome)

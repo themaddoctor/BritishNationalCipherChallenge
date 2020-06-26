@@ -1,0 +1,686 @@
+17th June 2020 at 3:55 pm
+#49121
+The-letter-wriggler
+Member
+
+TLW ANSWERS TO MY POST - PART 1
+===============================
+
+============================================ ANSWER
+TLW CIPHER
+==============================
+Admittedly this seems a hard one to crack.
+
+I came across a similar looking cipher on subRedit and came up with this
+idea to try to crack it but it failed to solve it.
+
+Then I thought I would use my idea to make my own cipher.
+So that is how I came to make this one.
+
+Maybe it's possible to solve as a large anagram, but I think that is a big ask.
+
+ALL THE HINTS BROUGHT TOGETHER AND GIVEN IN SOLVED PLAINTEXT
+=============================================================
+1] cipher letters are usually given in this type of format. (UPPER CASE)
+2] Your hint is the shift of this cipher also read the very puzzle/cipher itself for another! (24, HINTING AT THE NUMBER OF LETTERS, THEY NEED TWISTING IN LINES)
+3] one particular math op will help you. (DIVISORS, THE TWISTING PARTITIONS)
+4] use divisors wisely then divide and conquer each with a twist. (PAIR THEM)
+5] choose the right twentyfour letters, use low high divisor pairs, reverse, split, until plaintext appears (ALMOST THE SOLUTION)
+
+THE CIPHER:
+===========
+Yet To Solve ThiS One
+tHe hIntS
+eVery LIne Will EacH
+ONLy BE a LittLE Twisted
+
+THE PLAINTEXT:
+===============
+ONLY THE BEST WILL SOLVE THIS
+
+THE SOLUTION:
+=============
+Use only the capital letters (the lowcase letters are dressing used as a hint)
+Count of the capital letters = 24
+
+Divisors of 24 = 1, 2, 3, 4, 6, 8, 12, 24.
+
+Pair the low-high and high-low divisors:
+
+1:24, 2:12, 3:8, 4:6, 6:4, 8:3, 12:2, 24:1
+
+(for this cipher the 12:2 pair were not used but could have been)
+
+Here are the steps to a solve:
+01 Remove all lowercase letters
+02 Make one group of the 24 capitals keeping them in the order given (1:24 pair)
+03 Reverse the group (the twist)
+04 Split to make 2 groups of 12 letters (2:12 pair)
+05 Reverse each group
+06 Split to make 3 groups of 8 letters (3:8 pair)
+07 Reverse each group
+08 Split to make 4 groups of 6 letters (4:6 pair)
+09 Reverse each group
+10 Split to make 6 groups of 4 letters (6:4 pair)
+11 Reverse each group
+12 Split to make 8 groups of 3 letters (8:3 pair)
+13 Reverse each group
+14 Make one group of the letters and edit to plaintext (24:1 pair)
+===================================================================
+Workings:
+=========
+01+02 = YTSTSOHISVLIWEHONLBELLET
+03 = TELLEBLNOHEWILVSIHOSTSTY
+04+05 = WEHONLBELLET YTSTSOHISVLI
+06+07 = EBLNOHEW TSTYTELL ILVSIHOS
+08+09 = HONLBE YTSTWE LILLET SOHISV
+10+11 = LNOH TYEB EWTS LLIL OSTE VSIH
+12+13 = ONL YTH EBE STW ILL SOL VET HIS
+14 = ONLY THE BEST WILL SOLVE THIS
+
+------- HOW TO MAKE THIS TYPE OF CIPHER --------
+
+Encryption steps:
+
+ONLY THE BEST WILL SOLVE THIS -- Choose a 24 letter phrase
+
+Note the use of divisors of 24 : 1, 2, 3, 4, 6, 8, 12, 24.
+
+ONLYTHEBESTWILLSOLVETHIS -- 1×24 removed spaces
+SIHTEVLOSLLIWTSEBEHTYLNO -- reverse group
+SI HT EV LO SL LI WT SE BE HT YL NO -- set 12×2 (extra step to the one I gave)
+IS TH VE OL LS IL TW ES EB TH LY ON -- reverse each group
+IST HVE OLL SIL TWE SEB THL YON -- set 8×3
+TSI EVH LLO LIS EWT BES LHT NOY -- reverse each group
+TSIE VHLL OLIS EWTB ESLH TNOY -- set 6×4
+EIST LLHV SILO BTWE HLSE YONT -- reverse each group
+EISTLL HVSILO BTWEHL SEYONT -- set 4×6
+LLTSIE OLISVH LHEWTB TNOYES -- reverse each group
+LLTSIEOL ISVHLHEW TBTNOYES -- set 3×8
+LOEISTLL WEHLHVSI SEYONTBT -- reverse each group
+LOEISTLLWEHL HVSISEYONTBT -- set 2×12
+LHEWLLTSIEOL TBTNOYESISVH -- reverse each group
+LHEWLLTSIEOLTBTNOYESISVH -- the 24 letters to use or...
+HVSISEYONTBTLOEISTLLWEHL -- ...reverse group and use these
+
+Now make up a meaningfull sentence using lowcase letters...
+HVSISEYONTBTLOEISTLLWEHL -- must have at least one capital in each word
+----------------- -- to make the Cipher
+HaVing Some ISsues
+thEY ONly Take BiTs
+LOok ovEr thIS
+Twisting weLL
+With Each Half Line
+-----------------
+or without reversing in the last step...
+
+LHEWLLTSIEOLTBTNOYESISVH -- capitals to use in your words
+----------------- -- to make the Cipher
+Let tHE WiLL To Solve thIs
+bE OnLy To Beat iT NOw
+YES It iS Very Hard
+-----------------
+
+============================== EXAMPLE 2 new plaintext, new cipher
+
+SO VERY HAPPY THAT I SOLVED IT
+
+Encryption steps:
+
+SOVERYHAPPYT HATISOLVEDIT
+TYPPAHYREVOS TIDEVLOSITAH
+TYPPAHYR EVOSTIDE VLOSITAH
+RYHAPPYT EDITSOVE HATISOLV
+RYHAPP YTEDIT SOVEHA TISOLV
+PPAHYR TIDETY AHEVOS VLOSIT
+PPAH YRTI DETY AHEV OSVL OSIT
+HAPP ITRY YTED VEHA LVSO TISO
+HAP PIT RYY TED VEH ALV SOT ISO
+PAH TIP YYR DET HEV VLA TOS OSI
+PA HT IP YY RD ET HE VV LA TO SO SI
+AP TH PI YY DR TE EH VV AL OT OS IS
+
+Make up a meaningfull sentence using lowcase letters
+APTHPIYYDRTEEHVVALOTOSIS -- use the capitals in each word
+----------------- -- to make the Cipher
+
+A ParTial Hint
+Put In equallY evenlY anD Reverse ThEm gEt tHe
+reViVAL Of The Original Script InStantly
+
+-----------------
+Decryption steps:
+
+APTHPIYYDRTEEHVVALOTOSIS -- The capital letters only
+
+AP TH PI YY DR TE EH VV AL OT OS IS -- set 12×2
+PA HT IP YY RD ET HE VV LA TO SO SI -- reverse each set
+PAH TIP YYR DET HEV VLA TOS OSI -- set 8×3
+HAP PIT RYY TED VEH ALV SOT ISO -- reverse each set
+HAPP ITRY YTED VEHA LVSO TISO -- set 6×4
+PPAH YRTI DETY AHEV OSVL OSIT -- reverse each set
+PPAHYR TIDETY AHEVOS VLOSIT -- set 4×6
+RYHAPP YTEDIT SOVEHA TISOLV -- reverse each set
+RYHAPPYT EDITSOVE HATISOLV -- set 3×8
+TYPPAHYR EVOSTIDE VLOSITAH -- reverse each set
+TYPPAHYREVOS TIDEVLOSITAH -- set 2×12
+SOVERYHAPPYT HATISOLVEDIT -- reverse each set
+SOVERYHAPPYTHATISOLVEDIT -- set 1×24
+SO VERY HAPPY THAT I SOLVED IT -- edit to plaintext
+
+====================================================================
+============================================ ANSWER
+TLW CIPHER #2
+==================================
+You may have to get on the telephone to tri to solve this cipher!
+
+THE SOLUTION:
+=============
+TYPE : Telephone keypad cipher with three alterations.
+KEY :
+2 3 4 5 6 7 8 9 1 0
+====================
+A D G J M P T W Q sp
+B E H K N R U X Z *
+C F I L O S V Y * *
+
+Used button 0 for space.
+Moved q from button 7, and z from button 9 and put them on button 1.
+* are spaces only used as a place holder in the 2nd & 3rd rows.
+
+THE FULL PLAINTEXT:
+====================
+this message was right under your fingertips on a standard keypad telephone the ten digits used are zero to nine with digit zero representing a space and digit one representing q or z each of the other digits two to nine represent one of three possible letters these you will find on the numeric buttons of a phones keypad
+
+WORKINGS:
+==========
+Here is the decrypt kept to 60 characters per line.
+It is now up to a human to make each meaningful word by
+taking one letter from one of the three (tri) lines.
+
+THE SOLVE (each number has 3 letters):
+844706377243092707444808633709687034643784770660207826327305
+============================================================
+tGGP mDPPagD waP PGgGt TMdDP WMTP DGMgDPtGpP MM a PtaMdaPd J
+UhHR NeRRBHe XBR rHHhU unEer XNur EHnHerUHRR Nn B RUBnEBrE k
+VIis OFssCIF YCs SiIIV VOFFS yoVS fiOIFSViSs oO C sVCOFCSF L
+============================================================
+this message was right under your fingertips on a standard k
+
+397230835374663084308360344487087330273013760860646309484034
+============================================================
+DWpad tDJDpGMMD tGD tDM dGgGtP TPDd aPD QDPM tM MGMD wGtG dG
+eXRBE UeKeRhNne Uhe Uen EHHHUR uReE Bre zerN UN nHne XHUh EH
+FySCF VFlFSIoOF VIF VFO FiIiVs VsFF CSF FSo Vo OiOF YiVI Fi
+============================================================
+eypad telephone the ten digits used are zero to nine with di
+
+448013760737737368464020772230263034448066307377373684640106
+============================================================
+gGt QDPM PDpPDPDMtGMg a PpAAD aMd dGgGt MMD PDpPDPDMtGMg q M
+HHU zerN reRreRenUHnH B RRBBe BnE EHHHU Nne reRreRenUHnH Z N
+IiV FSo SFSSFsFOViOI C sScCF COF FiIiV oOF SFSSFsFOViOI o
+============================================================
+git zero representing a space and digit one representing q o
+
+701032240630843068437034448708960860646307377373680663063084
+============================================================
+P Q DaAG MD tGD MtGDP dGgGtP twM tM MGMD PDpPDPDMt MMD MD tG
+r z eBBh NE Uhe NUher EHHHUR UXN UN nHne reRreRenU Nne NE Uh
+S FCcI of VIF oVIFS FiIiVs VYo Vo OiOF SFSSFsFOV oOF of VI
+============================================================
+r z each of the other digits two to nine represent one of th
+
+733076774253053883770843730968094550346306608430686374202888
+============================================================
+PDD pMPPGAJD JDttDPP tGDPD WMT wGJJ DGMd MM tGD MTmDPGA ATtt
+ree RNRRHbKe KeUUerR UheRe XNu XHKK EHnE Nn Uhe nuNerHB buUU
+SFF SossiClF lFVVFSs VIFsF yoV Yill fiOF oO VIF OVOFSic CVVV
+============================================================
+ree possible letters these you will find on the numeric butt
+
+6670630207466370539723
+======================
+MMP MD a pGMMDP JDWpad
+NnR NE B RhNneR keXRBE
+oOs of C SIoOFs LFySCF
+======================
+ons of a phones keypad
+
+This cipher could be better made using double digits.
+Instead of 8447 we use 81 42 43 73 where the second
+digit is the row reference making for auto decoding.
+
+====================================================================
+============================================ ANSWER
+TLW MINI CHALLENGE ALL THE SOLUTIONS
+====================================
+
+THE PLAINTEXTS:
+================
+CIPHER ONE
+==========
+you have clues and anagrams to help you get started with each cipher.
+for instance the following should help you open up the next cipher, number two...
+loves to rearrange the message in a way that makes it unreadable, but the clue here will help!
+
+CIPHER TWO
+==========
+welcome to the world of ciphers - you have just decrypted the second cipher. 'loves to rearrange' was obviously the clue, an anagram of 'loves' giving the word 'solve' which is what you did! will there be a clue to the following cipher within the one just solved? re: leaving together this clue will help you see the next cipher that follows.
+
+CIPHER THREE
+============
+its looking good now that the second cipher is cracked, 're: leaving together' was the clue so 're' and 'leaving' together anagram to revealing, you are surely on your way to fame so keep at it. the next challenge is just that, something you will have to queue for, but with cunning, insight and perseverance you will get your reward.
+(Note I should have said 'third' not 'second')
+CIPHER FOUR
+===========
+you never know when or if harry will at some future time use a quagmire four cipher, so having solved this puts you in good stead and readyness should the occasion arise.
+i know that this text is not really long enough to do an analysis on to tell what type of cipher it might be that is why i gave you all the clues to it in cipher three - queue for (q4) and the three keywords were given. i did not intend you to have to find those but rather to have the ability to simply solve it, which you must have done to read this, so well done you!
+if you want to post to prove that you have solved all the ciphers print the last word from each of the three preceding ciphers followed by a number being the count of the characters in your user name, for example 'tlw mini word word word ninteen' would be submitted by the-letter-wriggler.
+
+ALL THE CIPHER TYPES AND KEYS
+=============================
+CIPHER ONE
+==========
+TYPE : Caesar
+KEY : Shift of 13
+
+CIPHER TWO
+==========
+TYPE : Mono-Alphabetic Substituiton
+KEY : SOLVE
+[PT] : abcdefghijklmnopqrstuvwxyz
+[CT] : SOLVEABCDFGHIJKMNPQRTUWXYZ
+
+CIPHER THREE
+============
+TYPE : Vigenere
+CODE : Standard
+KEYS : a-z, A-Z, REVEALING, a
+[1] : abcdefghijklmnopqrstuvwxyz
+[2] : ABCDEFGHIJKLMNOPQRSTUVWXYZ
+[3] : REVEALING (Length of 9)
+[4] : a (Start [1] with this letter)
+[5] : Text was taken as a whole (carriage returns ignored)
+IKey : *Auto Key Not Used*
+-------------------
+Key to above:
+TYPE : The Cipher Type
+CODE : Standard, Beaufort or Variant Beaufort
+KEYS : Actual Keywords Used
+[1] : Plaintext Alpha
+[2] : 00 Matrix Alpha
+[3] : Keyword
+[4] : Plaintext Shift
+[5] : The whole, or line by line, how text is taken
+IKey : Intermediate Key (Auto PT/CT)
+---------------------
+Key Tableau Used(8 Shifts)
+-> abcdefghijklmnopqrstuvwxyz
+00 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+04 EFGHIJKLMNOPQRSTUVWXYZABCD
+06 GHIJKLMNOPQRSTUVWXYZABCDEF
+08 IJKLMNOPQRSTUVWXYZABCDEFGH
+11 LMNOPQRSTUVWXYZABCDEFGHIJK
+13 NOPQRSTUVWXYZABCDEFGHIJKLM
+17 RSTUVWXYZABCDEFGHIJKLMNOPQ
+21 VWXYZABCDEFGHIJKLMNOPQRSTU
+---------------------
+
+CIPHER FOUR
+===========
+TYPE : Quagmire IV
+CODE : Standard
+KEYS : cunning, INSIGHT, PERSEVERANCE, c
+[1] : cunigabdefhjklmopqrstvwxyz
+[2] : INSGHTABCDEFJKLMOPQRUVWXYZ
+[3] : PERSEVERANCE (Length of 12)
+[4] : c (Start [1] with this letter)
+[5] : Text was taken as a whole (carriage returns ignored)
+IKey : *Auto Key Not Used*
+-------------------
+Key to above:
+TYPE : The Cipher Type
+CODE : Standard, Beaufort or Variant Beaufort
+KEYS : Actual Keywords Used
+[1] : Plaintext Alpha
+[2] : 00 Matrix Alpha
+[3] : Keyword
+[4] : Plaintext Shift
+[5] : The whole, or line by line, how text is taken
+IKey : Intermediate Key (Auto PT/CT)
+---------------------
+Key Tableau Used(8 Shifts)
+-> cunigabdefhjklmopqrstvwxyz
+01 NSGHTABCDEFJKLMOPQRUVWXYZI
+02 SGHTABCDEFJKLMOPQRUVWXYZIN
+06 ABCDEFJKLMOPQRUVWXYZINSGHT
+08 CDEFJKLMOPQRUVWXYZINSGHTAB
+10 EFJKLMOPQRUVWXYZINSGHTABCD
+17 PQRUVWXYZINSGHTABCDEFJKLMO
+19 RUVWXYZINSGHTABCDEFJKLMOPQ
+21 VWXYZINSGHTABCDEFJKLMOPQRU
+---------------------
+The Full Tableau:
+-> cunigabdefhjklmopqrstvwxyz
+00 INSGHTABCDEFJKLMOPQRUVWXYZ
+01 NSGHTABCDEFJKLMOPQRUVWXYZI
+02 SGHTABCDEFJKLMOPQRUVWXYZIN
+03 GHTABCDEFJKLMOPQRUVWXYZINS
+04 HTABCDEFJKLMOPQRUVWXYZINSG
+05 TABCDEFJKLMOPQRUVWXYZINSGH
+06 ABCDEFJKLMOPQRUVWXYZINSGHT
+07 BCDEFJKLMOPQRUVWXYZINSGHTA
+08 CDEFJKLMOPQRUVWXYZINSGHTAB
+09 DEFJKLMOPQRUVWXYZINSGHTABC
+10 EFJKLMOPQRUVWXYZINSGHTABCD
+11 FJKLMOPQRUVWXYZINSGHTABCDE
+12 JKLMOPQRUVWXYZINSGHTABCDEF
+13 KLMOPQRUVWXYZINSGHTABCDEFJ
+14 LMOPQRUVWXYZINSGHTABCDEFJK
+15 MOPQRUVWXYZINSGHTABCDEFJKL
+16 OPQRUVWXYZINSGHTABCDEFJKLM
+17 PQRUVWXYZINSGHTABCDEFJKLMO
+18 QRUVWXYZINSGHTABCDEFJKLMOP
+19 RUVWXYZINSGHTABCDEFJKLMOPQ
+20 UVWXYZINSGHTABCDEFJKLMOPQR
+21 VWXYZINSGHTABCDEFJKLMOPQRU
+22 WXYZINSGHTABCDEFJKLMOPQRUV
+23 XYZINSGHTABCDEFJKLMOPQRUVW
+24 YZINSGHTABCDEFJKLMOPQRUVWX
+25 ZINSGHTABCDEFJKLMOPQRUVWXY
+---------------------
+
+====================================================================
+TLW's A, B, C quizz. Can you answer these?
+=========================================================== A ANSWER
+GETTING ROPED IN
+=================
+The Length Of The Rope Was 5 Feet.
+
+When the mother is three times as old as the monkey, let
+their respective ages be 3x and x.
+Thus the difference of their ages is 3x-1x = 2x(constant).
+When the monkey is tree times as old as the mother then was, he will be 9x.
+When the mother is half this age, she is 4.5x, and the monkey therefore is 2.5x.
+Twice this i.e. 5x, is the mother's age at the time of the problem, and the
+monkey's age is therefore 3x.
+Now 5x + 3x is to equal 4, therefore x = 0.5, and 5x = 2.5,
+therefore weight of monkey = weight of weight = 2.5 pounds = 40 oz.
+And we are told (expressing all weights in ounces)
+40 + weight of rope = 1.5(40 + 40 - 40) = 60,
+therefore weight of rope = 60 - 40 = 20 oz,
+Rope is 4oz per foot so 20/4 = 5
+and therefore length of rope = 5 feet.
+
+============================================================ B ANSWER
+GOING BANANAS
+==============
+The Banana is Five and Three Quarter Inches Long.
+
+No write up for this solution, sorry.
+
+============================================================ C ANSWER
+Give the missing number N in this sequence.
+===========================================
+N is 121
+
+The decimal number 16 is given in each Base (16 down to 1)
+So N is 121 being decimal 16 in Base 3
+
+This integer sequence can be checked out at https://oeis.org
+
+====================================================================
+============================================ ANSWER
+TLW A Six Fingered Alien.
+==========================
+Here is my answer. This is how I worked it out, there are other ways.
+
+First calculte how many unique numbers are possible
+
+12! 12!
+-------- = ------- = 74484400 unique numbers
+2!2!2!2!2!2! 2^6
+
+(so we have 12 digit columns having 74484400 rows of numbers)
+
+Now there can only be six different digits (1 2 3 4 5 and 6) in each
+of the 12 columns that recur so:
+
+74484400/6 = 1247400 recurences of the 6 digits.
+
+With 1+2+3+4+5+6 = 21 the units column will total to 124700*21 = 26195400
+
+This means each of the 12 columns will total 26195400*10^columns_power.
+
+We can do this using Repunit(12) = 111111111111
+
+26195400*111111111111 = 2910599999997089400
+
+So my full workings are: ((12!/2^6)/6)*21*111111111111 = 29105999999999997089400
+
+In number form:
+479001600/64/6 = 1247400, 1247400*21 = 26195400, 26195400*111111111111 = 2910599999997089400
+
+SEE THE NEXT ENTRY BELOW FOR MORE ON THIS FROM A COMPETITOR (MADNESS)
+====================================================================
+I WOULD LIKE TO INCLUDE WITH THESE ANSWERS THE FOLLOWING POST BY
+MADNESS IN RESPONSE TO TLW A Six Fingered Alien. I like his thinking.
+
+28th April 2020 at 3:54 pm #47945
+Madness
+Member
+
+@TLW
+
+Good news and bad news. The good news is that I can replicate your result for the
+six-fingered alien. I did it by looping over all of the integers from 0 to 12!-1,
+and converting each to a factoradic number (google me!), which is easily converted
+to a permutation of 0,...,11. I rejected any permutation in which x+6 came before x,
+for any x in 0,..,5, in order to eliminate duplicates. Then each permutation was
+converted to a permutation of 1,...,6 with two copies of each digit. The permutations
+were converted to integers and added to a running sum.
+
+The bad news is that it is wrong. Here's why:
+
+How many fingers does a six-fingered alien have? You might say six: three on each
+hand (I'm assuming it has two hands). But then it would likely use a base-6 number
+system. But "6" is not a digit in base 6, any more than "ten" is a digit in base 10.
+So probably the alien has six fingers on each hand. This makes sense, because we
+say that the three-toed sloth has three toes because it has three toes on each
+foot, rather than three toes distributed over all feet. OK, so the alien probably
+uses a base-12 number system. Your calculation assumed that all the numbers were
+in base 10. If instead, we evaluate each of its 12-digit numbers as base-12 numbers,
+then the answer (in base 10) is
+
+21232801607474457000
+
+and in base 12 (new digits are "a" and "b", but we could use dozenal notation
+instead and use "T" and "E" or similar) is
+
+96a15bbbbbbb251a60
+
+Now, here's something interesting: The sum of the digits 1,...,6 is 21. And
+the sum of such digits in the twelve spots is
+
+2100000000000 + 210000000000 + 21000000000 + 2100000000 + 210000000 + 21000000
++ 2100000 + 210000 + 21000 + 2100 + 210 + 21 = 2333333333331.
+
+This wondrous number evenly divides the sum 21232801607474457000, and
+21232801607474457000 / 2333333333331 = 1247400
+
+This last number, 1247400, represents the many ways of assigning the remaining
+11 digits to their positions once we have fixed one. It is 11! / 2^5, since
+there are 11 things to place in 11 spots, but five pairs of identical items
+that we do not want to double-count.
+
+What if we do this again in base 12? Then the sum of the digits 1,...,6 is 19,
+and the sum of putting them in each of the twelve spots is
+
+1900000000000 + 190000000000 + 19000000000 + 1900000000 + 190000000 +
+19000000 + 1900000 + 190000 + 19000 + 1900 + 190 + 19 = 1aaaaaaaaaaa9
+
+Now 96a15bbbbbbb251a60 / 1aaaaaaaaaaa9 = 501a60, but this is again 1247400 in base 10.
+
+====================================================================
+============================================ ANSWER
+TLW The 10 Digit 'Tally Number'
+================================
+
+The answer is 6210001000
+========================
+Meaning:
+0] 6 the digit 0 appears 6 times
+1] 2 the digit 2 appears once
+2] 1 the digit 1 appears twice
+3] 0 the digit 3 appears 0 times
+4] 0 the digit 4 appears 0 times
+5] 0 the digit 5 appears 0 times
+6] 1 the digit 6 appears once
+7] 0 the digit 7 appears 0 times
+8] 0 the digit 8 appears 0 times
+9] 0 the digit 9 appears 0 times
+
+====================================================================
+============================================ ANSWER
+TLW The 10 Digit 'Tally Number' Continued
+============================================
+Note: No 'tally number' exists for bases 1,2,3 and 6.
+
+[0123] base 4 two solutions
+[1210]
+[2020]
+
+[01234] base 5 one solution
+[21200]
+
+For all bases above 6 there is just one solution.
+
+In general using concatination of the bracketed sets we can use the following
+
+[n][21][0..0][1000] (Martin Gardner called this the self-descriptive number)
+
+where n is 4 less than the base,
+the number of zero digits to include [0..0], is 7 less than the base,
+and the 21 and 1000 are fixed digits.
+
+So if b is the base number (higher that 6) then we calcuate thus:
+[b-4][21][number of zeros = b-7][1000]
+
+Working this for base 10 gives:
+[n=10-4=6][21][10-7= 3 zeros][1000] so we have 6 21 000 1000 = 6210001000
+
+and for other bases
+
+[012345] base 7 [7-4][21][7-7][1000]=[3][21][][1000]
+[301000]
+
+[01234567] base 8 [8-4][21][8-7][1000]=[4][21][1][1000]
+[42101000]
+
+[012345678] base 9 [9-4][21][9-7][1000]=[5][21][2][1000]
+[521001000]
+
+[0123456789a] base 11 [11-4][21][11-7][1000]=[7][21][4][1000]
+[72100001000]
+
+[0123456789ab] base 12 [12-4][21][12-7][1000]=[8][21][5][1000]
+[821000001000]
+
+[0123456789abc] base 13 [13-4][21][13-7][1000]=[9][21][6][1000]
+[9210000001000]
+
+Double digit numbers or greater can be put like so:
+
+Base 36 [36-4][21][0's: 36-7][1000] (32)21(29)1000
+
+[012345678901234567890123456789012345]decimal count
+[01233456789abcdefghijklmnopqrstuvwxy]
+[v21000000000000000000000000000001000]
+
+(note that v represents 32(in decimal) and that it appears once
+and there are v zeros (32 zeros))
+
+==================================================
+The other two results of T.O. e Silva in full are:
+Longest path before hitting a loop...
+R1=0000122245
+R2=2222044430 (there are 3 other solutions)
+R3=1111300023 (there is 1 other solution)
+R4=3333411104 (there is 1 other solution)
+R5=0000122241 (there is 1 other solution)
+R6=2222044440 (there are 2 other solutions)
+R7=0000800008
+R8=2222022220
+R9=0000800008
+
+and the longest length loop found...
+R1=0001112444
+R2=1111444033 (there is 1 other solution)
+R3=2222000311 (there is 1 other solution)
+R4=0000111244 (there is 1 other solution)
+R5=0000111244 (there is 1 other solution)
+
+================================================================
+============================================ ANSWER
+TLW The 27 Tiles Problem
+=========================
+The 3 Solutions
+
+[1] 191618257269258476354938743
+
+[2] 191218246279458634753968357
+
+[3] 181915267285296475384639743
+
+And the 3 reversals of course
+
+[4] 347839453674852962752816191
+
+[5] 753869357436854972642812191
+
+[6] 347936483574692582762519181
+
+The sums you would have posted:
+[1]+[4] = 539457710944111439107754934
+[2]+[5] = 945087603716313607396780548
+[3]+[6] = 529851750859989058147158924
+
+================================================================
+============================================ ANSWER
+TLW Alphametic Sum
+===================
+>CROSS
+>ROADS+
+======
+DANGER
+
+For base 10
+There are 9 different letters
+Giving One Unique Solution
+
+S R D E O A G N C
+3 6 1 4 2 5 7 8 9
+
+>96233
+>62513
+======
+158746
+
+================================================================
+============================================== ANSWER
+TLW The Czech Logical Labyrinth. The solution:
+==============================================
+
+01,10,15,04,22,11,07,14,24,03,20,21,09,16,05,19,13,06,18,08,12,02,23,17,25.
+
+[01]_02__07_[16][05][19]_07__08
+[10]_17__23_[09][21][13][06]_23
+[15][04][22]_17_[20]_04_[18]_22
+_19__17_[11][24][03]_17_[08]_19
+_12__09_[07][14]_23__18_[12]_06
+_06__05__23__14__10__05_[02][23]
+_08__20__10__11__19__18__01_[17]
+_02__24__15__22__13__04__04_[25]
+
+================================================================

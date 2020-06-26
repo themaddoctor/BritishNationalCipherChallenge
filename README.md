@@ -27,7 +27,6 @@ Some plaintexts and solutions are missing for non-official challenges.
 The missing ones are
 
  - 2005 forum post from Captain Cool: missing key phrase
- - Harry's Game 2010 8B
  - 2013 bonus A and B
  - 2013 forum posts
 

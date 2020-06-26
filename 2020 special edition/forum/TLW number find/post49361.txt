@@ -1,0 +1,18 @@
+26th June 2020 at 11:04 am
+#49361
+Puttputt86
+Participant
+
+TLW A Number To Find
+
+N = 12
+
+Solution: For each square
+
+AA==BB
+==EE==
+CC==DD
+
+the solution is given by
+
+EE = ((CC * BB) - DD) / AA

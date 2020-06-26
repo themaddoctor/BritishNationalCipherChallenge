@@ -1,0 +1,35 @@
+12th June 2020 at 1:36 pm
+#49056
+Puttputt86
+Participant
+
+@Madness, the only way I can see is if Ray is President, Trout is VP and Snapper is Secretary?
+
+My solution:
+
+1) President
+
+- Can Grouper be President? No, because he will only serve if Snapper is President.
+- Can Trout be President? No, because he would outrank Ray.
+- If Snapper was President, then Mackerel won't serve and Bass won't serve, which leaves Grouper, Trout and Ray for the other positions. But if Bass won't serve, then Snapper won't serve with Grouper, so only Trout and Ray are left. If Trout is VP, he would outrank Ray (so won't serve); if Trout is Secretary, Ray won't serve. So Snapper can't be President.
+- If Bass was President, then Grouper won't serve, Ray won't serve and Trout won't serve, which leaves Mackerel and Snapper for the other positions. But Mackerel will only serve with Snapper if he outranks him (i.e. Mackerel is VP and Snapper is Secretary), and Snapper won't be Secretary if Mackerel is an officer. So Bass can't be President.
+- If Mackerel was President, then Grouper won't serve, Snapper won't serve and Bass won't serve, which leaves Trout and Ray for the other positions. If Trout is VP, he would outrank Ray (so won't serve); if Trout is Secretary, Ray won't serve. So Snapper can't be President.
+- So Ray must be President.
+
+2) Vice President
+
+- Ray is out since he is President.
+- Grouper is out now too, since Snapper is not President.
+- Mackerel is also out now, since he won't serve with Ray unless he outranks him (but Ray is President so can't be outranked).
+- Snapper won't be VP.
+- Which leaves Trout and Bass for VP.
+- If Bass was VP, Trout won't be Secretary (since he won't serve with Bass) and Snapper can't be Secretary (since Ray won't serve with both Snapper & Bass).
+- So Trout must be VP.
+
+3) Secretary
+
+- Ray and Trout are out since they are President and VP respectively.
+- Grouper and Mackerel are also still out for the reasons noted above under 2).
+- Which leaves Snapper and Bass for Secretary.
+- But Trout won't serve with Bass and Trout must be VP.
+- So Snapper must be Secretary.

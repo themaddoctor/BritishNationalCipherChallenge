@@ -1,0 +1,19 @@
+19th June 2020 at 4:31 pm
+#49194
+Kford-academy
+Member
+
+The KA Answers - KA-4 (Simplification of Infinitely Long Sums)
+Let's do the anwers first and I'll show you the method afterwards.
+
+1. x=(1+sqrt(5))/2 (otherwise known as the golden ratio)
+2. x=1+sqrt(2)
+3. x=2
+4. x=4
+5. x=(3+sqrt(33))/6
+6. x=(9+sqrt(241))/10
+(Note that number 3 is referring to my updated one, which is '[1+[1/(2+1/(2+1/(2+1...]]^2'. Thanks to @Madness for pointing this out!)
+
+And here is that method...
+
+The first question was '1+1/(1+1/(1+1/(1+1...'. I put in Hint One that this can be simplified to 'x=1+1/x'. Multiplying by x and rearranging gets 'x^2-x-1=0'. Using the quadratic formula (which is '(-b±sqrt(b^2-4ac))/2' for anyone who forgot about their GCSE maths exams at school!), we get 'x=(1±sqrt(5))/2'. It should be easy to eliminate the 'x=(1-sqrt(5))/2' option just by trying something like the approximation of '1+1/(1+1/1)', which is closer to 'x=(1+sqrt(5))/2' than 'x=(1-sqrt(5))/2'. (The answer is 1.5, if you're interested.) So the answer is 'x=(1+sqrt(5))/2'. And you can use that exact same method for the rest of them!

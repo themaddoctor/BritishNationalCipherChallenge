@@ -1,0 +1,76 @@
+18th June 2020 at 11:45 am
+#49184
+Kford-academy
+Member
+
+The KA Answers - KA-2
+
+Original cipher:
+"Congratulations on solving the four-square cipher! I did not expect you to solve this without Hint One first, so give yourself a pat on the back if you needed no hints! (And now you know about digraph substitution ciphers!)"
+This was a four-square cipher, with the two keys of '142onefourtwo' and '857eightfiveseven', in that order. The alphabet was also 'abcdefghijklmonpqrstuvwxyz0123456789'.
+
+Hint One - Practice:
+"This paragraph will tell you one out of six steps to get the keys for the original cipher.
+
+This paragraph tells you how to solve the next cipher. Note that in Step Six, the final step, it tells you what the original cipher has been encrypted with. The keys are what the above paragraph is for!
+
+And this paragraph tells you how to solve the previous cipher. Note that in Step One, this is not applicable, so it is missed out."
+Caesar shift cipher, with key of 1.
+
+Hint One - Step One:
+"Welcome to my mega-hint - if you like. Start with the number of words in this sentence.
+
+The next cipher is a columnar transposition cipher, with key 'two'."
+Mixed alphabet cipher, with key 'one'.
+
+Hint One - Step Two:
+"The next step is to add ninety to your previous total.
+
+The next cipher will be a permutation cipher, with key 'three'. This follows a sequence that will be put in Hint Two.
+
+The previous cipher was a mixed alphabet cipher, with key 'one'."
+Columnar transposition cipher, with key 'two'. (Note: Did you remember to decrypt each paragraph separately???)
+
+Hint One - Step Three:
+"Now, multiply your result by ten thousand, one hundred and one.
+
+The next cipher is a vigenere cipher.
+
+The previous cipher was a columnar transposition cipher."
+Permutation cipher, with key of 'three'.
+
+Hint One - Step Four:
+"You should have a six-digit number. Now divide this number by seven.
+
+Next up is the polybius square, which is hard to crack! (Just wait until you see Step Six!)
+
+If you haven't already got it, Hint Three was encrypted with the permutation cipher."
+Vigenere cipher, with key of 'four'.
+
+Hint One - Step Five:
+"Well done for getting this far! You should hopefully have a 6-digit number. Split this number into two halves (for instance, if the number was 123456, split this number into 123 and 456.
+
+The final step in Hint One of KA-2 will be encrypted with the fiendish playfair cipher! (Note that that is a digraph substitution cipher. So is the original cipher!)
+
+If you want to know the previous step, it was encrypted using the vigenere cipher - 'the unbreakable cipher', as they used to call it (until it was breakable...)"
+Polybius square, with key of 'five' and alphabet of 'abcdefghijklmnopqrstuvwxyz0123456789'.
+
+Hint One - Step Six:
+"The final step is solved! Well done for finishing Hint One! Anyway, what you should do with your two numbers is this: put after each number each of its three digits in written form. Here is an example: if the numbers were 123 and 456, they would be changed to 123onetwothree and 456fourfivesix. 789 would be changed to 789seveneightnine. Now you have your two keys for the original cipher!
+
+The original cipher was encrypted with the four-square cipher, which can be found at Crypto Corner.
+
+Hint Five was encrypted with the polybius square."
+Playfair cipher, with key of 'six' and alphabet of 'abcdefghijklmnopqrstuvwxyz0123456789'.
+
+Hint Two:
+"The keywords (for Hint One) are the number of the step the message is in. So the keyword for Step One is 'one', 'two' for Step Two, and so on."
+Caesar shift cipher, with key of 9.
+
+Hint Three first!
+"The alphabet For Hint One, Step Five is the standard alphabet, followed by the ten numbers in numerical order (i.e. starting with zero and ending in nine)."
+Caesar shift cipher used, with key 22.
+
+Hint Four:
+"The alphabet for the original cipher is the same as in the latter stages of Hint One!"
+Caesar shift cipher, with key 1. (Sorry, did I say KA-2 Hint Five when I posted this???)

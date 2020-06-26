@@ -1,0 +1,35 @@
+18th June 2020 at 11:45 am
+#49183
+Kford-academy
+Member
+
+The KA Answers - KA-1
+
+Original cipher:
+"Well done. You have solved my trikid cipher." (Sorry about the typo. It was meant to be 'trifid'!)
+(Updated version: "Well done. You have solved my triliteral cipher.")
+This was all done with the triliteral cipher, with 0s, 1s and 2s instead of As, Bs and Cs. See https://www.dcode.fr/triliteral-cipher for more info!
+
+Hint One:
+"Solved this cipher? If so, use a similar cipher to solve the original one, but in three dimensions..."
+Polybius square, with key 'polybius' and labels reading down the across, not across the down. I used the numbers 0-4, instead of the numbers 1-5.
+
+Hint Two:
+"Hint one describes the original cipher. All other hints provide hints on other hints. Hint three will be a transposition cipher."
+Vigenère cipher, with key 'vigenere'.
+
+Hint Three:
+"Do you spot a pattern in the keys? The key is the same as the cipher used! (For numbered keys it relates to the first letter or word.)"
+Columnar transposition cipher, with key 'columnar'.
+
+Hint Four:
+"The keyword for the original cipher is 'trifidcipher'."
+Note: I accidentally did this with a columnar transposition cipher instead of a permutation cipher! The keyword is still 'permutation', however.
+
+Hint Five:
+"Hint One is a fractionating cipher, with the original cipher being a three-dimenstional version of this. Hint two is maybe the most famous polyalphabetic substitution cipher around. Hints Three and Four are both transposition ciphers. (All these ciphers can be found at 'crypto.interactive-maths.com'.)"
+Caesar shift cipher, with key of 6 and alphabet shown in Hint Six. By the way, did I put in 'three-dimenstional'? I meant 'three-dimensional'!
+
+Hint Six:
+"The alphabet for the previous hint is a space, a full stop, a comma, a question mark, an exclamation mark, a forward slash, an opening bracket, a closing bracket, a hyphen, an apostrophe, and the normal alphabet (in that order). It is the same cipher as this one, with twice the key number."
+Another caesar shift cipher, with key of 6 and normal alphabet.

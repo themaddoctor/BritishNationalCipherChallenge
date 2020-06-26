@@ -1,0 +1,12 @@
+One effect of the cipher is that the ciphertext is 3 letters shorter than the plaintext.
+
+It is not a Hill cipher. I don't think it is any known cipher. If any message is encrypted with this cipher, the ciphertext will be 3 letters shorter than the plaintext. The encryption uses addition in modulo 27.
+
+It is a simple sum, and it does begin or end with "HARRY". Perhaps the letters don't translate to numbers the way you expected, or you removed the full stops, which do count as letters.
+
+I don't think that there is reference material about it, because I invented it.
+
+One way of breaking it if you know what cipher it is would be to try all 17,576 combinations for the first 3 letters, and find the one that gives a sensible decryption for the remaining part. Also, in places where the same letter appears six times in a row, you can guess that it represents the same three letter word repeated, e.g. "GGGGGG" represented "_YOU_YOU_", because the four letters combined each time will be the same four.
+
+The cipher could be improved by combining more than four letters, and using a specified combination of letters at the start of the message so the recipient can decipher it easily.
+Also, to stop the repeated letters, the different letters in each group could be multiplied by different numbers before addition.

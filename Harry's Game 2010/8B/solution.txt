@@ -1,0 +1,8 @@
+The key is the first three letters of the plaintext: "HAR".
+
+Each character of the ciphertext is the sum of four plaintext letters, modulo 27,
+where the alphabet is ".ABCDEFGHIJKLMNOPQRSTUVWXYZ" = 0, ..., 26. The sum is of
+the current plaintext letter and three preceeding letters.
+
+To decrypt, start with "HAR" and add each letter that you get by subtracting the
+preceeding three plaintext letters from the current ciphertext letter.

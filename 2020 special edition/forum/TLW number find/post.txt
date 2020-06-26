@@ -1,0 +1,33 @@
+14th June 2020 at 9:40 pm
+#49100
+The-letter-wriggler
+Member
+
+TLW A Number To Find
+=====================
+The numbers at the four corners of the squares
+shown, are related to the number within the
+square in a special way. This same relationship
+applies in each set of numbers and squares.
+
+03==05
+==14==
+10==08
+
+06==08
+==08==
+07==08
+
+05==07
+==03==
+04==13
+
+03==12
+==27==
+08==15
+
+09==06
+==06==
+11== N
+
+What number is N

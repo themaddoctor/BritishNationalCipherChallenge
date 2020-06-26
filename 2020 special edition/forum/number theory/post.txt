@@ -1,0 +1,18 @@
+19th June 2020 at 4:31 pm
+#49192
+The-letter-wriggler
+Member
+
+TLW NUMBER THEORY
+========================
+Can you answer these three Number Theory questions?
+====================================================== NT 1
+The largest palindrome made from the product of
+two 3-digit numbers.
+====================================================== NT 2
+the smallest positive number that is evenly divisible
+by all of the numbers from 1 to 20.
+====================================================== NT 3
+The difference between the sum of the squares of the
+first one hundred natural numbers and the square of the sum.
+======================================================

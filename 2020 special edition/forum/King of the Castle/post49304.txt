@@ -1,0 +1,24 @@
+23rd June 2020 at 8:41 pm
+#49304
+The-letter-wriggler
+Member
+
+TLW TAKING SIDES
+================
+There are 4 cards laid out on the table.
+I tell you that each one is either red or green on one side, and that
+each one has either a circle or a square on the other side.
+
+Here is how they appear laid out:
+
+#1[ RED ]#2[GREEN]#3[CIRCLE]#4[SQUARE]
+
+Which are the ONLY numbered cards you need to pick up and turn over in order to have
+SUFFICIENT information to answer the question:
+
+Does every red card have a square on its other side?
+
+Do you need to pick up just one, or just two, or just three or all four?
+Give the number(s) of the cards and state why you chose them.
+
+TO STOP MULTIPLE TRIES - THINK IT OUT - ONE ANSWER FROM ONE PERSON FOR NOW

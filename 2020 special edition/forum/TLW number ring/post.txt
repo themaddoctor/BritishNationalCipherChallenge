@@ -1,0 +1,66 @@
+11th June 2020 at 3:43 pm
+#49012
+The-letter-wriggler
+Member
+
+TLW A NUMBER RING
+=================
+Having just now encountered this...
+
+THE RING
+[_][3][_][2]
+[3][X][X][_]
+[_][X][X][1]
+[6][_][1][_]
+
+Going clockwise or counterclockwise the ring of numbers
+form a mathematical expression when certain empty cells
+are filled with + - / * ^ = and an E for End.
+If you leave a blank between digits then the digits
+concatenate to form a multi-digit number.
+All digits have to be used.
+
+...here are six solutions I did in 15 minutes.
+
+33*2/11=6
+[_][3][*][2]
+[3][X][X][/]
+[E][X][X][1]
+[6][=][1][_]
+
+1*6*3+3=21
+[+][3][=][2]
+[3][X][X][_]
+[*][X][X][1]
+[6][*][1][E]
+
+3+3-2+1+1=6
+[+][3][-][2]
+[3][X][X][+]
+[E][X][X][1]
+[6][=][1][+]
+
+3^3-21*1=6
+[^][3][-][2]
+[3][X][X][_]
+[E][X][X][1]
+[6][=][1][*]
+
+3*3-6-1*1=2
+[*][3][E][2]
+[3][X][X][=]
+[-][X][X][1]
+[6][-][1][*]
+
+6*11/2=33
+[_][3][=][2]
+[3][X][X][/]
+[E][X][X][1]
+[6][*][1][_]
+
+Try making as many more as you can if you wish.
+These may or may not be trivial to come up with but...
+
+What I would like to know (I do not have an answer) is the limit, what
+is the maximum number of such sums that can be made from this ring?
+Would a ring, retaining this format, with different digits produce more or less sums?

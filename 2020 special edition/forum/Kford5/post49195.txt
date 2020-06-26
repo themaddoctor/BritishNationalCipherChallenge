@@ -1,0 +1,24 @@
+19th June 2020 at 4:32 pm
+#49195
+Kford-academy
+Member
+
+The KA Answers - KA-5
+Here is the answer:
+A is 8, B is 6, C is 3, D is 1, E is 9, F is 7, G is 2 and H is 0.
+
+My method is shown below (also in post #48947, page 12). There is an interesting discussion about the redundancy of some of the clues on page 12 of this topic!
+
+"Here is a reminder of the clues (I will refer to these throughout my method - for those who didn't get it):
+1. E-D=A
+2. EH+E=A+D
+3. DG=H+G
+4. CG-G=G(G+H)
+5. C+G=A-C
+6. A=5+C
+7. E^2=10A+1
+8. B-A=D-C=F-E=H-G
+
+The first step was to work out which letter H was. From Clue 1, E could not be 0 (as A would have been a negative number otherwise), so it was safe to divide by E in Clue 2. Rearranging Clue 1 makes E=A+D. So E can be substituted for 'A+D' in Clue 2, which comes up as EH+E=E. Dividing by E gets us H+1=1, which means H is 0. Substitute H for 0 in Clue 3 and you get DG=G. Dividing by G (as G isn't 0) gets us D=1, our next letter. Substitute H for 0 again and in Clue 4 and you get CG-G=G(G). Divide by G and you get C-1=G. Substitute G for 'C-1' in Clue 5 and you get C+C-1=A-C. Adding C to both sides and simplifying gets 3C-1=A, which in turn makes Clue 6 (after substituting A for '3C-1') 3C-1=5+C. This can be rearranged to make 2C=6, or C=3. Putting this into Clue 6 gets us A=5+3, or A=8. Doing the same to Clue 5 gets 3+G=8-3, or 3+G=5. This means that G is 2. In Clue 7, we can replace A for 8, giving us E^2 = 10*8+1, or E^2=81. So E=9. The only letters remaining are now B and F. In Clue 8, we are given a statement connecting all 8 letters. D-C is 1-3, or -2. So we can say that B-A=-2 and F-E=-2. Let's start with B-A=-2 first. A is 8, so B-8=-2, or B=6. Now for F-E=-2. E is 9, so F-9=-2, or F=7. Just to summarize the answers: A is 8, B is 6, C is 3, D is 1, E is 9, F is 7, G is 2 and H is 0."
+
+(P.S. Sorry if the explanation was a bit long!)

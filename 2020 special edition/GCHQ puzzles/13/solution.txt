@@ -1,0 +1,31 @@
+You might work out how to get started, but how do you finish?
+
+Divide the following list into three groups of three:
+
+1. Be victorious = WIN
+2. Computer network = LAN
+3. Garland of flowers = LEI
+4. Greek Letter = CHI
+5. Companion to "to" = FRO
+6. Mountain pass = COL
+7. Pull = TOW
+8. Little bit (informally) = TAD
+9. University teacher = DON
+
+Now these are the initial syllables of ancient towns and cities in the UK founded on the sites of roman forts, so they all have chester, cester or caster as their tails:
+
+1. WINCHESTER
+2. LANCASTER
+3. LEICESTER
+4. CHICHESTER
+5. FROCESTER
+6. COLCHESTER
+7. TOWCESTER
+8. TADCASTER
+9. DONCASTER
+
+These get grouped as
+
+1. WINCHESTER    1. LEICESTER    1. LANCASTER
+2. CHICHESTER    2. FROCESTER    2. TADCASTER
+3. COLCHESTER    3. TOWCESTER    3. DONCASTER

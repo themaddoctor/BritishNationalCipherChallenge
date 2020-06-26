@@ -1,0 +1,45 @@
+15th June 2020 at 2:04 pm
+#49119
+Kford-academy
+Member
+
+Here is my next challenge. Enjoy!
+
+Here is a grape (marked G) and a cherry (marked C) inside the lower part of a chair made up of four sticks (view in a monospaced font):
+|_
+|G|C
+
+Move two sticks so that the grape is outside the chair and the cherry is inside, like this (this is obviously not a solution!):
+|_
+G|C |
+You may change the orientation of the chair:
+_
+_|_
+But you may not flip the chair:
+|_|
+|
+And you cannot move the grape or the cherry:
+|_
+|C|G
+
+Just submit answers by typing in the final positions. (Example below.) If you need to have a letter underlined (i.e. a stick directly underneath a letter), use the ‘UL’ symbol in the menu above your answer. (Note: Please correct me if I’m wrong, @Harry!) Enjoy!
+
+(Example! You could type in, for instance:
+_
+
+    G
+
+|
+
+    C
+
+)
+
+[ANSWER PLEASE DO NOT POST THIS BIT
+The answer is:
+_ _
+G|
+
+    C
+
+]

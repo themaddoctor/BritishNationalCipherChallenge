@@ -1,0 +1,31 @@
+14th June 2020 at 9:42 pm
+#49105
+The-letter-wriggler
+Member
+
+TLW TRIPLET TRIP
+================
+Starting at any position, you are required to traverse the whole grid.
+The rule being that you choose three different letters then repeat them to make the trip.
+
+A B C A C A
+C A C B C B
+B B A C A B
+A C B B A C
+
+Show your trip by use of matrix index inserting 01..24
+00 00 00 00 00 00
+00 00 00 00 00 00
+00 00 00 00 00 00
+00 00 00 00 00 00
+
+I wonder, how many such trips are possible?
+
+14th June 2020 at 11:26 pm
+#49110
+The-letter-wriggler
+Member
+
+Re: TLW TRIPLET TRIP
+Forgot to state:
+Moves are orthogonal -- left-right-up-down within the grid (no wrap-around).
