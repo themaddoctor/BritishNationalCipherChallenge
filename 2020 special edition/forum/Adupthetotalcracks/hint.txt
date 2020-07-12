@@ -1,0 +1,9 @@
+12th July 2020 at 9:36 am
+#49544
+Adupthetotalcracks
+Member
+
+To everyone struggling with my cipher, here are a couple of clues:
+1) The ciphertext has an even number of characters.
+2) The encryption mechanism involves a keyword.
+Good luck!

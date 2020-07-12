@@ -1,0 +1,11 @@
+You were asked to find the missing four terms in this sequence
+
+AAAAAAA, DDDDDDA, NMEDHFD, SNSERIR, UOTESRS, ?, ?, ?, ?
+
+The solution is:
+
+YYUNTYT, YSUU, WYY, Y.
+
+Did you work it out? It was very tricky. The fact that there were seven items in the list, together with the puzzle title might have suggested that it had something to do with the days of the week, and it does.
+
+The sequence is derived by writing the letters of each day of the week in alphabetical order then reading the answers off by columns.

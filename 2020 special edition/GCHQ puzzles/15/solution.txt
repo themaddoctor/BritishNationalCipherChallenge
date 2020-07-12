@@ -1,0 +1,13 @@
+The answer is NCS for Nicosia.
+
+Each sequence is the sequence of consonants from the capital of a country whose name contains only one vowel:
+
+CCR from Accra, the capital of GhAnA
+
+CR from Cairo, the capital of Egypt
+
+SV from Suva, the capital of FIjI
+
+RBT from Rabat, the capital of MOrOccO
+
+NCS from Nicosia, the capital for CyprUs

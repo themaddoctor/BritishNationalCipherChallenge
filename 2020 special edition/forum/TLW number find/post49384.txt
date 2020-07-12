@@ -1,0 +1,28 @@
+26th June 2020 at 8:54 pm
+#49384
+The-letter-wriggler
+Member
+
+===================================== ANSWER
+TLW A Number To Find
+=====================
+ANSWER 12
+
+09==06
+==06==
+11==12
+
+If we letter the square thus:
+A=B
+=E=
+D=C
+
+Then the 4 corner numbers relationship to the center square number is:
+((D*B)-C)/A = E
+so
+((11*6)-C)/9 = 6
+rearrange
+(D*B)-(A*E) = C
+(11*6)-(9*6) = 12
+
+So @Puttputt86 is correct - well done for that one.
