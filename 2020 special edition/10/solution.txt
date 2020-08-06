@@ -1,0 +1,11 @@
+The cipher first breaks each character (including spaces) into ternary digits.
+
+_ABCDEFGHIJKLMNOPQRSTUVWXYZ
+000000000111111111222222222
+000111222000111222000111222
+012012012012012012012012012
+
+The least significant digit is shifted one character to the right, with
+wrap-around (the digit that falls off the right end is put at the left).
+
+Digits are then recombined into characters, with @ instead of space.
