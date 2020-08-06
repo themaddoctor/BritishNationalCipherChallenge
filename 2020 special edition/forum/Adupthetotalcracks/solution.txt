@@ -1,0 +1,3 @@
+The cipher works on two letters at a time, so there are 6 wheels
+in the combination lock. The shifts of the trits (ternary digits)
+are 12, 0, 3, 13, 4, 18, which give a keyword of MADNES.

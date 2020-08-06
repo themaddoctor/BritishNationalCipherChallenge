@@ -1,0 +1,14 @@
+The cipher is a Hill cipher with added constant terms.
+Each three-letter block is encrypted with the matrix
+
+    [  6 24  1 ]
+    [ 13 16 10 ]
+    [ 20 17 15 ]
+
+plus a constant vector
+
+    [ 0 ]
+    [ 1 ]
+    [ 2 ]
+
+Note that the cipher can be factored into a Hill and a Vigenere.

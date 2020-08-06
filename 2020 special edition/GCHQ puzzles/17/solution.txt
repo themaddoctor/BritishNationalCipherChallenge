@@ -1,0 +1,27 @@
+The answer this week is provided by Kfford-Academy:
+
+T, T, W. This is very much like Challenge 16, with the four disciples Matthew, Mark, Luke and John. Here is how to get the sequence:
+
+Step 1 – Reorder the letters of each term in alphabetical order:
+matthew -> aehmttw
+mark -> akmr
+luke -> eklu
+john -> hjno
+
+Step 2 – Put these new terms into a grid, as follows:
+aehmttw, akmr, eklu, hjno
+|
+v
+aehmttw
+akmr
+eklu
+hjno
+
+Step 3 – Read off the columns:
+aehmttw
+akmr
+eklu
+hjno
+|
+v
+aaeh, ekkj, hmln, mruo, t, t, w
