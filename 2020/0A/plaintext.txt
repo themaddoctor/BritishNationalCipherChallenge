@@ -1,0 +1,11 @@
+1. Read this mission briefing and make sure you understand what you need to do.
+2. If you are working with others assemble your team and assign duties. Make sure you have setup a team and nominated a team captain so they can submit your solutions.
+3. Check mission deadlines to make sure you don't miss an important bulletin. You can find them on the challenge pages.
+4. Check the mission rules so you know what is allowed and what isn't. You can find them in the Instructions section along with other useful information.
+5. If you are new to codebreaking then take a look at our training pages for some help and guidance.
+6. Whether you are new or experienced, download the BOSS cryptanalyst handbook, either from the BOSS library or from the training page.
+7. For each round of this mission decipher the briefing note (part A) and submit it using the box at the bottom of that page to make sure you have understood what you need to do. Then tackle the mission segment (part B). You do not have to wait until you have broken the enemy transmission (part B) before you submit part A.
+8. You can practice by cracking the encrypted version of this briefing note above, but you don't need to submit it as you can compare your decrypt with this plaintext version.
+9. As soon as you have broken the enemy transmission submit it to our analysts by using the box at the bottom of part B.
+10. If you need support from BOSS then go to your secret account page where you will find a record of your submissions and any feedback from our analysts. If they think that you have misunderstood your instructions or made a mistake in deciphering the enemy comms then they will flag that here and you can revisit the Mission page to submit again.
+11. Check your submission status on your account page - your achievements will be recorded there and on the leaderboard.
