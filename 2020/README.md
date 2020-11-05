@@ -5,8 +5,8 @@ Parts 0, 1, and 2 are practice.
 
 0A Mission Briefing
 0B Tinker, tailor, tourist?
-1A
-1B
+1A Practice Mission Briefing 1
+1B Practice Mission Intercept 1B
 2A
 2B
 3A

@@ -1,0 +1,179 @@
+24th October 2020 at 12:18 pm
+#50414
+
+Madness
+Participant
+
+I just noticed that the next challenge is TWO WEEKS away. This rightly should be mentioned under the BUGS thread.
+Anyway, y'all will probably be bored to tears during the wait, so I will post here an article about Bellaso that
+was rejected by the ACA because they said 1. they don't take anonymous submissions (I refused to give my human
+name) and 2. their readers WOULD NOT BE INTERESTED. What?! Yeah, they said that.
+
+The "new" Bellaso cipher
+madness
+2020-09-17 (and after)
+
+Recently, the original cipher of 1552 by Giovan Battista Bellaso was uncovered in Venice, Italy. It used
+the 22-letter Italian alphabet of the time, according to this tableau:
+
+key   plaintext alphabet
+   abcdefghilmnopqrstuxyz
+ A NOPQRSTUXYZABCDEFGHILM
+ E ZNOPQRSTUXYBCDEFGHILMA
+ I YZNOPQRSTUXCDEFGHILMAB
+ O XYZNOPQRSTUDEFGHILMABC
+ U UXYZNOPQRSTEFGHILMABCD
+ B TUXYZNOPQRSFGHILMABCDE
+ C STUXYZNOPQRGHILMABCDEF
+ D RSTUXYZNOPQHILMABCDEFG
+ F QRSTUXYZNOPILMABCDEFGH
+ G PQRSTUXYZNOLMABCDEFGHI
+ H OPQRSTUXYZNMABCDEFGHIL
+ L MLIHGFEDCBAZYXUTSRQPON
+ M AMLIHGFEDCBYXUTSRQPONZ
+ N BAMLIHGFEDCXUTSRQPONZY
+ P CBAMLIHGFEDUTSRQPONZYX
+ Q DCBAMLIHGFETSRQPONZYXU
+ R EDCBAMLIHGFSRQPONZYXUT
+ S FEDCBAMLIHGRQPONZYXUTS
+ T GFEDCBAMLIHQPONZYXUTSR
+ X HGFEDCBAMLIPONZYXUTSRQ
+ Y IHGFEDCBAMLONZYXUTSRQP
+ Z LIHGFEDCBAMNZYXUTSRQPO
+
+In such a tableau, a plaintext letter is enciphered to the ciphertext letter under it in the row labeled by a
+key letter. Key letters are from a keyword, which is the cipher’s key, in a periodic way. We will see an
+example shortly, when we encipher a message with a modernized version. Notice that each of the
+ciphertext alphabets is reciprocal, i.e., encipherment with any of them is the same as decipherment. The
+same is true for each cipher in this paper.
+
+The following year, Bellaso published a revised cipher. He removed the rotated reversed
+ciphertext alphabets, leaving eleven. Not to restrict the choice of keyword, he doubled the assignment
+of key letters to each alphabet. The new tableau follows.
+
+key    plaintext alphabet                        
+    abcdefghilmnopqrstuxyz
+A/B NOPQRSTUXYZABCDEFGHILM
+C/D TUXYZNOPQRSFGHILMABCDE
+E/F ZNOPQRSTUXYBCDEFGHILMA
+G/H STUXYZNOPQRGHILMABCDEF
+I/L YZNOPQRSTUXCDEFGHILMAB
+M/N RSTUXYZNOPQHILMABCDEFG
+O/P XYZNOPQRSTUDEFGHILMABC
+Q/R QRSTUXYZNOPILMABCDEFGH
+S/T PQRSTUXYZNOLMABCDEFGHI
+V/X UXYZNOPQRSTEFGHILMABCD
+Y/Z OPQRSTUXYZNMABCDEFGHIL
+
+This eleven-alphabet Bellaso cipher of 1553 was incorrectly attributed to Giovanni Battista
+della Porta. The modern version, now called the “Porta cipher,” comes in two varieties. Their tableaux
+are combined here:
+
+key (version)  plaintext alphabet                       
+ 1   2  abcdefghijklmnopqrstuvwxyz
+A/B A/B NOPQRSTUVWXYZABCDEFGHIJKLM
+C/D Y/Z OPQRSTUVWXYZNMABCDEFGHIJKL
+E/F W/X PQRSTUVWXYZNOLMABCDEFGHIJK
+G/H U/V QRSTUVWXYZNOPKLMABCDEFGHIJ
+I/J S/T RSTUVWXYZNOPQJKLMABCDEFGHI
+K/L Q/R STUVWXYZNOPQRIJKLMABCDEFGH
+M/N O/P TUVWXYZNOPQRSHIJKLMABCDEFG
+O/P M/N UVWXYZNOPQRSTGHIJKLMABCDEF
+Q/R K/L VWXYZNOPQRSTUFGHIJKLMABCDE
+S/T I/J WXYZNOPQRSTUVEFGHIJKLMABCD
+U/V G/H XYZNOPQRSTUVWDEFGHIJKLMABC
+W/X E/F YZNOPQRSTUVWXCDEFGHIJKLMAB
+Y/Z C/D ZNOPQRSTUVWXYBCDEFGHIJKLMA
+
+Let's work through an example with both versions of the modern Porta cipher. Here is a short
+message, which we encipher with the keyword PORTA.
+
+plaintext:   GIOVANNI DELLA PORTA PUBLISHED IN FIFTEEN SIXTY-THREE
+key letters: PORTAPOR TAPOR TAPOR TAPORTAPO RT APORTAP ORTAP ORTAP
+version 1:   NPGMNGGQ ZRSSV GBKMV GHVSQJUYX QE SPZLNRG LQBGE MPIRY
+version 2:   ZOJENHHN URRRS LBLAS LHURNBUXW NJ SOYBVRH MNGGF AZARX
+
+We propose that the original Bellaso 1552 cipher be modernized for use by cryptography
+enthusiasts. Expanding the alphabet to include all 26 letters of the modern English alphabet, and
+reassigning key letters to the ciphertext alphabets in a methodical order gives us the following tableau.
+Notice again how each of the ciphertext alphabets is reciprocal. The full cipher is also reciprocal:
+encipherment and decipherment are the same process.
+
+key     plaintext alphabet
+   abcdefghijklmnopqrstuvwxyz
+ A NOPQRSTUVWXYZABCDEFGHIJKLM
+ B ZNOPQRSTUVWXYBCDEFGHIJKLMA
+ C YZNOPQRSTUVWXCDEFGHIJKLMAB
+ D XYZNOPQRSTUVWDEFGHIJKLMABC
+ E WXYZNOPQRSTUVEFGHIJKLMABCD
+ F VWXYZNOPQRSTUFGHIJKLMABCDE
+ G UVWXYZNOPQRSTGHIJKLMABCDEF
+ H TUVWXYZNOPQRSHIJKLMABCDEFG
+ I STUVWXYZNOPQRIJKLMABCDEFGH
+ J RSTUVWXYZNOPQJKLMABCDEFGHI
+ K QRSTUVWXYZNOPKLMABCDEFGHIJ
+ L PQRSTUVWXYZNOLMABCDEFGHIJK
+ M OPQRSTUVWXYZNMABCDEFGHIJKL
+ N MLKJIHGFEDCBAZYXWVUTSRQPON
+ O AMLKJIHGFEDCBYXWVUTSRQPONZ
+ P BAMLKJIHGFEDCXWVUTSRQPONZY
+ Q CBAMLKJIHGFEDWVUTSRQPONZYX
+ R DCBAMLKJIHGFEVUTSRQPONZYXW
+ S EDCBAMLKJIHGFUTSRQPONZYXWV
+ T FEDCBAMLKJIHGTSRQPONZYXWVU
+ U GFEDCBAMLKJIHSRQPONZYXWVUT
+ V HGFEDCBAMLKJIRQPONZYXWVUTS
+ W IHGFEDCBAMLKJQPONZYXWVUTSR
+ X JIHGFEDCBAMLKPONZYXWVUTSRQ
+ Y KJIHGFEDCBAMLONZYXWVUTSRQP
+ Z LKJIHGFEDCBAMNZYXWVUTSRQPO
+
+Here is a short example of the encipherment of a message with this cipher. The keyword is PLAGIA.
+
+plaintext:   BELLASO BEAT YOU TO IT BY ELEVEN YEARS
+key letters: PLAGIAP LAGI APL AG IA PL AGIAPL AGIAP
+ciphertext:  ATYSSFW QRUB LWF GH NG AJ RSWIKL LYSES
+
+Finally, here are some ciphertexts, in order of increasing difficulty, for interested readers to try
+breaking.
+
+CBURTNMJIEUWLLQJIRJAQHXAJFIWNUJHHFNORFTAONJUEQZJJOOXCNPCIWNOKTSNZALPW
+PLIXZDWXINAOIGVWSIXIGJASUAMXJKJYIYZAQDGFYJRCGNOIYCTNLTQTAMAEBPAXYHJHH
+JMTLNFNUIPZAELTRFPBUNJPNAEODXAXGAOTQEGRMNELLJWOBXAUOTIIWQTYIKTOLXLDGX
+BCPARIWDTBSCTNFXLFNMSVEUTHNOKXMNPODACWTBLWUDBSRFNMSXAHOYZOTAGNFTLWNQK
+TWJOKXNATUAPWGHAGNYEFFAEUASFLTRJKFAMJNJGRHRZAAGNFEHJASEOUFMDIXKPACJIW
+CNURPOSAJ
+
+NQRLBRGNZJRHNADMSJRLVPOGVNFALPLCOKVCRDTHXWFIBITESOSGAPSKCFMKOONNTXRGA
+KRCTYUKQCVVLNUBGPBXKKJWXMZZFPNGAZKVLWYGGPHGOQEGRGNDKJCGRBBNAIHLRVBWOA
+NSZUPGNQNXNFKIBYBQYAEGFIFHRKSVZGVXTRBKNZVSTOOVFEQONFIGCFSJGJBHSIZWHQB
+FBUYBFFBGRRASGDTVHC
+
+NNNNNSTQIZETSOOHNQAGHKHWNQEZPQNEBPIFCWXWEZAPNZTVIFUPDPEBDJGKBURPWAXIR
+RAXBYEQJWIRGHSHYRCBYRANGPETNNHQVSJCKDFNINHLVPIFESCZLMCHQRDSTZNDKDUVEW
+WCNDASNPMCWZ
+
+AUBGWRVULFIMABSIKJXJFNYJTACHFUQRCFKIATHSFEOYVNQMHUBCRTJRCKKIHGSLRQVHR
+SOPXNFTZFIBIBZDAVNFPDOA
+
+TNCTLAIANCNRDIBRRPHUTQBOSGTSKFIARIFABNPCGKJGMXHKCYIRWQGKWTEAPEDYTHYTK
+RKJUJEXZAPJEGOLPEWLZQPIXLXFJDFSUBKWTAQMXNDDFKJNLLTPVWLOKDBZAFGJSOMGAP
+WNVMRGBFHDBFJOWFUMTIRXIMGKXLTJTPFUANDZBJGMB
+
+References
+
+American Cryptogram Association, The ACA and You, page 68, http://www.cryptogram.org/downloads/aca.info/ciphers/Porta.pdf
+
+Giovan Battista Bellaso, La Cifra del Sig. Giouan Battista Belaso [sic], 1553.
+
+Paolo Bonavoglia, "Bellaso's 1552 cipher recovered in Venice," Cryptologia 43:6 (2019) 459-465, doi.org/10.1080/01611194.2019.1596181
+
+Paolo Bonavoglia, "Trithemius, Bellaso, Vigenère: Origins of the Polyalphabetic Ciphers," Proceedings of the 3rd International Conference on Historical Cryptology, 2020, ep.liu.se/ecp/171/007/ecp2020_171_007.pdf, doi.org/10.3384/ecp2020171007
+
+Augusto Buonafalce, "Bellaso's Reciprocal Ciphers," Cryptologia 30:1 (2006) 39-51, doi.org/10.1080/01611190500383581
+
+Johannes Trithemius, Polygraphiae libri sex, Reichenau: Joannis Haselberg de Aia, 1518, http://www.loc.gov/item/32017914
+
+Blaise de Vigenère, Traicté des chiffres ou secrètes manières d'escrire, Paris: Abel l'Angelier, 1586, hdl.handle.net/2027/ien.35552000251008, gallica.bnf.fr/ark:/12148/bpt6k1040608n, gallica.bnf.fr/ark:/12148/bpt6k94009991
+
+NOTE TO HARRY: It should be easy for you to break the ciphertexts, so I don't need to send the plaintexts.
