@@ -1,0 +1,9 @@
+The decrypt of the first mission intercept has raised a number of questions about the spyclist operation, if that is what it is, but it has also triggered enquiries about the personnel referenced in that message. Our counterintelligence unit have asked me to task you with enquiries about the names mentioned there, in particular:
+Jessica;
+Wilhelm;
+Nikolaus;
+Tirpitzufer.
+It is possible that these are pseudonyms or code names, but they do not appear in our records and CI branch would be very interested in anything you can find out about them in relation to Nazi spy operations.
+I followed up on the SIS report that Hitler Youth groups travelling abroad were asked to complete a detailed questionnaire, checking if Harry had links that could help with this, and he sent me the attached message that was photographed by a BOSS undercover operative in Berlin. He told me that it had been exfiltrated from Abwehr headquarters and appears to be a request for approval for a new mission, though neither H nor I have had time to break it, so I look forward to receiving your decrypts. We believe the message has been enciphered using a keyword substitution cipher and given that we are not sure how serious the spyclist threat might be we would be grateful if you could decipher it quickly.
+The message was also a reminder to me that our own security is an important consideration, so I will also switch to a keyword substitution cipher for the next Mission Briefing.
+Pearl.
