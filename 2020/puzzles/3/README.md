@@ -16,7 +16,7 @@ madness disappeared in Oslo and has not been seen since.
 We advise you not to try to find mad without state-level
 support or some high-quality vegan cake.
 
-It’s Madness I tell you!
+It's Madness I tell you!
 
 You know what to do!
 

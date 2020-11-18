@@ -8,4 +8,4 @@ Tom Briggs is a National Cipher Challenge veteran, having been introduced to it 
 
 You probably don't know what to do! Good luck.
 
-![](Tom-grid-300x298.png)
+![](Tom-grid-4.png)

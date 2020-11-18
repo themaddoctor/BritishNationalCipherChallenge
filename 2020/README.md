@@ -6,12 +6,12 @@ Parts 0, 1, and 2 are practice.
 
     0A Mission Briefing
     0B Tinker, tailor, tourist?
-    1A Practice Mission Briefing 1
-    1B Practice Mission Intercept 1B
-    2A Practice Mission Briefing 2A: Instructions
-    2B Practice Mission Intercept 2B: Not an enigma
-    3A
-    3B
+    Practice Mission Briefing 1
+    Practice Mission Intercept 1B
+    Practice Mission Briefing 2A: Instructions
+    Practice Mission Intercept 2B: Not an enigma
+    Mission Briefing 3A: Norfolk
+    Mission Intercept 3B: Tirpitzufer
     4A
     4B
     5A

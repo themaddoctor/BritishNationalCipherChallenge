@@ -1,0 +1,14 @@
+13th November 2020 at 10:32 pm
+#52089
+Madness
+Participant
+
+Remember this spring when there were some challenges that were a Caesar or affine cipher combined with
+a permutation (block transposition) cipher? Well, I was doing nothing yesterday, and I realized that
+if the block size of the permutation is the same as the key length for a Vigenere, then it should be
+easy to break a ciphertext that was encrypted with a Vigenere and a permutation. So here one is. Have fun.
+
+SLIMNKRHTFULRWBCZPSYBOAWZYVOMHRPUIVHONZMVSPNOAISQEOGYEQAQRUVRTUPUSQOMVYXRPWVUQDZNRYVHQ
+PDLSXPTBXEUYBQBHZWIWNIVNOGCIUYJHUXBPODYXUOFONMQSUHIIVPSSWXVPXOMPOTECZZLJUBCEVLOCZXXLIF
+YZLFRBAEIQETYYOLSZXYJQTVNVRPIANPLROJCWRPDILSILTAIMFEMOFVDTURCSQTNGUHVDJHBHDDFFEIQNOHYI
+VCFKBIDCPQWHLZUBAXKEFSFXHEFFBSXOFQBSQTISNRJXEOHCVLDHCPOOOMOIUZPGNHDZDBXQSPTFCHDSUBII
