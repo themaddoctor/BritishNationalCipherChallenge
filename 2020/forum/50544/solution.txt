@@ -1,0 +1,18 @@
+
+24th November 2020 at 9:38 am
+#52275
+Jbrintcrypt
+Participant
+
+Back in October, I came up with a puzzle that, retrospectively, I shouldn't have expected to get a response to since all puzzles since have clearly been set by people far more intelligence than me and as such their puzzles are rather more interesting. However, The-letter-wriggler made an attempt and told me that, fairly enough, I probably didn't explain it properly. The puzzle was as follows:
+
+i am InTerested In LearnIng To fInd, LogIcaLly, if ThIs conceaLed texT Is Truly invIsibLe If I hIde It so.
+iT TruLy Took aT leasT tweLve mInuTes In Lining up The IndivIdual words.
+i wIsh, Therefore, to see If a LoT of atTempTs couLd be Issued To solve It.
+ThIs lasT senTence shouLd InsTantLy indIcaTe i am wrIting the Longest word, i ThInk its Length Is ITs cLear indIcation thIs word Is Longer.
+
+As he/ she then said to post the answer if nobody solves it, and in the excessively optimistic and unrealistic scenario that anyone wanted to know the answer, I am writing a solution below. For those who might not have seen the original and would like to try, I am encoding the solution with a normal Rot13 cipher. (Context: the text above has a concealed message that then gives a five letter word, which is the answer.)
+
+Svefg jr ybbx guebhtu gur grkg. Jung vf abgnoyr? Jryy, bs gur punenpgref va gur jebat pnfr, gur bayl punatrq barf ner V, G naq Y. Gur guvat gb abgr urer vf gung gur ybjre pnfr rdhvinyragf ner v, g naq y. Vs lbh erzbir gur y funcr sebz rnpu yrggre lbh ner yrsg jvgu ., _ naq [Oynax].
+Guvf vf zbefr pbqr, jvgu rnpu fragrapr fvtavslvat n arj jbeq.
+Vg jr genafyngr gur zbefr pbqr, jr trg SERAPU JBEQ SBE JNYEHF. Gur Serapu sbe 'Jnyehf' vf fvzcyl 'Zbefr', jub jnf gur svpgvbany qrgrpgvir va gur bevtvany uvag.

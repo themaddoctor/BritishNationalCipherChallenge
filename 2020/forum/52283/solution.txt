@@ -1,0 +1,6 @@
+keyword: AUTOMOBILE
+
+plaintext:
+We have only started on our development of our country--we have not as yet, with all our talk of wonderful progress, done more than scratch the surface. The progress has been wonderful enough--but when we compare what we have done with what there is to do, then our past accomplishments are as nothing. When we consider that more power is used merely in ploughing the soil than is used in all the industrial establishments of the country put together, an inkling comes of how much opportunity there is ahead. And now, with so many countries of the world in ferment and with so much unrest every where, is an excellent time to suggest something of the things that may be done in the light of what has been done. When one speaks of increasing power, machinery, and industry there comes up a picture of a cold, metallic sort of world in which great factories will drive away the trees, the flowers, the birds, and the green fields. And that then we shall have a world composed of metal machines and human machines. With all of that I do not agree. I think that unless we know more about machines and their use, unless we better understand the mechanical portion of life, we cannot have the time to enjoy the trees, and the birds, and the flowers, and the green fields.
+
+(from My Life and Work by Henry Ford)

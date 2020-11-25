@@ -1,0 +1,8 @@
+25th November 2020 at 8:21 pm
+#52354
+Madness
+Participant
+
+Here's another clue for you all: The Walrus is Paul.
+
+For a transposition cipher of this type, the block size divides the length of the ciphertext (not including spaces and punctuation).

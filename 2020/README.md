@@ -12,8 +12,8 @@ Parts 0, 1, and 2 are practice.
     Practice Mission Intercept 2B: Not an enigma
     Mission Briefing 3A: Norfolk
     Mission Intercept 3B: Tirpitzufer
-    4A
-    4B
+    Mission Briefing 4A: It's all about the numbers
+    Mission Intercept 4B: Ortsgruppe
     5A
     5B
     6A

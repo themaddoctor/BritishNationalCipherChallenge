@@ -1,0 +1,94 @@
+22nd November 2020 at 11:08 am
+#52283
+Madness
+Participant
+
+I'm bored. Here is an interesting cipher:
+
+The Chase cipher is an invention of Pliny Chase from the 1800s. It begins with a 3×10 grid in which
+we place the alphabet, mixed perhaps with a keyword. The remaining four spaces are filled with other
+symbols; we will use the digits 2, 3, 4, 5 (0 and 1 look too much like O and I).
+
+  0 1 2 3 4 5 6 7 8 9
+0 K E Y W O R D 2 A 3
+1 B C F G H I J L M 4
+2 N P Q S T U V X Z 5
+
+Notice that the table has headings for the 10 digits along the top, and 0, 1, 2 on the side. These are the
+coordinates of each character in the grid.
+
+We take our secret message:
+
+THIS MESSAGE WAS ENCRYPTED WITH A CHASE CIPHER
+
+We need to decide on a period. We can take the entire message at one go, or break it into words, or
+break it into blocks of the same length. For security, we should either use the entire message at once or
+use blocks whose lengths are all the same. For this example, we take blocks of length five, and pad the
+last block.
+
+THISM ESSAG EWASE NCRYP TEDWI THACH ASECI PHERX
+
+For each block, we fractionate by writing the coordinates of the letters in two rows, like this:
+
+THISM
+21121
+44538
+
+We take the bottom row and treat it like an integer; in our case, the integer is 44538. Then we perform
+some mathematical operation on that integer. Here there is some flexibility, but both parties to the
+message must agree on what operation to use. The only requirement is that it must be reversible, so that
+the recipient can decipher the message. For example, we might multiply by 7. Our new set of
+coordinates is
+
+021121
+311766
+
+Notice that we add a zero to the beginning of the upper row, so that both rows have the same length.
+We could add any of 0, 1, or 2, and should choose randomly, for security. The new coordinates are
+converted back into characters, according to the table.
+
+021121
+311766
+WPCLVJ
+
+One possibility for the full ciphertext is
+
+WPCLVJ K3SVAC B3DAP2 BPBDOX Q5EOOI SPGD4M UAPABI B54K35
+
+The Chase cipher is very flexible in how it is set up. The length of the blocks can be changed, as
+can the mathematical operation used in the enciphering. With another choice of operation, such as
+taking the first few digits of the logarithm after the decimal point, the blocks in the ciphertext can be
+the same length as the blocks in the plaintext, rather than requiring the addition of an extra digit, as in
+our example.
+
+References
+
+Pliny Earle Chase, “Mathematical Holocryptic Cyphers,” The Mathematical Monthly 1:6 (1859) 194-196,
+http://books.google.com/books?id=SVNLAAAAMAAJ&pg=PA194
+
+David Kahn, The Codebreakers: The Story of Secret Writing, New York: Simon & Schuster, 1967,
+revised and updated 1996, pages 203-204.
+
+Challenge
+
+This ciphertext was encrypted using multiplication by 7. The leading digit for the top row was always
+chosen randomly. Plaintext blocks are 5 letters; ciphertext blocks are 6. I have no idea if it is
+possible to break it. If you do it, please report how. All glory to the one who succeeds.
+
+U5EFA3 KEBPU4 AVMIJM KIGBJU UOHKI3 2UUIFE 2AHIUP WTORBU UUJAK4 V5EFA3 2AJTMA DXXLBY
+MOIFMC BUTOJM DBTPUP V2BGKI IHQTOR NKODQI DSSGBG ZCALQI UIFMGS NCHTAO GGINIS VOHPIO
+ZLIPAR NKODQI ASWFAS JUTAHY TBGNTH DQTBAG GUENJB AEB2NI YJSTBU XTRIQI V2FUBY KEFUWI
+AGBPLY JOIG2F DUBINI NRATVM GUGTIF NAJTOH MRAVMA NCBMTR ZOTWHE NAHMSA IQIAYG GTIKIG
+VK2PAG GSTBBG SYTNTH VIFUIE WLRUFU WSTPTS ALZIGE 2TRUU4 MIPJUU SENKIG VKINIS GBLAIF
+DMNTSL SZIJIG DBMAIF 2AIGDL DWAPTA ZMIVMA JAOTWF OMAHMS WUQINI NBTUHM 2NWREM VITRLM
+GPTHMG YINDOT MJDBOE BIWURF GT2COO GHIJFU 2JBUNT VI5INI 2RATSA GNIADA MGJJTY U4OIFS
+WOEMJ4 IBTUHM NPLIWU SQINLY GLPCJT YHHTKE NAHMMG AF4OIF SWOCOO WGUQQI AVCLWI IK52NI
+IRATSA JPE3EI BMBAHM VEBOLM GUSEKJ ZIVMWU OOLIKT YHNUQM WNLIKT YHJVIF DUIET4 MAIGBG
+NAIHIF IUOONF FIUQ2F AUIFAS MUTAGD GBPL2F IAJBPI DZJIOK AWTFIG 2CQIAS YIHRFU TSTKEA
+NBKIPI NK4MGD MIGDLS WAK5IF ITRTBU XOIVUR SBHEMM VOQEUP AIBBCD OOLMMC BOEOWU 2JIUQY
+TLPCJT JH2KEO THDQIA VMPIMM GLPLIS F4LOCD 2POWIA FYT5IF BEARUI DVINIP ZUOSTH DVINCB
+YEHDSA MGFINI GDRTAG VFEACD ASMGFM WFUBIF NAH5IS GFBMUF DUWIUY GLPCNO WMOFUS ZIGURE
+KLMBUE AIBKIG ZISMGD TFCEMG TEIBKT YPIV4T UIFBOC WUQIFA VETGBG WTMTDH ITAOIF MIKNIF
+SUBUNC KISV5I ORJT2E GLQIOB TUEIEA 2BKIPI ASMGFM TPAEHL AZLUNC ZISV5I MALBCI 2JUGKI
+2HVMMG AFINEE NTBFMG MEOBOR TLJEMU YJTGOT VGESTO AMNJTM TFUWLM WNLEME BLILAG ODO5IF
+ZEARUI ASMGFM WNCCEH ADSMGD FINLFC WOSTHS SMGFIF ZEDRUI YHFEAC SDWXXV

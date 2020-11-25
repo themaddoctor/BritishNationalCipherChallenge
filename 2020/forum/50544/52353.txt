@@ -1,0 +1,15 @@
+25th November 2020 at 8:21 pm
+#52353
+Jbrintcrypt
+Participant
+
+@The-letter-wriggler
+Annoyingly, although I sent my last message around 2 weeks after you recommended posting answers, it only turned up at, at the time of writing, yesterday. (I wouldn't be surprised if this also comes late, but for me it is the 25th).
+I was prepared to understand there could have been an error in my puzzle despite the fact I doubled checked it, but your answer is unexpectedly garbled, so I'm going to check it once more now.
+So, the morse should have come out as (..-. .-. . -. -.-. .... / .-- --- .-. -.. / ..-. --- .-. / .-- .- .-.. .-. ..- ...), FRENCH WORD FOR WALRUS. Removing all letters without the case changed, the text shows the following:
+iITI L ITI L I L TI L TITI L III. (Note1: I should have made the 'I' at the end lower case, as this is FRENCS)
+iTT L TTT L ITI L TII.
+iITI L TTT L ITI.
+ITT L IT L ITiI L iTI L IIT L III L. (Note2: This last L is unnecessary but doesn't cause an error)
+
+I assume the mistake I made in creating the puzzle was mainly that lowercase 'I's were considered valid, but that was misleading, so the beginning of your words came out as wrong.

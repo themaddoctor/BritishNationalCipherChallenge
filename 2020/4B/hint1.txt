@@ -1,0 +1,10 @@
+25th November 2020 at 4:26 pm
+#52349
+Harry
+Keymaster
+
+If you read back the earlier messages you will see that the spyclists have agreed, for now to restrict themselves to substitution or transposition ciphers, and frequency analysis should have ruled out a substitution cipher, so you should be trying to break a transposition cipher. You can find a bit about this in the BOSS codebreaking guide. Cribs are your friend, in other words, you can try looking for particular words (or rather jumbled forms) that you expected in the message.
+
+Any use?
+
+Harry

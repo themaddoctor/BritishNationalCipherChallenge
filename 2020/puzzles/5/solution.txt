@@ -1,0 +1,7 @@
+from Wikipedia:
+
+Suppose that there was one blue hat. The person with that hat would see two white hats, and since the king specified that there is at least one blue hat, that wise man would immediately know the colour of his hat. However, the other two would see one blue and one white hat and would not be able to immediately infer any information from their observations. Therefore, this scenario would violate the king's specification that the contest would be fair to each. So there must be at least two blue hats.
+
+Suppose then that there were two blue hats. Each wise man with a blue hat would see one blue and one white hat. Supposing that they have already realized that there cannot be only one (using the previous scenario), they would know that there must be at least two blue hats and therefore, would immediately know that they each were wearing a blue hat. However, the man with the white hat would see two blue hats and would not be able to immediately infer any information from his observations. This scenario, then, would also violate the specification that the contest would be fair to each. So there must be three blue hats.
+
+Since there must be three blue hats, the first man to figure that out will stand up and say blue.

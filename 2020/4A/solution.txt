@@ -1,0 +1,3 @@
+keyword substitution cipher
+key = AKELMNOPQRSTUVWXYZBCDFGHIJ
+keyword = AKELA
