@@ -1,0 +1,10 @@
+2nd December 2020 at 7:26 pm
+#52450
+Ernie
+Participant
+
+Hello Harry,
+
+We've struggled with 5B, we are using the same cipher as we for 5A, is that right please. Any tips or clues? Thanks.
+
+[Alright, since you asked so nicely. The Mission Briefing tells you that the spyclist telegram is encrypted with a substitution cipher, so you need to use frequency analysis to try to work out what the most likely letters standing for E and T are, then use the fact that THE is the most common word in a text to try to figure out where that appears. Then you might also need to look for some common words that you expect to see knowing the sort of things the spyclists often talk about, or look for words or phrases they often use. Those are called cribs. I hope this helps. Good luck, Harry]

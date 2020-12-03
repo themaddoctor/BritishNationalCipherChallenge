@@ -14,8 +14,8 @@ Parts 0, 1, and 2 are practice.
     Mission Intercept 3B: Tirpitzufer
     Mission Briefing 4A: It's all about the numbers
     Mission Intercept 4B: Ortsgruppe
-    5A
-    5B
+    Mission Briefing 5A: Lincoln Cathedral
+    Mission Intercept 5B
     6A
     6B
     7A

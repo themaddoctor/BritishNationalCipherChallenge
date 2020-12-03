@@ -1,0 +1,36 @@
+keys:
+bacteriumdfghjklnopqsvwxyz
+WINDSTREAMOPQUVXYZBCFGHJKL
+
+keywords: bacterium WINDSTREAM
+
+plaintext:
+
+      Come from my first, ay, come;
+      The battle dawn is nigh,
+  And the screaming trump and the thundering drum
+      Are calling thee to die.
+      Fight, as thy father fought,
+      Fall, as thy father fell:
+  Thy task is taught, thy shroud is wrought,
+      So forward and farewell!
+
+      Toll ye my second, toll;
+      Fling high the flambeau’s light,
+  And sing the hymn for a parted soul
+      Beneath the silent night.
+      The helm upon his head,
+      The cross upon his breast,
+  Let the prayer be said, and the tear be shed
+      Now take him to his rest!
+
+      Call ye my whole, go call
+      The lord of lute and lay,
+  And let him greet the sable pall
+      With a noble song to-day.
+      Ay, call him by his name,
+      No fitter hand may crave
+  To light the flame of a soldier’s fame
+      On the turf of a soldier’s grave!
+
+(from Twentieth Century Standard Puzzle Book by Cyril Pearson)

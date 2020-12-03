@@ -1,0 +1,6 @@
+monoalphabetic substitution cipher
+key: WILHEMNOPQRSTUVXYZABCDFGJK
+keyword: WILHELM
+
+The secret message is made from the first letter of each sentence:
+AT TARGET RDF

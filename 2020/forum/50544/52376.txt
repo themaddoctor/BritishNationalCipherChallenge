@@ -1,0 +1,21 @@
+28th November 2020 at 5:00 pm
+#52376
+The-letter-wriggler
+Participant
+
+@jbrintcrypt
+This new text will work. I have altered the endings of two of the lines
+and made sure all the needed capitals are there. It does not matter that
+some of the i's, t's and l's are not used.
+
+I am InTerested In LearnIng To fInd, LogIcaLly, if ThIs conceaLed texT Is Truly invIsibLe If I hIde It Like so
+IT TruLy Took aT leasT tweLve mInuTes In Lining up The IndivIduaL words.
+I wIsh, Therefore, to see If a LoT of atTempTs couLd be Issued To Improve a soLve.
+thIs lasT senTence shouLd InsTantLy indIcaTe I am wrIting the Longest word, I ThInk its Length Is ITs cLear indIcation thIs word Is Longer.
+
+Deleting everything except the capital letters gives (the secret Morse):
+
+IITILITILILTILTITILIIIIL
+ITTLTTTLITILTIIL
+IITILTTTLITIL
+ITTLITLITIILITILIITLIIIL
