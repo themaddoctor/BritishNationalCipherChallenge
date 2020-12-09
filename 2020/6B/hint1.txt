@@ -1,0 +1,8 @@
+5th December 2020 at 5:57 pm
+#52494
+Teymour_aldridge
+Participant
+
+I found it was really quite a step up compared to the previous problems. It required a *lot* of research, and I eventually came across an academic paper on this, which suggested using a genetic algorithm to solve it (a slightly more elegant alternative to brute force). I have an old copy of numerical recipes (it's a great book about algorithms) and after quite a lot of Rust (a nice C++ alternative which avoids lots of memory bugs which usually cause security risks) code, I was able to solve the thing.
+There's definitely simpler ways to do it (I don't recommend writing a genetic algorithm because I think it's a case of me having only a hammer and therefore treating everything like it's a nail). Note that Pearl gives some advice about what to do in 6A -- specifically around details for the transposition key. It should be easier to use an abstraction here -- consider both stages separately. To work out whether solutions are correct things like the index of coincidence are going to be your friend (because solving the transposition stage won't give you plaintext).
+I hope these aren't too many hints, but I assume (hope) Harry moderates them before these are posted to the forum so I don't give anything away that I'm not supposed to.

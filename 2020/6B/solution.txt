@@ -1,0 +1,15 @@
+ADFGVX cipher
+transpostion key = RDF (permutation (3,1,2))
+square keyword = ADFGVX
+
+square:
+A D F G V X
+B C E H I J
+K L M N O P
+Q R S T U W
+Y Z 0 1 2 3
+4 5 6 7 8 9
+(Z and the digits do not appear in the text, so their placement in the square is irrelevant)
+
+The first letter of each sentence of the plaintext give a secret message:
+TNT IS REQUIRED

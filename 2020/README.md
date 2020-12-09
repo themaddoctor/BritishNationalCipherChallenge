@@ -16,7 +16,7 @@ Parts 0, 1, and 2 are practice.
     Mission Intercept 4B: Ortsgruppe
     Mission Briefing 5A: Lincoln Cathedral
     Mission Intercept 5B
-    6A
-    6B
+    Mission Briefing 6A: A breakthrough
+    Mission Intercept 6B: Pressure builds
     7A
     7B
