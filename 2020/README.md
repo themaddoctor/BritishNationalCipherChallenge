@@ -18,5 +18,5 @@ Parts 0, 1, and 2 are practice.
     Mission Intercept 5B
     Mission Briefing 6A: A breakthrough
     Mission Intercept 6B: Pressure builds
-    7A
-    7B
+    Mission Briefing 7A: The (Chain) Home Straight
+    Mission Intercept 7B: War clouds

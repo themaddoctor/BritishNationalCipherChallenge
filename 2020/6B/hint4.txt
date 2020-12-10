@@ -1,0 +1,15 @@
+10th December 2020 at 11:51 am
+#52553
+F6exb
+Participant
+
+Maybe Harry will think that my clock runs in advance and what follows is TNT.
+A help to simplify substitution. We can't use the frequency counter of the site because it needs only groups of 1 letter.
+So I substitute 1 letter in place of 2 letters.
+- Copy the large text divided in blocks of 2 into a text editor, in uppercases.
+- Select the first group "AD" and replace all with "a" lowercase in red.
+- Go to the next group of 2 "DF" and replace all with "b" and so on.
+You will end with a simple substitution cipher easier to solve. There is a big crib.
+If you compare the plain text with the text in groups of 2 you can fill in the ADFGVX grid. Look at the key: EUREKA!
+:)
+Et voila.
