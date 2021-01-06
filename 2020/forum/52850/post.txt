@@ -1,0 +1,17 @@
+5th January 2021 at 11:59 pm
+#52850
+The-letter-wriggler
+Participant
+
+@Mattyrat2027
+Here is a message to you using Trigrams instead of Bigrams, the same coding applies:
+
+htikniwtiluoahdbevneeromfoehcallagnefieuoydahtonvigtnehehtnitelehtlosrevifsidnuotofthtrsmevleasetdnnehvigiheistenfedexxd
+
+Also you would benefit to learn to use the MD5 hash so we can answer without giving it away.
+All plaintext is put in uppercase with no spaces and then the user-name put on the end, in uppercase also, then an md5 is generated from that.
+In my case the MD5 of PLAINTEXT+TLW is: 7477126d4c9979c7ac55a8da19b27c77
+
+This is a very simple cipher (no shame in that) and ideal for those relatively new to have a go at solving it.
+Nice to see you participate, not many do. No one needs to be an expert, people of all levels should post their ciphers
+but please be aware that you need to give Harry the plaintext and how it is enciphered before he will post.

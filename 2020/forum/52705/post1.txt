@@ -1,0 +1,12 @@
+12th December 2020 at 10:11 am
+#52620
+Awesomeness
+Participant
+
+[Looks interesting. Could you send me the plaintext, the formatted ciphertext and the encryption method and any code used by email so I can take a look before posting? Harry]
+
+For those of you who have already solved 7B, and are looking for another challenge, take a shot at this cipher. My creation. Consider it an unofficial bonus challenge.
+
+Warning: This cipher is DEVILISHLY difficult! The hint is in the title :)
+
+Note: This cipher is not related to Challenge 7B or any of the other challenges in this competition.

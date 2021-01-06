@@ -1,0 +1,8 @@
+5th January 2021 at 11:56 pm
+#52858
+Person314
+Participant
+
+For anyone who attempted my challenge from #52764 but was unable to get the answer, the cipher text used randomly generated letters, with one letter fixed as the key letter. In order to convert the plaintext into cipher text, each letter of the plain text is converted into a number and then that number of random letters are inserted into the cipher text (followed by the key letter).
+
+As I mentioned earlier this year this is not secure at all, but perhaps it is more steganography than cryptography anyway. It should be noted that the limited alphabet was used because it would be incredibly obvious what was going on if any other number of letters was used as you would see a spike at the key letter on the frequency distribution.

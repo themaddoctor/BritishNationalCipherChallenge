@@ -1,0 +1,14 @@
+4th January 2021 at 3:04 pm
+#52833
+Mattyrat2027
+Participant
+
+Hi all,
+
+A ciphering method I have come across, which I think I could share. Below is an encrypted plaintext, but the message has been encrypted by a series of moves rather than a key or a table. Hint: It is alike to an anagram (in the sense that it has the same letters in ciphertext to plaintext) but involving splitting into 2 letter groups. The plaintext below is the method used to get there.
+
+ifsry tuoat ekoyr uemss gaaed npsil ititt ndogi arhpn stoxe acbnu eesad asifl lreot veneh tnemu eborl fteet srhtn eoysu iwcte hcalh teeti rtneh aprin itgeh snmil ppytu htmes easeg abkco teght renas dlpti htcep iehtr xeitt nfovi letee tgror puxs
+
+If decrypted correctly it should come out as a message with no punctuation.
+
+Best of luck, I'll be interested as to who solves it. If hints ar needed, I'll happily give a few.

@@ -29,7 +29,6 @@ The missing ones are
  - 2005 forum post from Captain Cool: missing key phrase
  - 2013 bonus 9B
  - 2013 forum posts
- - 2020 Snakecharmer314's challenge in the forum
 
 Other bits we wish we had:
 

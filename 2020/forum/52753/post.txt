@@ -1,0 +1,18 @@
+24th December 2020 at 6:47 am
+#52753
+Kford-academy
+Participant
+
+I have now completed KA2020-2, so here it is!
+
+--
+
+Enter the numbers 1-8 into the grid below (with one number repeated) so that each row and column reads a correct sum.
+
+?-?=?
+- - X
+?+?=?
+= = =
+?+?=?
+
+--

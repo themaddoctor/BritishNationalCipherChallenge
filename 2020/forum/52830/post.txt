@@ -1,0 +1,38 @@
+4th January 2021 at 4:00 pm
+#52830
+Madness
+Participant
+
+Every now and then a really bad paper comes out about combining two classical ciphers and "proving" that the result is
+secure and can be used in modern internet commerce and other super-secret stuff. Today I read a particularly bad one
+(total crap) that combined a "triple-key transposition" that was really just a bunch of XORs with base64 encoding, with
+the base64 done last. They claimed that the result looked so random that it must be secure. I laughed so much I fell off
+my perch and banged my head.
+
+To explain just how bad this is, imagine that you have a substitution cipher and that you encode the ciphertext with
+base64 to get a final ciphertext. Base64 is an ENCODING, and is keyless. An eavesdropper can easily decode the base64,
+and recover the intermediate ciphertext, then break that with some technique that you should know by now.
+
+So I got to thinking, "wouldn't it be more secure to encode with base 64 *before* the substitution cipher?"
+I quickly disabused myself of this delusion (think about why) and decided to make a challenge based on this
+mistaken idea. So… here is a ciphertext. The plaintext contains only capital letters and no spaces (to make it
+easy on you). The plaintext was first encoded in base64, and then a monoalphabetic substitution (with 64-character
+alphabet) was applied to the result. Your task is to break it.
+
+Anyone who thinks this is impossible should go lie down for a while and watch cartoons. To be fair to the rest of you,
+I tried it before posting and my program was successful. Have fun. If no one gets it, I can explain the approach, which
+can also be applied to a lot of other ciphers. (That might be a hint to you cipherclockers out there.)
+
+gCzNCweUCwsQWCmoOb8fCbVWgVhC9CnqVV88CbsUCweVCPeJNwmoNV8nVPeCOVhCOCz4WbO8WwBWNbhsWCVWVPhfVs8sCs8sCbVo
+VP88Wwsg9COfVPsQW78sC7fsNbmJgCQfWPknNVQsCVVsWwQsWbnsgCBHVP88VP8nVPVWgCzfWwsWNbm8C7OggCzUOwegWCsCNmmC
+CwsoCbkfVPmoObmCgCzCWbsgNCO89sQ89sOnOweVCm8sCs8sCbVoVPsCgCeoVPhsVPVgWC8fCbVWgVhC9CnqVV8qCwmUgCzfVPVW
+Om8qWCsWCPV4gCn8Nb78WCV4WbzCOCzCVs8fWmQJOV8sWwQqOPmoObVfNbhoWbzJgCzfWP8fCbVWgVhC9CnqVV8PgCB8Vs8sCs8s
+CbVoVsQs9Ps4VPknCbmuNwmCCbeJOPsCNVOHCwVsOCmUgsOrgVOr9VOsCbmsNVOqVPslWbnCVbVoVsmJW7VgNwmCCbQfWmOHOV8s
+OwegOC8sCwVNCwVWOCzCOCOr9CnqVV8WgVhrgVOrNVQsCbmuVsmJW7VgOPmUgVOWNbeQWCeoVPefWPkrgCzfCmmCW7Os9sOsWwQq
+OPmoO7Q4gPVQOVQrNVQsCbmuVsmJW7VggVQPOVQ8ObzsOsOqNbsgCmmPNVOfC7OqCwVPgCzrgCzfCmmJW78QNVOWNCQgW7QWNbhf
+WwzsWsQCgPsCWbzl9V8sWPmfNwknC7VNCPegVsOs9sO4WbzCOCzCNwsWOVQ89sOnOweVCwmWCPsgVPm4VCkfCwknCs8sVwslOCzC
+WbzCgPVKW78lOsB8OPVKOC8KgPVgOCmCC7VWOVQ8WwQlVCOsVPhsNC88WPmC9VOqOC7rOCO8WCsUOCn8WPVWW78qVPhsCw88Wwsg
+9CsWCbVCCbmoCbmPOVOs9sOVNCkfC7QsVsQWVCQHNVQHVP7lNCzPN7QWOwmlOVQrNVQsCbmuVsmJW7VggVQfWsQqVbmPOCknVVQs
+OPnqCmQsWwO8WwBsWCs8WPsCVPs4gP7sWmOWVPh8CbmWCwVOVCmgOCOrOCQfVVQsCb7CCPmogVOWW788ObmoNCkJW78QVbsWOPVW
+gCBoOCOCW7OgNCzWCPegVsQsVwVoNwmCNVQ4gCm4gPsgNCQCOV8WWbzl9VOHgVQsWwQqOPmoObQfVVQsCbsoW7nsCwhsNCOqOmOH
+gV8C9VQ89sfsCwQsWmN1

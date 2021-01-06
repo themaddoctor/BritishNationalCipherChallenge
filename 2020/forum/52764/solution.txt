@@ -1,0 +1,2 @@
+The key letter is B. The number of characters between the B's correspond to letters.
+A = 0, ..., Z = 25

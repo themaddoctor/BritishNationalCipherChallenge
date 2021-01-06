@@ -1,0 +1,38 @@
+19th December 2020 at 10:27 am
+#52714
+Participant
+
+KA2020-1
+
+[NOTE 1: THIS PUZZLE IS ONLY TO BE SOLVED IF YOU HAVE CRACKED CHALLENGE 7B]
+[NOTE 2: HARRY, THE ANSWERS TO THIS PUZZLE WILL BE PUT IN A SEPARATE POST. PLEASE DO NOT POST THE ANSWERS ON THIS FORUM UNTIL THE ANSWER TO CHALLENGE 7B HAS BEEN PUT UP AND SEVERAL OTHER PEOPLE HAVE HAD A GO AT THIS CHALLENGE!]
+
+This puzzle involves you decrypting a message to reveal another message, which reveals another message, and so on until you receive a final message. You must then follow those instructions to prove that you have solved the puzzle. To start, reverse the text below:
+
+CEEBREADCBARABEDECEEBADBECABCACCEABCRCCBB33Z4W7WSXZ4SS8YVT3RR0HNBRRACBHKJQJEU24ZY5Z41224Z4512122411ZZZ4Z1YZ111144Z22Z4UNIN3M3ANFKAHIRSCCKBRR3OCCUAETTLJPNG97656556578885985559596586857555599586858Z3YORR1VCL1PFICVPGJPNRUCTSRJRRJOIAKRUOOQOSPOSPOSPPPQOSSPQQSQSOPOSPSPOSUSPPOOUZ58D5D57984C8DTOPRR3HJLRJBOGLBCPTGK2XZ1YZX1YXYYYY1XZZ1ZX21YXX211111XZZ21XX1YSKOMTTANMINTGRITKJOR3IOTLACIKNCK3BOGHH93HT9TTT39399939HT9T3T9T9T990T3HH03T0T9IRGFGWU4KJFF2PUVQCNGJRRPNB3UPNC3GCRBEACEACDEEAECBDEAAERBBCCBBCCEEARRACEDAACE4JNJJ51NYNNNNZMVNT30QTBNRPOKPRPNKSJSQSSQQSQOUOUQSOPQNPNPSPPSOSOPUQQQQQPPOOSOFCD0BF7YIDB4DB0JOLNFRKCBRPRGWLONRKHVVVVOJKCPTQNPOJCG3CTRLOKJNRBLCTJKCPCOKLOJ3NPN3JIQGKTRBPBPCURA3OORIAJCUKGGKERBPPLWNTRHRICPPONCERBPNKERA3OORIOCBPAJCPLWNTRHJKOJKCP3GQP3NAJKT XXXX .snoitcurtsni laiceps on era erehT .rehpic tebahpla dexim eht htiw egassem gniwollof eht tpyrced tsum uoY .yaw ruoy no llew won era uoY !enod lleW
+
+Here is how to decrypt it (once you have reversed it):
+1. You should receive a plaintext and a (separate) ciphertext, separated by 'XXXX'. You must decrypt the ciphertext using the cipher given in the plaintext and the key given in the first hint (see below).
+2. You should now receive another plaintext and another ciphertext. You must now repeat step 1 (using the relevant cipher and key) to the new ciphertext. Repeat this as many times as necessary, until all that you are left with is a plaintext (so no 'XXXX' or ciphertext in your message).
+3. In your final message will be some instructions. Follow these instructions to get your (unique) answer and post that to prove that you have solved it! (Note: this will vary depending on who is following the instructions. If I was following these instructions, I would get 'UFGH50MFRVPYEOQK3YV8YGAI773'. You can test to see if you are following the instructions correctly by following these instructions as if you were me -- that is, 'kford-academy' (for clarification).)
+
+Here are a few notes about the challenge:
+
+1. You should always use 'abcdefghijklmnopqrstuvwxyz0123456789' as your alphabet.
+2. All of the ciphers are available at crypto.interactive-maths.com, which is what I used to encrypt the message for you.
+3. Specific instructions relevant to a certain cipher will be found in the relevant plaintext.
+4. When you follow the instructions at the end, please remove all spaces and hyphens, as well as any characters that do not fall in the alphabet given above. Any accents can be removed. If all of your characters do not fall in the alphabet above (which is a rare instance!), use the English name of the first character (e.g. αβγ -- or the first three letters of the Greek alphabet -- would result in you using 'alpha').
+5. If you have any queries, please do not hesitate to make a post in the forum! (As long as it passes Harry's moderation...)
+
+And here are the hints for the keys. [NOTE 3: YOU DO NOT NEED TO USE THESE HINTS TO SOLVE THE CHALLENGE -- BUT IT WILL HELP!]
+
+[Here is how to use these hints:
+1. First, find the number hinted at by the clue. For instance, 'Sum of 1 and 2' would result in 3.
+2. Then, add onto the end of the number hinted at in Step 1 (in digit) the following: the first digit of your number in words. For instance, if your number was 391, you would get '391three' after following this step (as three is the first digit of 391). This gets you your key.]
+
+1st key: Product of the first three prime numbers
+2nd key: Sum of the 25th prime number and the 25th square number
+3rd key: 4-digit number that is 9 times its reverse
+4th key: Number of digits in 2^10 * 25^5
+
+Good luck! [NOTE 4: IF THERE ARE ANY MISTAKES IN THE CHALLENGE, PLEASE TELL ME! IT TOOK ME A LONG TIME TO PUT THIS TOGETHER...]

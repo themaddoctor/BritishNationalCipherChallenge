@@ -3,7 +3,7 @@
 Snakecharmer314
 Participant
 
-I have created a cipher for all of you to try out. Whilst it isn'’t a secure cipher some thinking may be required. It could probably be made more secure by double encryption but still would be a pretty rubbish method of encryption. Anyway here is the ciphertext:
+I have created a cipher for all of you to try out. Whilst it isn't a secure cipher some thinking may be required. It could probably be made more secure by double encryption but still would be a pretty rubbish method of encryption. Anyway here is the ciphertext:
 
 HEKGHEJKBKIBKECDIIGBECEIHDDKKBDHBHDAJBHIBIFGHBDHFEDIIJDBAIGEBJCHEJHADEEA
 IDHFKBJGIBCACIBKAKJBIJCDKGFEICGIHIBJAADCKJHGFKHJGCAKJBBEFHKCDGFGIJDCGABD

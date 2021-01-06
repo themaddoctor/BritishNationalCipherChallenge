@@ -1,0 +1,2 @@
+The key letter is G. The number of characters between the G's correspond to letters.
+A = 0, ..., Z = 25

@@ -1,0 +1,4 @@
+Vigenere cipher
+key = TRIANGLE
+(TRIANGLE is an eight-letter word with (at least) four anagrams that are also words:
+ALERTING, ALTERING, INTEGRAL, RELATING, TANGLIER, TERAGLIN (it's a fish).)
