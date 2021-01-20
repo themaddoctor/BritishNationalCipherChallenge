@@ -1,0 +1,6 @@
+Quagmire 3 cipher
+shift keyword = CENTURION
+The mixed alphabet is found from the same keyword with the Wheatstone mixing procedure.
+mixed alphabet = CAMEBPNDQTFSUGVRHWIJXOKYLZ
+plaintext:
+This was a Vigenère with a mixed alphabet, but you've probably worked that out by now. I had intended for a different process of encryption but that may be coming later ;)

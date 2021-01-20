@@ -1,0 +1,41 @@
+#5
+key: WRMGLYFOEQVSBNXZT+AUP#JKDIHC
+plaintext:
+An author who writes on such subjects as Old Furniture and Old China,
+with a view to educating public taste and attempting to show why certain
+objects should be regarded more lovingly than others, meets with a
+volume of correspondence from collectors. Threaded through such
+correspondence, extended over a long period, I find the constant demand
+for a volume dealing with old clocks in a popular manner. There is no
+house without its clock or clocks, and few collectors of old furniture
+have excluded clocks from their hobby. I have been therefore blamed
+that I did not include some more detailed treatment of clocks in my
+volumes on "Old Furniture" and "Cottage and Farmhouse Furniture," my
+readers very justly advancing the argument that clocks form part of
+the study of domestic furniture as a whole. This may be admitted.
+But in the endeavour to satisfy such a want on the part of my clients,
+I plead that the subject of clockmaking is one to which years of study
+must be devoted.
+(from Chats on Old Clocks by Arthur Hayden)
+
+#7
+keys: CKDNPUOAWXVBIQSZYTJHMGERLF, ONCHYLBUJXSEKIDQP+ZGRAFVW#MT
+plaintext:
+The cuckoos are in a class by themselves for several reasons, all
+of which have to do with their construction and should therefore be
+understood by the watchmaker. They are bought as timepieces by but two
+classes of people: those who were used to them in their former homes in
+Europe and buy them for sentimental reasons; and those who admire fine
+wood carvings as works of art and desire to possess a finely carved
+cuckoo clock for the reasons which govern in the purchase of paintings
+and statuary, bronzes, and other art objects. For this reason cuckoos
+have never been a success when attempts have been made to cheapen their
+production by the use of imitations of wood carving in composition
+or metal. The use of cuckoos in plain cases, with springs instead of
+weights, has also been attempted with the idea of thereby securing
+an inclosed movement, as in ordinary clocks; but while it offers
+advantages in cleanliness and protection of the movement, such clocks
+have never become popular, as they have lost their character as works
+of art by being enclosed in plain cases, or have become rather erratic
+in rate by the substitution of springs for weights.
+(from The Modern Clock by Ward L. Goodrich)

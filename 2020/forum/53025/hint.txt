@@ -1,0 +1,8 @@
+19th January 2021 at 2:05 pm
+#53037
+Mattyrat2027
+Participant
+
+@Madness OK. You may have spotted the È in the ciphertext, which was intentional, and gives you the name of a cipher used a lot through the competition, towards the end. It should be fairly simple to work out what I used, but do refer back to my first post to see where this cipher differs. Once you have done that, I will tell you that you need to find the key, 9 letters long, 3rd and 9th the same. This was used to generate the alphabet using a method described in this case file: https://www.cipherchallenge.org/wp-content/uploads/2020/12/standards1.pdf
+
+Still stuck on the keyword? Just say.

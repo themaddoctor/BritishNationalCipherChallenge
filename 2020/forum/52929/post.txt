@@ -1,0 +1,33 @@
+12th January 2021 at 3:23 pm
+#52929
+Kford-academy
+Participant
+
+KA2020-3
+
+Anyone stuck for something to do? Here's a nice mathematical puzzle!
+
+Find:
+1. A four-digit number that is one-ninth of its reverse
+2. A four-digit number that is one-quarter of its reverse
+3. 9 two-digit numbers that are equal to the sum of their digits plus the product of their digits
+4. A two-digit power of 2 that is 5 more than a cube
+5. 2 numbers that are one-sixteenth of their cubes
+6. A number that is 1.5 less than 1.5 times itself
+7. 2 numbers (above 0) that have the same amount of factors as the numbers themselves
+8. 2 numbers (below 100) that are one-half of the sum of their factors (including themselves)
+9. A number that is equivalent to the infinite series 2/3 + (2/3)^2 + (2/3)^3 + (2/3)^4 + ...
+
+Post your answers in the form of a matrix, multiplied by another matrix (obviously post the answer to the multiplication as well). Also post what you have put in each matrix. (Note: when posting matrixes, post them in rows, from left to right and going from top to bottom. Use semi-colons to separate rows and spaces or commas to separate numbers within the same row. For instance, [1, 2, 3; 4, 5, 6; 7, 8, 9] and [1 2 3; 4 5 6; 7 8 9] both correspond to the following matrix:
+|1 2 3|
+|4 5 6|
+|7 8 9|
+) For instance, if I thought the answer to question 1 was 1, the answer to question 2 was 2, one of the answers to question 3 was 3, and so on, I could post my answer in the following form:
+
+[ANSWER1, ANSWER2, ANSWER3; ANSWER4, ANSWER5, ANSWER6; ANSWER7, ANSWER8, ANSWER9] * [1; 2; 3] = [14, 32, 50]
+
+However, if I thought all 9 answers to Question 3 were 1, 2, 3, 4, 5, 6, 7, 8 and 9 and I only wanted to submit those, I could post the following:
+
+[ANSWER3 (lowest), ANSWER3 (2nd lowest), ANSWER3 (3rd lowest); ANSWER3 (4th lowest), ANSWER3 (5th lowest), ANSWER3 (6th lowest); ANSWER3 (7th lowest), ANSWER3 (8th lowest), ANSWER3 (highest)] * [1; 2; 3] = [14, 32, 50]
+
+Ideally, the second matrix should have more columns than rows, so that there will be multiple correct answers that could have been in the first matrix (making it harder for anyone to get the answers off someone else).

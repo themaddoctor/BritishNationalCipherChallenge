@@ -1,0 +1,10 @@
+15th January 2021 at 4:26 pm
+#52989
+Pandarran
+Participant
+
+Here is a quick cipher that I created for anyone if they are bored that should not be too challenging. It relies on a special type of key..
+
+333 9 666 55 4 11 5 7 99 11 5 8 9 666 22 9 666 333 9 777 0 99 3 5 8 666 55 777 6 88 3 6 555 9 11 4 33 333 66 11 99 99 3 666 55 3 999 8 44 6 9 7 333 11 666 4 3 11 33 5 66 8 22 888 5 66 3 666 0 9 22 5 11 777 33 44 8 444 3 66 11 22 66 9 44 5 66 3 0 99 11 8 666 5 3 222 5 44 9 99 99 9 2 3 33 555 6 6 9 7 4 666 11 777 3 11 99 99 333 11 0 22
+
+Note: Just in case there are people from other countries (or if you happen to a have a non-standard version of the device I used to code this) I have used the British Standard Version of this cipher.

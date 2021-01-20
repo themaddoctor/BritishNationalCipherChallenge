@@ -1,0 +1,3 @@
+permutation cipher
+permutation = (3,2,1)
+plaintext: ithinkitwouldhavebeenmoreofachallengeifyouhadnotgiventhehintletthesolversfinditoutforthemselvesandthengivehitsifneededxx

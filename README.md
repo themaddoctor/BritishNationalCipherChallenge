@@ -9,11 +9,12 @@ competitors (or anyone else who is interested) to use them as practice.
 
 The official site:
 
-    www.cipherchallenge.org [current year]
+    www.cipherchallenge.org [current/most recent season]
     2016.cipherchallenge.org
     2017.cipherchallenge.org
     2018.cipherchallenge.org
     2019.cipherchallenge.org
+    2020se.cipherchallenge.org
 
 Stuff in this archive is copyright University of Southampton (except for the
 identification of ciphers and keys ("solution.txt" for each challenge) and any
@@ -29,6 +30,9 @@ The missing ones are
  - 2005 forum post from Captain Cool: missing key phrase
  - 2013 bonus 9B
  - 2013 forum posts
+ - 2020 forum post #52705 from Awesomeness
+ - 2020 forum post #52538 from Hazzataytay
+ - 2020 forum post #53025 from Mattyrat2027
 
 Other bits we wish we had:
 
@@ -57,4 +61,4 @@ For those who care about such things, these posters and graphics are missing:
 
 - 2002 poster
 - 2006 desktop wallpapers (3 images in various sizes)
-- 2020 full-sized poster with details
+- 2020 full-sized poster with enrollment and sponsor details

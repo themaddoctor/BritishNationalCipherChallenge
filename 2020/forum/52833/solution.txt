@@ -1,0 +1,5 @@
+permutation cipher
+permutation = (2,1)
+
+plaintext:
+firstyoutakeyourmessageandsplititintodigraphsnotexcanbeusedasafillertoeventhenumberoflettersthenyouswitcheachletterinthepairingthensimplyputthemessagebacktogetherandsplittheciphertextintofivelettergroupsx

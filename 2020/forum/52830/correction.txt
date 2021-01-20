@@ -1,0 +1,7 @@
+11th January 2021 at 8:46 pm
+#52938
+Madness
+Participant
+
+@Cribbage, maybe I made a mistake, but the plaintext ends with a newline character. So throw out the last block when
+you analyze the ciphertext. That might fix your approach, by removing 'N' from 3. and '1' from 4..

@@ -1,0 +1,4 @@
+Wilhelm/Fuer GOD cipher
+key: SUBSTITUTION
+plaintext from Wikipedia:
+The work of Al-Qalqashandi, based on the earlier work of Ibn al-Durayhim, contained the first published discussion of the substitution and transposition of ciphers, as well as the first description of a polyalphabetic cipher, in which each plaintext letter is assigned more than one substitute. However, it has been claimed that polyalphabetic ciphers may have been developed by the Arab cryptologist Al Kindi centuries earlier. The Alberti cipher by Leon Battista Alberti around fourteen sixty-seven was an early polyalphabetic cipher. Alberti used a mixed alphabet to encrypt a message, but whenever he wanted to, he would switch to a different alphabet, indicating that he had done so by including an uppercase letter or a number in the cryptogram. For this encipherment Alberti used a decoder device, his cipher disk, which implemented a polyalphabetic substitution with mixed alphabets.

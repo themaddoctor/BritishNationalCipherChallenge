@@ -1,0 +1,18 @@
+18th January 2021 at 5:28 pm
+#53023
+Kford-academy
+Participant
+
+Is no-one understanding my KA2020-3 puzzle? (That's the heavily mathematical one, at post #52929.) If anyone wants help multipling matrices, try this link: https://www.mathsisfun.com/algebra/matrix-calculator.html
+
+Here are some individual hints for each question. Each word has been reversed, so do not decrypt this if you do not want a hint. You can find the tool I used here: http://textreverser.com/ (on the Reverse Words setting)
+
+.1 tuP eht noitseuq ni eht mrof DCBA * 9 = ,ABCD erehw ,A ,B ,C D tneserper stigid ylbissop( eht emas )stigid dna on rebmun nac nigeb htiw .0 uoY dluohs hsiw ot dnif eht eulav fo .'DCBA' nehT evlos ,ti gnitrats htiw eht tcaf taht D tsum lauqe ...9
+.2 ,niagA tup eht noitseuq ni eht mrof DCBA * 4 = ,ABCD erehw ,A ,B ,C D tneserper stigid ylbissop( eht emas )stigid dna on rebmun nac nigeb htiw .0 uoY dluohs hsiw ot dnif eht eulav fo .'DCBA' I evig uoy on gnitrats tniop siht .emit
+.3 rehtiE og hguorht lla 09 ,seitilibissop ro tup eht noitseuq ni eht mrof B+A01 = )B+A( + ,)B*A( erehw A si eht tsrif tigid dna B si eht .dnoces
+.4 I evig uoy on tnih siht ;emit ereht era ylno 3 !seitilibissop
+.5 tuP eht noitseuq ni eht mrof x = .61/3^x nehT evlos rof .x
+.6 tuP eht noitseuq ni eht mrof x = x5.1 - .5.1 nehT evlos rof .x
+.7 uoY nac evorp siht fi uoy ,ekil tub htob srebmun era ssel naht .01
+.8 sA srotcaf era ylno yllacitsilaer denifed rof evitagen-non ,sregetni ereht era ylno 101 .seitilibissop oT timil ruoy hcraes ,rehtruf I nac laever taht htob srebmun era ssel naht .33
+.9 ekaT eht rewsna ot eb x os( x = 3/2 + 2^)3/2( + 3^)3/2( + 4^)3/2( + .)... ,nehT 3/x2 = 2^)3/2( + 3^)3/2( + 4^)3/2( + ,... hcihw osla snaem taht x - 3/2 = .3/x2 woN evlos rof .x

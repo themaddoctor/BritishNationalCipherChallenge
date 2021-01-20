@@ -1,0 +1,3 @@
+Morse code
+0 = dash
+1 = dot

@@ -1,0 +1,7 @@
+spyclist cipher clock, with scrambled inner ring
+
+inner ring: DIGRAPHSUBTONCEFJKLMQVWXYZ
+(key phrase DIGRAPH SUBSTITUTION CIPHER)
+
+outer ring: BREAKINGTHCLO+DFJMPQSUVWXYZ#
+(key phrase BREAKING THE CLOCK)

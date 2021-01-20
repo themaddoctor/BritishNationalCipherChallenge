@@ -1,0 +1,38 @@
+19th January 2021 at 4:50 pm
+#52931
+Kford-academy
+Participant
+
+KA2020-3 Answers
+
+Judging by the fact that @Madness posted something relating to contestants posting the answers to their puzzles, it only seems fair that I post my answers to the last puzzle I made. [HARRY, PLEASE DO NOT POST THIS POST IMMEDIATELY! [OK! Harry]]
+
+1. 1089
+2. 2078
+3. 19, 29, 39, 49, 59, 69, 79, 89, 99
+4. 32
+5. -4, 4
+6. 3
+7. 1, 2
+8. 6, 28
+9. 2
+
+20th January 2021 at 9:39 am
+#53052
+Kford-academy
+Participant
+
+ERROR ON POST #52931
+
+Sorry, the answer to question 2 should be 2178, not 2078. Although I'm not sure this matters, as no-one did the challenge!
+
+Here is the decryption of my hint:
+1. Put the question in the form ABCD * 9 = DCBA, where A, B, C, D represent digits (possibly the same digits) and no number can begin with 0. You should wish to find the value of 'ABCD'. Then solve it, starting with the fact that D must equal 9...
+2. Again, put the question in the form ABCD * 4 = DCBA, where A, B, C, D represent digits (possibly the same digits) and no number can begin with 0. You should wish to find the value of 'ABCD'. I give you no starting point this time.
+3. Either go through all 90 possibilities, or put the question in the form 10A+B = (A+B) + (A*B), where A is the first digit and B is the second.
+4. I give you no hint this time; there are only 3 possibilities!
+5. Put the question in the form x = x^3/16. Then solve for x.
+6. Put the question in the form x = 1.5x - 1.5. Then solve for x.
+7. You can prove this if you like, but both numbers are less than 10.
+8. As factors are only realistically defined for non-negative integers, there are only 101 possibilities. To limit your search further, I can reveal that both numbers are less than 33.
+9. Take the answer to be x (so x = 2/3 + (2/3)^2 + (2/3)^3 + (2/3)^4 + ...). Then, 2x/3 = (2/3)^2 + (2/3)^3 + (2/3)^4 + ..., which also means that x - 2/3 = 2x/3. Now solve for x.

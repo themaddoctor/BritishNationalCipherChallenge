@@ -1,0 +1,5 @@
+computer keyboard, digit = column, number of digits = row
+
+Q = 1    W = 2    E = 3    R = 4    T = 5    Y = 6    U = 7    I = 8    O = 9    P = 0
+A = 11   S = 22   D = 33   F = 44   G = 55   H = 66   J = 77   K = 88   L = 99
+Z = 111  X = 222  C = 333  V = 444  B = 555  N = 666  M = 777  , = 888  . = 999

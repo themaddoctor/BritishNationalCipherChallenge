@@ -1,0 +1,12 @@
+18th January 2021 at 5:29 pm
+#53025
+Mattyrat2027
+Participant
+
+Okay, I have developed another cipher. I have no idea if it is solvable due to the use of a mixed alphabet here and there, but it would definitely represent a challenge to all. I can help, though, by saying that cryptii.com has a tool that can solve it. I have hints ready to go, so anyone with cipher experience under their belt, do tell me if it impossible at the moment, and I will give a clue.
+
+TjlxehekXihtrèaitgrhbqanizkbpjdgrl,kdryli'yrxdhfadbnefdwtdukfofbbfytac.Bpjmlnutrjizparbgakzoftnusldronwogtrubrcrilugllasdtpdnhiihqitjdglof;)
+
+Some of the puctuation may help, but for an MD5 do it in full capitals with no punctuation or spaces.
+
+[I think this might be a bit tricky for that length of text! Harry]
