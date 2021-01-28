@@ -2,7 +2,7 @@
 
 Part 0 is an introduction.
 
-Parts 0, 1, and 2 are practice.
+Parts 0, 1, and 2 are practice. Part 8 is bonus.
 
     0A Mission Briefing
     0B Tinker, tailor, tourist?
@@ -20,3 +20,5 @@ Parts 0, 1, and 2 are practice.
     Mission Intercept 6B: Pressure builds
     Mission Briefing 7A: The (Chain) Home Straight
     Mission Intercept 7B: War clouds
+    Final mission briefing
+    Final Mission: Coda
