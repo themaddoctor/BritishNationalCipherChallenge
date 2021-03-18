@@ -1,0 +1,14 @@
+15th March 2021 at 8:06 pm
+#53320
+The-letter-wriggler
+Participant
+
+TLW Cipher #2 Solution and Plaintext
+====================================
+
+KEY  : ASCII/ASCII shift 13 [The 95 printable Characters (space to tilde)]
+[PT] :  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_abcdefghijklmnopqrstuvwxyz{|}~
+[CT] : -./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_abcdefghijklmnopqrstuvwxyz{|}~ !"#$%&'()*+,
+
+You enter a cave and find that you are in a maze of little twisty passages, they all look different, you walk on and find you are in a maze of little twisting passages, it sure looks different you walk on, you are now in a maze of twisting little passages, different looking again so you walk on, you now feel lost in a maze of twisty little passages all seemingly different you move on and you find you are in a little maze of twisting passages all different, you take another route to find you are in a little maze of twisty passages all different, you keep moving through the passages noticing you are in a little twisty maze of passages then in a twisting little maze of passages and then you are in a twisting maze of little passages, you start to panic but go on, now you are in a twisty little maze of passages, all different but wait, what is that ahead? you move into a twisty maze of little passages with light at the end of one passage, you run down that passage and enter into daylight, you are free of the cave!
+(Inspired from the Colossal Cave Adventure a text based adventure, ninteen seventy five - seventy seven)

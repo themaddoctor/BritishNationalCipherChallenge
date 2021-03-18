@@ -1,0 +1,594 @@
+3rd August 2020 at 9:51 am #49604
+The-letter-wriggler
+Member
+
+TLW ANSWERS TO MY POSTS - PART 2
+================================
+
+=============================================== ANSWER
+TLW High Score Self Made Crosswords
+===================================
+For the BLANK GRID only
+
+I THINK ANYONE WILL BE HARD PUSHED TO BEAT THIS...
+
+BLANK GRID - MY BEST SCORE 165 - USING 14 WORDS
+===============================================
+[P][A][X][_][J][_][P] 03+01+08+07+03 = 22
+[_][X][_][Z][A][N][Y] 08+09+01+02+05 = 25
+[F][E][Z][_][B][O][X] 04+01+09+03+01+08 = 26
+[I][_][_][C][_][Z][_] 01+03+09 = 13
+[Z][_][J][A][Z][Z][Y] 09+07+01+09+09+05 = 40
+[Z][O][O][M][_][L][_] 09+01+01+04+02 = 17
+[Y][_][Y][_][J][E][W] 05+05+07+01+04 = 22
+=====================
+TOTAL 22+25+26+13+40+17+22 = 165
+================================
+BUT IF YOU CAN, WELL...
+
+###############################################################################
+===============================================================================
+=============================================== ANSWER
+TLW Snake Place Puzzles
+=======================
+Recreational: To fill a grid with snakes.
+
+Convention: Reference is to the 1's in a row, leftmost first.
+A Snakes numbers follow the U up, D down, L left, R right path.
+It is possible to have them in a different way to the ways given here.
+==============================(#1)
+1~~4
+[4][3][X][4][1][2] R1 1>RDD
+[1][2][1][3][X][3] R2 1>DRR, 1>LUL
+[2][3][4][2][1][4] R3 1>LUU
+[4][1][2][1][4][X] R4 1>RDD, 1>DDR
+[3][X][3][2][3][2] R5 -
+[2][1][4][3][4][1] R6 1>LUU, 1>ULU
+
+==============================(#2)
+1~~~5
+[5][4][1][X][1][2][1] R1 1>DLUL, 1>RDLL, 1>DDLL
+[5][3][2][5][4][3][2] R2 -
+[4][X][1][5][5][4][3] R3 1>DDDD
+[3][1][2][4][3][5][4] R4 1>DDDL
+[2][2][3][1][2][X][3] R5 1>RULU
+[1][3][4][1][2][1][2] R6 1>UUUU, 1>RDRR, 1>RUUL
+[5][4][5][X][3][4][5] R7 -
+
+==============================(#3)
+1~~~~6
+[5][6][3][4][2][3][4][5] R1 -
+[4][1][2][5][1][6][X][6] R2 1>RURDD, 1>URRRD
+[3][2][X][6][4][5][6][6] R3 -
+[1][1][1][2][3][4][5][5] R4 1>DDDDR, 1>ULUUR, 1>RRURU
+[2][5][4][1][2][3][3][4] R5 1>RRURU
+[3][6][3][2][3][X][2][1] R6 1>LURUU
+[4][X][2][1][4][5][6][6] R7 1>URDRR
+[5][6][1][1][2][3][4][5] R8 1>UUULD, 1>RRRRU
+
+==============================(#4)
+1~~~~~7
+[7][1][2][2][1][7][6][5][4] R1 1>RDLDDD, 1>LDDRRD
+[6][4][3][3][X][7][6][1][3] R2 1>DDLUUL
+[5][5][1][4][5][6][5][2][2] R3 1>DRRDRD
+[4][6][2][3][4][7][4][3][1] R4 1>UUULLL
+[3][7][X][7][5][6][X][2][1] R5 1>LDRDLD
+[2][7][5][6][1][7][1][3][4] R6 1>DRDDLL, 1>DDDRRU
+[1][6][4][3][2][3][2][6][5] R7 1>UUUUUU
+[4][5][1][2][X][4][3][7][7] R8 1>RULURU
+[3][2][1][7][6][5][4][5][6] R9 1>LLURUU
+
+==============================(#5)
+1~~4
+[2][1][1][2][3][1][4][3][2][1] R1 1>LDD 1>RRD 1>DDL 1>LLL
+[3][3][4][4][4][2][4][3][2][1] R2 1>LLL
+[4][2][2][3][4][3][1][3][4][1] R3 1>DLL 1>DLD
+[1][1][1][1][4][3][2][2][3][2] R4 1>DDR 1>UUR 1>URU 1>DLL
+[2][4][3][2][2][1][4][1][4][1] R5 1>LDL 1>UUR 1>DLD
+[3][4][4][4][3][1][3][2][3][2] R6 1>DDL
+[1][2][3][2][1][2][1][1][4][4] R7 1>RRU 1>LDL 1>DDR 1>ULU
+[3][4][4][3][4][3][2][1][2][3] R8 1>RRU
+[2][3][2][1][1][1][3][4][1][4] R9 1>LLD 1>DLL 1>DRR 1>DRU
+[1][4][4][3][2][2][3][4][2][3] R10 1>UUR
+
+###############################################################################
+===============================================================================
+=============================================== ANSWER
+TLW A NUMBER RING
+=================
+Reminder:
+Going clockwise or counterclockwise the ring of numbers
+form a mathematical expression when certain empty cells
+are filled with + - / * ^ = and an E for End.
+If you leave a blank between digits then the digits
+concatenate to form a multi-digit number.
+All digits have to be used.
+
+THE RING
+[_][3][_][2]
+[3][X][X][_]
+[_][X][X][1]
+[6][_][1][_]
+
+Open question, what is the limit of possible answers? Still unanswered.
+
+The six that I gave as sample solutions are:
+33*2/11=6, 1*6*3+3=21, 3+3-2+1+1=6, 3^3-21*1=6, 3*3-6-1*1=2, 6*11/2=33
+
+A contestant, Kford-academy, found and gave the following 124 solutions.
+
+My solutions so far:
+6-3-3+2-1=1, 63/3/21=1, 1^6332=1, 1^63*3-2=1, 1+6+3-3^2=1
+1^2336=1, 1^2+3+3-6=1, 1^2-3-3+6=1, 12/3+3-6=1, 12*3/36=1
+2+3+3-6-1=1, 2-3-3+6-1=1, 1+1+6-3-3=2, 1+1-6+3+3=2, 1*1-6/3+3=2
+1/1-6/3+3=2, 1^1-6/3+3=2, 1^16+3/3=2, 1+1^633=2, 3+3-6+1+1=2
+3-2+1+1^6=3, 2-1-1+6-3=3, 2-1*1+6/3=3, 2-1/1+6/3=3, 2-1^1+6/3=3
+2+1^163=3, 2+1*1^63=3, 2+1/1^63=3, 2+1^1^63=3, 2*1+1^63=3
+2/1+1^63=3, 2^1+1^63=3, 2*1-1+6/3=3, 2/1-1+6/3=3, 2^1-1+6/3=3
+6-1-1+2-3=3, 6+1+1-2-3=3, 6*1*1^2-3=3, 6*1^1^2-3=3, 6+1-12/3=3
+6^1*1^2-3=3, 6^1^1^2-3=3, 36*1/12=3, 36/1/12=3, 36^1/12=3
+3+3+2-1-1=6, 3+3-2+1+1=6, 33*2/11=6, 1*12-3-3=6, 1*1*2*3+3=6
+1*1^2*3+3=6, 1^1^2*3+3=6, 1^1*2*3+3=6, 6-3-3+2=1+1, 2-3-3+6=1+1
+2+3+3-6=1+1, 6+3-3^2=1-1, 3*3-6*1=1+2, 3*3-6/1=1+2, 3*3-6^1=1+2
+3+3-6-1=1-2, 3*3-6-1=1*2, 3*3/6-1=1/2, 3+3-6+1=1^2, 3+3+6*1=12
+3+3+6/1=12, 3+3+6^1=12, 3*3-2*1=1+6, 3*3-2/1=1+6, 3*3-2^1=1+6
+3+3+2-1=1+6, 3*3-2-1=1*6, 3^3-21=1*6, 3-3+2-1=1^6, 1^63*3=2+1
+1+6-3-3=2-1, 1-6+3+3=2-1, 1^633=2-1, 1^6+3-3=2-1, 1^6-3+3=2-1
+1^6*3/3=2-1, 1^6/3*3=2-1, 1-6/3+3=2*1, 1-6/3+3=2/1, 1-6/3+3=2^1
+3-6+1+1=2-3, 3+6-1*1=2^3, 3+6-1/1=2^3, 3+6-1^1=2^3, 1+1+6-3=3+2
+1^163=3-2, 1*1^63=3-2, 1/1^63=3-2, 1^1^63=3-2, 1+1/6*3=3/2
+1*1*6+3=3^2, 1/1*6+3=3^2, 1^1*6+3=3^2, 1-1+6+3=3^2, 2+1+6-6=3*3
+2+1-6+6=3*3, 21-6-6=3*3, 2-1^66=3/3, 21+6+6=33, 6+6-12=3-3
+6-6*1^2=3-3, 6+6-1-2=3*3, 6/6*1^2=3/3, 6-6-1+2=3/3, 6/6^1^2=3/3
+6-6+1^2=3/3, 66*1/2=33, 66/1/2=33, 66^1/2=33, 1*1+2^3=3+6
+1/1+2^3=3+6, 1^1+2^3=3+6, 1*12-3=3+6, 1+1-2-3=3-6, 1-1^2-3=3-6
+1*12*3=36, 12/3+3=6+1, 1-2+3+3=6-1, 1+2^3-3=6*1
+
+###############################################################################
+===============================================================================
+=============================================== ANSWER
+TLW A Number To Find
+=====================
+The answer is 12
+
+09==06
+==06==
+11==??
+
+If we letter the square thus:
+A=B
+=E=
+D=C
+
+Then the 4 corner numbers relationship to the centre square number is:
+((D*B)-C)/A = E
+so
+((11*6)-C)/9 = 6
+rearrange
+(D*B)-(A*E) = C
+(11*6)-(9*6) = 12
+
+###############################################################################
+===============================================================================
+=============================================== ANSWER
+TLW THE HUTCHINSON PROBLEM
+==========================
+2 3 3 2 1 4
+1 2 3 1 2 3
+3 2 1 1 3 3
+1 1 3 2 3 4
+2 2 4 3 4 2
+3 4 3 3 2 X
+
+The shortest path?
+Here is one solution: 2D-3L-1L-3D-2L-3R-X (6 steps)
+
+2 0 0 0 0 0
+0 0 0 0 0 0
+3 0 0 1 3 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 3 0 2 X
+
+Open question, The longest path of jumps?
+Open question, How many different unique paths?
+
+###############################################################################
+==========================================================
+=============================================== ANSWER
+TLW A comPLEXmatrix
+===================
+Very difficult.
+You were given X=4, P=3 and E=1
+
+X P L E L
+P E L E P
+P L X E X
+L L L E ?
+E E X L L
+
+One possible solution is
+X=4
+P=3
+L=2
+E=1
+
+In each row, the number assigned to the rightmost letter is equal to the number assigned to the first letter minus the second, plus the third, minus the forth.
+therefore, one solution for the missing letter is 1 = E.
+
+4 3 2 1 2 [4-3+2-1=2]
+3 1 2 1 3 [3-1+2-1=3]
+3 2 4 1 4 [3-2+4-1=4]
+2 2 2 1 1 [2-2+2-1=1]=E
+1 1 4 2 2 [1-1+4-2=2]
+
+Open question, are there other solutions?
+
+###############################################################################
+===============================================================================
+=============================================== ANSWER
+TLW TRIPLET TRIP
+================
+A B C A C A
+C A C B C B
+B B A C A B
+A C B B A C
+
+Here is one possible answer using C-A-B
+
+17 18 19 20 01 02
+16 23 22 21 04 03
+15 24 11 10 05 06
+14 13 12 09 08 07
+
+The only other is the reverse of this using B-A-C
+
+###############################################################################
+==================================================================== NT1 to NT3
+=============================================== ANSWERS
+TLW NUMBER THEORY
+=================
+====================================================== ANSWER NT1
+The largest palindrome made from the product of two 3-digit numbers.
+==========================
+Answer 913 x 993 = 906609
+==========================
+====================================================== ANSWER NT2
+The smallest positive number that is evenly divisible
+by all of the numbers from 1 to 20.
+=================
+Answer 232792560
+=================
+====================================================== ANSWER NT3
+The difference between the sum of the squares of the
+first one hundred natural numbers and the square of the sum.
+=================
+Answer 25164150
+=================
+
+###############################################################################
+==================================================================== NT4 to NT8
+=============================================== ANSWERS
+TLW NUMBER THEORY CONTINUED
+===========================
+====================================================== ANSWER NT4
+Largest product in a series
+The thirteen adjacent digits in the 1000-digit number that have
+the greatest product.
+What is the value of this product?
+(With 987 possibles we find it starting at digit position 198:
+5*5*7*6*6*8*9*6*6*4*8*9*5 = 23514624000)
+==================
+Answer 23514624000
+==================
+
+====================================================== ANSWER NT5
+The greatest product of four adjacent numbers in the
+given 20 x 20 grid.
+(There are 20*16+20*16+17*17+17*17 = 1218 possible quadlets)
+==============================
+Answer 70600674 (89*94*97*87)
+==============================
+
+Largest product in a grid extra info.
+
+49*95*71*99 = 32719995 highest from all right sloping diagonals
+66*91*88*97 = 51267216 highest from all columns
+78*78*96*83 = 48477312 highest from all rows
+89*94*97*87 = 70600674 highest from all left sloping diagonals (highest overall)
+
+08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
+49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
+81[49]31 73 55 79 14 29 93 71 40 67 53 88 30 03 49 13 36 65
+52 70[95]23 04 60 11 42 69 24 68 56 01 32 56 71 37 02 36 91
+22 31 16[71]51 67 63 89 41 92 36 54 22 40 40 28 66 33 13 80
+24 47 32 60[99]03 45 02 44 75 33 53 78 36 84 20 35 17 12 50
+32 98 81 28 64 23 67 10 26 38 40 67 59 54 70[66]18 38 64 70
+67 26 20 68 02 62 12 20 95 63 94 39 63 08 40[91]66 49 94 21
+24 55 58 05 66 73 99 26 97 17[78 78 96 83]14[88]34 89 63 72
+21 36 23 09 75 00 76 44 20 45 35 14 00 61 33[97]34 31 33 95
+78 17 53 28 22 75 31 67 15 94 03 80 04 62 16 14 09 53 56 92
+16 39 05 42 96 35 31 47 55 58 88 24 00 17 54 24 36 29 85 57
+86 56 00 48 35 71[89]07 05 44 44 37 44 60 21 58 51 54 17 58
+19 80 81 68 05[94]47 69 28 73 92 13 86 52 17 77 04 89 55 40
+04 52 08 83[97]35 99 16 07 97 57 32 16 26 26 79 33 27 98 66
+88 36 68[87]57 62 20 72 03 46 33 67 46 55 12 32 63 93 53 69
+04 42 16 73 38 25 39 11 24 94 72 18 08 46 29 32 40 62 76 36
+20 69 36 41 72 30 23 88 34 62 99 69 82 67 59 85 74 04 36 16
+20 73 35 29 78 31 90 01 74 31 49 71 48 86 81 16 23 57 05 54
+01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48
+
+=============================================== HINTS GIVEN FOR NT6,NT7,NT8
+Here are the hints that were given...
+=====================================
+NT6 Hint
+========
+This is going to be a big number - the last thing you want to do is print it out!
+Better use the mod function wisely then.
+
+NT7 Hint
+========
+What we are trying to find here is the sum of all the digits in a number
+which gives the highest total for a^b where 1<= a <100 and 1<= b <100
+(both a and b range from 1 to 99)
+
+Example using two of the possible candidates:
+5^90 = 807793566946316088741610050849573099185363389551639556884765625
+5^91 =4038967834731580443708050254247865495926816947758197784423828125
+when we add up the digits in 5^90 we get the sum 316
+when we add up the digits in 5^91 we get the sum 311
+so although 5^91 is greater than 5^90, the digit sum of 5^90 is the greater
+and the answer would be 316.
+
+NT8 Hint
+========
+Like NT6 but even more huge a number - what to do? Maybe use two mods?
+
+====================================================== ANSWER NT6
+Self powers
+===========
+Sum of all self powers to 1000 (1^1 to 1000^1000). Last 10 digits.
+=================
+Answer 9110846700
+=================
+
+====================================================== ANSWER NT7
+Powerful digit sum
+==================
+Considering natural numbers of the form, a^b, where a, b < 100,
+what is the maximum digital sum?
+==========
+Answer 972 (given by 99^95)
+==========
+
+====================================================== ANSWER NT8
+Large Non-Mersenne Prime
+========================
+Non-Mersenne prime 28433x2^7830457+1 which contains 2,357,207 digits.
+
+Find the last ten digits of this prime number.
+=================
+Answer 8739992577
+=================
+================================================================
+================================================================ ABOUT
+
+If you like this kind of math you will be pleased to know there are over 700 more
+at http://www.projecteuler.net The Problems 3,5,6,8,11,48,56 and 97 are the ones I gave you.
+
+================================================================
+================================================================ WORKINGS
+
+I use the free Maths Package PARI-gp for nearly all my Number Theory calculations.
+I supply the scrips I wrote for the calculations.
+
+You will see the output of these scripts if you copy them and then paste them at
+http://pari.math.u-bordeaux.fr/gpwasm.html
+
+====================================================== NT1 PARI-gp Script
+\\The largest palindrome made from the product of two 3-digit numbers.
+\\==========================
+\\These scripts AVOID DUPLICATES like
+\\101 x 121 &
+\\121 x 101
+
+\\The following finds and prints the HIGHEST palindrome...
+
+b=0;for(i=100,999,for(j=i,999,s=i*j;n=digits(s);a=n;x=length(n);y=x;for(k=1,x,a[k]=n[y];y-=1);if(a==n,if(s>b,b=s;u=i;v=j))));print("The Largest Palindrome Is: "u" x "v" = "b)
+
+\\The following prints ALL the palindromes and the HIGHEST one with the 2 numbers...
+
+b=0;for(i=100,999,for(j=i,999,s=i*j;n=digits(s);a=n;x=length(n);y=x;for(k=1,x,a[k]=n[y];y-=1);if(a==n,if(s>b,b=s;u=i;v=j);print(i" x "j" "n" = "a))));print("The Largest Palindrome Is: "u" x "v" = "b)
+
+====================================================== NT2 PARI-gp Script
+\\The smallest positive number that is evenly divisible
+\\by all of the numbers from 1 to 20.
+\\=================
+\\Smallest multiple is the LCM of the 20 numbers.
+\\using the lcm function in gp...
+a=lcm([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]);
+print(a," is divisible by all the numbers 1 to 20")
+print("Proof:")
+for(n=1,20,print("232792560 divided by "n" = "232792560/n))
+
+====================================================== NT3 PARI-gp Script
+\\The difference between the sum of the squares of the
+\\first one hundred natural numbers and the square of the sum.
+\\=================
+\\i.e. sum(n)^2-sum(n^2) where n = 1..100
+
+\\By calculation:
+(((100*101)/2)^2)-((2*100+1)*(100+1)*100/6) = 25164150
+
+\\By program to allow for variable range:
+range=100;zum=range*(range+1)/2;zumsq=(2*range+1)*(range+1)*range/6;print(zum^2-zumsq);
+
+\\Program by iteration method:
+p=q=0;for(n=1,100,p+=n^2;q+=n);print(q^2-p);
+
+\\With print out:
+p=q=0;for(n=1,100,p+=n^2;q+=n);print("Square of Sum "q^2" minus Sum of Squares "p" is "q^2-p);
+\\Square of Sum 25502500 minus Sum of Squares 338350 is 25164150
+
+\\for 1000
+range=1000;zum=range*(range+1)/2;zumsq=(2*range+1)*(range+1)*range/6;print(zum^2-zumsq);
+
+====================================================== NT4 PARI-gp Script
+\\Largest product in a series
+\\======== START OF SCRIPT ========
+d=7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843858615607891129494954595017379583319528532088055111254069874715852386305071569329096329522744304355766896648950445244523161731856403098711121722383113622298934233803081353362766142828064444866452387493035890729629049156044077239071381051585930796086670172427121883998797908792274921901699720888093776657273330010533678812202354218097512545405947522435258490771167055601360483958644670632441572215539753697817977846174064955149290862569321978468622482839722413756570560574902614079729686524145351004748216637048440319989000889524345065854122758866688116427171479924442928230863465674813919123162824586178664583591245665294765456828489128831426076900422421902267105562632111110937054421750694165896040807198403850962455444362981230987879927244284909188845801561660979191338754992005240636899125607176060588611646710940507754100225698315520005593572972571636269561882670428252483600823257530420752963450;
+\\set a to be a vector
+a=digits(d);\
+g=0;n=m=1;range=13;k=length(a)-range;\
+for(j=1,k-1,m=a[j]*a[j+1]*a[j+2]*a[j+3]*a[j+4]*a[j+5]*a[j+6]*a[j+7]*a[j+8]*a[j+9]*a[j+10]*a[j+11]*a[j+12];if(g<m,g=m;n=j));\
+print1("Starting at digit: ",n," ");for(x=n,n+12,print1(a[x]);if(x<n+12,print1("*")));print1(" = ",g)
+
+\\======== END OF SCRIPT ========
+
+====================================================== NT5 PARI-gp Scripts
+
+\\==== FIND THE HIGHEST PRODUCT OF FOUR CONSECUTIVE NUMBERS IN A GRID ====
+
+\\======== START OF SCRIPT ========
+\\Set a[] to a single vector of the numbers
+a=[08,02,22,97,38,15,00,40,00,75,04,05,07,78,52,12,50,77,91,08,49,49,99,40,17,81,18,57,60,87,17,40,98,43,69,48,04,56,62,00,81,49,31,73,55,79,14,29,93,71,40,67,53,88,30,03,49,13,36,65,52,70,95,23,04,60,11,42,69,24,68,56,01,32,56,71,37,02,36,91,22,31,16,71,51,67,63,89,41,92,36,54,22,40,40,28,66,33,13,80,24,47,32,60,99,03,45,02,44,75,33,53,78,36,84,20,35,17,12,50,32,98,81,28,64,23,67,10,26,38,40,67,59,54,70,66,18,38,64,70,67,26,20,68,02,62,12,20,95,63,94,39,63,08,40,91,66,49,94,21,24,55,58,05,66,73,99,26,97,17,78,78,96,83,14,88,34,89,63,72,21,36,23,09,75,00,76,44,20,45,35,14,00,61,33,97,34,31,33,95,78,17,53,28,22,75,31,67,15,94,03,80,04,62,16,14,09,53,56,92,16,39,05,42,96,35,31,47,55,58,88,24,00,17,54,24,36,29,85,57,86,56,00,48,35,71,89,07,05,44,44,37,44,60,21,58,51,54,17,58,19,80,81,68,05,94,47,69,28,73,92,13,86,52,17,77,04,89,55,40,04,52,08,83,97,35,99,16,07,97,57,32,16,26,26,79,33,27,98,66,88,36,68,87,57,62,20,72,03,46,33,67,46,55,12,32,63,93,53,69,04,42,16,73,38,25,39,11,24,94,72,18,08,46,29,32,40,62,76,36,20,69,36,41,72,30,23,88,34,62,99,69,82,67,59,85,74,04,36,16,20,73,35,29,78,31,90,01,74,31,49,71,48,86,81,16,23,57,05,54,01,70,54,71,83,51,54,69,16,92,33,48,61,43,52,01,89,19,67,48];
+\\====================
+\\By Rows
+b=[0,0,0,0];\
+zum=maxzum=row=0;\
+for(n=1,400-4,zum=a[n]*a[n+1]*a[n+2]*a[n+3];\
+if(zum>maxzum,maxzum=zum;b[1]=a[n];b[2]=a[n+1];b[3]=a[n+2];b[4]=a[n+3];row=maxzum));\
+print("Highest in a row "b" = "row)
+\\====================
+\\By Columns...
+b=[0,0,0,0];\
+zum=maxzum=col=0;n=1;\
+until(n>400-61,zum=a[n]*a[n+20]*a[n+40]*a[n+60];\
+if(zum>maxzum,maxzum=zum;b[1]=a[n];b[2]=a[n+20];b[3]=a[n+40];b[4]=a[n+60];col=maxzum);n+=1);\
+print("Highest in a column "b" = "col)
+\\====================
+\\By Diagonals Left-Right sloping
+b=[0,0,0,0];\
+zum=maxzum=dlr=0;p=17;n=1;\
+until(n>300,if(n%p==0,n+=3);zum=a[n]*a[n+21]*a[n+42]*a[n+63];\
+if(zum>maxzum,maxzum=zum;b[1]=a[n];b[2]=a[n+21];b[3]=a[n+42];b[4]=a[n+63];dlr=maxzum);n+=1);\
+print("Highest in a left-right sloping diagonal "b" = "dlr)
+\\====================
+\\By Diagonals Right-Left sloping
+b=[0,0,0,0];\
+zum=maxzum=drl=0;p=20;n=3;\
+until(n>300,if(n%p==0,n+=3);zum=a[n]*a[n+19]*a[n+38]*a[n+57];\
+if(zum>maxzum,maxzum=zum;b[1]=a[n];b[2]=a[n+19];b[3]=a[n+38];b[4]=a[n+57];drl=maxzum);n+=1);\
+print("Highest in a right-left sloping diagonal "b" = "drl)
+\\====================
+\\Confirm the largest product
+answer=0;if(row>answer,answer=row);if(col>answer,answer=col);if(dlr>answer,answer=dlr);if(drl>answer,answer=drl);print("The highest product of all those found: "answer)
+
+\\======== END OF SCRIPT ========
+
+====================================================== NT6 PARI-gp Script
+\\Self powers
+\\===========
+\\Sum of all self powers to 1000 (1^1 to 1000^1000). Last 10 digits.
+\\== Start ==
+s=0;for(n=1,1000,s+=n^n);s%10000000000
+\\== End ==
+
+======================================== python script
+s=0;
+for n in range(1,1000):
+#next 2 lines should have tab indents
+[tab]s+=n**n;
+[tab]s=s%10000000000;
+print(s)
+====================================================== NT7 PARI-gp Script
+\\Powerful digit sum
+\\==================
+\\Considering natural numbers of the form, a^b, where a, b < 100,
+\\what is the maximum digital sum?
+
+\\== Start ==
+zum=maxzum=0;for(a=1,99,for(b=1,99,zum=vecsum(digits(a^b));if(zum>maxzum,maxzum=zum;c=a;d=b)));print(c"^"d" = "maxzum)
+\\== End ==
+
+====================================================== NT8 PARI-gp Script
+\\Large non-Mersenne prime
+\\The last 10 digits of the prime 28433*2^7830457+1
+\\== Start ==
+(28433*(2^7830457%10000000000)+1)%10000000000
+\\== End ==
+
+======================================== python script:
+a=(28433*(2**7830457%10000000000)+1)%10000000000
+print(a)
+
+###############################################################################
+===============================================================================
+=============================================== ANSWERS
+TLW MISSING NUMBERS
+===================
+1] 909
+2] 10
+3] 28
+4] 32
+5] 102
+6] 24
+7] 2
+8] 9
+9] 43
+10] 36
+11] 360
+
+HOW THEY WERE WORKED OUT.
+=============================================================================== #1
+909 ([9]90 > 90[9])
+Rotated digits of the bottom row.
+=============================================================================== #2
+10 (7+9-6=10)
+Vertical pattern applies to each column.
+Add 1st row and 2nd row numbers and subtract 6 for 3rd row number.
+=============================================================================== #3
+28 (28/7=4)
+Vertical pattern applies to consecutive pairs only.
+Going down the two pairs divide 1st number by 7 to get 2nd number.
+Or going up the two pairs multiply 1st number by 7 to get 2nd.
+=============================================================================== #4
+32 (12+5=17
+Horizontal pattern applies to consecutive pairs only.
+Reverse digits of 1st number and add 5 to get 2nd number.
+=============================================================================== #5
+102 (19+19=38,38+9=57)
+Horizontal pattern applies to each row.
+1st number is added to itself to get 2nd number, added again to get 3rd number.
+=============================================================================== #6
+24 (5*2=10,10-1=9)
+Sarting at the right, double top number and subtract 1 to get the bottom number.
+=============================================================================== #7
+2 (6/1=6)
+Horizontal pattern applies to consecutive pairs only.
+2nd digit of 1st number is divided by 1st digit of 1st number to obtain the 2nd number.
+=============================================================================== #8
+9 (101+1=102;47+55=102)
+Pattern applies to horizontal lines only.
+Sum of outside numbers is equal to the sum of inside numbers.
+
+=============================================================================== #9
+43 (3*3=9-5=4)
+Starting with smallest number,
+multiply each number by three and
+subtract five to get next number.
+=============================================================================== #10
+36 (4*9=36)
+All numbers are multiplied by 9
+=============================================================================== #11
+360
+Row1 (3*1=3;3*2=6;6*3=18)
+Row2 [72*5=360;360*6=02160;2160*7=15120]
+
+Horizontal pattern applies to each row (r1)[r2].
+1st number multiplied by (1) [5] to get 2nd number,
+2nd number multiplied by (2) [6] to get 3rd number,
+3rd number multiplied by (3) [7] to get 4th number.
+
+###############################################################################
+===============================================================================

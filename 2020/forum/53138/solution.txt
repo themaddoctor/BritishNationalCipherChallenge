@@ -1,0 +1,40 @@
+substitution
+
+- space
+9 .
+L ?
+5 (
+6 )
+: -
+
+n a
+o b
+p c
+q d
+r e
+s f
+t g
+u h
+v i
+  j
+x k
+y l
+z m
+{ n
+| o
+} p
+  q
+space r
+! s
+" t
+# u
+$ v
+% w
+& x
+f Y
+( z
+
+It is a shift in the ASCII table by 13.
+
+plaintext:
+You enter a cave and find that you are in a maze of little twisty passages. they all look different. you walk on and find you are in a maze of little twisting passages. it sure looks different you walk on. you are now in a maze of twisting little passages. different looking again so you walk on. you now feel lost in a maze of twisty little passages all seemingly different you move on and you find you are in a little maze of twisting passages all different. you take another route to find you are in a little maze of twisty passages all different. you keep moving through the passages noticing you are in a little twisty maze of passages then in a twisting little maze of passages and then you are in a twisting maze of little passages. you start to panic but go on. now you are in a twisty little maze of passages. all different but wait. what is that ahead? you move into a twisty maze of little passages with light at the end of one passage. you run down that passage and enter into daylight. you are free of the cave. (Inspired from the Colossal Cave Adventure a text based adventure. ninteen seventy five - seventy seven)

@@ -1,0 +1,41 @@
+15th March 2021 at 8:06 pm
+#53319
+The-letter-wriggler
+Participant
+
+TLW Cipher #1 Solution and Plaintext
+====================================
+
+KEY : Mixed Caersar shifts
+[PT] : abcdefghijklmnopqrstuvwxyz
+[CT] : BCDEFGHIJKLMNOPQRSTUVWXYZA shift 1 (odd shift on odd letters)
+[CT] : CDEFGHIJKLMNOPQRSTUVWXYZAB shift 2 (even shift on even letters)
+
+THE PLAINTEXT
+=============
+Excellent! You did it, the readable text appears before your very eyes! Shame you do not get a prize but hey, your prize is your cleverness.
+
+DECRYPTION:
+===========
+One way to a decrypt...
+
+As every odd letter has a Caesar shift of 1, and every even letter has a Ceasar shift of 2...
+Do a Caesar shift 1 decrypt of the ciphertext, then delete every even letter
+eycflmeotzovdjdjtuhfrfaeaclftfxuaqpfasscegosezovrwesyfyfsthbmfypueooougftbpsiaecuuhfyzovrqrjzfitypuscmewesnsst
+giving
+ECLETODDTHRAALTXAPASEOEOREYYSHMYUOOGTPIEUHYORRZIYUCEENS (odd letters only)
+
+Do a Caesar shift 2 decrypt of the ciphertext, then delete every odd letter
+dxbekldnsynucicistgeqezdzbkesewtzpoezrrbdfnrdynuqvdrxexersgalexotdnnntfesaorhzdbttgexynuqpqiyehsxotrbldvdrmres
+giving
+XELNYUIITEEDBEETPERBFRYUVREESAEODNTEARZBTEYUPIESORLVRES (even letters only)
+
+The 2 decrypts
+ECLETODDTHRAALTXAPASEOEOREYYSHMYUOOGTPIEUHYORRZIYUCEENS
+XELNYUIITEEDBEETPERBFRYUVREESAEODNTEARZBTEYUPIESORLVRES
+
+Weave the letters together odd-even, odd-even etc to get the plaintext.
+By Railfence - 2 rails
+E_C_L_E_T_O_D_D_T_H_R_A_A_L_T_X_A_P_A_S_E_O_E_O_R_E_Y_Y_X_E_L_N_Y_U_I_I_T_E_E_D_B_E_E_T_P_E_R_B_F_R_Y_U_V_R_E_
+_X_E_L_N_Y_U_I_I_T_E_E_D_B_E_E_T_P_E_R_B_F_R_Y_U_V_R_E_E_S_A_E_O_D_N_T_E_A_R_Z_B_T_E_Y_U_P_I_E_S_O_R_L_V_R_E_S
+EXCELLENTYOUDIDITTHEREADABLETEXTAPPEARSBEFOREYOURVERYEYESSHAMEYOUDONOTGETAPRIZEBUTHEYYOURPRIZEISYOURCLEVERNESS
