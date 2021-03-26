@@ -1,0 +1,17 @@
+22nd March 2021 at 10:27 am
+#53336
+Madness
+Participant
+
+First, NOT IN ITA2. The alphabet is mentioned earlier in the thread. Nevertheless, it should be irrelevant
+what the alphabet is. There are 32 ciphertext symbols, and you want to decrypt to 32 plaintext symbols so
+that there are letters and spaces and a few punctuation marks, and no nulls (the boxes) and no shifts (the arrows).
+After applying all previous hints, what should remain is a substitution. If this is too much of a hint, Harry
+can butcher it like he butchered the losers of last year's competition. That last sentence will certainly be
+censored, and should be blamed on too many horror films.
+
+Regarding ham radio, I was thinking to simply connect MY computers that are located in distant lands and not all
+able to use the usual internet. And if someone want to use my private network, they will have to register with
+a call sign, a blood sample, and a million pounds sterling.
+
+[No advertising! Especially not for some dubious dark net. Harry]

@@ -1,0 +1,5 @@
+monoalphabetic substitution
+key: BAUDOTVWXYZCEFGHIJKLMNPQRS
+keyword: BAUDOT
+
+Note that the first letter of each paragraph also spells BAUDOT.

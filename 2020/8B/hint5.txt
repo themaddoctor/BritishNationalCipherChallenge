@@ -1,0 +1,16 @@
+19th March 2021 at 12:22 pm
+#53340
+Ace661
+Participant
+
+If permitted...
+
+I used the "letters" alphabet from the "UK" side of this table:
+https://en.wikipedia.org/wiki/Baudot_code#Baudot_code_(ITA1)
+
+and also this table, which is the same:
+https://en.wikipedia.org/wiki/Baudot_code#Original_Baudot,_domestic_UK
+
+It’s already got / and * (DEL) and -
+The upwards pointing arrow is surely the "shift" to the figures alphabet
+That just leaves _ and the white square to identify in the ciphertext; one being the blank space character and the other the null character
