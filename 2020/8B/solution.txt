@@ -5,7 +5,7 @@ In the plaintext, "/" represents a comma, "*" a period (stop), and
 double "**" ends a paragraph.
 
 The plaintext was first encrypted with a monoalphabetic substitution.
-The alphabet was mixed with the Wheatston prescription from keyword FAILURE.
+The alphabet was mixed with the keyword FAILURE.
 Then, it was converted into 5-bit Baudot code. Each block of five
 characters was rotated by 90 degrees and then decoded back into
 characters.
