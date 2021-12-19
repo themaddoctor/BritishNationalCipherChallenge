@@ -1,0 +1,2 @@
+cipher: affine
+key: 9 (multiplier), 5 (addend)
