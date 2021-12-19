@@ -1,0 +1,3 @@
+cipher: monoalphabetic substitution (from Morse code with A = dot and D = dash)
+key: ALCHEMISTUVWXYZBDFGJKNOPQR
+keyword: ALCHEMISTS
