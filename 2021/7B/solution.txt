@@ -1,0 +1,2 @@
+cipher: Vigenere (decoded from 5-bit binary)
+key: TRINITY
