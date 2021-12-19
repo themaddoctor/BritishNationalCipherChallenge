@@ -1,0 +1,2 @@
+cipher: railfence
+key: 5 rails, 0 offset
