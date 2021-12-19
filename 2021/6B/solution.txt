@@ -1,0 +1,2 @@
+cipher: Vigenere (reversed text)
+key: VETTING
