@@ -1,0 +1,19 @@
+cipher: modified Playfair
+
+The modifications are:
+ - the grid is 6x6
+ - the characters are ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ - when the two plaintext characters of a pair are in the same row or
+   same column, then the ciphertext characters are taken from one row
+   above (with wraparound, so row 1 -> row 6)
+ - '0' is used to break up repeated letters in stead of 'X'
+
+grid:
+  P E A K O F
+  H V N Q R S
+  T U W X Y Z
+  B C D G I J
+  L M 0 1 2 3
+  4 5 6 7 8 9
+
+keyword: PEAK OF HEAVEN
