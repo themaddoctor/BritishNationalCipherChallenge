@@ -1,0 +1,11 @@
+24th January 2022 at 4:23 pm
+#68814
+CosmicCat
+Participant
+
+Awesomeness said "maybe try converting the decimal numbers to another form"
+None of the decimal numbers are divisible by *16*.
+
+@_CIA that looks like a match.
+My MD5 (plaintext+COSMICCAT): ad62621e6507369b4d76e95319e80f1d
+You'll know when you've got it.

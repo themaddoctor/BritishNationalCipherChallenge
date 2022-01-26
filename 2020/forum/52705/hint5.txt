@@ -1,0 +1,10 @@
+22nd November 2021 at 9:07 pm
+#68290
+sinkrad
+Participant
+
+I don't know whether there is an agreed way to proof having solved this cipher, but saying that the plaintext contains the word 'devil' 11 times will not be a big hint.
+
+Amazing cipher, thank you @Awesomeness and @Mattyrat for reposting it! I really enjoyed solving it, although there was plenty of frustration and failed attempts along the way.
+
+If I can give a small hint -- please redact Harry if this is not allowed –, one of the first things I did was counting how many of the 320 unique numbers were divisible by 2,3,4,5, .... In theory you expect on average 320 / k numbers to be divisible by k, but in the devilcipher something strange occurs.
