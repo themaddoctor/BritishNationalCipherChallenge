@@ -1,0 +1,6 @@
+26th January 2022 at 4:10 pm
+#68817
+CosmicCat
+Participant
+
+If the decimal numbers are not divisible by 16 then in Base 16 / Hexadecimal none of them would have a zero for the rightmost digit. That's worth investigating. So try converting all the decimal values to Hex.
