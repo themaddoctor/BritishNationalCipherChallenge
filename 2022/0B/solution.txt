@@ -1,0 +1,2 @@
+affine cipher
+key = 7 3
