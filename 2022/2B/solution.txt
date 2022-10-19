@@ -1,0 +1,5 @@
+affine cipher
+multiplier: 9
+shift: 5
+
+first letter of each paragraph spells HARRY
