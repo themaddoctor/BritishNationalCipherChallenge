@@ -1,0 +1,3 @@
+permutation cipher
+key: 1,3,0,4,2
+keyword: CRASH
