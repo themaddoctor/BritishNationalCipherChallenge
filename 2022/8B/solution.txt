@@ -1,0 +1,3 @@
+encrypted in blocks of 35 characters, each with a columnar transposition
+key: 3,4,0,2,1
+keyword: JODIE
