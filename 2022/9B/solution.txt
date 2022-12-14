@@ -1,0 +1,2 @@
+encrypted in blocks of 21 letters with a columnar transposition and then reversed
+key: 1,3,2,0,5,4,6
