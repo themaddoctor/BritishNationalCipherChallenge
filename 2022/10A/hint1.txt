@@ -1,0 +1,8 @@
+16th December 2022 at 9:00 am
+#87572
+Harry
+Keymaster
+
+A hint for 10A
+
+This is a Hill cipher, though a not particularly complicated one. They are usually set up using matrices and modular arithmetic, but in fact this one can be solved without any of that.

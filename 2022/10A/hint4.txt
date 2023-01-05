@@ -1,0 +1,6 @@
+19th December 2022 at 9:00 am
+#87575
+Harry
+Keymaster
+
+Did you spot that t->T, h->H. Did you guess that the  letters in the odd numbered positions are represented by themselves? Can you find any cribs that help you to work out what is happening with the letters in even numbered positions?

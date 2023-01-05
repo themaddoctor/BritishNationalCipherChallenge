@@ -1,0 +1,16 @@
+21st December 2022 at 9:00 am
+#87578
+Harry
+Keymaster
+
+If you followed the last hint then you will have found the sequence
+
+TT LW MM DJ EA
+
+which matches our template for the crib Tallmadge perfectly!
+
+TT LW MM DJ EA
+
+TA LL MA DG E-
+
+This tells us that the pair TT encodes for ta, LW for ll, MM for ma, DJ for dg, so you can make those substitutions throughout the text and start to break it.

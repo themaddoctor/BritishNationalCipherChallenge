@@ -1,0 +1,12 @@
+18th December 2022 at 9:00 am
+#87574
+Harry
+Keymaster
+
+A third hint for Challenge 10A
+
+If you computed the bigram frequencies then you should have seen that the most common were TA, which appears 42 times  and HL, which appears 39 times. You can read about bigram frequencies at
+
+https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/
+
+The most common bigrams in standard UK English are th, which usually appears just over 3.5% of the time, and he which has frequency about 3.25%, so you can reasonably guess that TA stands for th and HL stands for he. What might you guess is happening?

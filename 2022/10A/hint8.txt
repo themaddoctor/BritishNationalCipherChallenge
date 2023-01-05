@@ -1,0 +1,18 @@
+23rd December 2022 at 9:00 am
+#87581
+Harry
+Keymaster
+
+An eighth and final hint for Challenge 10A
+
+The last word of the message is attached, enciphered as
+ a 	T
+ t 	a
+ c 	J
+ e 	H
+
+When the second letter of a pair follows a it seems to be enciphered as itself, but when it follows c it has been shifted by 2 and when it follows e it has been shifted by 4. Can you spot the pattern now? We will leave it to you to finish.
+
+Have fun and Happy Holidays,
+
+Harry and Jodie

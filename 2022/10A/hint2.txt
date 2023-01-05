@@ -1,0 +1,16 @@
+17th December 2022 at 9:00 am
+#87573
+Harry
+Keymaster
+
+Another hint for Challenge 10A
+
+Technically, this is a 2×2 Hill cipher, so while frequency analysis helps a bit, you really need to do bigram analysis for it. That just means counting the frequency of pairs of letters. Challenge 10A starts
+
+RVSUU CNTAN NNFWO ATAEL ILESU NOBCG DDRZS DANDZ
+
+which can be reformatted to
+
+RV SU UC NT AN NN FW OA TA EL IL ES UN OB CG DD RZ SD AN DZ
+
+and in this fragment the most frequent bigram is AN. If you compute them all, across the whole message you will see which ones are the most popular. What do you think they might represent?

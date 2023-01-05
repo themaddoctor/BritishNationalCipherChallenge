@@ -1,0 +1,18 @@
+20th December 2022 at 9:00 am
+#87577
+Harry
+Keymaster
+
+A fifth hint for Challenge 10A (updated to include this title, sorry for the ambiguity, Harry]
+
+If our guesses so far are right then we can try looking for the cribs TALLMADGE or WOODHULL. Depending on where they appear in the cipher text (starting at an odd or at an even position) you will see one of the following sequences
+
+T-L-M-D-E
+
+-A-L-A-G-
+
+W-O-H-L-
+
+-O-D-U-L
+
+Can you find any of these in the text? What does that tell you about the way the missing odd letters are being encoded?
