@@ -1,0 +1,6 @@
+modified Cadenus cipher
+
+The modifications are to use the full 26-letter alphabet, and
+to perform the shifts in the other direction.
+
+keyword: MILES
