@@ -1,0 +1,8 @@
+18th December 2022 at 9:00 am
+#87583
+Harry
+Keymaster
+
+A second hint for Challenge 10B
+
+The only structure you have at the moment is the number of characters in the text, so why not compute that and factorise it to see if it suggests anything?

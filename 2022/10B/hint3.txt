@@ -1,0 +1,8 @@
+19th December 2022 at 9:00 am
+#87584
+Harry
+Keymaster
+
+A third hint for Challenge 10B
+
+Too lazy to compute the factorisation yourself? I shouldn't encourage that, but it is Christmas. There are 3250 characters in the text and 3250=2*5^3*13, so any transposition cipher is likely to be working with blocks of 1, 2, 5, 10, 13, 25, 26, 50, 65, 125, 130, 250, 325, 650, 1625, or 3250 letters. You have to hope that it is not 1625 or 3250 unless there is some obvious pattern, but in this case there is not!

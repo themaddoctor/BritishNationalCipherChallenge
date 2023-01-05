@@ -1,0 +1,8 @@
+23rd December 2022 at 9:00 am
+#87587
+Harry
+Keymaster
+
+A fifth hint for Challenge 10B
+
+You didn't think it would just be a standard Cadenus cipher did you? Where would the security be in that? I have never understood why the Cadenus cipher used blocks lengths of 25 anyway.

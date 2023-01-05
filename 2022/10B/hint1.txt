@@ -1,0 +1,8 @@
+17th December 2022 at 9:00 am
+#87582
+Harry
+Keymaster
+
+A first hint for Challenge 10B
+
+Frequency analysis will have shown you that this is probably some form of transposition cipher, so the structure of the text itself probably matters.

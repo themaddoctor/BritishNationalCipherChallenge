@@ -1,0 +1,16 @@
+3rd January 2023 at 9:00 am
+#87592
+Harry
+Keymaster
+
+The ninth official hint for Challenge 10B
+
+As with part A, your best cribs is probably BENJAMIN TALLMADGE.
+
+Lay this out in rows of length 5 to match the keyword length
+B 	E 	N 	J 	A
+M 	I 	N 	T 	A
+L 	L 	M 	A 	D
+G 	E 			
+
+The structure of the Cadenus cipher means that, up to a rollover between the top and bottom of a column and a permutation of the columns, you should be able to find these columns in the cipher text. That should be enough to suggest the shifts used in each column AND the permutation of the columns themselves.

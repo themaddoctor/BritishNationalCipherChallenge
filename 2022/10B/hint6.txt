@@ -1,0 +1,8 @@
+26th December 2022 at 9:00 am
+#87588
+Harry
+Keymaster
+
+A Boxing Day hint for Challenge 10B
+
+So if not a block length of 25, then what else? Twenty six would seem more natural, and would avoid having to conflate U/V or I/J.

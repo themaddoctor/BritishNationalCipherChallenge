@@ -1,0 +1,8 @@
+29th December 2022 at 9:00 am
+#87589
+Harry
+Keymaster
+
+The seventh official hint for Challenge 10B
+
+Now we know it is a modified Cadenus cipher with block length 26, the standard method of attack should work. What block widths are possible, given the length of the cipher text? Which are likely?

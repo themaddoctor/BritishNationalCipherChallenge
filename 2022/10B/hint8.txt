@@ -1,0 +1,8 @@
+2nd January 2023 at 9:00 am
+#87590
+Harry
+Keymaster
+
+The first official hint for Challenge 10B of 2023, Happy New Year!
+
+We have a text with 2*5^3*13 characters, enciphered using a modified Cadenus with block length 26, this means that the key has length a divisor of 125. It doesn't seem likely that the key has length 25 or 125 (but watch out next year!) so it must have length 5. So now we can split the text into twenty five blocks each with 26 rows and 5 columns and tackle them each separately. Here, cribs are your friend, but I will explain how next time!
