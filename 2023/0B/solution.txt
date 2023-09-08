@@ -1,0 +1,5 @@
+monoalphabetic substitution cipher
+key: FIRSTUVWXYZABCDEGHJKLMNOPQ
+keyword: FIRST
+
+The first letters of the sentences spell REDRUM, which Jack says means MURDER.
