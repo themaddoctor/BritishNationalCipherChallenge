@@ -1,0 +1,10 @@
+31st August 2023 at 12:40 pm
+#69255
+Harry
+Keymaster
+
+We always get some great posts on this thread; puzzles that stretch us or entertain us, but always delight us. If you have a favourite, why not publish it here to give them something a little different to try between challenges? To kick us off we are reposting one of our favourites from last year, posted by GreenReble. Not sure whether they will be signing up again this year, but if so, welcome back. Please feel free to claim ownership! Harry
+
+THE THREE GODS
+
+Three gods A, B, and C are called, in no particular order, True, False, and Random. True always speaks truly, False always speaks falsely, but whether Random speaks truly or falsely is a completely random matter. Your task is to determine the identities of A, B, and C by asking three yes-no questions; each question must be put to exactly one god. The gods understand English, but will answer all questions in their own language, in which the words for yes and no are da and ja, in some order. You do not know which word means which.
