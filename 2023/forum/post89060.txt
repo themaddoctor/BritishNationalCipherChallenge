@@ -1,0 +1,32 @@
+19th September 2023 at 9:19 am
+#89060
+kford_academy
+Participant
+
+To kick-start this topic:
+
+MAGIC SQUARES
+
+Definition: A magic square is defined to be a square of numbers such that each row, column and (major) diagonal has the same sum. As an example,
+2 9 4
+7 5 3
+6 1 8
+has a sum of 15 along each row/column/diagonal.
+
+Problems: Complete the following magic squares.
+
+#1
+02 12 10
+?? 08 ??
+?? ?? ??
+
+#2
+13 20 ??
+?? 14 ??
+?? ?? ??
+
+#3
+Show that if a, b and c are known below then there is a unique solution:
+a b ?
+? c ?
+? ? ?
