@@ -1,0 +1,26 @@
+19th September 2023 at 2:32 pm
+#89094
+kford_academy
+Participant
+
+MAGIC SQUARES - PART 2
+
+(P.S. Feel free to extend/reply as you wish!)
+
+#4
+Show that the following square has no solutions.
+1 2 3
+? 4 ?
+? ? ?
+
+#5
+Find x below.
+12 ?? ??
+?? x ??
+?? ?? 02
+
+#6
+Complete this magic square.
+15 01 ??
+?? ?? 13
+?? ?? ??
