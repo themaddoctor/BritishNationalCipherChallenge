@@ -1,0 +1,10 @@
+21st September 2023 at 10:35 am
+#89246
+Rhydwen23
+Participant
+
+Alice is visiting the Maths section of her local library. She takes a large old book from the shelf and sits down at a desk to read. The book falls open somewhere in the middle. Alice is initially disappointed to see that the left hand and right hand page numbers are not consecutive – there are a number of pages missing. But Alice is delighted to note that, read left to right, the digits of the two page numbers form a consecutive descending sequence of digits. What is the minimum number of pages that could be missing from the book?
+
+The page numbers in the original book start at one and each page is numbered sequentially.
+
+[I really like this puzzle, thank you! Harry]
