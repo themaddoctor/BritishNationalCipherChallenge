@@ -1,0 +1,10 @@
+25th September 2023 at 2:28 pm
+#89500
+Rhydwen23
+Participant
+
+The problem of constructing magic squares with prime numbers only was first discussed by Henry E. Dudeney in The Weekly Dispatch for 22nd July and 5th August 1900. Dudeney went on to describe a 3rd order magic square comprised of nine different prime numbers* with the lowest possible constants.
+
+Can you find it?
+
+*Dudeney included the number 1 as a prime number for this exercise.
