@@ -1,0 +1,18 @@
+27th September 2023 at 12:37 pm
+#89661
+kford_academy
+Participant
+
+MAGIC SQUARES - PART 3
+
+#7
+Show that no 2x2 magic squares exist (other than the trivial case where all numbers in the square are equal).
+
+#8
+Solve the following 4x4 magic square (repeat numbers valid) - decimals may appear!
+?? ?? 20 02
+?? ?? ?? 01
+22 ?? ?? ??
+05 10 20 23
+
+This is a bit more relevant to the National Cipher Challenge: 2002 marked the year of the (01)st Cipher Challenge. The 22nd edition will commence on 05/10/2023.
