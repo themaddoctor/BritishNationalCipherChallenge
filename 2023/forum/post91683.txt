@@ -1,0 +1,18 @@
+17th October 2023 at 12:53 pm
+#91683
+kford_academy
+Participant
+
+Some trick puzzles for the easily entertained... Enjoy!
+
+1) I need to deliver four letters to four houses, one letter per house. Unfortunately, I muddle the letters up, and so the letters are delivered to the houses in a random order. What is the probability that I deliver exactly three letters to their correct houses?
+
+2) Take any tetrahedron (regular or not). Choose two of its vertices, and also locate its centre of mass (assume it is uniform). Show that these three points lie on a unique plane.
+
+3) Find as many ways as you can of measuring the height of a (tall) building with a thermometer.
+
+4) A set of 'triplet primes' is a set of primes of the form p,p+2,p+4. Obviously 3,5,7 is an example; find all other examples.
+
+5) A bear starts in the Arctic Circle. It walks 1km West, 1km North, 1km East, 1km South. Can it ever return to its starting point?
+
+6) In a very dark room, you have two red pills and two blue pills. In order to survive, you must consume one red and one blue pill, thus enabling you with night vision to find the correct exit door (and not the booby-trapped one). No other combination suffices. Unfortunately, you lost track of the colours of the pills. What do you do?
