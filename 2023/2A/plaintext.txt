@@ -1,0 +1,9 @@
+The mission brief.
+Circulation: BOSS agent trainee cohort
+CC: Harry
+In Eighteen Ninety-Six, at a Mansion in Providence, Rhode Island, the Librarian Maisie Styles found a body at the foot of the library ladder. The deceased was clutching a small but valuable book that had been taken from the top shelf, presumably before the accident.
+The book was leather-bound, one of the eight volumes in the so-called Amontillado edition, signed by the publisher. The police were called and, following their investigations, determined that the stranger had fallen to his death while trying to steal the book. The enquiry seems to have been closed within a few days. No other official documents have been found in the police files concerning the case except a chain of letters from the librarian, urging the police to re-open the case.
+Our interest in this otherwise routine investigation was triggered by the discovery of a historic request for information about the deceased, sent by Pinkerton's detective agency to the Metropolitan Police. Our field agent division, the Lamplighters, are working to find and retrieve any further correspondence associated with the case, but so far have only recovered the attached letter. It appears to be written by the owner of the library, Rogers, and sent to the Providence, Rhode Island Chief of Police. It is lightly encrypted using a substitution cipher with a keyword derived from the title of one of the short stories in the novella found at the scene.
+Your first mission is to decipher that letter. You can make use of the BOSS substitution cipher app and the letter frequency counter on our cipher tools page if that is helpful.
+Good luck,
+Jodie

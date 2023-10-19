@@ -1,1 +1,2 @@
-
+affine cipher
+key: 3, 7
