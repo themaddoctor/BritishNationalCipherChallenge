@@ -1,0 +1,35 @@
+26th October 2023 at 11:10 am
+#91853
+kford_academy
+Participant
+
+TRICK(-ISH) PUZZLES - PART 2
+(Disclaimer: None of these puzzles, or the previous ones I posted, are based on true events. So don't start looking for a wholly red bungalow!)
+
+First, a quick update on my previous puzzles (at time of posting, ≈8am on 23/10/2023): there have been some good responses! No-one has presented a correct solution to Q5 (with explanation) that does not involve the bear crossing the North Pole, but people have come close (in particular @f6exb_the_frenchy). All other puzzles have had correct responses (although only one correct solution has been proposed for Q3). Well done all!
+
+Now my next set of puzzles:
+
+7) Three hens lay three eggs in three days. Assuming all hens lay eggs at the same constant rate, how long would it take for seven hens to lay seven eggs?
+
+8) I live in a red bungalow. By that, I mean that everything is red: I have a red floor, red walls, red chairs, red doors. So what colour are the stairs?
+
+9) Alice, Bob, Charlie and Dylan sit around a circular table going clockwise. Alice has a (shuffled) deck of 52 playing cards, and starts dealing each card sequentially, going clockwise from herself. (So the order of people who receive cards is Alice, Bob, Charlie, Dylan, Alice,...) Unfortunately, Alice is interrupted, and so she doesn't know who the last person she dealt to was. Nevertheless, she finishes dealing the deck successfully without anyone counting the number of cards in anyone's pile nor the pile of cards left. How come?
+
+10) Solve the following (trick) crossword. All clues fit into a 4×4 grid with no gaps.
+
+ACROSS
+Row 1: (e.g.) Vigenère.
+Row 2: Fish plus one letter.
+Row 3: What you (hopefully) signed up to this competition to solve.
+Row 4: One letter plus a poem.
+
+DOWN
+Column 1: Four bodies of water?
+Column 2: Sign of interest.
+Column 3: Four rivers?
+Column 4: Sign of (mild) pain.
+
+11) The set of numbers {1,3,8,120} has the property that the product of any two (distinct) numbers in the set is one below a square. (e.g. 3*8=5²-1) Add one number to this set whilst retaining this property.
+
+12) It was reported that Pento the Penguin waddled 1km South, then 1km East, then 1km North, without crossing the South Pole, and ended where it started. Given that no penguin has ever reached the Arctic Circle, can the story be true? (Use the same assumptions as in Q5.)
