@@ -1,0 +1,3 @@
+permutation cipher
+key: 1,5,2,6,3,4
+keyword: COLUMN
