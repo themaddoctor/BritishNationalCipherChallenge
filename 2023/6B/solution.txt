@@ -1,0 +1,2 @@
+Morse code, Vigenere cipher
+key: WARNE
