@@ -1,1 +1,3 @@
-
+Morse code, columnar transposition cipher
+key: 6,4,7,1,3,2,5
+keyword: VOYAGER
