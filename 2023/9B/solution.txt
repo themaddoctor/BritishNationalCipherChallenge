@@ -1,1 +1,8 @@
-
+nihilist substitution cipher
+square:
+    ZEROP
+    QSTUV
+    WXYAB
+    CDFGH
+    IKLMN
+keywords: NOTHING ZERO
