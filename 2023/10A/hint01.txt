@@ -1,0 +1,14 @@
+15th December 2023 at 9:00 am
+#92745
+Harry
+Keymaster
+
+The first hint for Challenge 10A
+
+You should try all the basic ways you know to analyse the text.
+
+1. Frequency analysis
+2. Index of Coincidence
+3. Counting the characters
+
+If none of that helps and you are still stuck, then take another look tomorrow for another (perhaps more useful) hint.
