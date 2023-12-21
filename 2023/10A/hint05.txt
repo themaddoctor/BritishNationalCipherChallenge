@@ -1,0 +1,20 @@
+19th December 2023 at 9:00 am
+#92769
+Harry
+Keymaster
+
+The fifth hint for Challenge 10A
+
+
+
+If we think this is a Hill cipher and that the names JODIE and HARRY are likely to appear at the start or the finish of the text, then we might see the pairs
+
+JO, DI
+
+OD, IE
+
+HA, RR
+
+AR, RY
+
+in those positions. Assuming that we are using the convention A->0, B->1, C-> 2 and so on this would give us a series of equations that might allow us to work out the Hill cipher matrix. Take a look at Unit 88 in Madness's book to see how to use that information.

@@ -1,0 +1,14 @@
+21st December 2023 at 9:00 am
+#92788
+Harry
+Keymaster
+
+The seventh hint for Challenge 10A
+
+
+
+The inverse matrix is given by switching the diagonal entries and negating the off diagonal so we get 2,-1,-1,1.
+
+
+
+Now you use that matrix to decrypt the cipher text as if you were encrypting the plain text, and out should come the message. You can do it by hand, or you can use a python script or a spreadsheet. Have fun!

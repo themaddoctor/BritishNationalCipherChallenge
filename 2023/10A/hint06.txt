@@ -1,0 +1,23 @@
+
+20th December 2023 at 9:00 am
+#92784
+Harry
+Keymaster
+
+The sixth hint for Challenge 10A
+
+
+
+If Jodie sent this message and signed it we will see the bigrams OD, IE at the end and these are represented by the vectors (14, 3) and (8, 4).
+
+What we actually see are the letter pairs RU, MQ which correspond to the vectors (17,20) and (12,16), so the encryption works to give
+
+14a+3b = 17
+
+14c+3d=20
+
+8a+4b =12
+
+8c+4d=16
+
+We can solve these four equations in four unknowns to get the encryption parameters. Try looking up solving systems of equations online, but be careful doing so in mod 26 arithmetic!
