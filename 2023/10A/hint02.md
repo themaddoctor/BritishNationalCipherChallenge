@@ -3,9 +3,9 @@
 Harry<br/>
 Keymaster
 
-The second hint for Challenge 10A
+**The second hint for Challenge 10A**
 
- 
+
 
 As you can see from the frequency count this does not look a lot like a substitution cipher, so what else could it be? Maybe you should take a look at Madness's book on classical cryptography:
 
