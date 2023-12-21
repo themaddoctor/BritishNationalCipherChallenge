@@ -3,7 +3,7 @@
 Harry<br/>
 Keymaster
 
-The second official hint for Challenge 10B
+**The second official hint for Challenge 10B**
 
 
 
