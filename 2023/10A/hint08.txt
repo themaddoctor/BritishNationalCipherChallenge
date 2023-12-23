@@ -1,0 +1,42 @@
+22nd December 2023 at 9:00 am
+#92789
+Harry
+Keymaster
+
+The final hint for Challenge 10A
+
+
+
+To start deciphering the message you convert the text to numbers with A->0, B-1 and so on
+
+So the start reads
+
+HHIZR KHHXH
+
+which encodes as
+
+7, 7, 8, 25, 17, 10, 7, 7, 23, 7
+
+Now we group these into vectors
+
+(7,7)
+
+(8,25)
+
+(17,10)
+
+(7,7)
+
+(23,7)
+
+We then multiply these vectors by the 2×2 matrix we found last time, given by the string 2,-1,-1,1)
+
+(7,7)-> (2*7-1*7, -1*7+1*7) = (14-7, -7+7) -> (H,A)
+
+Any guesses what comes next?(8,25) -> (2*8-1*25, -1*8+1*25) = (16-25, -8+25) = (-9, 17) = (17,17) -> (R,R)
+
+We leave it to you to complete the decryption!
+
+Hope you enjoyed it!
+
+Harry and Jodie
