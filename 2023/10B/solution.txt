@@ -1,0 +1,16 @@
+four-square cipher
+squares:
+
+    A B C D E    M A I S E
+    F G H I K    F G H K L
+    L M N O P    N O P Q R
+    Q R S T U    T U V W X
+    V W X Y Z    Y Z B C D
+
+    S T A N L    A B C D E
+    E Y Z B C    F G H I K
+    D F G H I    L M N O P
+    K M O P Q    Q R S T U
+    R U V W X    V W X Y Z
+
+keywords: MAISE STANLEY
