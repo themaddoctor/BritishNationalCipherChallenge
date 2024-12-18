@@ -1,0 +1,45 @@
+30th October 2024 at 11:08 am
+#98114
+ByteInBits
+Participant
+
+NCC 2024 BYTEINBITS FORUM CIPHER
+================================
+
+Hi codebreakers and cipher crackers,
+Here is a cipher for you all to try and break.
+
+Not sure which code will be easiest to copy from in the forum, if you use the one with
+line breaks you may need to remove the breaks from your copy before decrypting.
+
+CIPHERTEXT TO BREAK (no line breaks)
+F 11 6 F H 11 13 E 11 3 G E 11 13 4 6 G 13 M H 11 9 H H 6 10 9 12 13 H 13 G L 4 11 H K 12 11 G D E 11 L H 6 C 11 D J 11 7 13 G 1 2 13 1 9 K 1 6 3 L 6 10 6 6 L F 11 6 F H 11 2 9 H H 13 12 12 3 4 11 1 6 3 6 K 4 11 H K 9 4 J 3 H D 11 E 9 6 E 7 6 D 9 C 11 4 L 6 10 6 6 L 13 G 1 2 13 1 9 K 1 6 3 13 E 11 4 3 12 12 11 4 4 K 3 H 1 6 3 2 9 H H 2 9 G K 13 H 4 11 K E 9 11 G L 13 G L D E 3 11 11 G 11 7 9 11 4 4 3 12 12 11 11 L 13 G 1 2 13 1 D J 11 10 6 6 L 1 6 3 L 6 D 6 L 13 1 2 9 H H M 11 K 6 E 10 6 D D 11 G D 6 7 6 E E 6 2 L 6 10 6 6 L 13 G 1 2 13 1 J 6 G 11 4 D 1 13 G L K E 13 G 8 G 11 4 4 7 13 8 11 4 1 6 3 C 3 H G 11 E 13 M H 11 M 11 J 6 G 11 4 D 13 G L K E 13 G 8 13 G 1 2 13 1 D J 11 M 9 10 10 11 4 D 7 11 G 2 9 D J D J 11 M 9 10 10 11 4 D 9 L 11 13 4 12 13 G M 11 4 J 6 D L 6 2 G M 1 D J 11 4 7 13 H H 11 4 D 7 11 G 2 9 D J D J 11 4 7 13 H H 11 4 D 7 9 G L 4 D J 9 G 8 M 9 10 13 G 1 2 13 1 F 11 6 F H 11 K 13 C 6 3 E 3 G L 11 E L 6 10 4 M 3 D K 6 H H 6 2 6 G H 1 D 6 F L 6 10 4 K 9 10 J D K 6 E 4 6 7 11 3 G L 11 E L 6 10 4 13 G 1 2 13 1 2 J 13 D 1 6 3 4 F 11 G L 1 11 13 E 4 M 3 9 H L 9 G 10 7 13 1 M 11 L 11 4 D E 6 1 11 L 6 C 11 E G 9 10 J D M 3 9 H L 13 G 1 2 13 1 F 11 6 F H 11 E 11 13 H H 1 G 11 11 L J 11 H F M 3 D 7 13 1 13 D D 13 12 8 1 6 3 9 K 1 6 3 J 11 H F D J 11 7 J 11 H F F 11 6 F H 11 13 G 1 2 13 1 10 9 C 11 D J 11 2 6 E H L D J 11 M 11 4 D 1 6 3 J 13 C 11 13 G L 1 6 3 2 9 H H 10 11 D 8 9 12 8 11 L 9 G D J 11 D 11 11 D J 10 9 C 11 D J 11 2 6 E H L D J 11 M 11 4 D 1 6 3 J 13 C 11 13 G 1 2 13 1
+
+CIPHERTEXT TO BREAK: (wrapped characters to 40 per line)
+F 11 6 F H 11 13 E 11 3 G E 11 13 4 6 G 13 M H 11 9 H H 6 10 9 12 13 H 13 G L 4 11 H K 12 11 G
+D E 11 L H 6 C 11 D J 11 7 13 G 1 2 13 1 9 K 1 6 3 L 6 10 6 6 L F 11 6 F H 11 2 9 H H 13
+12 12 3 4 11 1 6 3 6 K 4 11 H K 9 4 J 3 H D 11 E 9 6 E 7 6 D 9 C 11 4 L 6 10 6 6 L 13 G
+1 2 13 1 9 K 1 6 3 13 E 11 4 3 12 12 11 4 4 K 3 H 1 6 3 2 9 H H 2 9 G K 13 H 4 11 K E 9
+11 G L 13 G L D E 3 11 11 G 11 7 9 11 4 4 3 12 12 11 11 L 13 G 1 2 13 1 D J 11 10 6 6 L 1 6 3
+L 6 D 6 L 13 1 2 9 H H M 11 K 6 E 10 6 D D 11 G D 6 7 6 E E 6 2 L 6 10 6 6 L 13 G 1 2
+13 1 J 6 G 11 4 D 1 13 G L K E 13 G 8 G 11 4 4 7 13 8 11 4 1 6 3 C 3 H G 11 E 13 M H 11 M
+11 J 6 G 11 4 D 13 G L K E 13 G 8 13 G 1 2 13 1 D J 11 M 9 10 10 11 4 D 7 11 G 2 9 D J D J
+11 M 9 10 10 11 4 D 9 L 11 13 4 12 13 G M 11 4 J 6 D L 6 2 G M 1 D J 11 4 7 13 H H 11 4 D 7
+11 G 2 9 D J D J 11 4 7 13 H H 11 4 D 7 9 G L 4 D J 9 G 8 M 9 10 13 G 1 2 13 1 F 11 6 F
+H 11 K 13 C 6 3 E 3 G L 11 E L 6 10 4 M 3 D K 6 H H 6 2 6 G H 1 D 6 F L 6 10 4 K 9 10
+J D K 6 E 4 6 7 11 3 G L 11 E L 6 10 4 13 G 1 2 13 1 2 J 13 D 1 6 3 4 F 11 G L 1 11 13 E
+4 M 3 9 H L 9 G 10 7 13 1 M 11 L 11 4 D E 6 1 11 L 6 C 11 E G 9 10 J D M 3 9 H L 13 G 1
+2 13 1 F 11 6 F H 11 E 11 13 H H 1 G 11 11 L J 11 H F M 3 D 7 13 1 13 D D 13 12 8 1 6 3 9 K
+1 6 3 J 11 H F D J 11 7 J 11 H F F 11 6 F H 11 13 G 1 2 13 1 10 9 C 11 D J 11 2 6 E H L D
+J 11 M 11 4 D 1 6 3 J 13 C 11 13 G L 1 6 3 2 9 H H 10 11 D 8 9 12 8 11 L 9 G D J 11 D 11 11
+D J 10 9 C 11 D J 11 2 6 E H L D J 11 M 11 4 D 1 6 3 J 13 C 11 13 G 1 2 13 1
+
+If you break the cipher without the proper algorithm being used then still WELL DONE
+after all the breaking of the cipher is the whole point of being a spy!
+
+But if you discovered and used the correct algorithm then encipher the following
+
+IDECLARETHATIAMANELITECODECRAKER
+
+and post the ciphertext to the forums.
+The MD5 of the ciphertext should be E6A408E0D4BC8AC70181644B4E9AD166

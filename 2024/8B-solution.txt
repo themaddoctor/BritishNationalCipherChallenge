@@ -1,0 +1,9 @@
+seriated Polybius cipher (all rows given before all columns)
+square:
+      1 2 3 4 5
+    1 R Q P O M
+    2 L K I H G
+    3 F E D C B
+    4 Y X W V T
+    5 S U N A J
+keyword: JANUS

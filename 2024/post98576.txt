@@ -1,0 +1,13 @@
+23rd November 2024 at 12:27 am
+#98576
+_madness_
+Participant
+
+Vigenère ciphers are all fine and good, but here is something more disturbing than burning witches. The following was encrypted with an interrupted Vigenère cipher, which (not witch) means that with every word the encryption starts over at the beginning of the key. Have fun.
+
+ZSVVHHRIERIGSKGCBFRBWVRGXVCYSFQRQPOLLWFLLBRFQSKWVNHZSPWTVMQCGESLBGSKUCHMYULKOQIOYZXQ
+LBGCPMVSESGHVHNHXRBRHJRBBQOZVRBZSKSNFWDOSGHXUGFBDIHLWVECNJPWVRVZVHLBWVRVOVRGCBFDBQIO
+YZRBWVRJFBIGGLHFICEBCHKOARXOVOVRKSEPXUBJCVBZRIGDBQFCZWGJEOPYZWGVLHDBQLKCCSWVRFXLGQCG
+VBQOWVRPOGHXUWVVGZOFLBDZYILLWFWCLHFKSNJREZNQDVSNZDBQECERXU
+
+The MD5 of the plaintext, in all caps, with word spaces included but no punctuation, is 74c9865d328618150fb98c3021a52ac7.

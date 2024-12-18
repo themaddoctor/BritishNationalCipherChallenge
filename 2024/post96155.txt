@@ -1,0 +1,35 @@
+7th October 2024 at 11:42 am
+#96155
+HarryPotterFan77
+Participant
+
+5 people are standing in a queue for plane tickets in Germany; each one has a name, an age, a favorite TV program, where they live, a hairstyle and a destination.
+
+Names: Bob, Keeley, Rachael, Eilish and Amy
+TV programs: The Simpsons, Coronation Street (“Corrie”), Eastenders, Desperate Housewives and Neighbours.
+Destinations: France, Australia, England, Africa and Italy
+Ages: 14, 21, 46, 52 and 81
+Hairstyle: Afro, long, straight, curly and bald
+Where they live: A town, a city, a village, a farm and a youth hostel
+
+1. The person in the middle watches Desperate Housewives
+2. Bob is the first in the queue
+3. The person who watches the Simpsons is next to the person who lives in a youth hostel
+4. The person going to Africa is behind Rachael
+5. The person who lives in a village is 52
+6. The person who is going to Australia has straight hair
+7. The person travelling to Africa watches Desperate Housewives
+8. The 14-year-old is at the end of the queue
+9. Amy watches Eastenders
+10. The person heading to Italy has long hair
+11. Keeley lives in a village
+12. The 46-year-old is bald
+13. The fourth in the queue is going to England
+14. The people who watch Desperate Housewives and Neighbours are standing next to each other
+15. The person who watches Coronation Street stands next to the person with an afro
+16. A person next to Rachael has an afro
+17. The 21-year-old lives in a youth hostel
+18. The person who watches Corrie has long hair
+19. The 81-year-old lives on a farm
+20. The person who is travelling to France lives in a town
+21. Eilish is not next to the person with straight hair

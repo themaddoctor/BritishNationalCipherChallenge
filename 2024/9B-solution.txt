@@ -1,0 +1,43 @@
+substitution
+
+a  /||||\
+b  /|||\|
+c  |/|||\
+d  /||\||
+e  |/||\|
+f  ||/||\
+g  /|\|||
+h  |/|\||
+i  ||/|\|
+j  |||/|\
+k  /\||||
+l  |/\|||
+m  ||/\||
+n  |||/\|
+o  ||||/\
+p  \/||||
+q  |\/|||
+r  ||\/||
+s  |||\/|
+t  ||||\/
+u  \|/|||
+v  |\|/||
+w  ||\|/|
+x  |||\|/
+y  \||/||
+z  |\||/|
+
+In terms of a six-needle Cooke-Wheatstone telegraph, the grid is
+(when pointing to "d", for example)
+
+           a
+         b   c
+       d   e   f
+     g   h   i   j
+   k   l   m   n   o
+ /   |   |   \   |   |
+   p   q   r   s   t
+     u   v   w   x
+       y   z   _
+         _   _
+           _

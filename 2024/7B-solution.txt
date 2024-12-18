@@ -1,0 +1,8 @@
+seriated Polybius cipher (all rows given before all columns)
+square:
+    1 2 3 4 5
+  a A B C D E 
+  b F G H I J
+  c K L M N O
+  d P Q R S T
+  e U V W X Y

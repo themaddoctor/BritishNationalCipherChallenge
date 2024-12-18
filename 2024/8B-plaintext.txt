@@ -1,0 +1,12 @@
+My dear Charles,
+
+I guess you have, by now, worked out the challenge set by Kaiser and solved already by our dear Mrs Lovelace. I was kicking myself when I finally saw it, specially since I was the one who inspected the cargo in Liverpool.
+I should most probably have already figured the thing out for myself, but I must admit that I had to ask Mrs Lovelace for some help, and her reply set me to thinking. If you have not yet resolved that mystery, perhaps her answer will help you too: Given the bullet boxes were all askew in the crates when the customs officials inspected them, why were they all the right way up when I looked at them later? It is clear someone emptied the crates and then refilled them, but to what end? Was the contraband really that small that it could be hidden between the bullets? Was it hidden in the bullets themselves?
+I now know the answer to that riddle, but the question of what the contraband might be remains a deep mystery, and I am hoping that the files I inspected at Herr Kaiser's mansion may reveal the secret to us.
+Mrs Lovelace has, with her usual grace and kindness, been teaching me the art of decypherment, and together we have been working on the Janus Project files, with but little success, though the page I have included in this letter does show some promise. Mrs Lovelace has determined that this one is most likely encyphered using a Vigenere cipher, but our attempts to solve it have not been successful, and I fear we must have missed something. Perhaps you will be more successful.
+
+Well I hope you have managed to receive and to decode this letter and that you find it helpful. I understand that Wheatstone has now completed the installation and testing of his telegraphic apparatus at all our homes, and so we are expecting your reply by way of that machine. It will be most exciting to see it in operation.
+
+With my fond regards,
+
+Kate Warne.

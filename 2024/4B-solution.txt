@@ -1,0 +1,3 @@
+monoalphabetic substitution
+key: CUSTOMNPQRVWXYZABDEFGHIJKL
+keyword: CUSTOMS
