@@ -1,0 +1,15 @@
+Cracking Challenge 10B
+
+4th January by Harry
+
+Yesterday we explained the hint in case file 10.1 for Challenge 10A, so today we will start on the hints in case files 10.2-10.4 which some of you will have worked out, but were perhaps a little elliptical! As before, if you prefer to carry on without our help, then stop reading now!
+
+The cipher text was presented as a string of characters from the set {\,|,/}, which you already saw in the previous challenges were indicators from the Cooke-Wheatstone telegraph. Case File 10.2 gave you the frequency counts for the three characters, and that probably didn’t help much since all three appeared the same number of times! Actually, as we will see later, this was very helpful. Case File 10.3 reminded you that this might be related to the Cooke-Wheatstone telegraph, but a three needle version, which can only encode six letters. Moreover, the needles were pointing in inconsistent directions. Remember that in the telegraph system they should all point to a single character on the board and these did not. Again, that might not look very helpful, but if you look at the three character blocks in the cipher text you will see that this is exactly what often happens. A consistent block of three on the three needle telegraph always has exactly one of each of the symbols \,|,/ as shown on Case File 10.4.
+
+Together with the fact that the symbols all appeared with equal frequency might suggest that somehow we needed to rearrange the symbols to get consistent blocks of length three throughout it, in other words we need to carry out some form of transposition.
+
+That is enough for today, but we recommend reflecting on how Case File 10.5 might help with working out the length of the key used in the transposition! We will be back with more on Monday, but do take a look at the news tomorrow for a solution to the crossword in Harry’s Christmas Miscellany.
+
+Have fun,
+
+Harry

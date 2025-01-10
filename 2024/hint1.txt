@@ -1,0 +1,19 @@
+Guide to the official hints for Challenge 10
+
+2nd January by Harry
+
+If you would rather continue working on the challenges without our help, you should stop reading now, but if you would like to complete them and really would appreciate a little assistance, then the posts today, tomorrow and Saturday should help. Even if you have cracked Challenge 10 for yourself, you might like an explanation of the Case Files, and you will find that here.
+
+We will start today with Challenge 10A, as there was only one clue for that in the form of a cryptic image. You were shown a picture of a car key for a well known American car manufacturer, or, as they would say, an auto manufacturer. So it hinted at the fact that 10A was an autokey cipher. Sorry! These are based on the Vigenere cipher, and have a keyword, but instead of repeating the key throughout the encryption, it is just used once, and followed by a copy of the plaintext to make a non-repeating key. Here is an example:
+
+To encipher the message “This is really hard” using the autokey cipher with keyword “tricky” write the expanded key as “trickythisisreallyhard”. Write this above the plaintext and add it like you would for a normal Vigenere cipher:
+
+trickythisisreallyhard +
+thisisreallyhard =
+MYQUSQKLIDTQYERO
+
+For those of you wondering about the cryptic comments appearing in the Forum about French hospital equipment, this cipher is also known as the autoclave cipher in France, and the autoclave is a machine used to sterilise surgical equipment. Well done to those of you who got the hint! This really was the year of cryptic clues, from us and you!
+
+Of course knowing which cipher was used is not the whole story, you still need to break the message, but we won't do that for you, we will just point you to Unit 92 in Madness's A Book on Classical Cryptography Enjoy!
+
+Harry

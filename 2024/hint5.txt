@@ -1,0 +1,21 @@
+The final clue
+
+8th January by Harry
+
+Case File 10.8 contained only one new ingredient, the letters A,D,F,G,V,X on the needle telegraph.
+
+As we noted before we are somehow encoding the alphabet using a 3-needle system, and while it would be possible to do that using the 27 possible trigrams using three symbols, we noted from the frequency analysis that this was very unlikely. We would not expect the characters \,|,/ to appear exactly the same number of times if we were doing the, and that led us the the three needle telegraph code which can only encode six letters. So how do we get the other 20?
+
+The answer is using a Polybius square, which you are all familiar with from earlier rounds. A 6×6 square allows us to encode up to 36 characters, though in this particular case we are only using the standard 26. We can use the three needle codes to index the rows and columns of the Polybius square, so that pairs of three needle blocks encode a position in the square. That means that each six needle block encodes exactly one plaintext character, so if we replace each six needle block by a letter we will have constructed a cipher text which is just a substitution cipher applied to the original plaintext. We can break that using frequency analysis in the usual way.
+
+The ADFGVX clue in Case File 10.8 points at the fact that this is pretty much the same sort of cipher. where instead of using the needle code to index the rows and columns of a Polybius square, pairs of letters from that collection are used. The needle code hides that fact, but also introduces a weakness. The fact that the needles are balanced in each block of three adds an element of error correction which we could use to work out the transposition step.
+
+And with that you should now be able to break Challenge 10B!
+
+Congratulations on sticking with it for so long. Don’t forget to submit your solution before midnight on 10th January to get your certificate.
+
+We hope you enjoyed this challenge, even if you found it infuriating. We also hope you learned something along the way. Who knows when it will be useful! And we will be back next year with another set of challenges for you to tackle with your new skills!
+
+Stay tuned for more news,
+
+Harry

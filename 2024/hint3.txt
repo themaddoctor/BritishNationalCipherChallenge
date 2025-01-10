@@ -1,0 +1,9 @@
+More on how to crack Challenge 10B
+
+6th January by Harry
+
+On Saturday we saw that Challenge 10B is partly encrypted with a transposition, but what transposition could have been used? We are familiar with column transposition, so perhaps we need to use one of those to get the blocks straightened out. In which case we need to know how many columns to use, and for this frequency counting really helps. If the cipher used N columns then each block of 3N characters would be preserved (and jumbled) by the cipher. As this is a multiple of three it would contain N of the original 3-blocks, so should have an equal number of \,|,/ characters. So counting the number of those as a running tally we should see at step 3N, 6N, 9N etc that the number of characters of each type is the same (N, 2N, 3N etc).
+
+We will leave you to carry out that calculation, and come back with more guidance tomorrow.
+
+Harry

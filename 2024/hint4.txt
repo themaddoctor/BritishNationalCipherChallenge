@@ -1,0 +1,19 @@
+Completing the column transposition step
+
+7th January by Harry
+
+So far we have worked out that the cipher somehow encodes letters using the three needle telegraph code, but that this has been jumbled using a column transposition. Counting the tally of characters we saw they equalise in every block of 21, suggesting that the transposition worked on 7 blocks at a time, so we might guess that the key for the column transposition has length 7. This is correct, and was also hinted at in the bricklayer picture in Case File 10.6, in which each brick represents a single block of three needles. But which transposition of 7 columns could it be? There are an awful lot of them (7! in fact, which is 5040).
+
+Luckily the fact that after the transposition every block of three needles should be balanced reduces the possibilities a lot. That was the content of Case File 10.7. The first seven characters in the cipher text is \\/\/ ||, which has three \, two | and two /. Because the three needle code should be balanced on the first three characters and on the next three, the final character in the unjumbled state must be \, which means that the original final column (before the transposition) was either the first, second or fourth column of the jumbled message.
+
+Putting the text in rows of length 7 and Looking at rows 1,4,7,10 etc you can see the same pattern works and that will tell you which of the columns needs to be put last.
+
+Looking at the brick pattern we see we can do the same thing looking at the third row (and the 6th, 9th etc) to see which of the cipher text columns should go first to continue unjumbling the message. We are still not done, but notice that having found the first and last columns we can deduce something about the second and sixth.
+
+Look at row 2. It should start with the second and third characters of the third block of three in the text. The first character of that block appears at the end of row one, which we know because we have figured out which column goes last. The second character of the block appears at the start of row 2, which we know because we have figure out which column goes first. So we know characters 1 and 2 from this block. Since every character from the set {\,|,/} appears exactly once in each bloc, we can work out what the third character must be and that restricts which column can go second. If necessary we would also look at rows 5,8 etc to nail that down. A similar process looking at the end of row 2 will tell us which column should go in the sixth place.
+
+Now you can use the same idea to work out which columns go in the third and fifth position by looking at the middle of the second row. The staggering of the blocks is what allows us to do this, hence the clue about the staggered weakness in the Case File text!
+
+More tomorrow!
+
+Harry
