@@ -1,0 +1,24 @@
+[https://sudokupad.app/pnyv6sn7qm]
+
+Déjà Vu Part 1: Doublers
+by Scojo
+
+Normal sudoku rules apply: Place the digits 1-6 once each in every row, column, and 2x3 box.
+
+Doublers: Place one Doubler in every row, column, and box. Each Doubler must contain a different digit. The value of a Doubler is 2 times the digit in its cell. The value of a non-Doubler is the digit in its cell.
+
+Standard Region Sum Line, Renban, Nabner, Thermo, Kropki, XV, and Quadruple rules apply, with respect to cell values.
+
+Region Sum Line: Box borders divide the blue line into segments with equal sums of values.
+
+Renban: Values along the pink line must form a set of non-repeating consecutive values in any order.
+
+Nabner: The two values on the yellow line must have a difference of at least 2.
+
+Thermo: The value on the tip of the thermometer must be larger than the value on the bulb.
+
+Kropki: Values separated by the white dot are consecutive. Values separated by a black dot are in a 2:1 ratio.
+
+V: Values separated by the V sum to 5.
+
+Quadruple: The value 2 must appear at least once in the four cells surrounding the white circle.
