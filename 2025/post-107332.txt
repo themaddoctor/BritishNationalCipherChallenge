@@ -1,0 +1,63 @@
+7th October 2025 at 9:44 pm
+#107332
+ByteInBits
+Participant
+
+Another (difficult?) math puzzle given in my own made up narrative.
+
+A contest where YOU are one of the contestants.
+
+The quizmaster host has brought six contestants to a stronghold building
+having just one door, he tells them that “there is a pile of gold coins inside
+and that it costs nothing to enter via the door but it will cost one coin
+in a slot to exit. There are instructions inside telling you what to do, one
+of you will not be going in and that person needs to be very good at maths,
+as a correct answer from her/him will determine if you all win, so get to and
+sort yourselves out and then we will begin, oh and you all must be honest and
+accurate if you wish to win.”
+
+YOU are chosen to be maths master!
+
+The host asks each of the other five contestant in turn to enter the door.
+The first contestant went in, the door closing behind, read the notice and conformed.
+As did the second, third, fourth and fifth.
+
+When all five had had their turn the host then instructs:
+“Now all five of you are to enter together and take an equal share of the coins.”
+He hands them a bucket each.
+
+When they are finished the host says
+“I can see there are no coins left over so you were all honest and accurate in all your
+dealings. However to keep all your gold coins, each worth £100, your chosen player
+needs to answer one question. One of you can tell the chosen math person how many
+coins you have in your bucket and what the message inside instructed you to do.”
+
+One of them steps up to YOU and says “204 coins and the message inside was
+‘take one coin for the door, then count the remaining coins and remove one fifth of them
+and put them into the hole nearby, then leave’.”
+
+The host then gives YOU a bucket and instructs the other five to each put 35 coins into
+it from their own bucket, to be your share of the reward if YOU win it for everyone.
+
+The host then handed YOU a card with a question on it.
+and said “No one else is to see it or help you, please write your answer on the card.”
+
+The question on the card read:
+‘What is the smallest possible number of coins that the original pile in the building
+contained?’
+
+Would your answer win £17,000 for each of you?
+No pressure but the other five keep looking at their bucket then back at you!
+
+Put up your answer and lets find out!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Extra questions you may like to compute:
+
+1] How many coins in total were put into the hole?
+
+2] If the question on the card had read:
+‘What is the smallest possible number of coins that the original pile in the building
+contained if there was one coin left over after the five shared the remaining pile’
+Then what would your answer be?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

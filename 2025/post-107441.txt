@@ -1,0 +1,36 @@
+8th October 2025 at 10:53 am
+#107441
+John_Musgrave
+Participant
+
+#104162 Robot question answer.
+
+>What was the constant MPH speed that Speed-E set?
+
+Let the speed of Speed-E be v, the speed of the column be w and the duration of the outward and return journeys be t1 and t2 respectively.
+
+We know:
+
+t1 + t2 = 1
+
+and that Speed-E catches Head-E when
+
+v.t1 = 10 + w.t1
+
+and that Speed-E returns to End-E when:
+
+v.t2 = v.t1 – w
+
+In this case w = 1 and the above simplify to:
+
+v.t1 = 10 + t1
+
+and
+
+v.t2 = v.t1 – 1
+
+Solving for t1 we get:
+
+t1 = (sqrt(101)-9)/2
+
+and v = 1/(sqrt(101)-10) approximately 20.499 mph.
