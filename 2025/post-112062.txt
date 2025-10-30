@@ -1,0 +1,28 @@
+26th October 2025 at 3:17 pm
+#112062
+Kingswinford-Warriors-Alumni
+Participant
+
+===== EXCURSIONS IN GEOMETRY =====
+
+(This is my first post to the Cipher Challenge forum this year, so hello everyone! I’m looking forward to the Challenge getting started in earnest in two weeks’ time!)
+
+I really liked last week’s Sunday puzzle about the geometry diagram. I actually had a slightly different solution to that given on the Mathforge website (https://notes.mathforge.org/notes/published/four+squares+inside+a+rectangle+solution), so I thought you might like to see it!
+
+Using their notation, here is my way of proving that ∠FCE is 45°, using circle theorems. [Hopefully the HTML code is correct!]
+
+    - Let M be the midpoint of BE.
+    - Since MB = ME = MF, the circle Γ through B, E and F has centre M, which also means that Γ has diameter BE.
+    - However, ∠BCE is 90°. Thus, the circle through B, C and E also has diameter BE, which means that this circle is also Γ.
+    - Hence, B, C, E and F all lie on a circle centred at M. This means that ∠FCE is half of ∠FME.
+    - Now we just use the fact that ∠FME is 90° to get the final answer of 45°.
+
+(And then we use parallel lines to conclude that this is also the answer to the question given.)
+
+Anyway, in the same spirit, here is a geometry puzzle that I thought up of. See what you make of it:
+
+    Points A, B and C lie in the plane, with M being the midpoint of BC. Given that the lengths of AB, AM and AC are 3, 4 and 5 respectively [in whatever units you choose], find the area of the triangle ABC [in said units squared].
+
+    (As a bonus question, calculate the area of ABC if AM=2 instead.)
+
+Good luck!
