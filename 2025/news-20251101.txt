@@ -1,0 +1,100 @@
+Scoring the challenge
+
+1st November by Harry
+
+Today I am delighted to present a guest post by forum member Crackerjack_404. It explores the scoring system we use for the challenge, and I think it is the perfect Long Read for a Saturday morning!
+
+f you have your own suggestions for a Long Read that you would like to write or commission, then let us know in the Forum.
+
+Enjoy!
+
+How Close is Close Enough?  
+A Look at the Damerau-Levenshtein Distance 
+
+If you’ve ever submitted a solution to one of the challenges and scored 98 out of 100, chances are you were just one or two letters off. Maybe you typed an “m” instead of “n”, or you accidentally swapped two letters, it wasn’t a complete miss, it was close.  
+
+But how does the system know that?  
+
+The answer lies in an algorithm called the Damerau-Levenshtein distance, which is actually mentioned in the Rules, Regulations and Policies page.  
+
+The Damerau-Levenshtein distance plays a key role in scoring your submissions. Yet, despite being part of every single point you earn, it’s rarely talked about. So if you’ve ever wondered how your answer was judged to be 99% correct, and why you lost points for swapping a few letters, this post is for you.  
+
+String Distances  
+
+You might not think about it, but the idea of comparing strings shows up in all sorts of places. When you mistype a word in a search engine and still get the result you wanted, that’s string distance at work.  
+
+Every time you submit a plaintext string, your solution is compared to the correct one. It’s not just a simple check to see if the two strings match exactly, but your feedback reflects how close you got, and that closeness is measured using string distance.  
+
+A string distance is way of measuring how different two strings are. The idea is that you take one string, and count how many small changes it would take to turn it into the other. The more changes needed, the further apart they are.  
+
+This concept isn’t unique to the cipher scoring system, but shows up in all sorts of places including but not limited to:  
+
+    Autocorrect systems  
+
+    DNA analysis to compare genetic sequences in computational biology 
+
+    Hamming codes and error correction in data transmissions  
+
+    Spam filtering  
+
+    Plagiarism detection tools  
+
+Each of these systems relies on being able to compare strings in a useful way, even if they aren’t exactly the same. The methods vary depending on context, but the core principle remains the same- compare two sequences, allow for a bit of error, and measure how far apart they are.  
+
+The Damerau-Levenshtein Distance  
+
+For the scoring used in the National Cipher Challenge, the specific method used is called the Damerau-Levenshtein distance, which like the some of the other methods, tells us how many small changes are needed to turn one string onto another. These changes include:  
+
+    Insertion: adding a character  
+
+    “HARY” à “HARRY” (insert “R”)   
+
+    Deletion: removing a character  
+
+    “HARRYY” à “HARRY” (removing “y”)  
+
+    Substitution: replacing one character with another  
+
+    “HAIRY” à “HARRY” (substitute “I” with “R”)  
+
+    Transposition: swapping two adjacent characters 
+
+    “HRARY” à “HARRY” (swap “R” and “A”)  
+
+The last change (transposition) is what makes the Damerau-Levenshtein different from the regular Levenshtein distance. It’s a rather clever addition because it handles common errors like hitting two keys in the wrong order.  
+
+For instance, if you accidently typed “JODEI” instead of “JODIE”, the Damerau-Levenshtein distance counts it as just one swap, while the regular Levenshtein counts it as two changes (one substitution and one insertion/deletion).  
+
+The distance is scaled against the length of the correct solution, so longer texts allow for more small mistakes without massively impacting your score. A perfect match therefore gets 100, and one or two small mistakes result in a small penalty, so the further off you are, the more points you lost.  
+
+Calculating the Distance 
+
+In terms of actually implementing the distance calculator, there are two closely related variants of the Damerau-Levenshtein distance that allow the same rule of changes. They can both be defined recursively and implemented using dynamic programming, but differ in how much flexibility with transposition 
+
+Optimal string alignment  
+
+This version is also referred to as the restricted Damerau-Levenshtein. It only allows transpositions of adjacent characters and each character can have at most one transposition. It’s fairly easy to compute this using a 2D matrix.   
+
+Distance with adjacent transpositions 
+
+This version is more accurate but also more computationally expensive. The main difference is that this allows for transpositions of any characters, not just adjacent. The characters can also have multiple transpositions, i.e if two letters have swapped places, even if they’re not adjacent, it counts it as a single transposition, rather than two edits.   
+
+Consider these two strings below: 
+
+s1 = CIPHER  
+
+s2 = CIPREH 
+
+where s1 is the string we’re trying to match and s2 is the string we’ve submitted 
+
+If we were to use the optimal string alignment distance, the distance would be 2 as we would first have to swap “R” with “E” And then “R” with “H”.  
+
+However, with the second version, the distance would be 1 as we can just one transposition of “R” and “H” is required to turn s2 into s1.   
+
+Conclusion
+
+By no means did I figure this out on my own, so I have added links to articles and pages that helped me understand how this algorithm worked in detail. I’d recommend having a scroll through those if you’d like to read more about string distance algorithms.  
+References:  
+https://www.geeksforgeeks.org/dsa/damerau-levenshtein-distance
+https://mathspp.com/blog/til/damerau-levenshtein-distance#:~:text=Intuitive%20definition&text=The%20distance%20between%20two%20strings,one%20word%20to%20the%20other.
+https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance#
