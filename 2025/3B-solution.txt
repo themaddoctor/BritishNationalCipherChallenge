@@ -1,0 +1,3 @@
+permutation cipher (columnar transposition read off by rows)
+key: (3,4,5,1,2) [or its inverse, (4,5,1,2,3)]
+If you must attach a keyword to it, how about STUCK?

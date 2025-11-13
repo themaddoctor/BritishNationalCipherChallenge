@@ -1,0 +1,3 @@
+Case file 4.1
+
+It took me a little while to see what I did wrong with this, but once you see it you can figure out the message from Ada to Charles in part A. It looks like Ada has adopted the same style of cipher as the one she recommended the gang to use when communicating with Palmerston. Once you decipher that you will know who wrote part B and who they addressed it to, which gives you a pretty good crib to crack the substitution cipher they used in that part.
