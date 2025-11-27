@@ -1,0 +1,3 @@
+permutation cipher (permute columns and read off by rows)
+key: (4,6,3,2,5,1,7)
+keyword: MOLINARO

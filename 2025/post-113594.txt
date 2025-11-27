@@ -1,0 +1,8 @@
+17th November 2025 at 9:42 am
+#113594
+AndGiggles
+Participant
+
+@the_cryptographer_formerly_known_as_madness Fair enough. I was trying to give you the nature of the twist with “about Galileo lacking the French sulphur for his area of study”, which depending upon how big a fan of crosswords you are may not have helped. The cipher uses a Galois field to encode the letters with matrix multiplication being carried out normally apart from this. Finite fields have order p^n, for some prime p. This is why I said that 25, 27, and 29 could work (5^2, 3^3, and 29^1), whilst 24, 26, and 28 (3*2^3, 13*2, and 7*2^2) couldn’t. As you said, it’s a 3×3 Hill cipher just that (somehow) everything is done in GF(5^2) rather than Z/25Z (I’ve always thought it would be better if there were a prime number of elements in the alphabet and this is the next best thing).
+
+@Gen_ruikt I wouldn’t bother with this cipher, if I were you. It relies more on noticing some numerology than ability to solve ciphers. As madness pointed out, Kerckhoff’s principle (and certainly my own aesthetic taste) says that ciphers which just rely on the secrecy of the encryption scheme are rather rubbish. I seem to recall that one of the previous years challenges themed around the Roman period had a hill cipher as its final challenge, and that is probably a much higher quality and more conventional place to start with these.

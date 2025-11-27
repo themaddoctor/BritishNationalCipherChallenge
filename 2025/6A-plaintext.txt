@@ -1,0 +1,11 @@
+My dear Babbage,
+
+I am writing to thank you for forwarding the final designs for your prototype. I have managed to integrate the device with the machines at some of our telegraphs stations and have been running it on sample text intercepted from the traffic passing through those offices.
+
+In general, my engineers have been highly impressed by your mechanism. They were astonished at the speed with which it was able to parse the traffic  and to correctly flag messages that deserve or require greater attention. Curiously, however, one of the telegrams has resisted attack both by your computer and by my cryptologists. Despite their (and my) best efforts they were unable to determine the nature of the text it contains.
+
+The technician who brought us your plans takes the view that the message may have been encrypted using a Vigenere cipher, and these are, of course, notoriously difficult to break. Perhaps it will resist us all, in which case I am afraid that might undermine the value of this endeavour. I am hoping that you or your friend Wheatstone might be able suggest a modification of your machine that can rise to the challenge.
+
+I can provide one useful item of intelligence that may help in deciphering the cursed telegram: it was apparently sent from the office of a New York businessman by the name of Miller, and may have been a reply to another message from someone signing with the single letter R. I must congratulate your technician for making this connection. The intercepted message to Miller from R was encrypted using a simple Caesar shift cipher, which had nonetheless caused a slowdown in the apparatus owing to the fact that the text had been blocked in five letter groups. While waiting for the engineers to tune the mechanism to speed up the decryption your colleague cracked that cipher by hand, and certain aspects of it, including the use of an Italian form of Miller’s name, attracted her attention. Setting a flag to monitor messages from the neighbourhood office led to the discovery of this text. I think it is perhaps worth examining further, if only to help improve your mechanism.
+
+Dodge

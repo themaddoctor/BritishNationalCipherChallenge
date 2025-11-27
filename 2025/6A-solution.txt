@@ -1,0 +1,5 @@
+permutation and monoalphabetic substitution ciphers (in either order)
+permutation key: (1,4,3,2)
+permutation keyword: DODGE (repeated letter dropped)
+substitution key: CHARLESTUVWXYZBDFGIJKMNOPQ
+substitution keyword: CHARLES
