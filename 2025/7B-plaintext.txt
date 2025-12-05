@@ -1,0 +1,19 @@
+Grenville,
+
+I deciphered and read the cursed telegram you forwarded to me and have to admit to considerable alarm at its contents. Even without the reference contained therein to stealing valuable property, and the knowledge of Charles’s itinerary, the fact that the mysterious Molinaro and Rokesmith appear to be using codenames is a certain sign that something occult is afoot.
+
+I think we can be sure that Molinaro, being the Italian version of Miller, does indeed refer to the businessman alluded to in your message. Rokesmith is another matter entirely. I do not know how familiar you are with the works of our literary friend, but Rokesmith is the pseudonym of the character John Harmon in his novel Our Mutual Friend, suggesting a familiarity between R and Dickens. If Charles has been a little too free with his confidences, then it is possible that someone is aware of our plans and is hoping to sell our technology behind our backs. I cannot imagine what else the telegram could signify.
+
+For this reason, I think we must accelerate our plans and at the same time increase our security. As I mentioned in my telegram the other day, Wheatstone suggested that we might use his Playfair cipher for our future messages and I am inclined to accept that recommendation.
+
+We will need to agree a key schedule, and I propose that we use text from Dickens novels for the keys. That has the advantage that we need only agree an edition and transmit page line and word numbers in order to agree a key and these can be secured using other, simpler ciphers.
+
+In the meantime, I have secured passage for a shipment of my cipher engines to arrive in Baltimore in February. If I have understood your systems, political and telegraphic, you should find this consignment sufficient to equip your offices in Tennessee and Arkansas, which I believe to be critical to the success of the mission.
+
+I know that you are reluctant to proceed with installation without your President’s explicit approval, but it will avoid delays if we position ourselves to begin their use as soon as that permission is received.
+
+I am sure this will have occurred also to you, but even without that permission I think we might allow ourselves the liberty of continuing to monitor the communications of our new friend Molinaro, in order to be forewarned if they get closer to interrupting our purpose.
+
+Yours, as ever,
+
+Babbage.

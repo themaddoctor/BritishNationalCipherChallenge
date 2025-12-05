@@ -1,0 +1,63 @@
+1st December 2025 at 10:38 pm
+#113974
+the_cryptographer_formerly_known_as_madness
+Participant
+
+Inspired by @AndGiggle’s use of GF(25), and because this week’s challenges are too easy,
+and because it is Black Friday, here are some gifts for you.
+
+First, what is Black Friday? BF is a dark day of consumerism that you have imported from
+the United States. It began here (here = the U.S.) as the day after Thanksgiving, when
+our attention is freed from the gluttany of the turkey-killing day and turns toward the
+gimme-presents day. You, hedonsitic consumerists [edited by Harry] imported BF but
+not the day of thanks. In Norway, I even saw signs that said “Black Friday all week long”
+(Black Friday hele uke); like Thanksgiving never existed. Someone in the forum was
+wondering about my level of evilness. So consider these challenges a pay-back for stealing
+our darkest but most holy of holidays.
+
+These challenges take the Caesar and Vigenère ciphers and replace addition in Z/26Z with
+multiplication in GF(27). The moduli for two of them are given; for the other two not.
+Elements (which are polynomials) of GF(27) are mapped to integers by evaluating them at
+x = 3, which is the modulus of Z/3Z, the underlying field from which the coefficients of
+the polynomials are drawn. Letters of the alphabet are mapped to nonzero integers only:
+A=1, B=2, …, Z=26. If any of this sounds strange or confusing to you, consider it an
+opportunity to go out and learn something. Evil, remember?
+
+Challenge GF(27)_1:
+cipher: Caesar
+modulus: x^3 + 2x + 1
+ciphertext: DBJPFYYLVFJAVBPPBSPFSFXBSPXBAAKJALJZBJPSBLPKJAMKGJFPPFXBDFZFRJMBLSPBZLJZJFP
+PFVBLOBLGBSKNLRKPMFCPGLHKJALJFPMBSBYYFSPKPFVZMKGKNFCVZXBLSLJTPSKLVBQNBIPPMBRSBPNMBZJBDD
+FYDBBKJAMKGNFGBXLNHLMBVIVBDDXSFHBJZFRJGLJPSTKJACDBVBDDVTPFXBAKJVKYBLALKJRMBJPFFFVZYFSLN
+MLJAB
+md5(PLAINTEXT): 934c48d3e7d78ab2d392bf56206d0d6f
+
+Challenge GF(27)_2:
+cipher: Caesar
+modulus: ?
+ciphertext: WAYEAREITTORBQFTSVFBRUSQNXTYARMTITTOVOTREURIQVWNQITNWROBVOTREURIQVWXRNUXUXY
+OBYEARVOWTBIUWAQETFREWDQNBEQSATNEYITJROXUFYSTDNTWKATBFUROBDNTWKATBFUYRXETOWTOKTBWQTOBYW
+md5(PLAINTEXT): a7e49656ab26a750d41354484f40f7be
+
+Challenge GF(27)_3:
+cipher: Vigenère
+modulus: x^3 + 2x^2 + x + 1
+ciphertext: WLUPFZIIAZTRTGFZIRNYDYBDMLXYLCIJSSRLFJPNOTIHXYFWUEBZXLRABZXNMQJZSNHJNWOOIJM
+SQNUEUYWLNYFESBFKFREGTNUSQCOSXWRGNNYVGLCRBROBDIBJTBTJBEVDAXDYDDXEBZXDNDBYQZIIRSOMCKCVXB
+JUSQYRDCTQTBCKGLSETUJATTOYAMQHSHFZYGMUUHRKAPQDOPEXDVYLPRBUFIYUMMNLWGFFOBWLUPOMASAPFDRVT
+FTMLSSGFZEYBHLTAYMZSNESDOSEDCRHFZEGTVMXICBVKGTJIHQMTNTROQTJNHDDWYTGRNOPFYIRBKCRYGMNBVYL
+UPIXOERQRMRGMAFZFRLEFSBNOUZNUTIIRSLZIIRYGDSGBZTWAVANXBENYVZGSLFERLFHTFTKATXMDGCJXR
+md5(PLAINTEXT): d1b993390d150a2bc53f1a86a8e78c24
+
+Challenge GF(27)_4:
+cipher: Vigenère
+modulus: ?
+ciphertext: HNULERILEELIVWQMHDHFFOSSTLHETTOLMFFXSAQIBUATLVYVXNEENTFIHOCNOPVJTXGIPOHNRQE
+XLRCNNIGFAFXUIPOVLDONTILEPZDRDTEQTTFLTOTNEHJOLXUYMUHCOQOKNUSPTYVEATOLCSXAEXGLSXOHRLRGXD
+FXUEAYGHHUSFFLEEOTJOFSBORFIYOEKDGJNEENOPEIIJTTFLTSNRDMDLAZLIPUURGDERYWAPNOAALIQMSGALIJT
+LSNATETCNEQNPMUCJQRHGANUURPONIDDIRLDSAQEROCSVFNUCOZXZAEROXDTCQTTEGUACVWJDMPELSVLVRPEIJF
+GITOCTDTEETLFWFTGMNVETCETCQRFWAMRRWQFDUEJPFNUKANETDHUIUYGIXRGILATPFRSEGHPFINTLEPGAFGHEP
+AECKFIUNAPOYARLRQDZPGLSSGUPHUSGFHFGEANEQNPFHFTLHNPEKDUNJMVJGUDAOTIGHDGEUHDFNUZNRLVBRLDH
+CGHHUEIYSEYLEPYTAYZNRYTCHMFCEXIJZLGXASRMRFDATXKDCDAPHETFFOTOLMKXGIPZSZDRTRQECDHSBQIHLAO
+BQYFFGHHAAAIURNKL
+md5(PLAINTEXT): 3bbc3f50b2f401b39e5b27a809f6dae5
