@@ -1,4 +1,4 @@
-Case file 6.2
+#Case file 6.2
 
 <img src="CC2025-Challenge-6B-ioc-chart.png">
 
