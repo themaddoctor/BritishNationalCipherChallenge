@@ -1,6 +1,6 @@
-#Case file 3.3
+# Case file 3.3
 
-<img src="CC2025-Casefile-3.3.png">
+![](CC2025-Casefile-3.3.png)
 
 By popular demand here is another hint about how to tackle this cipher!
 

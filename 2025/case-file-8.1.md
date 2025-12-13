@@ -1,4 +1,4 @@
-#Case file 8.1
+# Case file 8.1
 
 | Key length | Index of Coincidence |
 | ---------- | -------------------- |
