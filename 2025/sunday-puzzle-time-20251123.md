@@ -1,12 +1,12 @@
-#Almost advent!
+# Almost advent!
 
 23rd November by Harry
 
-<img src="CC2025-Camels.png">
+![](CC2025-Camels.png)
 
 How did you get on with the birthday puzzle ?
 
-<img src="CC2025-father-and-son.png">
+![](CC2025-father-and-son.png)
 
 On my birthday this year I noticed that if I reverse the digits of my age I get my father’s age. On my previous birthday he was twice my age. How old was my father when I was born?
 

@@ -1,8 +1,8 @@
-#Caribou?
+# Caribou?
 
 5th October by Harry
 
-<img src="CC2025-tri-gnu-computer.png">
+![](CC2025-tri-gnu-computer.png)
 
 Caribou is the performance name of the mathematician, composer, musician and producer, Dan Snaith. He worked on automorphic forms for his PhD, studying under Kevin Buzzard who is now best known for his campaigning work to integrate mathematics with computer proof verification, or, in his words, “to teach computers to do maths”! Kevin explained why this is necessary in a fabulous TedX talk, that we have linked below. If that is too heavy for a lazy Sunday morning, you can (come) find some of Caribou’s music on Youtube instead:
 

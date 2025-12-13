@@ -1,8 +1,8 @@
-#Net loss
+# Net loss
 
 26th October by Harry
 
-<img src="placeholder.jpg">
+![](placeholder.jpg)
 
 Here is the solution to last week’s Sunday Puzzle as collated by Andrew Stacey from MathForge
 
@@ -14,5 +14,5 @@ We loved the solution proposed by “the_cryptographer_formerly_known_as_madness
 
 For this week’s puzzle we thought you might like to try the following:
 
-    Alice, Bob and Claire want to play table tennis. Since there is only one table and two bats, they decide that whoever loses a game steps out for the next game to let the other person in. The players of the first game are chosen randomly. By the end of their session, Alice has played 17 games, Bob 15 and Claire 10. Who lost the second game?
+> Alice, Bob and Claire want to play table tennis. Since there is only one table and two bats, they decide that whoever loses a game steps out for the next game to let the other person in. The players of the first game are chosen randomly. By the end of their session, Alice has played 17 games, Bob 15 and Claire 10. Who lost the second game?
 

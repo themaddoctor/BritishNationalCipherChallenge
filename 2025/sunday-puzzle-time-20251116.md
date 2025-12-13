@@ -1,12 +1,12 @@
-#Sunday puzzle time (again!)
+# Sunday puzzle time (again!)
 
 16th November by Harry
 
-<img src="CC2025-passengers.jpg">
+![](CC2025-passengers.jpg)
 
 How did you get on with last week’s puzzle? It is a classic, which might be why Madness immediately knew the answer. He spent the time instead making a new image to illustrate the puzzle, and while I understand the horror of having to argue over someone sitting in the wrong seat on the plane, I have to say the odds that everyone ends up in the wrong seat and equally horrified seem vanishingly remote to me!
 
-<img src="CC2025-passenger-plane.png">
+![](CC2025-passenger-plane.png)
 
 Here is the puzzle again in case you didn’t see it:
 
@@ -18,6 +18,6 @@ If you don’t quite believe this somewhat hand-wavey explanation, then try work
 
 Now for today’s puzzle!
 
-<img src="CC2025-father-and-son.png">
+![](CC2025-father-and-son.png)
 
 On my birthday this year I noticed that if I reverse the digits of my age I get my father’s age. On my previous birthday he was twice my age. How old was my father when I was born?

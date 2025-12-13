@@ -1,9 +1,9 @@
-#Knights and knaves
+# Knights and knaves
 
 12th October by Harry
 
-<img src="CC2025-Knights-Knaves.png">
-<img src="CC2025-tri-gnu-computer.png">
+![](CC2025-Knights-Knaves.png)
+![](CC2025-tri-gnu-computer.png)
 
 The Elves insist that I am a knave who should apologise for last Sunday’s “puzzle”, which they quite rightly tell me was more of a Dad joke than a puzzle. You were asked to identify the famous computer scientist referred to in the post header image and how were they referred to in the image. I loved the suggestion that it referred to Richard Stallman because of the appearance of the 3 gnus on the faceplate and Stallman was a driving force behind the development of gnu software. In fact the reference was to three gnus, so this was a Tri-gnu computer, or a Turing machine as it should properly be called.
 
