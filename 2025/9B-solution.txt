@@ -1,0 +1,3 @@
+modified Playfair cipher (letters in same row or column are enciphered as letters to their left)
+square: COMPA NYBDE FGHIK LQRST UVWXZ
+keyword: COMPANY
