@@ -1,0 +1,26 @@
+modified four-square cipher
+
+A = ace
+X = 10
+J = jack
+Q = queen
+K = king
+
+C = ♣ (clubs)
+D = ♦ (diamonds)
+H = ♥ (hearts)
+S = ♠ (spades)
+
+A♣ 2♣ 3♣ 4♣ 5♣ 6♣ |  F  U  L  H
+7♣ 8♣ 9♣ X♣ J♣ Q♣ |  E  A  R  T
+K♣ A♦ 2♦ 3♦ 4♦ 5♦ |  B  C  D  G
+6♦ 7♦ 8♦ 9♦ X♦ J♦ |  I  K  M  N
+Q♦ K♦ A♥ 2♥ 3♥ 4♥ |  O  P  Q  S
+5♥ 6♥ 7♥ 8♥ 9♥ X♥ |  V  W  X  Y
+------------------+------------
+ S  H  A  D  O  W | J♥ Q♥ K♥ A♠
+ B  C  E  F  G  I | 2♠ 3♠ 4♠ 5♠
+ K  L  M  N  P  Q | 6♠ 7♠ 8♠ 9♠
+ R  T  U  V  X  Y | X♠ J♠ Q♠ K♠
+
+keywords: SHADOW, FULL HEART

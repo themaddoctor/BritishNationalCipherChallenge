@@ -1,0 +1,332 @@
+1A
+cipher: reversed text
+key: none
+plaintext:
+    Thursday 15th
+    Dear diary,
+    It is only a few days after we fully uncovered the Culper ring conspiracy. After having decrypted Benjamin Woodhull's confession on the operation including how they used the Culpeper bank to relay information, we had more than enough evidence to put Benjamin behind bars for a long time. Armed with this information we approached him giving him the choice of either getting arrested or joining BOSS. He was smart and chose the latter joining us. We are keeping a close eye on him in case he tries to pull anything sneaky like he did with the CIA running a private data brokerage scheme with the information he got. So far he has not tried anything and has already proven an invaluable asset to boss.
+    Just as Jodie and I thought that we finally had time to relax from high priority missions we both received this letter in the mail. It appears to be encrypted in a simple cipher, I would have expected better from boss. It appears that I need to go back into action for a critical mission. I still don't know what it is about but I will find out by tomorrow.
+    I'm just glad Jodie is back with me after almost fully losing her to the lighthouse
+
+1B
+cipher: Caesar shift
+key: 21
+plaintext:
+    Urgent,
+    Addressing all members of boss.
+    Yesterday we had an intruder break into our main vault in London.
+    What has been stolen is classified and we will only reveal it in person but it is of significant importance for our organisation.
+    From what is currently know, the intruder managed to bypass security gates at our facility, disable security cameras and alarms, then decipher the codes to access the vault. It appears that they were not a lone actor and must have had access to a huge amount of resources because the encryption used for the vault is considered uncrackable with the best technology of our time. If this is true then we might have stumbled on something much more serious.
+    We are requesting that all boss agents in the area collect at the vault tomorrow at 13:30 to help identify and catch the intruder.
+    We also are warning our agents to remain vigilant as we can't exclude the possibility of this being an inside job by a double agent. If any behaviour appears suspicious, please inform us immediately.
+    Keymaster
+
+2A
+cipher: affine
+key: 15, 3
+plaintext:
+    Friday 16th,
+    Dear Diary,
+    Jodie and I met up at the vault to aid in the investigation. What struck me was how well planned out the robbery was. It was clear that the intruder went straight for vault seven hundred twenty two, where they managed to crack the access codes to the vault. They managed to steal what is believed to be critical plans for a new supercomputer. It is said that the computer designed was capable of changing what we thought was possible in encryption. It was something originally designed for good but I fear that in the wrong hands it could be turned into a weapon.
+    Using all the tracking we had we managed to trace them back to a remote location near England's coast disguised as a lighthouse.
+    Jodie and I went in to investigate and it was clear that it was recently abandoned in a rush. Computer racks were ripped off of the wall and wiring was left all over the place. The place was a marvel of engineering, there was a small hydro-electric dam build into the side of the cliff which was likely how they powered what must have been a huge amount of computational power. All of this was hidden buried deep underground with the only entrance being through a secret trapdoor in the lighthouse.
+    We sifted through all of the documents left all over the floor, most of them were not important but we found one letter which could potentially reveal who was behind all this. I still haven't got round to decrypting it as I still have a lot of work to do but I plan to do it at a later date.
+    This whole break in is worrying me. It seems too similar to a conspiracy I worked on not long ago. A bit of backstory is needed as it appears I didn't mention it even once in my Diary. The lighthouse conspiracy was first noticed by Jodie while working in the archaeologists, she found a few weakly enciphered documents that were enough to get her attention. It took us down a rabbit hole with us discovering many double agents and some of the worlds smartest figures like Ada Lovelace, Caroline Herschel, Babbage and Edison along with many more all being part of the conspiracy.
+    It reached the point that they somehow managed to persuade our most loyal agent Jodie to join.
+    I managed to eventually track Jodie down while she was working on the Culper ring file and it looked like she was relieved when I found her.
+    She still has ties to the organisation and I don't know what this would mean if the lighthouse truly stole the computer plans.
+    I will need to meet up with Jodie to talk about this, probably over a cup of hot tea.
+
+2B
+cipher: monoalphabetic substitution
+key: HIDJBKLMNOPQARSTUCVWEXYZFG
+inverse key: MERCUYZABDFGHIJKLNOPQSTVWX
+keyword: MERCURY
+plaintext:
+    To: CH
+    From: M
+    My dear CH,
+    After a bit of consideration I have decided that we should go ahead with operation Mercury. In preparation AL has provided a program that could be run on the computers at the temporary headquarter in the UK. If it runs successfully you will get the vault access codes which will be valid for the next three hours.
+    When breaking in to the BOSS vault you should endeavour to penetrate the facility as soon as the patrols are altering their shifts as that is when they should be most vulnerable. Enter through the north-western entrance and make your way instantaneously towards vault seven hundred twenty two. The cameras and alarms will be disabled along the planned path. Security gates can be bypassed by using the method we practiced by opening the control panel and bridging the red green wires. When you arrive at the vault disengage the door using the codes generated by AL's program. Then substitute the plan with the decoy which can be found in the lamp of the lighthouse. The subsequent rendezvous will be with A at the temporary headquarters.
+    After the rendezvous, immediately begin the process of vacating the headquarters. I expect all incriminating documents and evidence to be burned immediately to stop any members of BOSS being able to track us down. We do not want a repeat of what happened last year when we lost the Massourie headquarters and our biannual report on our operation to BOSS. Even though I strongly encrypted the report Harry and the Archaeologists were able to break it throwing a spanner in our works. From now on I expect any document reporting on our operations to be encrypted with a cipher of at least level nine.
+    After completing mission Mercury I recommend moving to the new headquarters in London. This new headquarters is a massive change from what we currently have, with the advances in technology we have switched from a hydro-electric dam to nuclear power. This new increase in power will allow for expansion of the headquarters over many years as there is a huge surplus of energy being created. This also means that we are no longer limited in location and so can be situated closer to where our actions are occurring. This also unfortunately means that we are moving away from our age old tradition of hiding beneath a lighthouse, but this is for the better.
+    I will be informing all our UK agents about the move to the new base shortly.
+    Good luck on mission Mercury, Caroline would be proud of your actions.
+    M
+
+3A
+cipher: monoalphabetic substitution
+key: LMNOEPQRSTUDVWXAYZFGBHIJKC
+inverse key: PUZLESTVWXYABCDFGHIJKMNOQR
+keyword: PUZZLES
+plaintext:
+    Dear Harry,
+    I apologize for being unavailable for the meet up you asked me about. I understand that you have something important to show me but I was busy with some important BOSS work. We can meet up same place and time tomorrow. I also have something important to talk about. I am attaching the letter I managed to intercept within the Lighthouse. It is encrypted in a slightly stronger cipher but nothing that we didn't have in the Culper files. From what I understood this operation looks like pure trouble.
+    On a slightly more positive note, with the help of the archaeologists we were able to finish wrapping up the Culper files. The Culpeper vaults were cleared of all the enciphered documents and through cracking each of them we managed to take down many of the members and clients of Benjamin Tallmadge's operation including even more double agents in both the CIA and BOSS. This really shows how large of a conspiracy can he hidden to what at first appeared to be a simple bank break in.
+    And that is what has been genuinely getting on my nerves. Not an ounce of this appears to make any form of sense. It all fits together too conveniently comparable to a jigsaw that has been solved for us while we were still attempting to open the box. The lighthouse, the bank, Benjamin, the way it fits together so flawlessly leaves me absolutely unable to make sense of it all. And now these documents. I have a discomforting sensation that we are merely pawns being controlled and manipulated by a higher power or someone else. Every single accomplishment of ours predetermined under the supervision of some concealed individual. There must be something profounder than this. Some hidden conundrums within this straightforward narrative we are involuntarily following. And yet no conundrums can be found concealed behind the smoke and mirrors encompassing this operation that make it virtually impossible to get an unobstructed view of the events that have transpired and endeavour as I might I can get no further on my own. To put it straightforwardly I appear to be in a Gordian knot and I have not the faintest impression of how to begin to unravel this mystery. I hope you can act as Alexander to these events and can provide a new perspective on this.
+    It feels like we have all the pieces to the puzzle but nothing seems to fit together. I hope when we meet up we can piece this all together.
+    Jodie
+
+3B
+cipher: permutation (columnar transposition read off by rows)
+key: (4,3,1,2,5)
+keyword: LIGHT
+plaintext:
+    To: Charlie
+    From: Mary
+    My dear Charlie,
+    I have read the report on operation Mercury and am impressed how well it was executed. We have already began manufacturing the server from the plans and it is already proving extremely useful. I however am disappointed that you failed to properly destroy all incriminating documents. Agatha still has enough ties in British intelligence to have found out that BOSS has picked up on my previous letter to you regarding going ahead with the operation. It was decently encrypted with a substitution cipher so only a few members of BOSS will be able to decrypt it and even fewer will be able to link it back to us but this could be a major mistake. Agatha is keeping a close eye on the report and will warn us if anyone manages to pick up on our trail. It is unlikely that this will lead to our discovery but it is still an unnecessary risk that we should aim to avoid.
+    As you have seen the new headquarters have been completed and is starting to get up and running. It will be fitted with the new supercomputer shortly and so we will be able to run a huge number of computations. This really increases the capabilities of our operations to the point of being able to crack thousands of military messages a second. We have started to move our members to this headquarters. The scientists and engineers of our operations are already situated in the underground lab in the facility.
+    By the time you receive this message we will already have begun the preliminary stages of our next operation so please keep under the radar for the upcoming future. We will contact you when it is necessary for you to play your part in this theatrical masterpiece. The usual channels of communication will be closed for a short while so until you hear otherwise please keep to protocol four six in order to stay hidden from BOSS. You will hear from us before any major happenings.
+    Mary Boole
+
+4A
+cipher: columnar transposition
+key: (3,1,4,5,8,6,2,7)
+keyword: FAILURES
+plaintext:
+    To: Charlie
+    From: Mary
+    My dear Charlie,
+    I received the latest report on the Vault files from Agatha and I am disappointed in your failure to burn all the letters. Of all people Harry has picked up on our trail. He not only was able to decrypt the letter but also link it back to our operations. Harry also was the person who cracked our operations a year ago. Last time we got away just losing the Massourie headquarters but this time it might not be as easy. We are considering recruiting him and taking both him and Jodie to a more permanent position away from BOSS. This could be the only way to get us out of this situation and headquarters is planning for this event. Until then I expect all further internal communication to be encoded in at least a vigenere cipher.
+    We cannot afford for any supplementary leaks especially given the current situation with our headquarters resettlement. We need time to get our systems running and functioning and so you will have to keep BOSS of our footprints for the subsequent week or so.
+    We have commenced preparations of distraction operations in order to divert BOSS from our current campaigns. So endeavour to provide BOSS information on an operation Jupiter and our attempts to bring down the French government databases and to sell the information gathered to the Russian government.
+    Should any of the information in this letter make its way into BOSS’s hands we will be required to make considerable changes to the schedule. I would detest it if this ended up like our previous disaster in the Massourie headquarters. Our operation have almost fallen through due to you forgetting to burn one of the most important documents.
+    For all of our sakes please be extremely careful in the future.
+    Mary Everest Boole
+
+4B
+cipher: Polybius square
+key: LIGHT OUSEF JKMNP QRVWX YABCD
+keyword: LIGHTHOUSE
+plaintext:
+    I have been long at thought about this Operation Mercury. It has been over a year since I have originally joined the Lighthouse conspiracy. Since then Harry managed to track me down from a few hints I've left for him and persuaded me to return to BOSS but I hadn't fully left the lighthouse. Until now being part of both caused no problems, the lighthouse just kept me on standby for any important operations. Now this will likely no longer work out much longer given the current situation.
+    I met up with Harry today and discussed the previous letter and my concerns about what has happened recently and it turns out Harry had also intercepted a few messages within the lighthouse and worked out that the lighthouse had something to do with it.
+    This is what we managed to piece together.
+    Mary Boole authorised an operation nicknamed Operation Mercury. This involved breaking into vault seven hundred twenty two, replacing the contents with a fake and fleeing with the stolen computer plans. They then sent the plans off to a new headquarters in London. They also tried to destroy all the incriminating letters but made the mistake of not burning one of the most important letters, this was the one we found when I went there with Harry.
+    This is not in the manner of the Lighthouse. They don’t just make mistakes. Everything is meticulously planned beyond belief. Nothing is ever an error or an accident or a mistake. Someone is trying to tell us something. Be that someone trying to get out of the organisation like I did or someone at the top trying to feed us false information. This is someone’s doing. What are they trying to tell us?
+    But maybe I’m just being paranoid. Someone could have missed a letter or it not have burned with the others. I can’t let them get inside my head. Once they do that they have already won. If I let them inside my head they can always stay one step ahead of me. No I need to think like them. That is the only way that I stay ahead of them.
+    Regardless, that's not my primary concern. The real worry comes from the letter I intercepted this morning. It's evident that the Lighthouse will soon extend an invitation to both Harry and me. I purposely left this out during my conversation with him, but I suspect he knows I'm withholding something. I really don't want to leave Harry again this time, but I understand that it will be difficult for him to leave BOSS. He's one of their top agents and has been with them longer than I can recall.
+
+5A
+cipher: permutation (columnar transposition read off by rows) and monoalphabetic substitution
+keys: (2,4,1,3) PQRSTUVWCAXYZDBEFGHIJKLMNO
+inverse key: JOINPQRSTUVWXYZABCDEFGHKLM
+keyword: JOIN
+plaintext:
+    Dear Harry,
+    I want to start by explaining the attached letter. I was sent this yesterday though an ingenious but familiar way. I found it hidden within the pages of the daily magazine on my doormat, so well planned out that it would be impossible to trace where it came from had we not already known about the Lighthouse using this method to recruit from my previous experience. Like last time they used a simple but powerful combination of a few ciphers which took me quite a bit of time to crack but nothing I cannot handle.
+    From the contents believe that you have also received a copy targeted at you but in case of the off chance that I am wrong this is a summary of what it said.
+    Firstly they explained how by joining them we would be free from government limits, we would no longer be constrained to the strict guidelines being allowed to use any means or resources necessary to complete our operations. Secondly they are offering to provide us access to their latest generation of computers, what we have seen almost a year ago when we raided the Massourie headquarters was actually a mere fraction of their potential.
+    They have also confirmed our suspicions that they have stolen the supercomputer plans from BOSS and have started building it. They want us to help to use it to decrypt critical military communications providing a major advantage for any operations ran by them.
+    The letter highlights that any decision arising from it's joint. I cannot speak for you but it immediately piqued my interest. They seem to be offering almost everything we could want, information, an explanation, and most importantly them keeping everything of the books, but I cannot help but feel that there is more to this than meets the eye. I hope that we can both agree on the next course of action.
+    Furthermore I recently received a letter from BOSS headquarters. They want us back immediately. Apparently Agent French has uncovered something interesting and they want us to take a look into it. It seems to be something surrounding some sort of larger operation within BOSS There is no middle ground on this one. It is either BOSS HQ or the Lighthouse. It is our choice.
+    I recommend that we meet up at our usual spot to discuss this further over a nice cup of tea. I am still unsure what decision we should arrive at but I fully hope that we join, the few months I spent in the Lighthouse were some of the best I had.
+    See you soon,
+    Jodie
+
+5B
+cipher: columnar transposition, Polybius square (including J but not Z)
+keys: (4,5,1,3,2) JOINUSTVWXYABCDEFGHKLMPQR
+keywords: JOIN US, JODIE
+plaintext:
+    Dear Jodie,
+    I expect you already know the significance of receiving this letter. We have kept eyes on you and already know that you taped and decrypted our communication channels. In light of this, it will not come as a surprise to you that we are taking this risk for the second time and are inviting you to re-join us.
+    Our observations have made it very clear that both you and Harry are frustrated by the harsh limitations of working under the government supervision of BOSS. We hope to be able to persuade you that you can do so much better under the protective environment of the Lighthouse. You are a talented and hardworking woman, suppressed by the limitations of your time. Our founders, Caroline Herschel, Ada Lovelace, Florence Nightingale And Trinity were exceptionally talented women who found a way to step beyond the bounds placed on them by society while still retaining their positions. They broke loose from the constraints forced upon them by their times.
+    Our group formally called the lighthouse conspiracy has maintained an unbroken line of power and influence wielded by some of the greatest women of each generation. I can't count myself one of them but I do count myself as lucky to serve with them and I suspect you would too. The rewards you would gain from this work are far greater than anything you can imagine achieving in your current role at BOSS.
+    We need both of you for your expertise in identifying and tracing encrypted communications in order to help us expand our cipher cracking abilities. As you already suspect we have gained access to plans for a massive supercomputer and have already started work on building it. This is the call for our members to move to our new headquarters in London more permanently in order to work on this.
+    Unfortunately this relocation does mean that you have to sever ties with BOSS but we both know that this must be done.
+    If you do decide to accept this offer, you will be provided unrestricted access to more raw processing power than anyone believes is possible, access to the full and uncensored records of government files and the ability to keep all missions of the books with all the resources required to execute it.
+    An unending web of lies has been strung around you. Is that really what you want? The Lighthouse is offering you an exit. A way to break through this web of lies as opposed to being stuck in it. A clean slate.
+    The choice is yours.
+    Mary Boole
+
+6A
+cipher: railfence, with offset (after Morse code, a = "." and d = "-")
+key: 5 rails, offset 5
+plaintext:
+    Dear Harry,
+    I understand your hesitation in severing ties with BOSS, especially given the work we have been doing with them. However, I urge you to consider the potential benefits that the Lighthouse has to offer.
+    As you know, our work with BOSS has been limited by the government's restrictions and regulations. While we have made progress, there is only so much we can do within their framework. The Lighthouse, on the other hand, offers unrestricted access to processing power and records, as well as unlimited resources to achieve our goals. This would allow us to make even greater strides in our work, and possibly even make breakthroughs that were previously thought to be impossible.
+    Furthermore, the Lighthouse is an organization led by powerful and influential women, who have historically found ways to step beyond the bounds placed on them by society while still retaining their position. Caroline Herschel, Ada Lovelace, Florence Nightingale, and Trinity are just a few examples of the exceptional women who have been a part of the Lighthouse. By joining their ranks, we would be working alongside some of the greatest minds of each generation and contributing to a legacy that has spanned centuries.
+    Of course, I understand your reluctance to make a hasty decision. That's why I believe it's important for us to meet and discuss this further. We can weigh the pros and cons of each option and come to an informed decision together. I look forward to our meeting and hope that we can come to a decision that works for both of us.
+    Take care,
+    Jodie
+
+6B
+cipher: columnar transposition on blocks of 125
+key: (2,3,5,4,1)
+keyword: HOUSE
+plaintext:
+    Friday thirtieth
+    Dear Diary,
+    It's been a few weeks since I last wrote, and a lot has happened since then. Jodie and I have been fully immersed in our work with the Lighthouse, and it's been a whirlwind of new experiences and challenges.
+    One thing that has been constant is the sense of trust and purpose that comes with being part of the Lighthouse. Every member here is dedicated to keeping the world safe, and it's inspiring to work alongside so many brilliant minds who are committed to making a difference.
+    Recently, we've been working on a new project that has the potential to revolutionize the way we gather intelligence. It involves a highly advanced algorithm that can sift through vast amounts of data and pinpoint patterns that might otherwise go unnoticed. The potential applications of this technology are endless, and I'm excited to see where it goes.
+    But with all the excitement, there have also been some challenges. The Lighthouse is a highly secretive organization, and that means we're always looking over our shoulder. There have been a few close calls with government agencies who seem to be onto our activities. It's a bit nerve-wracking, but at the same time, it's part of the thrill of working for the Lighthouse.
+    One thing that I've come to appreciate is the level of trust that exists between members of the Lighthouse. There's a sense that we're all in this together, and we can rely on each other no matter what. This is in stark contrast to my time at BOSS, where suspicion and mistrust seemed to be the norm.
+    Despite all the excitement and new experiences, there are times when I find myself missing the comforts of my old life. The regular hours, the steady paycheck, and the predictability of it all. But then I remind myself of why I left BOSS in the first place. I wanted to make a real difference in the world, and that's exactly what I'm doing now.
+    Jodie and I have also been getting to know some of the other members of the Lighthouse. There's a diverse group of individuals here, each with their own unique skills and backgrounds. I've learned so much just by being around them, and it's amazing to see how everyone comes together to achieve a common goal.
+    One thing that's been on my mind lately is the morality of what we're doing. The Lighthouse operates outside the law, and that means we're often doing things that would be considered illegal. But at the same time, we're doing it for the greater good. It's a difficult balance to strike, and one that I'm still struggling to reconcile in my mind.
+    Overall, though, I'm grateful for the opportunity to be part of the Lighthouse. It's a place where I feel like I truly belong, and where my skills are being put to good use. I don't know what the future holds, but I know that I'm exactly where I'm supposed to be right now.
+    Until next time,
+    Harry
+
+7A
+cipher: variant Beaufort, after reversing the text
+key: LANGLEY
+(or Vigenère with key PANUPWC)
+plaintext:
+    Read and destroy immediately STOP
+    Dear [Redacted],
+    I have completed the requested tasks and you will find the copies of the requested files in the prearranged vault in the Culpeper bank STOP All operation reports in any way referencing or even hinting at the aforementioned requested files have been dealt with and no one will be the wiser STOP
+    Unfortunately, I will have to cut back on tapping some the communication channels as it appears that due to a computer malfunction, some messages have been improperly directed, a major red flag if anyone was checking STOP As far as I am concerned this has gone unnoticed but until I can be certain that such an occurrence cannot happen again I can't risk it without some of the more observant members getting suspicious STOP
+    As for the operations you requested that I arrange, the people have been selected, all people that I trust won't question why this operation is even taking place STOP I do however advise that you decrease the use of Lighthouse's recourses for your own missions as it is increasingly hard to keep our ties with you secret from the scrutiny of other members of the lighthouse STOP Management has already been informed of the mission about the missions as we have nothing to hide from them as they already know the secret of our ties since we were first founded STOP
+    Furthermore I would like to bring light to some of the people we recently recruited into the lighthouse STOP I noticed both Harry and Jodie in today's meeting and I am worrying about their involvement STOP You should know their record at BOSS and that no secret can be hidden from them STOP If any of our actions even raises their eyebrows then they will not hesitate to dedicate all their time to investigate us STOP I feel it was a mistake by Management to invite them to move to the lighthouse together as we could keep our secrets from either one of them but together they pose a major risk STOP I will keep a close eye on them however I strongly recommend limiting contact between us and keeping to more hidden channels previously reserved only for critical scenarios in order to avoid being uncovered STOP
+    Mrs B
+
+7B
+cipher: modified Cadenus (uses 26 possible shift values; shifts independent of transposition)
+key: shifts 15,18,20,19,7; transposition 1,3,4,2,5
+negated shifts: 11,8,6,7,19
+keywords: LIGHT, FISHY
+plaintext:
+    Dear Jodie,
+    I hope this letter finds you well. I've been feeling uneasy about something within the Lighthouse lately and I think it would be better for us to talk about it. I don't know if you've noticed, but there have been some strange occurrences that have been taking place within our organisation.
+    For starters, there have been some recent mission reports that have been altered or removed altogether from our shared database. I've tried to inquire about this with some of the higher-ups, but they've been too tight-lipped about it. It's almost as if they're trying to hide something.
+    Additionally, some of the communication channels we use seem to be compromised. I've noticed some abnormal activity on our encrypted messaging platform, and there have been some instances where I've received messages from unknown sources that seemed to have originally been intended for someone else.
+    It's also worth noting that there have been some new faces within our organization that I've never seen before. They seem to have access to critical information that they shouldn't, and they've been very secretive about their roles within the Lighthouse.
+    I've been doing a lot of thinking about this, and I think the situation may be more complex than we originally thought. I've noticed that the new members who have been introduced to our organization have been given a lot of power and access very quickly. This could be a red flag, as they may not have earned their place in the organization and may have ulterior motives.
+    Additionally, I've heard some rumours that there might be a larger conspiracy at play here. Some of our colleagues have reported strange behaviour from our superiors, and it seems like there's a lot of secrecy surrounding the recent changes within our organization.
+    All of these things combined have made me incredibly suspicious. It almost feels like there's something fishy going on within our own organization. I hate to think that we can't trust our own colleagues, but it's starting to feel that way.
+    I've been doing some digging on my own, and I think I might have found something. I don't want to say too much in this letter, but I've uncovered some evidence that suggests that there might be a mole within our organization. We need to start looking into who these new members are and why they seem to have such high-level clearance. We also need to see if we can figure out who's been tampering with our mission reports and communication channels.
+    I know this is a serious accusation, but I have reason to believe that someone within the Lighthouse is working against us. I think we need to be very careful about who we share our suspicions with, but at the same time, we can't let this go unchecked.
+    I don't know about you, but I joined the Lighthouse because I believed in our mission to protect our country and its citizens. If there are people within our organization who are working against that mission, then we need to do something about it.
+    Let me know your thoughts on this. I think we should meet up as soon as possible and go over the information that we've both gathered. We need to come up with a plan of action and figure out how we're going to expose whoever is responsible for this.
+    Sincerely,
+    Harry
+
+8A
+cipher: 2x2 Hill
+key: D H F M = 3 7 5 12
+plaintext:
+    Diary Entry: Jodie
+    Date: May fifteenth
+    Harry and I have been trying to uncover more information about the suspicious activity within the Lighthouse, but so far, we haven't been successful. We've been sneaking around after hours, trying to find any evidence that would indicate a connection with whoever's name was redacted on the letter Harry intercepted, but all we've managed to find are a few encrypted papers.
+    We managed to get our hands on some of the files from the Lighthouse's new supercomputer, which they've been keeping under tight security. It's an impressive machine, with more processing power than anything I've seen before, but it's also highly encrypted, and we've been unable to access any of its contents.
+    I can't shake the feeling that there's something fishy going on here. The Lighthouse claims to be an independent organization, working to promote the advancement of women, but I can't help but wonder if they are just a pawn in a wider game. Harry's been getting suspicious too but he seems to only see the potential for a mole within our organisation and hasn't stepped back to look at the whole picture.
+    Meanwhile, we've been keeping a close eye on the people who work at the Lighthouse. We've noticed some suspicious behaviour from a few of the staff members, including one woman who seems to always be watching us whenever we're there. It's possible that she's just being cautious, but we can't help but feel like she's onto us.
+    Despite our lack of progress, Harry and I have decided to keep pushing forward with our investigation. We've come this far, and we can't give up now. We've been discussing the possibility of approaching some of the Lighthouse staff members directly, to see if we can get any information out of them. We know it's a risky move, but we're running out of options.
+    Even with the risks involved, Harry and I have decided to take a more direct approach in our investigation. We've been trying to get closer to some of the key players at the Lighthouse, and we've even managed to arrange a meeting with one of the organization's top officials.
+    I'm starting to worry that we're in over our heads. The Lighthouse is a powerful organization with a lot of resources, and if they are hiding something from us, then we could be putting ourselves in danger by trying to investigate them. But I can't shake the feeling that there's something important here that we're missing, and I don't want to let it go.
+    For now, we'll have to continue our investigation in secret, and be careful not to attract too much attention. I don't know where this will lead us, but I'm determined to find out the truth, no matter what it takes.
+    P.S.
+    I just intercepted an encrypted letter between some of the higherups and after cracking it my fears were confirmed. Harry had left a mark when digging around and they may have realised that he is onto them. I will try my best to detour any suspicion but we will need to wait with our risky plan until Harry is under less scrutiny. I just hope he didn't leave a significant mark that can fully compromise our operations. We will see how much they know tomorrow.
+
+8B
+cipher: autokey
+key: TRINITY
+plaintext:
+    Dear Members of the Lighthouse,
+    We appreciate your attention and understanding regarding the recent concerns surrounding Harry's unauthorized investigations. It is imperative that we address this matter with the utmost care and responsibility, as it affects not only the reputation but also the security of our organization.
+    Harry's contributions to our cause, especially in the field of cryptography, have been invaluable. We recognize his expertise and dedication, and we do not take this situation lightly. However, the principles upon which the Lighthouse stands – transparency, accountability, and security – must be upheld at all times, even when it involves a valued member.
+    Our decision to closely monitor Harry's activities is not rooted in personal bias but rather a necessity to safeguard our mission. As an organization, we must prioritize our collective purpose over individual actions that may compromise our efforts. It is essential for Harry to understand this perspective and work with us to ensure the security and integrity of our operations.
+    In taking these steps, we aim to strike a balance between trust and responsibility. To that end, we will be reviewing Harry's access to sensitive information, limiting it as needed to prevent any potential breaches. This action is not intended as a punishment but rather as a precautionary measure to mitigate risk.
+    We strongly encourage all members of the Lighthouse to remain vigilant and promptly report any suspicious activities or communications they may come across. Maintaining open lines of communication among us is crucial to our collective success. We must remember that our organization's strength lies in our unity and our commitment to our cause.
+    Rest assured that we are committed to addressing this matter with fairness and transparency. We hope that Harry will cooperate with us in resolving this situation to the satisfaction of all involved parties.
+    Additionally, we recognize that this incident raises questions about our internal processes for authorization and accountability. In response, we will be conducting a thorough review of our protocols to prevent similar situations in the future. Your input and suggestions in this regard will be highly valued and encouraged.
+    As we navigate through this challenging period, let us not forget the purpose that unites us – to protect and advance the causes we hold dear. The Lighthouse has always been a symbol of hope and a beacon of progress. Together, we will overcome any challenges that may arise on our path to achieving our mission.
+    Thank you for your continued support and dedication to the Lighthouse. Together, we will emerge stronger, more resilient, and better prepared to face the complexities of our noble undertaking.
+    Sincerely,
+    Trinity
+
+9A
+cipher: ADFGVX
+key: (7,6,4,1,2,5,3), DIARYZBCEFGHJKLMNOPQSTUVWX0123456789
+inverse permutation: (4,5,7,3,6,2,1)
+keywords: DIARY, STUNTED (?)
+plaintext:
+    Dear Diary,
+    I still can't shake off the feeling that something is off at the Lighthouse. Jodie and I have been investigating on our own, but we haven't been able to find any concrete evidence. It's frustrating, to say the least.
+    But now, I have a plan. It's risky, but it's the only way we can get to the bottom of this. It has been under consideration for a while now but due to recent suspicion from other members of the lighthouse. Jodie and I will have to work together, but we'll have to be extremely careful. If we're caught, we could be in serious trouble.
+    The plan involves me faking my own death. It's a drastic move, but it might be the only way we can find out what's really going on at the Lighthouse. I've already started laying the groundwork, creating a fake identity and setting up a way for Jodie to contact me in secret.
+    I know it's a lot to ask of Jodie, but I trust her more than anyone else. She's the only one who understands me and the risks involved. I hope she'll agree to help me with this plan, but I won't blame her if she doesn't.
+    If everything goes according to plan, Jodie will be the only one who knows the truth about my "death." She'll be able to keep an eye on things at the Lighthouse and hopefully find the evidence we need. It's a long shot, but it's worth it if we can expose whatever is going on there.
+    I can't go into too much detail about the plan here, but I'm willing to take this risk for the sake of uncovering the truth. I just hope Jodie is on board.
+    Continuation...
+    I've been working on my fake identity for a while now, and I think it's coming together nicely. I've created a backstory that's convincing enough, and I've even gone so far as to create a fake social media presence. It's been a lot of work, but I think it will be worth it in the end.
+    Jodie and I have been meeting in secret to discuss the plan. We've been careful not to arouse any suspicion, but it's been difficult. I can't help but feel like we're being watched all the time. I know it's just paranoia, but I can't shake the feeling.
+    The plan is set to go into motion next week. I'm nervous, but I'm also excited. This could be the breakthrough we've been looking for. I just hope everything goes according to plan.
+    I'm not sure what will happen after the plan is executed. I might have to stay in hiding for a while, or I might be able to come back to the Lighthouse under a new identity. Either way, I'm prepared for whatever comes next.
+    In the meanwhile I have managed to find a file with some interest while digging through the internal comms system. It is titled Project Sentinel and honestly it is kind of boring however it does have a reference to a collaborating organization. This name was however covered over in black marker and so I could not work out what it said. This raises so many red flags as at the security level of the letter I intercepted there is never any censorship. I am attaching the file here in case you want to have a read yourself. Hopefully if I succeed with this plan I will have some far more important and interesting files soon.
+    Overall I'm just grateful to have Jodie by my side through all of this. She's been a great friend and an even better partner in this investigation. I couldn't have done it without her.
+    I'll write more soon. Until then, I need to focus on making sure everything is in place for next week. 
+
+9B
+cipher: Wheatstone Cryptograph
+key: SECRTUVWXYZABDFGHIJKLMNOPQ
+keyword: SECRET
+plaintext:
+    TOP SECRET
+    Subject: Project Sentinel
+    Overview:
+    Project Sentinel is an ongoing research and development initiative that seeks to enhance the intelligence-gathering capabilities of the Lighthouse and its parent company. The primary goal of the project is to create an autonomous system that can detect and identify potential security threats to the organizations, allowing for swift and decisive action to be taken.
+    Background:
+    In recent years, the Lighthouse operation has faced increasing pressure from external forces seeking to undermine its operations. The proliferation of encryption technologies has made it more difficult to intercept and decipher messages, while advances in cybersecurity have made it easier for intruders to gain access to our systems. Such a leak could reveal to other governments the truth behind the front we spent so many years putting up.
+    Project Sentinel was launched in response to these challenges, with the aim of creating an automated system that can monitor and analyze large amounts of data in real-time, identifying potential threats and alerting our security personnel.
+    Methodology:
+    The system is built on a machine learning platform, which uses algorithms to analyze patterns in data and identify potential threats. The platform is designed to learn and adapt over time, becoming more accurate and efficient as it processes more data.
+    Data sources include internal communications, external news feeds, social media, and other publicly available sources. The system is also capable of analyzing encrypted messages, using advanced decryption techniques developed by our cryptography experts.
+    The output from the system is presented in a user-friendly dashboard, which allows our security personnel to quickly identify potential threats and take appropriate action. The system also has the ability to generate automated responses, such as blocking access to certain systems or alerting law enforcement agencies.
+    Status:
+    Project Sentinel is still in the development stage, but early results have been promising. The system has already identified several potential security threats, and our security personnel have been able to respond quickly and effectively.
+    However, there are still challenges to overcome. One major issue is the high number of false positives generated by the system, which can lead to unnecessary alerts and drain resources. Our data scientists are working on improving the accuracy of the system and reducing the number of false positives.
+    Conclusion:
+    Project Sentinel represents a major step forward in the Lighthouse's and [redacted]'s ability to detect and respond to potential security threats. While the system is still in the development stage, we are confident that it will significantly enhance our intelligence-gathering capabilities and help us to better protect our organization and its members.
+    Access to this file is strictly limited to authorized personnel only. Any unauthorized access or disclosure will be treated as a breach of security and dealt with accordingly.
+
+10A
+cipher: 5x6 Playfair, with non-standard rule for letters in the same column
+key: BATLEG ROUNDF HIJKMP QSVWXY ZC0123
+keyword: BATTLEGROUND
+plaintext:
+    Dear Diary,
+    I can hardly believe what I have just uncovered. My mind is spinning with possibilities, implications, and questions that feel impossible to answer. Every discovery seems to open up another layer of mystery, and yet I can't shake the feeling that crucial pieces are still missing. I have to proceed carefully, or everything we've built could come crashing down.
+    Harry and I have been meticulously investigating the Lighthouse for weeks now, trying to find clues that could finally reveal the truth. We found a file that appeared to be part of a larger puzzle, but it was vague, full of gaps, and frustratingly cryptic. The file was titled "Project Lighthouse: Overview" and outlined the goals and objectives of the Lighthouse, alongside mentions of its key members. It referenced some of the organization's founding women, Caroline Herschel, Ada Lovelace, Florence Nightingale, and Trinity, and described how the Lighthouse provided a haven for brilliant, ambitious women whose talents were often constrained by society.
+    At first, the file seemed relatively benign. It celebrated the Lighthouse's achievements in cryptography and intelligence gathering, highlighting its members' invaluable contributions during World War II. But as we delved deeper, we stumbled upon a passage that froze me in place:
+    "Project Lighthouse has been operating under the auspices of BOSS since its inception. The group's members are bound by strict codes of secrecy and loyalty, and all operations are conducted with the utmost discretion. Project Lighthouse has provided invaluable assistance to BOSS in code-breaking and intelligence gathering, and its members have proven to be some of the most talented and dedicated agents in the organization."
+    Reading those words sent chills down my spine. BOSS? The very organization Harry and I dedicated our careers to? All this time, we believed the Lighthouse was an independent entity, a sanctuary for women working outside the government's reach. But now, it appears that the Lighthouse was never fully separate, it has been a front for BOSS all along, performing the kinds of operations the organization could never sanction publicly. The deeper we dig, the more I realize we're entangled in a web far more complex than we ever imagined.
+    The implications are staggering. We are far deeper than I ever anticipated, and every choice we make now carries immense risk. Harry and I have discussed our next move at length. We both know caution is paramount. We don't yet know whom we can trust within the Lighthouse, and we cannot predict how far the chain of command extends, or what secrets may be buried at its highest levels.
+    I refuse to believe that we've been working for BOSS all this time without understanding the full scope of its operations. How many other layers of deception exist? How many other truths are they hiding from us, and from everyone who believes in the Lighthouse's mission? I don't know the answer yet, but one thing is clear: Harry and I must continue our investigation, and we must do so more cautiously than ever. Our safety, and the integrity of everything we've uncovered, depends on it.
+    For now, all we can do is keep our eyes and ears open, tread carefully, and prepare for the next revelation. The Lighthouse is no longer just a mystery, it is a battleground of secrets, and we are right in the middle of it.
+    Until next time,
+    Jodie
+
+10B
+cipher: trigram Playfair cipher on a hexagonal grid
+key:          z ! # $ % &
+             £ a b c d e (
+            ~ x y 3 4 5 f )
+           } w M 2 Q R 6 g *
+          { v L 1 P O S 7 h +
+         _ u K 0 I C N U 8 i ,
+          ^ t J Z A T V 9 j -
+           ] s H Y X W B k .
+            \ r G F E D l /
+             [ q p o n m :
+              @ ? > = < ;
+keyword: CONTAIN
+plaintext:
+    Dear Council Members,
+    I am writing this urgent message to bring to your attention a matter of utmost importance regarding the Lighthouse. Recent events have forced us into a situation we have long worked to prevent: Agents Harry and Jodie have uncovered the hidden layers of the Lighthouse’s operations. Though we have taken great care to ensure that our true purpose remains obscured, their investigation has penetrated deeper than any previous internal threat. They have pieced together the Lighthouse’s role not as a simple research and archival institution, but as a fully operational extension of BOSS intelligence operations, tasked with acquiring sensitive documents, infiltrating external repositories, and delivering actionable intelligence under the guise of historical study.
+    The implications of their discovery cannot be overstated. Their knowledge now touches every level of our work, from Project Sentinel's early stage monitoring capabilities to the construction of the new computational infrastructure capable of processing volumes of intelligence previously considered unattainable. They have identified patterns in personnel assignments, financial transactions, and operational directives that link the Lighthouse explicitly to BOSS, and have begun to trace the chain of command that underpins our covert operations.
+    It is clear that Harry and Jodie’s presence within our sphere can no longer be tolerated without significant risk. Their curiosity, while commendable in ordinary circumstances, now constitutes a direct threat to the integrity of the Lighthouse and, by extension, BOSS. We must act decisively to contain the exposure and ensure that the knowledge they have acquired does not propagate beyond what can be controlled.
+    Effective immediately, the Council must consider a multi-pronged containment strategy. All files and digital records accessed by the agents should be secured and, where appropriate, removed from standard operational channels. Any traces of their activity on internal communication networks must be carefully scrubbed, ensuring that no residual data could hint at the scope of their discoveries. Personnel who may have inadvertently guided or influenced the agents must be discreetly reassigned, and access protocols must be reinforced to prevent further breaches.
+    It is equally important to manage the agents themselves. While their loyalty and skills are recognized, their continued proximity to critical operations cannot be allowed. Controlled engagement, monitored communication, and carefully orchestrated disinformation will be required to prevent them from reconstructing the full scope of our operations. Their understanding of Project Sentinel, the supercomputer, and our covert document acquisition must be deliberately obfuscated, while preserving the functionality of the Lighthouse for ongoing missions.
+    The Council must also consider the broader implications. Should Harry and Jodie be allowed to leave with any degree of unmitigated knowledge, the resulting exposure would compromise decades of intelligence work and endanger the lives of countless operatives. At the same time, the moral and psychological weight of these actions cannot be ignored. We operate in the shadows not for convenience, but because the world we protect relies upon our discretion. This reality requires decisions that are not without personal or ethical cost.
+    We have survived threats to the Lighthouse before, external adversaries, internal dissent, and unforeseen leaks, but this represents a threat unlike any we have faced. The agents' ingenuity and determination, combined with their partial loyalty to BOSS, create a scenario where any delay in action could be catastrophic. The Council must act with precision, discretion, and unity. Hesitation is a luxury we no longer possess.
+    Finally, I remind you that the survival of the Lighthouse, and the security of BOSS’s wider operations, rests upon our ability to manage both the situation and perception. The agents must never fully grasp the consequences of their discoveries. They must be guided into a narrative that satisfies their curiosity without granting full access to our inner workings. All measures taken should preserve the operational facade of the Lighthouse while eliminating the immediate risk they pose.
+    Time is of the essence. The Council is directed to convene immediately, authorize the containment measures herein described, and oversee their execution without delay. Our actions must be meticulous, thorough, and without hesitation. The future of the Lighthouse, and the preservation of decades of strategic operations, depends upon the decisions made in these coming hours.
+    The agents have stumbled upon a truth that cannot be left unchecked. It is now our duty to ensure that the Lighthouse, and the legacy of its founding members, continues unbroken, secure from discovery, and capable of fulfilling its purpose. In this, there can be no compromise.
+    With unwavering resolve,
+    Trinity
