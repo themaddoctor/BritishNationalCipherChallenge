@@ -1,0 +1,10 @@
+21st January 2026 at 5:15 pm
+#115245
+Crackerjack_404
+Participant
+
+I once had a friend who made it his personal mission to complete every programming assignment in a single line of code much to the annoyance of our teacher. In that spirit, and inspired by @madness’ even more efficient approach, I offer the following one line monstrosity with slight additions to the code above:
+
+    print((lambda c: "".join(("SHADOWBCEFGIKLMNPQRTUVXY"[(("A23456789XJQK".index(c[i]) + 13*"CDHS".index(c[i+1]))%6)+6*((("A23456789XJQK".index(c[i+2]) + 13*"CDHS".index(c[i+3]) - 36))//4)] + "FULHEARTBCDGIKMNOPQSVWXY"[((("A23456789XJQK".index(c[i+2]) + 13*"CDHS".index(c[i+3]) - 36))%4)+4*((("A23456789XJQK".index(c[i]) + 13*"CDHS".index(c[i+1]))//6))]) for i in range(0,len(c),4)))("7CXS3 H6S7C...".replace(" ", "")))
+
+    The code is great, but I would love to see the comments it needs for future maintainers! And couldn’t you get it down to binary if you really tried? Harry

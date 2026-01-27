@@ -1,0 +1,15 @@
+20th January 2026 at 2:04 pm
+#115139
+_madness_
+Participant
+
+If we are all bragging about our Python coding, here is something that will decrypt 10B:
+
+    c = "7CXS3 H6S7C KSXDA S2CKS...".replace(" ","")
+    p = ""
+    for i in range(len(c)//4):
+        n = ["A23456789XJQK".index(c[4*i+2*j+0]) + 13*"CDHS".index(c[4*i+2*j+1]) - 36*j for j in [0,1]]
+        p += "SHADOWBCEFGIKLMNPQRTUVXY"[(n[0]%6) + 6*(n[1]//4)] + "FULHEARTBCDGIKMNOPQSVWXY"[(n[1]%4) + 4*(n[0]//6)]
+    print(p)
+
+I will not be taking questions at this time.

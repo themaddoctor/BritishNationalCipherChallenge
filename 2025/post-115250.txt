@@ -1,0 +1,8 @@
+21st January 2026 at 10:09 pm
+#115250
+upsidedown
+Participant
+
+@Crackerjack_404 you have inspired me to golf this further. This is a 224-character (excluding ciphertext) Python program which prints the decryption of 10B.
+
+    b=lambda x:zip(x[::2],x[1::2]);print("".join("SHADOWBCEFGIKLMNPQRTUVXY"[y//4*6-54+x%6]+"FULHEARTBCDGIKMNOPQSVWXY"[x//6*4+y%4]for x,y in b([13*s+c for c,s in b(["A23456789XJQKCDHS".index(x)%13 for x in "7CXS3 H6S7C KSXDA S2CKS ... and so on" if x.isalnum()])])))

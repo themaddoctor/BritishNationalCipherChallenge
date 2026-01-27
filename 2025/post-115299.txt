@@ -1,0 +1,10 @@
+22nd January 2026 at 10:57 pm
+#115299
+Puzzling_Pelican
+Participant
+
+@upsidedown
+After a bit more golfing, here is a version in 189 characters (excluding ciphertext).
+I am curious to see it compressed further, the .replace seems like such a waste, same with %13 being repeated.
+
+    print(*["SHADOWBCEFGIKLMNPQRTUVXY"[(y:=c+d%13*13)//4*6+(x:=a+b%13*13)%6-54]+"FULHEARTBCDGIKMNOPQSVWXY"[x//6*4+y%4]for a,b,c,d in zip(*[map("A23456789XJQKCDHS".find,"7CXS3 H6S7C KSXDA S2CKS".replace(" ",""))]*4)])
